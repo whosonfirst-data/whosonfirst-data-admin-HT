@@ -1,0 +1,68 @@
+{
+  "id": 1209903245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.3,18.35,-74.3,18.35",
+    "geom:latitude":18.35,
+    "geom:longitude":-74.3,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Poste",
+    "gn:country_code":"HT",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718398,
+    "gn:latitude":18.35,
+    "gn:longitude":-74.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Poste",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718398
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"370238c0af8674425902903123b35e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686503,
+            "locality_id":1209903245,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1209903245,
+    "wof:lastmodified":1536385476,
+    "wof:name":"Poste",
+    "wof:parent_id":1091686503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.3,
+    18.35,
+    -74.3,
+    18.35
+],
+  "geometry": {"coordinates":[-74.3,18.35],"type":"Point"}
+}

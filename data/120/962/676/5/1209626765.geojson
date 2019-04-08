@@ -1,0 +1,62 @@
+{
+  "id": 1209626765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33333,19.7,-73.33333,19.7",
+    "geom:latitude":19.7,
+    "geom:longitude":-73.33333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Despo",
+    "gn:country_code":"HT",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726565,
+    "gn:latitude":19.7,
+    "gn:longitude":-73.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Despo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726565
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a0aa3156c4a1224a8a25963b517808f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209626765
+        }
+    ],
+    "wof:id":1209626765,
+    "wof:lastmodified":1536281330,
+    "wof:name":"Despo",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33333,
+    19.7,
+    -73.33333,
+    19.7
+],
+  "geometry": {"coordinates":[-73.33333,19.7],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209493389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.44508,18.51548,-72.44508,18.51548",
+    "geom:latitude":18.51548,
+    "geom:longitude":-72.44508,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Degand",
+    "gn:country_code":"HT",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726871,
+    "gn:latitude":18.51548,
+    "gn:longitude":-72.44508,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Degand",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Degand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726871
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"af32c476f6700a50999b69d40416babb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209493389
+        }
+    ],
+    "wof:id":1209493389,
+    "wof:lastmodified":1537626106,
+    "wof:name":"Degand",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.44508,
+    18.51548,
+    -72.44508,
+    18.51548
+],
+  "geometry": {"coordinates":[-72.44508,18.51548],"type":"Point"}
+}

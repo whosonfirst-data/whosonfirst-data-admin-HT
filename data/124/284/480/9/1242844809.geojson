@@ -1,0 +1,72 @@
+{
+  "id": 1242844809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.19473,18.42051,-73.19473,18.42051",
+    "geom:latitude":18.42051,
+    "geom:longitude":-73.19473,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3720823.0",
+    "gn:asciiname":"Mussotte",
+    "gn:country_code":"HT",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720378,
+    "gn:latitude":18.42051,
+    "gn:longitude":-73.19473,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mussotte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musotte",
+        "Mussotte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720378
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"172b358a1f1534b2bb42f89bbe61c801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1242844809,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1242844809,
+    "wof:lastmodified":1537626023,
+    "wof:name":"Mussotte",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.19473,
+    18.42051,
+    -73.19473,
+    18.42051
+],
+  "geometry": {"coordinates":[-73.19473000000001,18.42051],"type":"Point"}
+}

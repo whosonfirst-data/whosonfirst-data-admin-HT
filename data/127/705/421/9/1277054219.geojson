@@ -1,0 +1,68 @@
+{
+  "id": 1277054219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38333,18.85,-72.38333,18.85",
+    "geom:latitude":18.85,
+    "geom:longitude":-72.38333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Dubic",
+    "gn:country_code":"HT",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726079,
+    "gn:latitude":18.85,
+    "gn:longitude":-72.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dubic",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726079
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9259b83c89418ac79f8341399f57aaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1277054219,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1277054219,
+    "wof:lastmodified":1536807124,
+    "wof:name":"Dubic",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38333,
+    18.85,
+    -72.38333,
+    18.85
+],
+  "geometry": {"coordinates":[-72.38333,18.85],"type":"Point"}
+}

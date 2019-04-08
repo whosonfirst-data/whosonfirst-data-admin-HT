@@ -1,0 +1,71 @@
+{
+  "id": 1226027695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.70935,18.57396,-73.70935,18.57396",
+    "geom:latitude":18.57396,
+    "geom:longitude":-73.70935,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Les Basses",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722249,
+    "gn:latitude":18.57396,
+    "gn:longitude":-73.70935,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Les Basses",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Au Bas",
+        "Les Basses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722249
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ff4731d6360c5e47edfaca6facfeefb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1226027695,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1226027695,
+    "wof:lastmodified":1537626046,
+    "wof:name":"Les Basses",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.70935,
+    18.57396,
+    -73.70935,
+    18.57396
+],
+  "geometry": {"coordinates":[-73.70935,18.57396],"type":"Point"}
+}

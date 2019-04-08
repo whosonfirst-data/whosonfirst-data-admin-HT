@@ -1,0 +1,71 @@
+{
+  "id": 1293381593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85776,19.04598,-71.85776,19.04598",
+    "geom:latitude":19.04598,
+    "geom:longitude":-71.85776,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"Los Ratones",
+    "gn:country_code":"HT",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721984,
+    "gn:latitude":19.04598,
+    "gn:longitude":-71.85776,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Los Ratones",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Los Ratones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721984
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9950a8690af75cec2a76dcf76cc7a2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1293381593,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293381593,
+    "wof:lastmodified":1537626041,
+    "wof:name":"Los Ratones",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85776,
+    19.04598,
+    -71.85776,
+    19.04598
+],
+  "geometry": {"coordinates":[-71.85776,19.04598],"type":"Point"}
+}

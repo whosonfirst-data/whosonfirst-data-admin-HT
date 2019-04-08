@@ -1,0 +1,74 @@
+{
+  "id": 1310286121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20964,18.61295,-72.20964,18.61295",
+    "geom:latitude":18.61295,
+    "geom:longitude":-72.20964,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Lahoux",
+    "gn:country_code":"HT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722606,
+    "gn:latitude":18.61295,
+    "gn:longitude":-72.20964,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lahoux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lahoux"
+    ],
+    "name:und_x_variant":[
+        "Laroux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722606
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d1d6d772a64a6de078f0d949768be7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1310286121,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310286121,
+    "wof:lastmodified":1537626052,
+    "wof:name":"Lahoux",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20964000000002,
+    18.61295,
+    -72.20964000000002,
+    18.61295
+],
+  "geometry": {"coordinates":[-72.20964000000002,18.61295],"type":"Point"}
+}

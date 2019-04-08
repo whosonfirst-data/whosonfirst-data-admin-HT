@@ -1,0 +1,73 @@
+{
+  "id": 1260383821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6497,19.32536,-72.6497,19.32536",
+    "geom:latitude":19.32536,
+    "geom:longitude":-72.6497,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Ti Desdunes",
+    "gn:country_code":"HT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716584,
+    "gn:latitude":19.32536,
+    "gn:longitude":-72.6497,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ti Desdunes",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petit Desdunes",
+        "Desdunes Petite Place",
+        "Ti Desdunes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716584
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"61eef8eb15aeca0302ca4fab47791994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687025,
+            "locality_id":1260383821,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1260383821,
+    "wof:lastmodified":1537625977,
+    "wof:name":"Ti Desdunes",
+    "wof:parent_id":1091687025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6497,
+    19.32536,
+    -72.6497,
+    19.32536
+],
+  "geometry": {"coordinates":[-72.6497,19.32536],"type":"Point"}
+}

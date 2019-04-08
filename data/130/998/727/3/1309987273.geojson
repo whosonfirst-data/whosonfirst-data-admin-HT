@@ -1,0 +1,68 @@
+{
+  "id": 1309987273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.58727,18.49137,-72.58727,18.49137",
+    "geom:latitude":18.49137,
+    "geom:longitude":-72.58727,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285",
+    "gn:asciiname":"Darbonne",
+    "gn:country_code":"HT",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628985,
+    "gn:latitude":18.49137,
+    "gn:longitude":-72.58727,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Darbonne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628985
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4a3537b1dfd316074efe1a8caabb141d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1309987273,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1309987273,
+    "wof:lastmodified":1536669588,
+    "wof:name":"Darbonne",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.58726999999998,
+    18.49137,
+    -72.58726999999998,
+    18.49137
+],
+  "geometry": {"coordinates":[-72.58726999999998,18.49137],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259564541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.75992,18.3449,-72.75992,18.3449",
+    "geom:latitude":18.3449,
+    "geom:longitude":-72.75992,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Cilegue",
+    "gn:country_code":"HT",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727690,
+    "gn:latitude":18.3449,
+    "gn:longitude":-72.75992,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Cil\u00e8gue",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cil\u00e8gue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727690
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4ad440732b280b532ff91ae78e3a4ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1259564541,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259564541,
+    "wof:lastmodified":1537626115,
+    "wof:name":"Cilegue",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.75992,
+    18.3449,
+    -72.75992,
+    18.3449
+],
+  "geometry": {"coordinates":[-72.75991999999999,18.3449],"type":"Point"}
+}

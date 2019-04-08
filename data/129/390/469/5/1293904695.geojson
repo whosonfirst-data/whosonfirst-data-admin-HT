@@ -1,0 +1,72 @@
+{
+  "id": 1293904695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01029,19.13853,-72.01029,19.13853",
+    "geom:latitude":19.13853,
+    "geom:longitude":-72.01029,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Les Lattes",
+    "gn:country_code":"HT",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722237,
+    "gn:latitude":19.13853,
+    "gn:longitude":-72.01029,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Les Lattes",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lattes",
+        "Les Lattes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722237
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"110b4c5ec0d88da04103a1db85653fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1293904695,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293904695,
+    "wof:lastmodified":1537626046,
+    "wof:name":"Les Lattes",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01029,
+    19.13853,
+    -72.01029,
+    19.13853
+],
+  "geometry": {"coordinates":[-72.01029,19.13853],"type":"Point"}
+}

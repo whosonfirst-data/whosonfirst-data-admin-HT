@@ -1,0 +1,74 @@
+{
+  "id": 1310297685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25767,18.92001,-72.25767,18.92001",
+    "geom:latitude":18.92001,
+    "geom:longitude":-72.25767,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Mauge",
+    "gn:country_code":"HT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721092,
+    "gn:latitude":18.92001,
+    "gn:longitude":-72.25767,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Maug\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mauge"
+    ],
+    "name:und_x_variant":[
+        "Maug\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721092
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7aa1cf61186d48636906ade45e665f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1310297685,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1310297685,
+    "wof:lastmodified":1537626031,
+    "wof:name":"Mauge",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25766999999998,
+    18.92001,
+    -72.25766999999998,
+    18.92001
+],
+  "geometry": {"coordinates":[-72.25766999999998,18.92001],"type":"Point"}
+}

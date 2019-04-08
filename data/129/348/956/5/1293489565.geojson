@@ -1,0 +1,68 @@
+{
+  "id": 1293489565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15278,19.80722,-73.15278,19.80722",
+    "geom:latitude":19.80722,
+    "geom:longitude":-73.15278,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Jean Louis",
+    "gn:country_code":"HT",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723651,
+    "gn:latitude":19.80722,
+    "gn:longitude":-73.15278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jean Louis",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723651
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e3e2ef862cd78c89a8baea5c2aadd42d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1293489565,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1293489565,
+    "wof:lastmodified":1536784547,
+    "wof:name":"Jean Louis",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15278,
+    19.80722,
+    -73.15278,
+    19.80722
+],
+  "geometry": {"coordinates":[-73.15278000000001,19.80722],"type":"Point"}
+}

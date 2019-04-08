@@ -1,0 +1,67 @@
+{
+  "id": 1209498707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96246,18.53725,-73.96246,18.53725",
+    "geom:latitude":18.53725,
+    "geom:longitude":-73.96246,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Fond d'Icaque",
+    "gn:country_code":"HT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725355,
+    "gn:latitude":18.53725,
+    "gn:longitude":-73.96246,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Fond d\u2019Icaque",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fond d\u2019Acaque",
+        "Fond d\u2019Icaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725355,
+        "wk:page":"Fond_d%27Acaque"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"155badb5cbf320ac848a695ffeac2011",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209498707
+        }
+    ],
+    "wof:id":1209498707,
+    "wof:lastmodified":1537626087,
+    "wof:name":"Fond d'Icaque",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96246,
+    18.53725,
+    -73.96246,
+    18.53725
+],
+  "geometry": {"coordinates":[-73.96245999999999,18.53725],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209093391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.21667,18.38333,-74.21667,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-74.21667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Desruisseux",
+    "gn:country_code":"HT",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726550,
+    "gn:latitude":18.38333,
+    "gn:longitude":-74.21667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Desruisseux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726550
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"47210d96c8612e805bbae07c0b5b1f4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209093391
+        }
+    ],
+    "wof:id":1209093391,
+    "wof:lastmodified":1536297965,
+    "wof:name":"Desruisseux",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.21667,
+    18.38333,
+    -74.21667,
+    18.38333
+],
+  "geometry": {"coordinates":[-74.21666999999999,18.38333],"type":"Point"}
+}

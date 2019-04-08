@@ -1,0 +1,71 @@
+{
+  "id": 1327311033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.73297,18.29941,-73.73297,18.29941",
+    "geom:latitude":18.29941,
+    "geom:longitude":-73.73297,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Madame Jean Pierre",
+    "gn:country_code":"HT",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721852,
+    "gn:latitude":18.29941,
+    "gn:longitude":-73.73297,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Madame Jean Pierre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Madame Jean Pierre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721852
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5b5c1654ad51c6c9a09d192249acb612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1327311033,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1327311033,
+    "wof:lastmodified":1537626040,
+    "wof:name":"Madame Jean Pierre",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.73297,
+    18.29941,
+    -73.73297,
+    18.29941
+],
+  "geometry": {"coordinates":[-73.73296999999999,18.29941],"type":"Point"}
+}

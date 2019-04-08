@@ -1,0 +1,68 @@
+{
+  "id": 1243448139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86667,19.5,-71.86667,19.5",
+    "geom:latitude":19.5,
+    "geom:longitude":-71.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Savane Visite",
+    "gn:country_code":"HT",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717218,
+    "gn:latitude":19.5,
+    "gn:longitude":-71.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Savane Visite",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717218
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a266ffe557a77566de3de65dbde37c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1243448139,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1243448139,
+    "wof:lastmodified":1536803058,
+    "wof:name":"Savane Visite",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86667,
+    19.5,
+    -71.86667,
+    19.5
+],
+  "geometry": {"coordinates":[-71.86667,19.5],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276788691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.564,19.28083,-72.564,19.28083",
+    "geom:latitude":19.28083,
+    "geom:longitude":-72.564,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Hatte Chevaux",
+    "gn:country_code":"HT",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723962,
+    "gn:latitude":19.28083,
+    "gn:longitude":-72.564,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Hatte Chevaux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatte Chouraou",
+        "Hatte Chevaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723962
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b9860531071f31f7aad9d70bf7a81c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1276788691,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276788691,
+    "wof:lastmodified":1537626070,
+    "wof:name":"Hatte Chevaux",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.564,
+    19.28083,
+    -72.564,
+    19.28083
+],
+  "geometry": {"coordinates":[-72.56399999999999,19.28083],"type":"Point"}
+}

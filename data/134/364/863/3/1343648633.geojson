@@ -1,0 +1,68 @@
+{
+  "id": 1343648633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58333,18.31667,-73.58333,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-73.58333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"La Congo",
+    "gn:country_code":"HT",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723250,
+    "gn:latitude":18.31667,
+    "gn:longitude":-73.58333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Congo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723250
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"29dc19efcc3462086dfaee9458a7984a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1343648633,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1343648633,
+    "wof:lastmodified":1536971731,
+    "wof:name":"La Congo",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58333,
+    18.31667,
+    -73.58333,
+    18.31667
+],
+  "geometry": {"coordinates":[-73.58333,18.31667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293764801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.9101,18.33177,-72.9101,18.33177",
+    "geom:latitude":18.33177,
+    "geom:longitude":-72.9101,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nan Plaisir",
+    "gn:country_code":"HT",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719797,
+    "gn:latitude":18.33177,
+    "gn:longitude":-72.9101,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nan Plaisir",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan Palisir",
+        "Nan Plaisir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719797
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d6efed1e89fde3b8de6353ba7c09fc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1293764801,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293764801,
+    "wof:lastmodified":1537626015,
+    "wof:name":"Nan Plaisir",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.9101,
+    18.33177,
+    -72.9101,
+    18.33177
+],
+  "geometry": {"coordinates":[-72.9101,18.33177],"type":"Point"}
+}

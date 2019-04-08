@@ -1,0 +1,65 @@
+{
+  "id": 1209307105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.37421,19.28533,-72.37421,19.28533",
+    "geom:latitude":19.28533,
+    "geom:longitude":-72.37421,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Savane Longue",
+    "gn:country_code":"HT",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717292,
+    "gn:latitude":19.28533,
+    "gn:longitude":-72.37421,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Savane Longue",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Savane Longue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717292
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"22db2870e31c6c49f084769b56559d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209307105
+        }
+    ],
+    "wof:id":1209307105,
+    "wof:lastmodified":1537625986,
+    "wof:name":"Savane Longue",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.37420999999998,
+    19.28533,
+    -72.37420999999998,
+    19.28533
+],
+  "geometry": {"coordinates":[-72.37420999999998,19.28533],"type":"Point"}
+}

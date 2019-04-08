@@ -1,0 +1,71 @@
+{
+  "id": 1310086715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.08903,18.85554,-73.08903,18.85554",
+    "geom:latitude":18.85554,
+    "geom:longitude":-73.08903,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Terre Seche",
+    "gn:country_code":"HT",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716741,
+    "gn:latitude":18.85554,
+    "gn:longitude":-73.08903,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Terre S\u00e8che",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Terre S\u00e8che"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716741
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5418e0f0d58224decef1721f7d4191a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1310086715,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310086715,
+    "wof:lastmodified":1537625979,
+    "wof:name":"Terre Seche",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08903000000002,
+    18.85554,
+    -73.08903000000002,
+    18.85554
+],
+  "geometry": {"coordinates":[-73.08903000000002,18.85554],"type":"Point"}
+}

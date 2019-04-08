@@ -1,0 +1,72 @@
+{
+  "id": 1276196729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4,18.35,-73.4,18.35",
+    "geom:latitude":18.35,
+    "geom:longitude":-73.4,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Plaisir",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718660,
+    "gn:latitude":18.35,
+    "gn:longitude":-73.4,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Plaisir",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Plaisier",
+        "Plaisir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718660
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"64c4e4c99b1d6f5d826d3494da2fd179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1276196729,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1276196729,
+    "wof:lastmodified":1537626001,
+    "wof:name":"Plaisir",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4,
+    18.35,
+    -73.4,
+    18.35
+],
+  "geometry": {"coordinates":[-73.40000000000001,18.35],"type":"Point"}
+}

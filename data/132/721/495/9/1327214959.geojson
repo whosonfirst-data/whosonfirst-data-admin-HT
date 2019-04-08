@@ -1,0 +1,73 @@
+{
+  "id": 1327214959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.83697,18.72222,-72.83697,18.72222",
+    "geom:latitude":18.72222,
+    "geom:longitude":-72.83697,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Au Parc",
+    "gn:country_code":"HT",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731010,
+    "gn:latitude":18.72222,
+    "gn:longitude":-72.83697,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Au Parc",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Park Bay",
+        "Baie du Parc",
+        "Au Parc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731010
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3808b8517a0b4d979125221c549ec749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1327214959,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327214959,
+    "wof:lastmodified":1537626157,
+    "wof:name":"Au Parc",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.83697,
+    18.72222,
+    -72.83697,
+    18.72222
+],
+  "geometry": {"coordinates":[-72.83696999999999,18.72222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260385789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.02778,18.75719,-72.02778,18.75719",
+    "geom:latitude":18.75719,
+    "geom:longitude":-72.02778,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Passe Pilon",
+    "gn:country_code":"HT",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719205,
+    "gn:latitude":18.75719,
+    "gn:longitude":-72.02778,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Passe Pilon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Passe Pilon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719205
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c1e7b493539d32632293aa8786172a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1260385789,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1260385789,
+    "wof:lastmodified":1537626008,
+    "wof:name":"Passe Pilon",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.02778,
+    18.75719,
+    -72.02778,
+    18.75719
+],
+  "geometry": {"coordinates":[-72.02778000000001,18.75719],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343635139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.87355,18.51448,-73.87355,18.51448",
+    "geom:latitude":18.51448,
+    "geom:longitude":-73.87355,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Colunette",
+    "gn:country_code":"HT",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727496,
+    "gn:latitude":18.51448,
+    "gn:longitude":-73.87355,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Colunette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colinette",
+        "Colunette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727496
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"745789f6737aba5e27fafbcdcd2ae60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1343635139,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1343635139,
+    "wof:lastmodified":1537626113,
+    "wof:name":"Colunette",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.87355,
+    18.51448,
+    -73.87355,
+    18.51448
+],
+  "geometry": {"coordinates":[-73.87354999999999,18.51448],"type":"Point"}
+}

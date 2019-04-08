@@ -1,0 +1,61 @@
+{
+  "id": 1209502189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89917,18.195,-72.89917,18.195",
+    "geom:latitude":18.195,
+    "geom:longitude":-72.89917,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fond Cabrit",
+    "gn:country_code":"HT",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725390,
+    "gn:latitude":18.195,
+    "gn:longitude":-72.89917,
+    "gn:modification_date":"2000-03-21",
+    "gn:name":"Fond Cabrit",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725390
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2766ba4da64117171455dbef9a0bc463",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209502189
+        }
+    ],
+    "wof:id":1209502189,
+    "wof:lastmodified":1536285147,
+    "wof:name":"Fond Cabrit",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89917,
+    18.195,
+    -72.89917,
+    18.195
+],
+  "geometry": {"coordinates":[-72.89917,18.195],"type":"Point"}
+}

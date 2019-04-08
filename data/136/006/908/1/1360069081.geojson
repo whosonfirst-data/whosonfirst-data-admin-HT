@@ -1,0 +1,68 @@
+{
+  "id": 1360069081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96667,19.51667,-71.96667,19.51667",
+    "geom:latitude":19.51667,
+    "geom:longitude":-71.96667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Bassin Tournin",
+    "gn:country_code":"HT",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730603,
+    "gn:latitude":19.51667,
+    "gn:longitude":-71.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bassin Tournin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730603
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"104b18272a53c862bb59ad34fe945570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1360069081,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1360069081,
+    "wof:lastmodified":1536968512,
+    "wof:name":"Bassin Tournin",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96667,
+    19.51667,
+    -71.96667,
+    19.51667
+],
+  "geometry": {"coordinates":[-71.96666999999999,19.51667],"type":"Point"}
+}

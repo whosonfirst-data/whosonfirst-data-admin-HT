@@ -1,0 +1,72 @@
+{
+  "id": 1343483281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.71448,19.68923,-72.71448,19.68923",
+    "geom:latitude":19.68923,
+    "geom:longitude":-72.71448,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Ca Mars",
+    "gn:country_code":"HT",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728623,
+    "gn:latitude":19.68923,
+    "gn:longitude":-72.71448,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Ca Mars",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka Mars",
+        "Ca Mars"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728623
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b514acca2018c73c0ac23825ce86cdf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1343483281,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1343483281,
+    "wof:lastmodified":1537626127,
+    "wof:name":"Ca Mars",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71448000000002,
+    19.68923,
+    -72.71448000000002,
+    19.68923
+],
+  "geometry": {"coordinates":[-72.71448000000002,19.68923],"type":"Point"}
+}

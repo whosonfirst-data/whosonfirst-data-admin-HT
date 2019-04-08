@@ -1,0 +1,71 @@
+{
+  "id": 1293368353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.29353,18.58709,-72.29353,18.58709",
+    "geom:latitude":18.58709,
+    "geom:longitude":-72.29353,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Cazeau",
+    "gn:country_code":"HT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728087,
+    "gn:latitude":18.58709,
+    "gn:longitude":-72.29353,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Cazeau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cazeau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728087
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bb2a189201c5c088e564ac66dbfede24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1293368353,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293368353,
+    "wof:lastmodified":1537626120,
+    "wof:name":"Cazeau",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.29353,
+    18.58709,
+    -72.29353,
+    18.58709
+],
+  "geometry": {"coordinates":[-72.29353,18.58709],"type":"Point"}
+}

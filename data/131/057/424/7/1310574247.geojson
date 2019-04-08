@@ -1,0 +1,68 @@
+{
+  "id": 1310574247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.31667,18.45,-73.31667,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-73.31667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Denis",
+    "gn:country_code":"HT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726750,
+    "gn:latitude":18.45,
+    "gn:longitude":-73.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Denis",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726750
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"76ea96db7b20a11a09a203d51db2ddcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1310574247,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310574247,
+    "wof:lastmodified":1536817035,
+    "wof:name":"Denis",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.31667,
+    18.45,
+    -73.31667,
+    18.45
+],
+  "geometry": {"coordinates":[-73.31667,18.45],"type":"Point"}
+}

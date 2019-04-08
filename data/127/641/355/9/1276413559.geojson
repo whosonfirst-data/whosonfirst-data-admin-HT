@@ -1,0 +1,68 @@
+{
+  "id": 1276413559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23333,18.45,-73.23333,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-73.23333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3720823.0",
+    "gn:asciiname":"Redon",
+    "gn:country_code":"HT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718096,
+    "gn:latitude":18.45,
+    "gn:longitude":-73.23333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Redon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718096
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8a246540a478ac983351ed6c1529f74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1276413559,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1276413559,
+    "wof:lastmodified":1536671191,
+    "wof:name":"Redon",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23333000000002,
+    18.45,
+    -73.23333000000002,
+    18.45
+],
+  "geometry": {"coordinates":[-73.23333000000002,18.45],"type":"Point"}
+}

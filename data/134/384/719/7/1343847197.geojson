@@ -1,0 +1,71 @@
+{
+  "id": 1343847197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.10618,19.58598,-72.10618,19.58598",
+    "geom:latitude":19.58598,
+    "geom:longitude":-72.10618,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716223.0",
+    "gn:asciiname":"Baptiste",
+    "gn:country_code":"HT",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730810,
+    "gn:latitude":19.58598,
+    "gn:longitude":-72.10618,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Baptiste",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baptiste"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730810
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1cc1f524ff85092dfd7f0a6c0f2f583e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1343847197,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1343847197,
+    "wof:lastmodified":1537626154,
+    "wof:name":"Baptiste",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.10618000000002,
+    19.58598,
+    -72.10618000000002,
+    19.58598
+],
+  "geometry": {"coordinates":[-72.10618000000002,19.58598],"type":"Point"}
+}

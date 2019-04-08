@@ -1,0 +1,68 @@
+{
+  "id": 1310291367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.91667,18.28333,-71.91667,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-71.91667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Dos Masse",
+    "gn:country_code":"HT",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726190,
+    "gn:latitude":18.28333,
+    "gn:longitude":-71.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dos Masse",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726190
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"db464bf1d74cfb63b4b96f883b1af2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1310291367,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1310291367,
+    "wof:lastmodified":1536728725,
+    "wof:name":"Dos Masse",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.91667,
+    18.28333,
+    -71.91667,
+    18.28333
+],
+  "geometry": {"coordinates":[-71.91667,18.28333],"type":"Point"}
+}

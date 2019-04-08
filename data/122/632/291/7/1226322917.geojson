@@ -1,0 +1,67 @@
+{
+  "id": 1226322917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.26667,18.4,-74.26667,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-74.26667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tinclade",
+    "gn:country_code":"HT",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716518,
+    "gn:latitude":18.4,
+    "gn:longitude":-74.26667,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Tinclade",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716518
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5803130fcbc8230b376ffb01e0387000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1226322917,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1226322917,
+    "wof:lastmodified":1536821598,
+    "wof:name":"Tinclade",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.26666999999998,
+    18.4,
+    -74.26666999999998,
+    18.4
+],
+  "geometry": {"coordinates":[-74.26666999999998,18.4],"type":"Point"}
+}

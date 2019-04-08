@@ -1,0 +1,77 @@
+{
+  "id": 1309704679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33472,19.37084,-72.33472,19.37084",
+    "geom:latitude":19.37084,
+    "geom:longitude":-72.33472,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Saint-Michel de l'Atalaye",
+    "gn:country_code":"HT",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717560,
+    "gn:latitude":19.37084,
+    "gn:longitude":-72.33472,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Saint-Michel de l\u2019Atalaye",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Sen Mich\u00e8l Latalay"
+    ],
+    "name:und_x_variant":[
+        "Ville de Saint Michel",
+        "Saint Michel de L\u2019Attaiaye",
+        "Saint Michel",
+        "Saint-Michel de l\u2019Atalaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717560
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f02f2f26e1fc8e73c5be117ab2e051e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1309704679,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1309704679,
+    "wof:lastmodified":1537625989,
+    "wof:name":"Saint-Michel de l'Atalaye",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33471999999998,
+    19.37084,
+    -72.33471999999998,
+    19.37084
+],
+  "geometry": {"coordinates":[-72.33471999999998,19.37084],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344239907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38178,18.38122,-73.38178,18.38122",
+    "geom:latitude":18.38122,
+    "geom:longitude":-73.38178,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Dimini",
+    "gn:country_code":"HT",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726390,
+    "gn:latitude":18.38122,
+    "gn:longitude":-73.38178,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Dimini",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dimini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726390
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2e89c037b71d089b28949f5915bdd323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1344239907,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1344239907,
+    "wof:lastmodified":1537626099,
+    "wof:name":"Dimini",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38178,
+    18.38122000000001,
+    -73.38178,
+    18.38122000000001
+],
+  "geometry": {"coordinates":[-73.38178000000001,18.38122000000001],"type":"Point"}
+}

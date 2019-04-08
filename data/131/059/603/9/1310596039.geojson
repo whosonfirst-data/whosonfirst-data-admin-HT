@@ -1,0 +1,71 @@
+{
+  "id": 1310596039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28156,19.62316,-72.28156,19.62316",
+    "geom:latitude":19.62316,
+    "geom:longitude":-72.28156,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232.0",
+    "gn:asciiname":"Beaujoin",
+    "gn:country_code":"HT",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730481,
+    "gn:latitude":19.62316,
+    "gn:longitude":-72.28156,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Beaujoin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beaujoin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730481
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5a0300f23eb9b0f61a868e416dc2720a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":1310596039,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1310596039,
+    "wof:lastmodified":1537626151,
+    "wof:name":"Beaujoin",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28156,
+    19.62316,
+    -72.28156,
+    19.62316
+],
+  "geometry": {"coordinates":[-72.28156,19.62316],"type":"Point"}
+}

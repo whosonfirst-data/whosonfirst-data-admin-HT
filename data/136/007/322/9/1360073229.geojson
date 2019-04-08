@@ -1,0 +1,71 @@
+{
+  "id": 1360073229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92239,18.64527,-71.92239,18.64527",
+    "geom:latitude":18.64527,
+    "geom:longitude":-71.92239,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Boulaille Perle",
+    "gn:country_code":"HT",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729257,
+    "gn:latitude":18.64527,
+    "gn:longitude":-71.92239,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boulaille Perl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boulaille Pere",
+        "Boulaille Perl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729257
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"892183198ca7825814bdb896251997d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1360073229,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1360073229,
+    "wof:lastmodified":1537626135,
+    "wof:name":"Boulaille Perle",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92239000000002,
+    18.64527,
+    -71.92239000000002,
+    18.64527
+],
+  "geometry": {"coordinates":[-71.92239000000002,18.64527],"type":"Point"}
+}

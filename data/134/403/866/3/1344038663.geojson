@@ -1,0 +1,71 @@
+{
+  "id": 1344038663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5648,18.87706,-72.5648,18.87706",
+    "geom:latitude":18.87706,
+    "geom:longitude":-72.5648,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Doco",
+    "gn:country_code":"HT",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726326,
+    "gn:latitude":18.87706,
+    "gn:longitude":-72.5648,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Doco",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726326
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"52e6036e8f0de9c96e60214f89552783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1344038663,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1344038663,
+    "wof:lastmodified":1537626098,
+    "wof:name":"Doco",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5648,
+    18.87706,
+    -72.5648,
+    18.87706
+],
+  "geometry": {"coordinates":[-72.56480000000001,18.87706],"type":"Point"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 421180257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.55,19.66667,-72.55,19.66667",
+    "geom:latitude":19.66667,
+    "geom:longitude":-72.55,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u062a"
+    ],
+    "name:dut_x_preferred":[
+        "Pilate"
+    ],
+    "name:eng_x_preferred":[
+        "Pilate"
+    ],
+    "name:fra_x_preferred":[
+        "Pilate"
+    ],
+    "name:fre_x_preferred":[
+        "Pilate"
+    ],
+    "name:hat_x_preferred":[
+        "Pilat"
+    ],
+    "name:ita_x_preferred":[
+        "Pilate"
+    ],
+    "name:nld_x_preferred":[
+        "Pilate"
+    ],
+    "name:por_x_preferred":[
+        "Pilate"
+    ],
+    "name:ron_x_preferred":[
+        "Pilate"
+    ],
+    "name:rum_x_preferred":[
+        "Pilate"
+    ],
+    "name:swe_x_preferred":[
+        "Pilate"
+    ],
+    "qs:gn_country":"HT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3718826,
+    "qs:gn_pop":4227,
+    "qs:name":"Pilate",
+    "qs:name_adm0":"Ha\u00efti",
+    "qs:name_adm1":"Nord",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201194,
+    "qs:woe_adm0":23424839,
+    "qs:woe_id":95823,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718826,
+        "gp:id":95823,
+        "qs:id":1201194,
+        "wd:id":"Q2430177",
+        "wk:page":"Pilate, Nord"
+    },
+    "wof:country":"HT",
+    "wof:created":1459009250,
+    "wof:geomhash":"9798de191ca4de73962a0c76ed04397f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686691,
+            "locality_id":421180257,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":421180257,
+    "wof:lastmodified":1527716235,
+    "wof:name":"Pilate",
+    "wof:parent_id":1091686691,
+    "wof:placetype":"locality",
+    "wof:population":4227,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.55,
+    19.66667,
+    -72.55,
+    19.66667
+],
+  "geometry": {"coordinates":[-72.55,19.66667],"type":"Point"}
+}

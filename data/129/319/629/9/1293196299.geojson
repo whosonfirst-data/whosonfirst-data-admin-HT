@@ -1,0 +1,71 @@
+{
+  "id": 1293196299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31252,19.69806,-72.31252,19.69806",
+    "geom:latitude":19.69806,
+    "geom:longitude":-72.31252,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232.0",
+    "gn:asciiname":"Cercaville",
+    "gn:country_code":"HT",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728052,
+    "gn:latitude":19.69806,
+    "gn:longitude":-72.31252,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Cercaville",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cercaville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728052
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0c72a511d8c30457a13e1eed7181f472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":1293196299,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1293196299,
+    "wof:lastmodified":1537626120,
+    "wof:name":"Cercaville",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31251999999998,
+    19.69806,
+    -72.31251999999998,
+    19.69806
+],
+  "geometry": {"coordinates":[-72.31251999999998,19.69806],"type":"Point"}
+}

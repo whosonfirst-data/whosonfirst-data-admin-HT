@@ -1,0 +1,70 @@
+{
+  "id": 1276664921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.25681,19.68567,-73.25681,19.68567",
+    "geom:latitude":19.68567,
+    "geom:longitude":-73.25681,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Trou Mouton",
+    "gn:country_code":"HT",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11478119,
+    "gn:latitude":19.68567,
+    "gn:longitude":-73.25681,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Trou Mouton",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trou Mouton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11478119
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ceab9d4a5ec8888abd1f69d82ae4f4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1276664921,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1276664921,
+    "wof:lastmodified":1537626161,
+    "wof:name":"Trou Mouton",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25681,
+    19.68567,
+    -73.25681,
+    19.68567
+],
+  "geometry": {"coordinates":[-73.25681,19.68567],"type":"Point"}
+}

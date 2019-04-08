@@ -1,0 +1,62 @@
+{
+  "id": 1209422735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.43333,19.73333,-73.43333,19.73333",
+    "geom:latitude":19.73333,
+    "geom:longitude":-73.43333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Morne Basse",
+    "gn:country_code":"HT",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720583,
+    "gn:latitude":19.73333,
+    "gn:longitude":-73.43333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne Basse",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720583
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6a29ff77f281989500a30c7b08db6b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209422735
+        }
+    ],
+    "wof:id":1209422735,
+    "wof:lastmodified":1536287478,
+    "wof:name":"Morne Basse",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.43333,
+    19.73333,
+    -73.43333,
+    19.73333
+],
+  "geometry": {"coordinates":[-73.43333,19.73333],"type":"Point"}
+}

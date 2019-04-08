@@ -1,0 +1,68 @@
+{
+  "id": 1226328617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76667,18.21667,-71.76667,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":-71.76667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Terre Froide Magny",
+    "gn:country_code":"HT",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716799,
+    "gn:latitude":18.21667,
+    "gn:longitude":-71.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Terre Froide Magny",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670605,
+        1108721217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716799
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f54d85e39782a9382cfb718104f78ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":1108721217,
+            "locality_id":1226328617,
+            "region_id":85670605
+        }
+    ],
+    "wof:id":1226328617,
+    "wof:lastmodified":1536813551,
+    "wof:name":"Terre Froide Magny",
+    "wof:parent_id":1108721217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76666999999998,
+    18.21667,
+    -71.76666999999998,
+    18.21667
+],
+  "geometry": {"coordinates":[-71.76666999999998,18.21667],"type":"Point"}
+}

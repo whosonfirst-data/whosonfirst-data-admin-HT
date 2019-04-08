@@ -1,0 +1,102 @@
+{
+  "id": 890438879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.45,18.4,-74.45,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-74.45,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":2265,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0633 \u0625\u0631\u0648\u064a\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Les Irois"
+    ],
+    "name:eng_x_preferred":[
+        "Les Irois"
+    ],
+    "name:fre_x_preferred":[
+        "Les Irois"
+    ],
+    "name:hat_x_preferred":[
+        "L\u00e8ziwa"
+    ],
+    "name:ita_x_preferred":[
+        "Les Irois"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30b8\u30ef"
+    ],
+    "name:por_x_preferred":[
+        "Les Irois"
+    ],
+    "name:rum_x_preferred":[
+        "Les Irois"
+    ],
+    "name:swe_x_preferred":[
+        "Les Irois"
+    ],
+    "name:unk_x_variant":[
+        "Irois"
+    ],
+    "qs:name":"Les Irois",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722239,
+        "gp:id":93398,
+        "qs:id":1046667,
+        "wd:id":"Q2711224",
+        "wk:page":"Les Irois"
+    },
+    "wof:country":"HT",
+    "wof:created":1469052212,
+    "wof:geomhash":"04e062b0846fc563c0140eb535ec093f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686011,
+            "locality_id":890438879,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":890438879,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Les Irois",
+    "wof:parent_id":1091686011,
+    "wof:placetype":"locality",
+    "wof:population":2265,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.45,
+    18.4,
+    -74.45,
+    18.4
+],
+  "geometry": {"coordinates":[-74.45,18.4],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226828437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78333,18.23333,-72.78333,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-72.78333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"Desnoyers",
+    "gn:country_code":"HT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726587,
+    "gn:latitude":18.23333,
+    "gn:longitude":-72.78333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Desnoyers",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726587
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5ae080fef41d2d3c54773dcfa759e7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1226828437,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1226828437,
+    "wof:lastmodified":1537090083,
+    "wof:name":"Desnoyers",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78333,
+    18.23333,
+    -72.78333,
+    18.23333
+],
+  "geometry": {"coordinates":[-72.78333000000001,18.23333],"type":"Point"}
+}

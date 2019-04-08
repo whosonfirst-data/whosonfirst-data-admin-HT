@@ -1,0 +1,70 @@
+{
+  "id": 1326918417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78952,18.30254,-71.78952,18.30254",
+    "geom:latitude":18.30254,
+    "geom:longitude":-71.78952,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ti Parc",
+    "gn:country_code":"HT",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716507,
+    "gn:latitude":18.30254,
+    "gn:longitude":-71.78952,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ti Parc",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti Parc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716507
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"59c4fe8772f54aa4ba70861a0108aa43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1326918417,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1326918417,
+    "wof:lastmodified":1537625976,
+    "wof:name":"Ti Parc",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78952,
+    18.30254,
+    -71.78952,
+    18.30254
+],
+  "geometry": {"coordinates":[-71.78952,18.30254],"type":"Point"}
+}

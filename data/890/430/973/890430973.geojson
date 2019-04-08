@@ -1,0 +1,69 @@
+{
+  "id": 890430973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.91667,19.81667,-72.91667,19.81667",
+    "geom:latitude":19.81667,
+    "geom:longitude":-72.91667,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":4119,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Arcahaie",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":63,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731087,
+        "gp:id":96111,
+        "qs:id":150276,
+        "wd:id":"Q1122728",
+        "wk:page":"Arcahaie"
+    },
+    "wof:country":"HT",
+    "wof:created":1469051873,
+    "wof:geomhash":"743960ccd6c2bc964d7a2d665ca925d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":890430973,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":890430973,
+    "wof:lastmodified":1527729745,
+    "wof:name":"Arcahaie",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:population":4119,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.91667,
+    19.81667,
+    -72.91667,
+    19.81667
+],
+  "geometry": {"coordinates":[-72.91667,19.81667],"type":"Point"}
+}

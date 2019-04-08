@@ -1,0 +1,71 @@
+{
+  "id": 1276219307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.52719,19.10273,-72.52719,19.10273",
+    "geom:latitude":19.10273,
+    "geom:longitude":-72.52719,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Titon",
+    "gn:country_code":"HT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716442,
+    "gn:latitude":19.10273,
+    "gn:longitude":-72.52719,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Titon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Titon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716442
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"089126d5915f1f6a3a2ce21bc64a657b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1276219307,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276219307,
+    "wof:lastmodified":1537625975,
+    "wof:name":"Titon",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.52719,
+    19.10273,
+    -72.52719,
+    19.10273
+],
+  "geometry": {"coordinates":[-72.52719,19.10273],"type":"Point"}
+}

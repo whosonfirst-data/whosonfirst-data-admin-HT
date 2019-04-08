@@ -1,0 +1,62 @@
+{
+  "id": 1209636737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,18.78333,-72.1,18.78333",
+    "geom:latitude":18.78333,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Bresete",
+    "gn:country_code":"HT",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729094,
+    "gn:latitude":18.78333,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bres\u00e8te",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729094
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2e96ec11e61011915d355c670c5c7fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209636737
+        }
+    ],
+    "wof:id":1209636737,
+    "wof:lastmodified":1536281020,
+    "wof:name":"Bresete",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    18.78333,
+    -72.1,
+    18.78333
+],
+  "geometry": {"coordinates":[-72.09999999999999,18.78333],"type":"Point"}
+}

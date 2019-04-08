@@ -1,0 +1,65 @@
+{
+  "id": 1209402977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14737,18.47188,-72.14737,18.47188",
+    "geom:latitude":18.47188,
+    "geom:longitude":-72.14737,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Boidine",
+    "gn:country_code":"HT",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729904,
+    "gn:latitude":18.47188,
+    "gn:longitude":-72.14737,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boidine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boisdine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729904
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5bfb302dcca177f02c1d41ce381c1346",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209402977
+        }
+    ],
+    "wof:id":1209402977,
+    "wof:lastmodified":1537626143,
+    "wof:name":"Boidine",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14737,
+    18.47188,
+    -72.14737,
+    18.47188
+],
+  "geometry": {"coordinates":[-72.14737,18.47188],"type":"Point"}
+}

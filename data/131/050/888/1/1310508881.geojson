@@ -1,0 +1,73 @@
+{
+  "id": 1310508881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.13944,19.75083,-73.13944,19.75083",
+    "geom:latitude":19.75083,
+    "geom:longitude":-73.13944,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Labelle",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723390,
+    "gn:latitude":19.75083,
+    "gn:longitude":-73.13944,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Labelle",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Belley",
+        "Labelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723390
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8a85a33408cc4c2636ff09129d4aa1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1310508881,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1310508881,
+    "wof:lastmodified":1537626063,
+    "wof:name":"Labelle",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.13944000000002,
+    19.75083,
+    -73.13944000000002,
+    19.75083
+],
+  "geometry": {"coordinates":[-73.13944000000002,19.75083],"type":"Point"}
+}

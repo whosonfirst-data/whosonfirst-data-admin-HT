@@ -1,0 +1,62 @@
+{
+  "id": 1209100521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85,18.76667,-71.85,18.76667",
+    "geom:latitude":18.76667,
+    "geom:longitude":-71.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Rache Grande",
+    "gn:country_code":"HT",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718250,
+    "gn:latitude":18.76667,
+    "gn:longitude":-71.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rache Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718250
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5030f2bb3e44f649577e75eb2fb0c017",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209100521
+        }
+    ],
+    "wof:id":1209100521,
+    "wof:lastmodified":1536297748,
+    "wof:name":"Rache Grande",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85,
+    18.76667,
+    -71.85,
+    18.76667
+],
+  "geometry": {"coordinates":[-71.84999999999999,18.76667],"type":"Point"}
+}

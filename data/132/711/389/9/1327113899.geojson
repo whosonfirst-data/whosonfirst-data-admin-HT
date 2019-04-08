@@ -1,0 +1,68 @@
+{
+  "id": 1327113899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85,18.16667,-71.85,18.16667",
+    "geom:latitude":18.16667,
+    "geom:longitude":-71.85,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"La Croc",
+    "gn:country_code":"HT",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723186,
+    "gn:latitude":18.16667,
+    "gn:longitude":-71.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Croc",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723186
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"52d24e459b1767056ce53ca7683e39a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1327113899,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1327113899,
+    "wof:lastmodified":1536642083,
+    "wof:name":"La Croc",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85,
+    18.16667,
+    -71.85,
+    18.16667
+],
+  "geometry": {"coordinates":[-71.84999999999999,18.16667],"type":"Point"}
+}

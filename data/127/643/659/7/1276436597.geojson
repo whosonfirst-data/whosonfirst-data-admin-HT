@@ -1,0 +1,72 @@
+{
+  "id": 1276436597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20475,19.66869,-72.20475,19.66869",
+    "geom:latitude":19.66869,
+    "geom:longitude":-72.20475,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232.0",
+    "gn:asciiname":"Sainte-Paulette",
+    "gn:country_code":"HT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717651,
+    "gn:latitude":19.66869,
+    "gn:longitude":-72.20475,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sainte-Paulette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti Sainte Paulette",
+        "Sainte-Paulette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717651
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7c8d4e23e2b465770a3343d375c491ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":1276436597,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1276436597,
+    "wof:lastmodified":1537625990,
+    "wof:name":"Sainte-Paulette",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20475,
+    19.66869,
+    -72.20475,
+    19.66869
+],
+  "geometry": {"coordinates":[-72.20475,19.66869],"type":"Point"}
+}

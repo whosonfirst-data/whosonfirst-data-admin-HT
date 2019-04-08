@@ -1,0 +1,68 @@
+{
+  "id": 1276421947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.11667,18.83333,-73.11667,18.83333",
+    "geom:latitude":18.83333,
+    "geom:longitude":-73.11667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Gros Citerne",
+    "gn:country_code":"HT",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724192,
+    "gn:latitude":18.83333,
+    "gn:longitude":-73.11667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gros Citerne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724192
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bb76468df84b70eab8db3dc82c3b2a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1276421947,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1276421947,
+    "wof:lastmodified":1536660005,
+    "wof:name":"Gros Citerne",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.11667,
+    18.83333,
+    -73.11667,
+    18.83333
+],
+  "geometry": {"coordinates":[-73.11667,18.83333],"type":"Point"}
+}

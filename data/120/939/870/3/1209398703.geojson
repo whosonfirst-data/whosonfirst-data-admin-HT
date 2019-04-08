@@ -1,0 +1,61 @@
+{
+  "id": 1209398703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06667,19.46667,-72.06667,19.46667",
+    "geom:latitude":19.46667,
+    "geom:longitude":-72.06667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Laro",
+    "gn:country_code":"HT",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722643,
+    "gn:latitude":19.46667,
+    "gn:longitude":-72.06667,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Laro",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722643
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a6b0ad53694df1ff0db63b4597fd4754",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209398703
+        }
+    ],
+    "wof:id":1209398703,
+    "wof:lastmodified":1536288217,
+    "wof:name":"Laro",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06667,
+    19.46667,
+    -72.06667,
+    19.46667
+],
+  "geometry": {"coordinates":[-72.06667,19.46667],"type":"Point"}
+}

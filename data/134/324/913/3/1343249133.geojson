@@ -1,0 +1,68 @@
+{
+  "id": 1343249133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85611,18.12333,-73.85611,18.12333",
+    "geom:latitude":18.12333,
+    "geom:longitude":-73.85611,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Passe",
+    "gn:country_code":"HT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719233,
+    "gn:latitude":18.12333,
+    "gn:longitude":-73.85611,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Passe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719233
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"db638cf4b9e9948006d2223c0a68f797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1343249133,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1343249133,
+    "wof:lastmodified":1537049237,
+    "wof:name":"Passe",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85611,
+    18.12333,
+    -73.85611,
+    18.12333
+],
+  "geometry": {"coordinates":[-73.85611,18.12333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259865821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.66702,18.26937,-72.66702,18.26937",
+    "geom:latitude":18.26937,
+    "geom:longitude":-72.66702,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"La Vallee de Jacmel",
+    "gn:country_code":"HT",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722411,
+    "gn:latitude":18.26937,
+    "gn:longitude":-72.66702,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"La Vall\u00e9e de Jacmel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Lavale Jakm\u00e8l"
+    ],
+    "name:und_x_variant":[
+        "La Vall\u00e9e",
+        "La Vall\u00e9e de Jacmel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722411,
+        "wk:page":"La_Vall%C3%A9e-de-Jacmel"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a25c195e224c8d13ffe9f16d21287708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1259865821,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1259865821,
+    "wof:lastmodified":1537626049,
+    "wof:name":"La Vallee de Jacmel",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.66702,
+    18.26937,
+    -72.66702,
+    18.26937
+],
+  "geometry": {"coordinates":[-72.66701999999999,18.26937],"type":"Point"}
+}

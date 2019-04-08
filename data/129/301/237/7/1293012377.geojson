@@ -1,0 +1,74 @@
+{
+  "id": 1293012377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73368,20.00848,-72.73368,20.00848",
+    "geom:latitude":20.00848,
+    "geom:longitude":-72.73368,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Cayonne",
+    "gn:country_code":"HT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728100,
+    "gn:latitude":20.00848,
+    "gn:longitude":-72.73368,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Cayonne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cayonne"
+    ],
+    "name:und_x_variant":[
+        "Cayenne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728100
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4a06106758bb666ce5997d42af6e58e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1293012377,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1293012377,
+    "wof:lastmodified":1537626120,
+    "wof:name":"Cayonne",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73368,
+    20.00848,
+    -72.73368,
+    20.00848
+],
+  "geometry": {"coordinates":[-72.73368000000001,20.00848],"type":"Point"}
+}

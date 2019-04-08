@@ -1,0 +1,71 @@
+{
+  "id": 1310485565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83296,19.59627,-71.83296,19.59627",
+    "geom:latitude":19.59627,
+    "geom:longitude":-71.83296,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Bourg Dumas",
+    "gn:country_code":"HT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729220,
+    "gn:latitude":19.59627,
+    "gn:longitude":-71.83296,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bourg Dumas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bourg Dumas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729220
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9001d4b9856c71c1f4c18984e64f49b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1310485565,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1310485565,
+    "wof:lastmodified":1537626135,
+    "wof:name":"Bourg Dumas",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83296,
+    19.59627,
+    -71.83296,
+    19.59627
+],
+  "geometry": {"coordinates":[-71.83296,19.59627],"type":"Point"}
+}

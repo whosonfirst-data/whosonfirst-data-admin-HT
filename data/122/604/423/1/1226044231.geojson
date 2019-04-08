@@ -1,0 +1,74 @@
+{
+  "id": 1226044231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79463,20.07738,-72.79463,20.07738",
+    "geom:latitude":20.07738,
+    "geom:longitude":-72.79463,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Voute l'Eglise",
+    "gn:country_code":"HT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715885,
+    "gn:latitude":20.07738,
+    "gn:longitude":-72.79463,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Vo\u00fbte l\u2019\u00c9glise",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Voute l\u2019\u00c9glise"
+    ],
+    "name:und_x_variant":[
+        "Vo\u00fbte l\u2019\u00c9glise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715885
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0711ffb6c283e6017b19a77f5dbda1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1226044231,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1226044231,
+    "wof:lastmodified":1537625969,
+    "wof:name":"Voute l'Eglise",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79463,
+    20.07738,
+    -72.79463,
+    20.07738
+],
+  "geometry": {"coordinates":[-72.79463,20.07738],"type":"Point"}
+}

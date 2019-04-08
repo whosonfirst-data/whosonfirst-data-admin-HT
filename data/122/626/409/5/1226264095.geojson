@@ -1,0 +1,68 @@
+{
+  "id": 1226264095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21028,18.87306,-72.21028,18.87306",
+    "geom:latitude":18.87306,
+    "geom:longitude":-72.21028,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Dos Dimanche",
+    "gn:country_code":"HT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726206,
+    "gn:latitude":18.87306,
+    "gn:longitude":-72.21028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dos Dimanche",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726206
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4eb7bd3067f172402e02813d4c518562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1226264095,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1226264095,
+    "wof:lastmodified":1536907510,
+    "wof:name":"Dos Dimanche",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21028000000003,
+    18.87306,
+    -72.21028000000003,
+    18.87306
+],
+  "geometry": {"coordinates":[-72.21028000000003,18.87306],"type":"Point"}
+}

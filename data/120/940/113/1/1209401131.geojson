@@ -1,0 +1,66 @@
+{
+  "id": 1209401131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83333,18.3,-71.83333,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-71.83333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oriani",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719446,
+    "gn:latitude":18.3,
+    "gn:longitude":-71.83333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oriani",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Opioni",
+        "Oriani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719446
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"41de23602dbcb856ee1fed0f49c696a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209401131
+        }
+    ],
+    "wof:id":1209401131,
+    "wof:lastmodified":1537626011,
+    "wof:name":"Oriani",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83333,
+    18.3,
+    -71.83333,
+    18.3
+],
+  "geometry": {"coordinates":[-71.83333,18.3],"type":"Point"}
+}

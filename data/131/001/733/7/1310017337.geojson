@@ -1,0 +1,71 @@
+{
+  "id": 1310017337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.72109,19.89082,-72.72109,19.89082",
+    "geom:latitude":19.89082,
+    "geom:longitude":-72.72109,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3717599.0",
+    "gn:asciiname":"Saut Barthe",
+    "gn:country_code":"HT",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717422,
+    "gn:latitude":19.89082,
+    "gn:longitude":-72.72109,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Saut Barthe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saut Barthe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717422
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2cc90165df67216209d65702addcfced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686807,
+            "locality_id":1310017337,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1310017337,
+    "wof:lastmodified":1537625987,
+    "wof:name":"Saut Barthe",
+    "wof:parent_id":1091686807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.72109,
+    19.89082,
+    -72.72109,
+    19.89082
+],
+  "geometry": {"coordinates":[-72.72109,19.89082],"type":"Point"}
+}

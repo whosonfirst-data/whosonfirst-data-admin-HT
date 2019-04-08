@@ -1,0 +1,68 @@
+{
+  "id": 1242799969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3,18.9,-72.3,18.9",
+    "geom:latitude":18.9,
+    "geom:longitude":-72.3,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587",
+    "gn:asciiname":"Anneau",
+    "gn:country_code":"HT",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731142,
+    "gn:latitude":18.9,
+    "gn:longitude":-72.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Anneau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731142
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0180f2a8236c79ef59de97d5603959b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1242799969,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1242799969,
+    "wof:lastmodified":1536743138,
+    "wof:name":"Anneau",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3,
+    18.9,
+    -72.3,
+    18.9
+],
+  "geometry": {"coordinates":[-72.3,18.9],"type":"Point"}
+}

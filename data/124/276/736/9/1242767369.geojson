@@ -1,0 +1,68 @@
+{
+  "id": 1242767369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15,19.28333,-72.15,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-72.15,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Ravine Sable",
+    "gn:country_code":"HT",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718136,
+    "gn:latitude":19.28333,
+    "gn:longitude":-72.15,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ravine Sable",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718136
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1be54d5ad79088a78843330460cdd0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686137,
+            "locality_id":1242767369,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1242767369,
+    "wof:lastmodified":1536790747,
+    "wof:name":"Ravine Sable",
+    "wof:parent_id":1091686137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15,
+    19.28333,
+    -72.15,
+    19.28333
+],
+  "geometry": {"coordinates":[-72.15000000000001,19.28333],"type":"Point"}
+}

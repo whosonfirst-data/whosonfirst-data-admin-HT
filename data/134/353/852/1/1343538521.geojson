@@ -1,0 +1,71 @@
+{
+  "id": 1343538521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.72716,18.29636,-73.72716,18.29636",
+    "geom:latitude":18.29636,
+    "geom:longitude":-73.72716,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Nan Morel",
+    "gn:country_code":"HT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719862,
+    "gn:latitude":18.29636,
+    "gn:longitude":-73.72716,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Nan Morel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Morel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719862
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"aba5b6d5fc0a08c761cb747af7483125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1343538521,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1343538521,
+    "wof:lastmodified":1537626016,
+    "wof:name":"Nan Morel",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.72716,
+    18.29636,
+    -73.72716,
+    18.29636
+],
+  "geometry": {"coordinates":[-73.72716,18.29636],"type":"Point"}
+}

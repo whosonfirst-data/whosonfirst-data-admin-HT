@@ -1,0 +1,71 @@
+{
+  "id": 1310079395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0576,18.51168,-74.0576,18.51168",
+    "geom:latitude":18.51168,
+    "geom:longitude":-74.0576,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Cachimbo",
+    "gn:country_code":"HT",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728891,
+    "gn:latitude":18.51168,
+    "gn:longitude":-74.0576,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Cachimbo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cachimbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728891
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7aef5127477a606bc59daf838dbec50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1310079395,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1310079395,
+    "wof:lastmodified":1537626132,
+    "wof:name":"Cachimbo",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0576,
+    18.51168,
+    -74.0576,
+    18.51168
+],
+  "geometry": {"coordinates":[-74.05759999999999,18.51168],"type":"Point"}
+}

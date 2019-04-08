@@ -1,0 +1,71 @@
+{
+  "id": 1293471001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.06989,18.92323,-73.06989,18.92323",
+    "geom:latitude":18.92323,
+    "geom:longitude":-73.06989,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Richard",
+    "gn:country_code":"HT",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718025,
+    "gn:latitude":18.92323,
+    "gn:longitude":-73.06989,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Richard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Richard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718025
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8c1f556c01ca1cfdaf33ef5c5a9fcea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1293471001,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293471001,
+    "wof:lastmodified":1537625994,
+    "wof:name":"Richard",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.06989,
+    18.92323,
+    -73.06989,
+    18.92323
+],
+  "geometry": {"coordinates":[-73.06989,18.92323],"type":"Point"}
+}

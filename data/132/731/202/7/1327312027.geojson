@@ -1,0 +1,70 @@
+{
+  "id": 1327312027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2629,18.76172,-72.2629,18.76172",
+    "geom:latitude":18.76172,
+    "geom:longitude":-72.2629,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nan Reserve",
+    "gn:country_code":"HT",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719744,
+    "gn:latitude":18.76172,
+    "gn:longitude":-72.2629,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nan R\u00e9serve",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan R\u00e9serve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719744
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"43fdc3a4214cdcad0cdf37b5631fc9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1327312027,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327312027,
+    "wof:lastmodified":1537626014,
+    "wof:name":"Nan Reserve",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2629,
+    18.76172,
+    -72.2629,
+    18.76172
+],
+  "geometry": {"coordinates":[-72.2629,18.76172],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310580653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32511,18.24478,-72.32511,18.24478",
+    "geom:latitude":18.24478,
+    "geom:longitude":-72.32511,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Bas Thomas",
+    "gn:country_code":"HT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730594,
+    "gn:latitude":18.24478,
+    "gn:longitude":-72.32511,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bas Thomas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bas Thomas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730594
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ce960ed8a3dbc57605684598cbfb5de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1310580653,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1310580653,
+    "wof:lastmodified":1537626152,
+    "wof:name":"Bas Thomas",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32511,
+    18.24478,
+    -72.32511,
+    18.24478
+],
+  "geometry": {"coordinates":[-72.32511,18.24478],"type":"Point"}
+}

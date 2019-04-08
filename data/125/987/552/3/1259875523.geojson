@@ -1,0 +1,71 @@
+{
+  "id": 1259875523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.22653,19.71702,-72.22653,19.71702",
+    "geom:latitude":19.71702,
+    "geom:longitude":-72.22653,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232.0",
+    "gn:asciiname":"Lifebe",
+    "gn:country_code":"HT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722150,
+    "gn:latitude":19.71702,
+    "gn:longitude":-72.22653,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Lif\u00e8be",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lif\u00e8be"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722150
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"077925e544fb84e3e08d379e9630e818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":1259875523,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1259875523,
+    "wof:lastmodified":1537626044,
+    "wof:name":"Lifebe",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.22653000000003,
+    19.71702,
+    -72.22653000000003,
+    19.71702
+],
+  "geometry": {"coordinates":[-72.22653000000003,19.71702],"type":"Point"}
+}

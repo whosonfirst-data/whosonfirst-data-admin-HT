@@ -1,0 +1,71 @@
+{
+  "id": 1326925283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15355,19.31882,-72.15355,19.31882",
+    "geom:latitude":19.31882,
+    "geom:longitude":-72.15355,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Nan Manuel",
+    "gn:country_code":"HT",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719918,
+    "gn:latitude":19.31882,
+    "gn:longitude":-72.15355,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nan Manuel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Manuel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719918
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a50e6ed4850be2162ea8057a15782da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686137,
+            "locality_id":1326925283,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1326925283,
+    "wof:lastmodified":1537626017,
+    "wof:name":"Nan Manuel",
+    "wof:parent_id":1091686137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15355,
+    19.31882,
+    -72.15355,
+    19.31882
+],
+  "geometry": {"coordinates":[-72.15355,19.31882],"type":"Point"}
+}

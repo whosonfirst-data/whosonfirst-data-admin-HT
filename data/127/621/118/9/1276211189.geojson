@@ -1,0 +1,67 @@
+{
+  "id": 1276211189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08333,19.45,-72.08333,19.45",
+    "geom:latitude":19.45,
+    "geom:longitude":-72.08333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Desole",
+    "gn:country_code":"HT",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726583,
+    "gn:latitude":19.45,
+    "gn:longitude":-72.08333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"D\u00e9sol\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726583
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"47efa902f1f5dfc1cfa8149e45006053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1276211189,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1276211189,
+    "wof:lastmodified":1536943343,
+    "wof:name":"Desole",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08333,
+    19.45,
+    -72.08333,
+    19.45
+],
+  "geometry": {"coordinates":[-72.08333,19.45],"type":"Point"}
+}

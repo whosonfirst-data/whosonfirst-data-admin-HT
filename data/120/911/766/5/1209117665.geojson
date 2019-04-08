@@ -1,0 +1,62 @@
+{
+  "id": 1209117665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78333,19.85,-72.78333,19.85",
+    "geom:latitude":19.85,
+    "geom:longitude":-72.78333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Nan Viel",
+    "gn:country_code":"HT",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719636,
+    "gn:latitude":19.85,
+    "gn:longitude":-72.78333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Viel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719636
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fc2375c058a5b392e9d729452f92ecd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209117665
+        }
+    ],
+    "wof:id":1209117665,
+    "wof:lastmodified":1536297205,
+    "wof:name":"Nan Viel",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78333,
+    19.85,
+    -72.78333,
+    19.85
+],
+  "geometry": {"coordinates":[-72.78333000000001,19.85],"type":"Point"}
+}

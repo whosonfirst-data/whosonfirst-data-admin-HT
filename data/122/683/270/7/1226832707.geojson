@@ -1,0 +1,71 @@
+{
+  "id": 1226832707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.18724,18.48308,-74.18724,18.48308",
+    "geom:latitude":18.48308,
+    "geom:longitude":-74.18724,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Grand Dolle",
+    "gn:country_code":"HT",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724548,
+    "gn:latitude":18.48308,
+    "gn:longitude":-74.18724,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Grand Dolle",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand Dolle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724548
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f516da20b117b204086e394ce76e9e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1226832707,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1226832707,
+    "wof:lastmodified":1537626077,
+    "wof:name":"Grand Dolle",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.18724,
+    18.48308,
+    -74.18724,
+    18.48308
+],
+  "geometry": {"coordinates":[-74.18724,18.48308],"type":"Point"}
+}

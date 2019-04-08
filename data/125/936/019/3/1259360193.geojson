@@ -1,0 +1,67 @@
+{
+  "id": 1259360193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03333,18.28333,-73.03333,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-73.03333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Fond Pin Paris",
+    "gn:country_code":"HT",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725267,
+    "gn:latitude":18.28333,
+    "gn:longitude":-73.03333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Fond Pin Paris",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725267
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d7326e3a17b8a7b828ae95181e320302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1259360193,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1259360193,
+    "wof:lastmodified":1537034351,
+    "wof:name":"Fond Pin Paris",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03333,
+    18.28333,
+    -73.03333,
+    18.28333
+],
+  "geometry": {"coordinates":[-73.03333000000001,18.28333],"type":"Point"}
+}

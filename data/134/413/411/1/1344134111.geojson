@@ -1,0 +1,68 @@
+{
+  "id": 1344134111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95,18.23333,-73.95,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-73.95,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Mathieux",
+    "gn:country_code":"HT",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721130,
+    "gn:latitude":18.23333,
+    "gn:longitude":-73.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mathieux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721130
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e5fe71d2ad2de281c5c1727ffd9dc1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1344134111,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1344134111,
+    "wof:lastmodified":1536769871,
+    "wof:name":"Mathieux",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95,
+    18.23333,
+    -73.95,
+    18.23333
+],
+  "geometry": {"coordinates":[-73.95,18.23333],"type":"Point"}
+}

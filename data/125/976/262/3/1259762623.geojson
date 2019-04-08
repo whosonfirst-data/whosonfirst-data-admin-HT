@@ -1,0 +1,71 @@
+{
+  "id": 1259762623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21281,18.34254,-72.21281,18.34254",
+    "geom:latitude":18.34254,
+    "geom:longitude":-72.21281,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Mare Kadeneau",
+    "gn:country_code":"HT",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721430,
+    "gn:latitude":18.34254,
+    "gn:longitude":-72.21281,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mare Kadeneau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mare Kadeneau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721430
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e82c9f36dfcef6a9e1cc29a28dea759e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1259762623,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1259762623,
+    "wof:lastmodified":1537626034,
+    "wof:name":"Mare Kadeneau",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21281,
+    18.34254,
+    -72.21281,
+    18.34254
+],
+  "geometry": {"coordinates":[-72.21281,18.34254],"type":"Point"}
+}

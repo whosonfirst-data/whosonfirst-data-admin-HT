@@ -1,0 +1,65 @@
+{
+  "id": 1209201775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86285,18.16911,-73.86285,18.16911",
+    "geom:latitude":18.16911,
+    "geom:longitude":-73.86285,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"La Force",
+    "gn:country_code":"HT",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723065,
+    "gn:latitude":18.16911,
+    "gn:longitude":-73.86285,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"La Force",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Force"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723065
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"61888b26c3e2faf866063635ab6e78d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209201775
+        }
+    ],
+    "wof:id":1209201775,
+    "wof:lastmodified":1537626058,
+    "wof:name":"La Force",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86285,
+    18.16911,
+    -73.86285,
+    18.16911
+],
+  "geometry": {"coordinates":[-73.86284999999999,18.16911],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209292535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.0,18.51667,-72.0,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":-72.0,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Grand Acul",
+    "gn:country_code":"HT",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724616,
+    "gn:latitude":18.51667,
+    "gn:longitude":-72.0,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Grand Acul",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724616
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4c87f807eec1b8fe1e542391d20f5a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209292535
+        }
+    ],
+    "wof:id":1209292535,
+    "wof:lastmodified":1536291643,
+    "wof:name":"Grand Acul",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.0,
+    18.51667,
+    -72.0,
+    18.51667
+],
+  "geometry": {"coordinates":[-72.0,18.51667],"type":"Point"}
+}

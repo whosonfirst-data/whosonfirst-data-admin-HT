@@ -1,0 +1,71 @@
+{
+  "id": 1243149321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.11172,18.23164,-73.11172,18.23164",
+    "geom:latitude":18.23164,
+    "geom:longitude":-73.11172,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Vibert",
+    "gn:country_code":"HT",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718289,
+    "gn:latitude":18.23164,
+    "gn:longitude":-73.11172,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Vibert",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puits Vibert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718289
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"192b7696b08d2125de11d497e8f52814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1243149321,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1243149321,
+    "wof:lastmodified":1537625996,
+    "wof:name":"Vibert",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.11171999999998,
+    18.23164,
+    -73.11171999999998,
+    18.23164
+],
+  "geometry": {"coordinates":[-73.11171999999998,18.23164],"type":"Point"}
+}

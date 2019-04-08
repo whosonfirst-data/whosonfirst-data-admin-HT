@@ -1,0 +1,62 @@
+{
+  "id": 1209693173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.05,18.33333,-74.05,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-74.05,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Dorce",
+    "gn:country_code":"HT",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726250,
+    "gn:latitude":18.33333,
+    "gn:longitude":-74.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dorc\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726250
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"487fa49e91b4693690a71e049a4eb37e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209693173
+        }
+    ],
+    "wof:id":1209693173,
+    "wof:lastmodified":1536279168,
+    "wof:name":"Dorce",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.05,
+    18.33333,
+    -74.05,
+    18.33333
+],
+  "geometry": {"coordinates":[-74.05,18.33333],"type":"Point"}
+}

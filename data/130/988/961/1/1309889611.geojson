@@ -1,0 +1,68 @@
+{
+  "id": 1309889611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88333,19.65,-71.88333,19.65",
+    "geom:latitude":19.65,
+    "geom:longitude":-71.88333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Bodin",
+    "gn:country_code":"HT",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729922,
+    "gn:latitude":19.65,
+    "gn:longitude":-71.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bodin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729922
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7f1cfc56a90e2919c856bab936715e5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1309889611,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1309889611,
+    "wof:lastmodified":1536809892,
+    "wof:name":"Bodin",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88333,
+    19.65,
+    -71.88333,
+    19.65
+],
+  "geometry": {"coordinates":[-71.88333,19.65],"type":"Point"}
+}

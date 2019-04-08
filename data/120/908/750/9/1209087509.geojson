@@ -1,0 +1,67 @@
+{
+  "id": 1209087509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5677,18.82271,-72.5677,18.82271",
+    "geom:latitude":18.82271,
+    "geom:longitude":-72.5677,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Corridor Gangny",
+    "gn:country_code":"HT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727311,
+    "gn:latitude":18.82271,
+    "gn:longitude":-72.5677,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Corridor Gangny",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangny",
+        "Corridor Gangny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727311,
+        "wk:page":"Corridor_Gangny"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"71901709162e880fd785ddc9f7a751bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209087509
+        }
+    ],
+    "wof:id":1209087509,
+    "wof:lastmodified":1537626111,
+    "wof:name":"Corridor Gangny",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5677,
+    18.82271,
+    -72.5677,
+    18.82271
+],
+  "geometry": {"coordinates":[-72.5677,18.82271],"type":"Point"}
+}

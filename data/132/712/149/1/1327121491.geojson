@@ -1,0 +1,73 @@
+{
+  "id": 1327121491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03332,18.22704,-73.03332,18.22704",
+    "geom:latitude":18.22704,
+    "geom:longitude":-73.03332,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Corail Lherisson",
+    "gn:country_code":"HT",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727360,
+    "gn:latitude":18.22704,
+    "gn:longitude":-73.03332,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Corail Lh\u00e9risson",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Corail Jolibois",
+        "Corail Lh\u00e9rison",
+        "Corail Lh\u00e9risson"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727360
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d9669e5a402acb02ca0d2a6cc0fa1037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1327121491,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1327121491,
+    "wof:lastmodified":1537626112,
+    "wof:name":"Corail Lherisson",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03331999999997,
+    18.22704,
+    -73.03331999999997,
+    18.22704
+],
+  "geometry": {"coordinates":[-73.03331999999997,18.22704],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259566997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86667,19.33333,-71.86667,19.33333",
+    "geom:latitude":19.33333,
+    "geom:longitude":-71.86667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716114.0",
+    "gn:asciiname":"Nan Toussaint",
+    "gn:country_code":"HT",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719648,
+    "gn:latitude":19.33333,
+    "gn:longitude":-71.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Toussaint",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719648
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"13de5c08348fcad9f452647b1287a476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687119,
+            "locality_id":1259566997,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1259566997,
+    "wof:lastmodified":1536738550,
+    "wof:name":"Nan Toussaint",
+    "wof:parent_id":1091687119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86667,
+    19.33333,
+    -71.86667,
+    19.33333
+],
+  "geometry": {"coordinates":[-71.86667,19.33333],"type":"Point"}
+}

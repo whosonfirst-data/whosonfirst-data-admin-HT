@@ -1,0 +1,71 @@
+{
+  "id": 1260264079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88413,18.71156,-71.88413,18.71156",
+    "geom:latitude":18.71156,
+    "geom:longitude":-71.88413,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Napipe",
+    "gn:country_code":"HT",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719613,
+    "gn:latitude":18.71156,
+    "gn:longitude":-71.88413,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Napipe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Napipe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719613
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"efb4ad607a030b2ab1f2212e75ee37a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1260264079,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1260264079,
+    "wof:lastmodified":1537626012,
+    "wof:name":"Napipe",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88413,
+    18.71156,
+    -71.88413,
+    18.71156
+],
+  "geometry": {"coordinates":[-71.88413,18.71156],"type":"Point"}
+}

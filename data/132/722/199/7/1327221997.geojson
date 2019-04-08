@@ -1,0 +1,71 @@
+{
+  "id": 1327221997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45138,18.75707,-72.45138,18.75707",
+    "geom:latitude":18.75707,
+    "geom:longitude":-72.45138,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Leveque",
+    "gn:country_code":"HT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722198,
+    "gn:latitude":18.75707,
+    "gn:longitude":-72.45138,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"L\u00e9v\u00eaque",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u00e9v\u00eaque"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722198
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bf936c1100a0e47c0cec8957f2271cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1327221997,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327221997,
+    "wof:lastmodified":1537626045,
+    "wof:name":"Leveque",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45138,
+    18.75707,
+    -72.45138,
+    18.75707
+],
+  "geometry": {"coordinates":[-72.45138,18.75707],"type":"Point"}
+}

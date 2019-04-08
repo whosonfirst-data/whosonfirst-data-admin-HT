@@ -1,0 +1,68 @@
+{
+  "id": 1243049271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18333,18.45,-72.18333,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-72.18333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Bois Boulalile",
+    "gn:country_code":"HT",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729880,
+    "gn:latitude":18.45,
+    "gn:longitude":-72.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bois Boulalile",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729880
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"346c4d4f45e267774d9535fd95bb1517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1243049271,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1243049271,
+    "wof:lastmodified":1536880392,
+    "wof:name":"Bois Boulalile",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18333,
+    18.45,
+    -72.18333,
+    18.45
+],
+  "geometry": {"coordinates":[-72.18333,18.45],"type":"Point"}
+}

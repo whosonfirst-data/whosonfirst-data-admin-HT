@@ -1,0 +1,68 @@
+{
+  "id": 1243575671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85,18.75,-71.85,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":-71.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Mataprete",
+    "gn:country_code":"HT",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721159,
+    "gn:latitude":18.75,
+    "gn:longitude":-71.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mataprete",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721159
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"04e9be224993a074f2169ba4a723114d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1243575671,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1243575671,
+    "wof:lastmodified":1536617173,
+    "wof:name":"Mataprete",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85,
+    18.75,
+    -71.85,
+    18.75
+],
+  "geometry": {"coordinates":[-71.84999999999999,18.75],"type":"Point"}
+}

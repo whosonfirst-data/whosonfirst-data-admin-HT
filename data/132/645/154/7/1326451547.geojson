@@ -1,0 +1,68 @@
+{
+  "id": 1326451547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.73333,18.86972,-71.73333,18.86972",
+    "geom:latitude":18.86972,
+    "geom:longitude":-71.73333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Mais Graisse",
+    "gn:country_code":"HT",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721716,
+    "gn:latitude":18.86972,
+    "gn:longitude":-71.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ma\u00efs Graisse",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721716
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fed5bb0afed7ac203a9f68e623949210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1326451547,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1326451547,
+    "wof:lastmodified":1536600151,
+    "wof:name":"Mais Graisse",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.73333000000002,
+    18.86972,
+    -71.73333000000002,
+    18.86972
+],
+  "geometry": {"coordinates":[-71.73333000000002,18.86972],"type":"Point"}
+}

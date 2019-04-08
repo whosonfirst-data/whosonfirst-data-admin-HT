@@ -1,0 +1,70 @@
+{
+  "id": 1259361141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8705,18.40319,-71.8705,18.40319",
+    "geom:latitude":18.40319,
+    "geom:longitude":-71.8705,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haut Morne",
+    "gn:country_code":"HT",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723892,
+    "gn:latitude":18.40319,
+    "gn:longitude":-71.8705,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Haut Morne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Haut Morne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723892
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2e0ee0bbbaedb462030979a86d6cf73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1259361141,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259361141,
+    "wof:lastmodified":1537626069,
+    "wof:name":"Haut Morne",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8705,
+    18.40319,
+    -71.8705,
+    18.40319
+],
+  "geometry": {"coordinates":[-71.87050000000001,18.40319],"type":"Point"}
+}

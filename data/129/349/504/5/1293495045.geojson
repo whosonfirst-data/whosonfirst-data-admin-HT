@@ -1,0 +1,61 @@
+{
+  "id": 1293495045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78333,20.01667,-72.78333,20.01667",
+    "geom:latitude":20.01667,
+    "geom:longitude":-72.78333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Grand Mane",
+    "gn:country_code":"HT",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724312,
+    "gn:latitude":20.01667,
+    "gn:longitude":-72.78333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Grand Mane",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724312
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fa16cd13f7054b8bef3067e2b4b405d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293495045,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293495045,
+    "wof:lastmodified":1536776692,
+    "wof:name":"Grand Mane",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78333,
+    20.01667,
+    -72.78333,
+    20.01667
+],
+  "geometry": {"coordinates":[-72.78333000000001,20.01667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309876165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.36667,18.36667,-73.36667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-73.36667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Paul",
+    "gn:country_code":"HT",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719180,
+    "gn:latitude":18.36667,
+    "gn:longitude":-73.36667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paul",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719180
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d280250def6bea5a8ae93ab3308d179f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1309876165,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1309876165,
+    "wof:lastmodified":1536828844,
+    "wof:name":"Paul",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.36667,
+    18.36667000000001,
+    -73.36667,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[-73.36667,18.36667000000001],"type":"Point"}
+}

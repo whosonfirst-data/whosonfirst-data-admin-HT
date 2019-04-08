@@ -1,0 +1,67 @@
+{
+  "id": 1293677141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95,18.63333,-71.95,18.63333",
+    "geom:latitude":18.63333,
+    "geom:longitude":-71.95,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Louitte",
+    "gn:country_code":"HT",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721957,
+    "gn:latitude":18.63333,
+    "gn:longitude":-71.95,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Louitte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670597,
+        890455317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721957
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"431dd1d2714c56066efbf0af65804670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890455317,
+            "locality_id":1293677141,
+            "region_id":85670597
+        }
+    ],
+    "wof:id":1293677141,
+    "wof:lastmodified":1537010246,
+    "wof:name":"Louitte",
+    "wof:parent_id":890455317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95,
+    18.63333,
+    -71.95,
+    18.63333
+],
+  "geometry": {"coordinates":[-71.95,18.63333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1226625119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13333,18.66667,-74.13333,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-74.13333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Clareau",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727644,
+    "gn:latitude":18.66667,
+    "gn:longitude":-74.13333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Clareau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727644
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7537249588e7d261be6a9c9c3e117d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226625119,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226625119,
+    "wof:lastmodified":1536888850,
+    "wof:name":"Clareau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13333,
+    18.66667,
+    -74.13333,
+    18.66667
+],
+  "geometry": {"coordinates":[-74.13333,18.66667],"type":"Point"}
+}

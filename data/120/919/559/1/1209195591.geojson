@@ -1,0 +1,66 @@
+{
+  "id": 1209195591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.50193,18.90523,-72.50193,18.90523",
+    "geom:latitude":18.90523,
+    "geom:longitude":-72.50193,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Ca Poule",
+    "gn:country_code":"HT",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728448,
+    "gn:latitude":18.90523,
+    "gn:longitude":-72.50193,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ca Poule",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka Poule",
+        "Ca Poule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728448
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a24760b34214feff50ee769d803ab44d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209195591
+        }
+    ],
+    "wof:id":1209195591,
+    "wof:lastmodified":1537626124,
+    "wof:name":"Ca Poule",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.50193,
+    18.90523,
+    -72.50193,
+    18.90523
+],
+  "geometry": {"coordinates":[-72.50193,18.90523],"type":"Point"}
+}

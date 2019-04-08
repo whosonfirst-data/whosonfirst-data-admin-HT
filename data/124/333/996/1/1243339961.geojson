@@ -1,0 +1,71 @@
+{
+  "id": 1243339961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.65136,18.28761,-72.65136,18.28761",
+    "geom:latitude":18.28761,
+    "geom:longitude":-72.65136,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Nan Boyer",
+    "gn:country_code":"HT",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720276,
+    "gn:latitude":18.28761,
+    "gn:longitude":-72.65136,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nan Boyer",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Boyer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720276
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8718c8d2d9352351317f4f84d35fcc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1243339961,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1243339961,
+    "wof:lastmodified":1537626022,
+    "wof:name":"Nan Boyer",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.65136,
+    18.28761,
+    -72.65136,
+    18.28761
+],
+  "geometry": {"coordinates":[-72.65136,18.28761],"type":"Point"}
+}

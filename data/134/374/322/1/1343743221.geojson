@@ -1,0 +1,68 @@
+{
+  "id": 1343743221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.68333,18.38333,-72.68333,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-72.68333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Jeudy",
+    "gn:country_code":"HT",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723578,
+    "gn:latitude":18.38333,
+    "gn:longitude":-72.68333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Jeudy",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723578
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7e630fa786caf0c9ecb0f82d813b50f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1343743221,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1343743221,
+    "wof:lastmodified":1536834752,
+    "wof:name":"Jeudy",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.68333,
+    18.38333,
+    -72.68333,
+    18.38333
+],
+  "geometry": {"coordinates":[-72.68333,18.38333],"type":"Point"}
+}

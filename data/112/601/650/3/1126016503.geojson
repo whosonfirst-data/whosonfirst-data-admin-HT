@@ -1,0 +1,109 @@
+{
+  "id": 1126016503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4,18.28333,-73.4,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-73.4,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":5246,
+    "gn:population":5246,
+    "iso:country":"HT",
+    "lbl:latitude":18.28333,
+    "lbl:longitude":-73.4,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0648\u064a\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Aquin"
+    ],
+    "name:eng_x_preferred":[
+        "Aquin"
+    ],
+    "name:fre_x_preferred":[
+        "Aquin"
+    ],
+    "name:ger_x_preferred":[
+        "Aquin"
+    ],
+    "name:hat_x_preferred":[
+        "Aken"
+    ],
+    "name:ita_x_preferred":[
+        "Aquin"
+    ],
+    "name:por_x_preferred":[
+        "Aquin"
+    ],
+    "name:rum_x_preferred":[
+        "Aquin"
+    ],
+    "name:spa_x_preferred":[
+        "Aquin"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3731095,
+    "qs_pg:gn_pop":5246,
+    "qs_pg:name":"Aquin",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":585429,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731095,
+        "qs_pg:id":585429,
+        "wd:id":"Q2120446"
+    },
+    "wof:country":"HT",
+    "wof:created":1497300582,
+    "wof:geomhash":"cc0b37eca1c1b826db0fb488cc498550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1126016503,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1126016503,
+    "wof:lastmodified":1514447764,
+    "wof:name":"Aquin",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:population":5246,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4,
+    18.28333,
+    -73.4,
+    18.28333
+],
+  "geometry": {"coordinates":[-73.40000000000001,18.28333],"type":"Point"}
+}

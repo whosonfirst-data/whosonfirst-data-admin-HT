@@ -1,0 +1,63 @@
+{
+  "id": 1193159271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.7,19.45,-72.7,19.45",
+    "geom:latitude":19.45,
+    "geom:longitude":-72.7,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Phaeton",
+    "gn:country_code":"HT",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718925,
+    "gn:latitude":19.45,
+    "gn:longitude":-72.7,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Pha\u00e9ton",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718925
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"be024fb1aa309f070de19706b88f75b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1193159271,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193159271,
+    "wof:lastmodified":1536369787,
+    "wof:name":"Phaeton",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.7,
+    19.45,
+    -72.7,
+    19.45
+],
+  "geometry": {"coordinates":[-72.7,19.45],"type":"Point"}
+}

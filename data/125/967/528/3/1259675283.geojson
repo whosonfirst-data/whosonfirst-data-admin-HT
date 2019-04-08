@@ -1,0 +1,72 @@
+{
+  "id": 1259675283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.04622,18.9508,-72.04622,18.9508",
+    "geom:latitude":18.9508,
+    "geom:longitude":-72.04622,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Bois Joli",
+    "gn:country_code":"HT",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729759,
+    "gn:latitude":18.9508,
+    "gn:longitude":-72.04622,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bois Joli",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bois Joly",
+        "Bois Joli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729759
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a0818a26f6ba1a9790713a3b6b9b52ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1259675283,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1259675283,
+    "wof:lastmodified":1537626141,
+    "wof:name":"Bois Joli",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.04621999999998,
+    18.9508,
+    -72.04621999999998,
+    18.9508
+],
+  "geometry": {"coordinates":[-72.04621999999998,18.9508],"type":"Point"}
+}

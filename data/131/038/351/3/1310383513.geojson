@@ -1,0 +1,73 @@
+{
+  "id": 1310383513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32527,18.61073,-72.32527,18.61073",
+    "geom:latitude":18.61073,
+    "geom:longitude":-72.32527,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Bassan",
+    "gn:country_code":"HT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730663,
+    "gn:latitude":18.61073,
+    "gn:longitude":-72.32527,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bassan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bassin",
+        "Basan",
+        "Bassan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730663
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"62e6bd36eba9272475d72a9d705dfeb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1310383513,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310383513,
+    "wof:lastmodified":1537626153,
+    "wof:name":"Bassan",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32526999999997,
+    18.61073,
+    -72.32526999999997,
+    18.61073
+],
+  "geometry": {"coordinates":[-72.32526999999997,18.61073],"type":"Point"}
+}

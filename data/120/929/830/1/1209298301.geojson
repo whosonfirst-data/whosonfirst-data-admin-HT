@@ -1,0 +1,64 @@
+{
+  "id": 1209298301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03545,19.6053,-72.03545,19.6053",
+    "geom:latitude":19.6053,
+    "geom:longitude":-72.03545,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Garde Campeche",
+    "gn:country_code":"HT",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724962,
+    "gn:latitude":19.6053,
+    "gn:longitude":-72.03545,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Garde Camp\u00eache",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Garde Camp\u00eache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724962
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"29c351cd573827e9b716f25d942f425c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209298301
+        }
+    ],
+    "wof:id":1209298301,
+    "wof:lastmodified":1537626082,
+    "wof:name":"Garde Campeche",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03545,
+    19.6053,
+    -72.03545,
+    19.6053
+],
+  "geometry": {"coordinates":[-72.03545,19.6053],"type":"Point"}
+}

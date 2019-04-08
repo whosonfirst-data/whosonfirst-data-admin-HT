@@ -1,0 +1,68 @@
+{
+  "id": 1292928065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.55,18.96667,-72.55,18.96667",
+    "geom:latitude":18.96667,
+    "geom:longitude":-72.55,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Batolme",
+    "gn:country_code":"HT",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730576,
+    "gn:latitude":18.96667,
+    "gn:longitude":-72.55,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Batolme",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730576
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bb17bd70c5432f562f0d6eca965c0d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1292928065,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1292928065,
+    "wof:lastmodified":1537093440,
+    "wof:name":"Batolme",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.55,
+    18.96667,
+    -72.55,
+    18.96667
+],
+  "geometry": {"coordinates":[-72.55,18.96667],"type":"Point"}
+}

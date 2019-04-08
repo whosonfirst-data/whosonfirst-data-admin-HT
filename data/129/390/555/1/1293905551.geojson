@@ -1,0 +1,71 @@
+{
+  "id": 1293905551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.67432,19.21051,-72.67432,19.21051",
+    "geom:latitude":19.21051,
+    "geom:longitude":-72.67432,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Jacques",
+    "gn:country_code":"HT",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723761,
+    "gn:latitude":19.21051,
+    "gn:longitude":-72.67432,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Jacques",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jacques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723761
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"203960569987d01a3bbf53069a2a4d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1293905551,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1293905551,
+    "wof:lastmodified":1537626068,
+    "wof:name":"Jacques",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.67432,
+    19.21051,
+    -72.67432,
+    19.21051
+],
+  "geometry": {"coordinates":[-72.67431999999999,19.21051],"type":"Point"}
+}

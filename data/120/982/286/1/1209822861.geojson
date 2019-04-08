@@ -1,0 +1,68 @@
+{
+  "id": 1209822861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78333,19.81667,-72.78333,19.81667",
+    "geom:latitude":19.81667,
+    "geom:longitude":-72.78333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Paillette Grace",
+    "gn:country_code":"HT",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719393,
+    "gn:latitude":19.81667,
+    "gn:longitude":-72.78333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Paillette Grace",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719393
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8fcb93c481c1dc6e12b92067aa421a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1209822861,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1209822861,
+    "wof:lastmodified":1536376861,
+    "wof:name":"Paillette Grace",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78333,
+    19.81667,
+    -72.78333,
+    19.81667
+],
+  "geometry": {"coordinates":[-72.78333000000001,19.81667],"type":"Point"}
+}

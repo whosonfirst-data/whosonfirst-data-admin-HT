@@ -1,0 +1,62 @@
+{
+  "id": 1209406605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18333,18.88333,-72.18333,18.88333",
+    "geom:latitude":18.88333,
+    "geom:longitude":-72.18333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Charles Provo",
+    "gn:country_code":"HT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727875,
+    "gn:latitude":18.88333,
+    "gn:longitude":-72.18333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Charles Provo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727875
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d2d97e6bcf4fb7b2c9bf7920a3b8ef4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209406605
+        }
+    ],
+    "wof:id":1209406605,
+    "wof:lastmodified":1536287976,
+    "wof:name":"Charles Provo",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18333,
+    18.88333,
+    -72.18333,
+    18.88333
+],
+  "geometry": {"coordinates":[-72.18333,18.88333],"type":"Point"}
+}

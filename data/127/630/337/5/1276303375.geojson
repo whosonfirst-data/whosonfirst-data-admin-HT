@@ -1,0 +1,71 @@
+{
+  "id": 1276303375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.11648,18.50297,-74.11648,18.50297",
+    "geom:latitude":18.50297,
+    "geom:longitude":-74.11648,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Marcel",
+    "gn:country_code":"HT",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721529,
+    "gn:latitude":18.50297,
+    "gn:longitude":-74.11648,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Marcel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Marcel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721529
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2567052f96d348556381c08b5982448f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1276303375,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1276303375,
+    "wof:lastmodified":1537626035,
+    "wof:name":"Marcel",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.11648000000002,
+    18.50297,
+    -74.11648000000002,
+    18.50297
+],
+  "geometry": {"coordinates":[-74.11648000000002,18.50297],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259478875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51667,19.25,-72.51667,19.25",
+    "geom:latitude":19.25,
+    "geom:longitude":-72.51667,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Coquiere",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727437,
+    "gn:latitude":19.25,
+    "gn:longitude":-72.51667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coqui\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pont Coffi\u00e8res",
+        "Coqui\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727437
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"30897f8ba7a95ab0d16e847765ac26e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1259478875,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1259478875,
+    "wof:lastmodified":1537626112,
+    "wof:name":"Coquiere",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51666999999998,
+    19.25,
+    -72.51666999999998,
+    19.25
+],
+  "geometry": {"coordinates":[-72.51666999999998,19.25],"type":"Point"}
+}

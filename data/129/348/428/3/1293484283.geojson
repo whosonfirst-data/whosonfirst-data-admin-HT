@@ -1,0 +1,75 @@
+{
+  "id": 1293484283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2177,18.82376,-72.2177,18.82376",
+    "geom:latitude":18.82376,
+    "geom:longitude":-72.2177,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Sodo",
+    "gn:country_code":"HT",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723879,
+    "gn:latitude":18.82376,
+    "gn:longitude":-72.2177,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sodo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Sodo"
+    ],
+    "name:und_x_variant":[
+        "Haut Saut d\u2019Eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723879,
+        "wk:page":"Saut-d%27Eau"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2b43456740c3f527ca8322b28fd0b661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1293484283,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293484283,
+    "wof:lastmodified":1537626069,
+    "wof:name":"Sodo",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2177,
+    18.82376,
+    -72.2177,
+    18.82376
+],
+  "geometry": {"coordinates":[-72.21769999999999,18.82376],"type":"Point"}
+}

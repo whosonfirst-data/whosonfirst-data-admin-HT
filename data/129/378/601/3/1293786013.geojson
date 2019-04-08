@@ -1,0 +1,71 @@
+{
+  "id": 1293786013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.96627,19.85212,-72.96627,19.85212",
+    "geom:latitude":19.85212,
+    "geom:longitude":-72.96627,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Piton Mouri",
+    "gn:country_code":"HT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718752,
+    "gn:latitude":19.85212,
+    "gn:longitude":-72.96627,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Piton Mouri",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Piton Mouri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718752
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b084583f24669bb8d325ca08f8c4b14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1293786013,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1293786013,
+    "wof:lastmodified":1537626002,
+    "wof:name":"Piton Mouri",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.96627,
+    19.85212000000001,
+    -72.96627,
+    19.85212000000001
+],
+  "geometry": {"coordinates":[-72.96626999999999,19.85212000000001],"type":"Point"}
+}

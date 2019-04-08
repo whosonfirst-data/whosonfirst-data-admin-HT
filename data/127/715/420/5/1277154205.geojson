@@ -1,0 +1,71 @@
+{
+  "id": 1277154205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71044,18.33193,-73.71044,18.33193",
+    "geom:latitude":18.33193,
+    "geom:longitude":-73.71044,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Nan Coton",
+    "gn:country_code":"HT",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720166,
+    "gn:latitude":18.33193,
+    "gn:longitude":-73.71044,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Nan Coton",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Coton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720166
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"99f42aa39ab4ee32b3a1cd5ec6f04f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1277154205,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1277154205,
+    "wof:lastmodified":1537626020,
+    "wof:name":"Nan Coton",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71044,
+    18.33193,
+    -73.71044,
+    18.33193
+],
+  "geometry": {"coordinates":[-73.71044000000001,18.33193],"type":"Point"}
+}

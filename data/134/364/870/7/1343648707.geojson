@@ -1,0 +1,75 @@
+{
+  "id": 1343648707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.29686,18.34164,-74.29686,18.34164",
+    "geom:latitude":18.34164,
+    "geom:longitude":-74.29686,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Nan Sevre",
+    "gn:country_code":"HT",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719680,
+    "gn:latitude":18.34164,
+    "gn:longitude":-74.29686,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nan S\u00e9vr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan S\u00e9vr\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Sevr\u00e9",
+        "Nan Sevr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719680
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a9e000829b86144f8f4c9deba36cbedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686503,
+            "locality_id":1343648707,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1343648707,
+    "wof:lastmodified":1537626013,
+    "wof:name":"Nan Sevre",
+    "wof:parent_id":1091686503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.29686,
+    18.34164,
+    -74.29686,
+    18.34164
+],
+  "geometry": {"coordinates":[-74.29686,18.34164],"type":"Point"}
+}

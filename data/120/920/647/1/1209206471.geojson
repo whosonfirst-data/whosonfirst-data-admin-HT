@@ -1,0 +1,67 @@
+{
+  "id": 1209206471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20193,18.81598,-72.20193,18.81598",
+    "geom:latitude":18.81598,
+    "geom:longitude":-72.20193,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Ville Bonheur",
+    "gn:country_code":"HT",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715941,
+    "gn:latitude":18.81598,
+    "gn:longitude":-72.20193,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ville Bonheur",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saut d\u2019Eau",
+        "Saut d\u2019Eau de Ville Bonheur",
+        "Ville Bonheur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715941
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f1c1ef1b41da56b4777761467f1f16ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209206471
+        }
+    ],
+    "wof:id":1209206471,
+    "wof:lastmodified":1537625969,
+    "wof:name":"Ville Bonheur",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20193,
+    18.81598,
+    -72.20193,
+    18.81598
+],
+  "geometry": {"coordinates":[-72.20193,18.81598],"type":"Point"}
+}

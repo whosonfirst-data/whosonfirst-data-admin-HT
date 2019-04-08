@@ -1,0 +1,71 @@
+{
+  "id": 1243251565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20935,18.91416,-73.20935,18.91416",
+    "geom:latitude":18.91416,
+    "geom:longitude":-73.20935,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Tomarin",
+    "gn:country_code":"HT",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716422,
+    "gn:latitude":18.91416,
+    "gn:longitude":-73.20935,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tomarin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tomarin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716422
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"710e6c54bbf4879d87a6065b2868ed84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1243251565,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1243251565,
+    "wof:lastmodified":1537625975,
+    "wof:name":"Tomarin",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20935,
+    18.91416,
+    -73.20935,
+    18.91416
+],
+  "geometry": {"coordinates":[-73.20935,18.91416],"type":"Point"}
+}

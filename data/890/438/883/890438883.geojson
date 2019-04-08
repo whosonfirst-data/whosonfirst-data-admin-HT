@@ -1,0 +1,102 @@
+{
+  "id": 890438883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.41667,18.38333,-73.41667,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-73.41667,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":778,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0622\u0633\u0644\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "L'Asile"
+    ],
+    "name:eng_x_preferred":[
+        "L'Asile"
+    ],
+    "name:fre_x_preferred":[
+        "L'Asile"
+    ],
+    "name:hat_x_preferred":[
+        "Lazil"
+    ],
+    "name:ita_x_preferred":[
+        "L'Asile"
+    ],
+    "name:por_x_preferred":[
+        "L'Asile"
+    ],
+    "name:rum_x_preferred":[
+        "L'Asile"
+    ],
+    "name:swe_x_preferred":[
+        "Lazil"
+    ],
+    "name:unk_x_variant":[
+        "Asile"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u06cc\u0644\u06cc"
+    ],
+    "qs:name":"L\u2019Asile",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":48,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722563,
+        "gp:id":56125992,
+        "qs:id":1046669,
+        "wd:id":"Q2637906",
+        "wk:page":"L'Asile"
+    },
+    "wof:country":"HT",
+    "wof:created":1469052212,
+    "wof:geomhash":"2046c0c14a0710ab7950f70cb2be5071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":890438883,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":890438883,
+    "wof:lastmodified":1553816398,
+    "wof:name":"L\u2019Asile",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:population":778,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.41667,
+    18.38333,
+    -73.41667,
+    18.38333
+],
+  "geometry": {"coordinates":[-73.41667,18.38333],"type":"Point"}
+}

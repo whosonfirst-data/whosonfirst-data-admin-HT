@@ -1,0 +1,64 @@
+{
+  "id": 1209198849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.65925,19.78238,-72.65925,19.78238",
+    "geom:latitude":19.78238,
+    "geom:longitude":-72.65925,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cher Maitre",
+    "gn:country_code":"HT",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727766,
+    "gn:latitude":19.78238,
+    "gn:longitude":-72.65925,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Cher Ma\u00eetre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cher Ma\u00eetre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727766
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2cd808a3d05819fb8bdb1988c236688f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209198849
+        }
+    ],
+    "wof:id":1209198849,
+    "wof:lastmodified":1537626116,
+    "wof:name":"Cher Maitre",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.65925,
+    19.78238,
+    -72.65925,
+    19.78238
+],
+  "geometry": {"coordinates":[-72.65925,19.78238],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343739399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86667,18.11667,-73.86667,18.11667",
+    "geom:latitude":18.11667,
+    "geom:longitude":-73.86667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"Beaudouin",
+    "gn:country_code":"HT",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730491,
+    "gn:latitude":18.11667,
+    "gn:longitude":-73.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Beaudouin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730491
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"eb49c946982933c8ef714a754e95eb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1343739399,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1343739399,
+    "wof:lastmodified":1536840261,
+    "wof:name":"Beaudouin",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86667,
+    18.11667000000001,
+    -73.86667,
+    18.11667000000001
+],
+  "geometry": {"coordinates":[-73.86667,18.11667000000001],"type":"Point"}
+}

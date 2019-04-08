@@ -1,0 +1,68 @@
+{
+  "id": 1360265367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76667,18.33333,-73.76667,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-73.76667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Rigaud",
+    "gn:country_code":"HT",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718010,
+    "gn:latitude":18.33333,
+    "gn:longitude":-73.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rigaud",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718010
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0401e949df205443bdc730a3b96efcd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1360265367,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1360265367,
+    "wof:lastmodified":1536685623,
+    "wof:name":"Rigaud",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76666999999998,
+    18.33333,
+    -73.76666999999998,
+    18.33333
+],
+  "geometry": {"coordinates":[-73.76666999999998,18.33333],"type":"Point"}
+}

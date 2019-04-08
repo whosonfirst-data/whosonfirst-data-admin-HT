@@ -1,0 +1,71 @@
+{
+  "id": 1343834515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15909,18.31054,-72.15909,18.31054",
+    "geom:latitude":18.31054,
+    "geom:longitude":-72.15909,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Minerve",
+    "gn:country_code":"HT",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720849,
+    "gn:latitude":18.31054,
+    "gn:longitude":-72.15909,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Minerve",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Minerve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720849
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"889fdd661ad4ced62596dbf740b4a367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1343834515,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1343834515,
+    "wof:lastmodified":1537626028,
+    "wof:name":"Minerve",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15909,
+    18.31054,
+    -72.15909,
+    18.31054
+],
+  "geometry": {"coordinates":[-72.15909000000001,18.31054],"type":"Point"}
+}

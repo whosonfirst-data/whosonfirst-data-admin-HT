@@ -1,0 +1,77 @@
+{
+  "id": 1243048215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.69253,18.10507,-73.69253,18.10507",
+    "geom:latitude":18.10507,
+    "geom:longitude":-73.69253,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"KaKok",
+    "gn:country_code":"HT",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728874,
+    "gn:latitude":18.10507,
+    "gn:longitude":-73.69253,
+    "gn:modification_date":"2016-12-17",
+    "gn:name":"KaKok",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Caille Coq"
+    ],
+    "name:und_x_variant":[
+        "Ka Coq",
+        "Cacoq",
+        "Cacor",
+        "Kakok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728874
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d1fb8fcfe02d46f9a4d21717f86646c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1243048215,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1243048215,
+    "wof:lastmodified":1537626131,
+    "wof:name":"KaKok",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.69253,
+    18.10507,
+    -73.69253,
+    18.10507
+],
+  "geometry": {"coordinates":[-73.69253,18.10507],"type":"Point"}
+}

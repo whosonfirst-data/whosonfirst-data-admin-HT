@@ -1,0 +1,71 @@
+{
+  "id": 1209994609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81934,18.79601,-72.81934,18.79601",
+    "geom:latitude":18.79601,
+    "geom:longitude":-72.81934,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Trou a l'Eau",
+    "gn:country_code":"HT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716270,
+    "gn:latitude":18.79601,
+    "gn:longitude":-72.81934,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Trou \u00e0 l\u2019Eau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trou \u00e0 l\u2019Eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716270
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ffb78362ec94b45a39c3e2d521650315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1209994609,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1209994609,
+    "wof:lastmodified":1537625974,
+    "wof:name":"Trou a l'Eau",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81934,
+    18.79601,
+    -72.81934,
+    18.79601
+],
+  "geometry": {"coordinates":[-72.81934,18.79601],"type":"Point"}
+}

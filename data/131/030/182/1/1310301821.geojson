@@ -1,0 +1,71 @@
+{
+  "id": 1310301821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24048,18.86107,-72.24048,18.86107",
+    "geom:latitude":18.86107,
+    "geom:longitude":-72.24048,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Davillier",
+    "gn:country_code":"HT",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726972,
+    "gn:latitude":18.86107,
+    "gn:longitude":-72.24048,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Davillier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Davillier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726972
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"89c52465e9e2c71542a4c99eba8b4ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1310301821,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1310301821,
+    "wof:lastmodified":1537626107,
+    "wof:name":"Davillier",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24048,
+    18.86107,
+    -72.24048,
+    18.86107
+],
+  "geometry": {"coordinates":[-72.24048000000001,18.86107],"type":"Point"}
+}

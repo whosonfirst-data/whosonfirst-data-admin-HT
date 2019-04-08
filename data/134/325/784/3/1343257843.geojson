@@ -1,0 +1,72 @@
+{
+  "id": 1343257843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9862,19.37198,-71.9862,19.37198",
+    "geom:latitude":19.37198,
+    "geom:longitude":-71.9862,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716114.0",
+    "gn:asciiname":"Paques",
+    "gn:country_code":"HT",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719299,
+    "gn:latitude":19.37198,
+    "gn:longitude":-71.9862,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"P\u00e2ques",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan Paques",
+        "P\u00e2ques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719299
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ced17663dcde17e92bedadf5cb69327f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687119,
+            "locality_id":1343257843,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1343257843,
+    "wof:lastmodified":1537626009,
+    "wof:name":"Paques",
+    "wof:parent_id":1091687119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9862,
+    19.37198,
+    -71.9862,
+    19.37198
+],
+  "geometry": {"coordinates":[-71.9862,19.37198],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293870775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33422,18.31919,-74.33422,18.31919",
+    "geom:latitude":18.31919,
+    "geom:longitude":-74.33422,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Conete",
+    "gn:country_code":"HT",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727472,
+    "gn:latitude":18.31919,
+    "gn:longitude":-74.33422,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Conete",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Con\u00e8te"
+    ],
+    "name:und_x_variant":[
+        "Concotte",
+        "Conete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727472
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"58974755309a3857e5e52b026bac3475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686503,
+            "locality_id":1293870775,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293870775,
+    "wof:lastmodified":1537626113,
+    "wof:name":"Conete",
+    "wof:parent_id":1091686503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33422,
+    18.31919,
+    -74.33422,
+    18.31919
+],
+  "geometry": {"coordinates":[-74.33422,18.31919],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1326701147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95644,18.47867,-73.95644,18.47867",
+    "geom:latitude":18.47867,
+    "geom:longitude":-73.95644,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Beaumont",
+    "gn:country_code":"HT",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730472,
+    "gn:latitude":18.47867,
+    "gn:longitude":-73.95644,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Beaumont",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730472,
+        "wk:page":"Beaumont%2C_Grand%27Anse"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"648a96c5dd74c9f47efebeda5b9e5b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1326701147,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1326701147,
+    "wof:lastmodified":1537563345,
+    "wof:name":"Beaumont",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95644,
+    18.47867,
+    -73.95644,
+    18.47867
+],
+  "geometry": {"coordinates":[-73.95644,18.47867],"type":"Point"}
+}

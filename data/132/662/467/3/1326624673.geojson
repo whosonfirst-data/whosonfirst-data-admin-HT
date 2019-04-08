@@ -1,0 +1,71 @@
+{
+  "id": 1326624673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93732,19.0188,-71.93732,19.0188",
+    "geom:latitude":19.0188,
+    "geom:longitude":-71.93732,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Salmadere",
+    "gn:country_code":"HT",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717506,
+    "gn:latitude":19.0188,
+    "gn:longitude":-71.93732,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Salmad\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Salmad\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717506
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"29fbd2ba2102353671401e7fda0acdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1326624673,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1326624673,
+    "wof:lastmodified":1537625988,
+    "wof:name":"Salmadere",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93732,
+    19.0188,
+    -71.93732,
+    19.0188
+],
+  "geometry": {"coordinates":[-71.93732,19.0188],"type":"Point"}
+}

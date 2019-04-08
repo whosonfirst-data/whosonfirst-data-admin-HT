@@ -1,0 +1,71 @@
+{
+  "id": 1310127097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82178,18.79218,-71.82178,18.79218",
+    "geom:latitude":18.79218,
+    "geom:longitude":-71.82178,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Moleon",
+    "gn:country_code":"HT",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720769,
+    "gn:latitude":18.79218,
+    "gn:longitude":-71.82178,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mol\u00e9on",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mol\u00e9on"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720769
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1d1d6bad739114d71cdf0c77cdfe78e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1310127097,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1310127097,
+    "wof:lastmodified":1537626027,
+    "wof:name":"Moleon",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82178,
+    18.79218,
+    -71.82178,
+    18.79218
+],
+  "geometry": {"coordinates":[-71.82178,18.79218],"type":"Point"}
+}

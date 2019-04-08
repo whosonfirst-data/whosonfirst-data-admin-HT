@@ -1,0 +1,71 @@
+{
+  "id": 1310075965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.55635,18.47392,-73.55635,18.47392",
+    "geom:latitude":18.47392,
+    "geom:longitude":-73.55635,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Bonhomme",
+    "gn:country_code":"HT",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729518,
+    "gn:latitude":18.47392,
+    "gn:longitude":-73.55635,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bonhomme",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonhomme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729518
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2be8a52c7342488fec07b74a92a50b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1310075965,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310075965,
+    "wof:lastmodified":1537626139,
+    "wof:name":"Bonhomme",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55635,
+    18.47392,
+    -73.55635,
+    18.47392
+],
+  "geometry": {"coordinates":[-73.55634999999999,18.47392],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242853807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78577,18.21925,-71.78577,18.21925",
+    "geom:latitude":18.21925,
+    "geom:longitude":-71.78577,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Bonite",
+    "gn:country_code":"HT",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729513,
+    "gn:latitude":18.21925,
+    "gn:longitude":-71.78577,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bonite",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bonite"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729513
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ead2c467a6d952e19967585da1fab4f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1242853807,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1242853807,
+    "wof:lastmodified":1537626139,
+    "wof:name":"Bonite",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78577,
+    18.21925,
+    -71.78577,
+    18.21925
+],
+  "geometry": {"coordinates":[-71.78577,18.21925],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1225939457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.48333,19.2,-72.48333,19.2",
+    "geom:latitude":19.2,
+    "geom:longitude":-72.48333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Odije",
+    "gn:country_code":"HT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719495,
+    "gn:latitude":19.2,
+    "gn:longitude":-72.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Odij\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719495
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"886df4d996cf4c4e427b66b933b4ebb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1225939457,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1225939457,
+    "wof:lastmodified":1536877661,
+    "wof:name":"Odije",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.48333000000002,
+    19.2,
+    -72.48333000000002,
+    19.2
+],
+  "geometry": {"coordinates":[-72.48333000000002,19.2],"type":"Point"}
+}

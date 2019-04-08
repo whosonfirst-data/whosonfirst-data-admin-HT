@@ -1,0 +1,144 @@
+{
+  "id": 421197791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.86694,18.43139,-72.86694,18.43139",
+    "geom:latitude":18.43139,
+    "geom:longitude":-72.86694,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a\u064a\u062a \u063a\u0648\u0627\u0641"
+    ],
+    "name:chi_x_preferred":[
+        "\u5c0f\u6208\u963f\u6c83"
+    ],
+    "name:dut_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:eng_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:fra_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:fre_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:hat_x_preferred":[
+        "Tigwav"
+    ],
+    "name:ita_x_preferred":[
+        "Petit-G\u00f4ave"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30c1\u30b4\u30a2\u30fc\u30d6"
+    ],
+    "name:nld_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:nob_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:nor_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:pol_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:por_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:ron_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:rum_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:spa_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:swe_x_preferred":[
+        "Petit-Go\u00e2ve"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0442\u0456-\u0413\u043e\u0430\u0432"
+    ],
+    "name:unk_x_variant":[
+        "Ville de Petit Go\u00e2ve"
+    ],
+    "qs:gn_country":"HT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3718962,
+    "qs:gn_pop":117504,
+    "qs:name":"Petit Go\u00e2ve",
+    "qs:name_adm0":"Ha\u00efti",
+    "qs:name_adm1":"Ouest",
+    "qs:photos":94,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":94,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":150255,
+    "qs:woe_adm0":23424839,
+    "qs:woe_id":95706,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":18.431389,
+    "wd:longitude":-72.866944,
+    "wd:wordcount":677,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718962,
+        "gp:id":95706,
+        "qs:id":150255,
+        "wd:id":"Q2009853",
+        "wk:page":"Petit-Go\u00e2ve"
+    },
+    "wof:country":"HT",
+    "wof:created":1459009925,
+    "wof:geomhash":"eebe2ec2de955d57da43c2e3758fb998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":421197791,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":421197791,
+    "wof:lastmodified":1527716399,
+    "wof:name":"Petit Go\u00e2ve",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:population":117504,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.86694,
+    18.43139,
+    -72.86694,
+    18.43139
+],
+  "geometry": {"coordinates":[-72.86694,18.43139],"type":"Point"}
+}

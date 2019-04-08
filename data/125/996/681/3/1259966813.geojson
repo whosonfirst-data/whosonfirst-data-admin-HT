@@ -1,0 +1,75 @@
+{
+  "id": 1259966813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6569,18.41493,-73.6569,18.41493",
+    "geom:latitude":18.41493,
+    "geom:longitude":-73.6569,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Laplante",
+    "gn:country_code":"HT",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722717,
+    "gn:latitude":18.41493,
+    "gn:longitude":-73.6569,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Laplante",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Plante"
+    ],
+    "name:und_x_variant":[
+        "Laplants",
+        "Laplante"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722717
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6acd44dba69a6a4205b5bcc28b7948da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1259966813,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1259966813,
+    "wof:lastmodified":1537626054,
+    "wof:name":"Laplante",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6569,
+    18.41493,
+    -73.6569,
+    18.41493
+],
+  "geometry": {"coordinates":[-73.65689999999999,18.41493],"type":"Point"}
+}

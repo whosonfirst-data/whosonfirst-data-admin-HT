@@ -1,0 +1,73 @@
+{
+  "id": 1310388185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.56314,18.44485,-73.56314,18.44485",
+    "geom:latitude":18.44485,
+    "geom:longitude":-73.56314,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Plaine aux Pins",
+    "gn:country_code":"HT",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718724,
+    "gn:latitude":18.44485,
+    "gn:longitude":-73.56314,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Plaine aux Pins",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aux Pins",
+        "Aux Fins",
+        "Plaine aux Pins"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718724
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"aef456eccd71203e5d77e1ee0cbf5e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1310388185,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310388185,
+    "wof:lastmodified":1537626002,
+    "wof:name":"Plaine aux Pins",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.56314,
+    18.44485,
+    -73.56314,
+    18.44485
+],
+  "geometry": {"coordinates":[-73.56314,18.44485],"type":"Point"}
+}

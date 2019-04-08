@@ -1,0 +1,71 @@
+{
+  "id": 1242769485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.9206,19.23097,-71.9206,19.23097",
+    "geom:latitude":19.23097,
+    "geom:longitude":-71.9206,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Petoie",
+    "gn:country_code":"HT",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718937,
+    "gn:latitude":19.23097,
+    "gn:longitude":-71.9206,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"P\u00e9toie",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "P\u00e9toie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718937
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9c8ed9db00e32811c7532562fdcfa0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1242769485,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1242769485,
+    "wof:lastmodified":1537626004,
+    "wof:name":"Petoie",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.9206,
+    19.23097000000001,
+    -71.9206,
+    19.23097000000001
+],
+  "geometry": {"coordinates":[-71.92059999999999,19.23097000000001],"type":"Point"}
+}

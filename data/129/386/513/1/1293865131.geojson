@@ -1,0 +1,75 @@
+{
+  "id": 1293865131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2036,18.88468,-73.2036,18.88468",
+    "geom:latitude":18.88468,
+    "geom:longitude":-73.2036,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Lan Gaiac",
+    "gn:country_code":"HT",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722799,
+    "gn:latitude":18.88468,
+    "gn:longitude":-73.2036,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Lan Ga\u00efac",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lan Ga\u00efac"
+    ],
+    "name:und_x_variant":[
+        "La Ga\u00efac",
+        "Lan Gaiac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722799
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"678df81aa1dde277f1783de756fbab05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1293865131,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293865131,
+    "wof:lastmodified":1537626055,
+    "wof:name":"Lan Gaiac",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2036,
+    18.88468,
+    -73.2036,
+    18.88468
+],
+  "geometry": {"coordinates":[-73.20359999999999,18.88468],"type":"Point"}
+}

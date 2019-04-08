@@ -1,0 +1,68 @@
+{
+  "id": 1276536867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2,18.88333,-73.2,18.88333",
+    "geom:latitude":18.88333,
+    "geom:longitude":-73.2,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Nan Cour",
+    "gn:country_code":"HT",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720151,
+    "gn:latitude":18.88333,
+    "gn:longitude":-73.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Cour",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720151
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"aabf52d2ac68820cbe60d14ef0ce7bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1276536867,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1276536867,
+    "wof:lastmodified":1537002476,
+    "wof:name":"Nan Cour",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2,
+    18.88333,
+    -73.2,
+    18.88333
+],
+  "geometry": {"coordinates":[-73.2,18.88333],"type":"Point"}
+}

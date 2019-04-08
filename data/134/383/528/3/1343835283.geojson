@@ -1,0 +1,67 @@
+{
+  "id": 1343835283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.95,18.38333,-73.95,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-73.95,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Laurent",
+    "gn:country_code":"HT",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722442,
+    "gn:latitude":18.38333,
+    "gn:longitude":-73.95,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Laurent",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722442
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f9a8b3e16ce7a1046ce6f0ef1c6b3920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1343835283,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1343835283,
+    "wof:lastmodified":1536703263,
+    "wof:name":"Laurent",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.95,
+    18.38333,
+    -73.95,
+    18.38333
+],
+  "geometry": {"coordinates":[-73.95,18.38333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310278209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.48014,18.39143,-73.48014,18.39143",
+    "geom:latitude":18.39143,
+    "geom:longitude":-73.48014,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Nan Campeche",
+    "gn:country_code":"HT",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720256,
+    "gn:latitude":18.39143,
+    "gn:longitude":-73.48014,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nan Camp\u00eache",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Camp\u00eache"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720256
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b70f1b96aaf8517a893c83a75009fae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1310278209,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310278209,
+    "wof:lastmodified":1537626022,
+    "wof:name":"Nan Campeche",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.48014,
+    18.39143,
+    -73.48014,
+    18.39143
+],
+  "geometry": {"coordinates":[-73.48014000000001,18.39143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293460703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.16954,18.57507,-74.16954,18.57507",
+    "geom:latitude":18.57507,
+    "geom:longitude":-74.16954,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Plaine Mille",
+    "gn:country_code":"HT",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718685,
+    "gn:latitude":18.57507,
+    "gn:longitude":-74.16954,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Plaine Mille",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Plaine Mille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718685
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9105e014dab7af6af908fc4ece8fe773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1293460703,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1293460703,
+    "wof:lastmodified":1537626001,
+    "wof:name":"Plaine Mille",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.16954,
+    18.57507,
+    -74.16954,
+    18.57507
+],
+  "geometry": {"coordinates":[-74.16954,18.57507],"type":"Point"}
+}

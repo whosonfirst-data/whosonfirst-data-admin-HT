@@ -1,0 +1,68 @@
+{
+  "id": 1209792921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.84167,18.09389,-73.84167,18.09389",
+    "geom:latitude":18.09389,
+    "geom:longitude":-73.84167,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"Petite Riviere",
+    "gn:country_code":"HT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718989,
+    "gn:latitude":18.09389,
+    "gn:longitude":-73.84167,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Petite Rivi\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718989
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2368eb92a3a93b81a7c5c79e62796c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1209792921,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1209792921,
+    "wof:lastmodified":1536394189,
+    "wof:name":"Petite Riviere",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.84167,
+    18.09389,
+    -73.84167,
+    18.09389
+],
+  "geometry": {"coordinates":[-73.84166999999999,18.09389],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327307773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.36667,18.58333,-74.36667,18.58333",
+    "geom:latitude":18.58333,
+    "geom:longitude":-74.36667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3731116.0",
+    "gn:asciiname":"Cimetiere",
+    "gn:country_code":"HT",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727687,
+    "gn:latitude":18.58333,
+    "gn:longitude":-74.36667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cimeti\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727687
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6280db2ff1c3aad16c5d740159e722b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686011,
+            "locality_id":1327307773,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1327307773,
+    "wof:lastmodified":1536859523,
+    "wof:name":"Cimetiere",
+    "wof:parent_id":1091686011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.36667,
+    18.58333,
+    -74.36667,
+    18.58333
+],
+  "geometry": {"coordinates":[-74.36667,18.58333],"type":"Point"}
+}

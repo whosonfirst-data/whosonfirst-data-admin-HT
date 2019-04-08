@@ -1,0 +1,68 @@
+{
+  "id": 1310589329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.65,18.38333,-72.65,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-72.65,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Morin",
+    "gn:country_code":"HT",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720616,
+    "gn:latitude":18.38333,
+    "gn:longitude":-72.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720616
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fa8a813535e7c17a426b938f96a9c598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1310589329,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310589329,
+    "wof:lastmodified":1536796299,
+    "wof:name":"Morin",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.65,
+    18.38333,
+    -72.65,
+    18.38333
+],
+  "geometry": {"coordinates":[-72.65000000000001,18.38333],"type":"Point"}
+}

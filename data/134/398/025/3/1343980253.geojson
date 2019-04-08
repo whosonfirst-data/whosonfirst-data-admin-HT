@@ -1,0 +1,70 @@
+{
+  "id": 1343980253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79724,19.76478,-72.79724,19.76478",
+    "geom:latitude":19.76478,
+    "geom:longitude":-72.79724,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fond Duroc",
+    "gn:country_code":"HT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725348,
+    "gn:latitude":19.76478,
+    "gn:longitude":-72.79724,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Fond Duroc",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Duroc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725348
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2159aa431fa439ec3e61e4afd4ad3e48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1343980253,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1343980253,
+    "wof:lastmodified":1537626087,
+    "wof:name":"Fond Duroc",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79724,
+    19.76478,
+    -72.79724,
+    19.76478
+],
+  "geometry": {"coordinates":[-72.79724,19.76478],"type":"Point"}
+}

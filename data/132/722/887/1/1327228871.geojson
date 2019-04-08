@@ -1,0 +1,73 @@
+{
+  "id": 1327228871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.35,19.5,-72.35,19.5",
+    "geom:latitude":19.5,
+    "geom:longitude":-72.35,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Morne Carnot",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720562,
+    "gn:latitude":19.5,
+    "gn:longitude":-72.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne Carnot",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morne Carnoi",
+        "Morne Carnot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720562
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"19aebf779c7178cf9c66218fcce2a267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1327228871,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1327228871,
+    "wof:lastmodified":1537626025,
+    "wof:name":"Morne Carnot",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.35,
+    19.5,
+    -72.35,
+    19.5
+],
+  "geometry": {"coordinates":[-72.34999999999999,19.5],"type":"Point"}
+}

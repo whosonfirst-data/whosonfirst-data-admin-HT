@@ -1,0 +1,75 @@
+{
+  "id": 1344136981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.06929,18.21865,-73.06929,18.21865",
+    "geom:latitude":18.21865,
+    "geom:longitude":-73.06929,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Mexi",
+    "gn:country_code":"HT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720922,
+    "gn:latitude":18.21865,
+    "gn:longitude":-73.06929,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mexi",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mexi"
+    ],
+    "name:und_x_variant":[
+        "M\u00e9xique",
+        "M\u00e9xi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720922
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"79e748b896637fe509071d88c7b57d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1344136981,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1344136981,
+    "wof:lastmodified":1537626029,
+    "wof:name":"Mexi",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.06929000000002,
+    18.21865,
+    -73.06929000000002,
+    18.21865
+],
+  "geometry": {"coordinates":[-73.06929000000002,18.21865],"type":"Point"}
+}

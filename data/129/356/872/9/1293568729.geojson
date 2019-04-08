@@ -1,0 +1,68 @@
+{
+  "id": 1293568729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45,18.23333,-72.45,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-72.45,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Clyadier",
+    "gn:country_code":"HT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727611,
+    "gn:latitude":18.23333,
+    "gn:longitude":-72.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Clyadier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727611
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d8b672daf4661438e538a9b29dac2632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1293568729,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1293568729,
+    "wof:lastmodified":1536669989,
+    "wof:name":"Clyadier",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45,
+    18.23333,
+    -72.45,
+    18.23333
+],
+  "geometry": {"coordinates":[-72.45,18.23333],"type":"Point"}
+}

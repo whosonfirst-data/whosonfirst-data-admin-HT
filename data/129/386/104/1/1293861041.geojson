@@ -1,0 +1,71 @@
+{
+  "id": 1293861041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93429,18.18179,-73.93429,18.18179",
+    "geom:latitude":18.18179,
+    "geom:longitude":-73.93429,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"La Ferme",
+    "gn:country_code":"HT",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723120,
+    "gn:latitude":18.18179,
+    "gn:longitude":-73.93429,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"La Ferme",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Ferme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723120
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a334c1f16e5d4652459dc031457ee0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1293861041,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293861041,
+    "wof:lastmodified":1537626059,
+    "wof:name":"La Ferme",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93429,
+    18.18179,
+    -73.93429,
+    18.18179
+],
+  "geometry": {"coordinates":[-73.93429,18.18179],"type":"Point"}
+}

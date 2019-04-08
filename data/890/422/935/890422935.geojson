@@ -1,0 +1,93 @@
+{
+  "id": 890422935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78111,19.59944,-72.78111,19.59944",
+    "geom:latitude":19.59944,
+    "geom:longitude":-72.78111,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":911,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0631 \u0646\u0648\u0641"
+    ],
+    "name:dut_x_preferred":[
+        "Terre-Neuve"
+    ],
+    "name:eng_x_preferred":[
+        "Terre-Neuve"
+    ],
+    "name:fre_x_preferred":[
+        "Terre-Neuve"
+    ],
+    "name:hat_x_preferred":[
+        "T\u00e8n\u00e8v"
+    ],
+    "name:ita_x_preferred":[
+        "Terre-Neuve"
+    ],
+    "name:por_x_preferred":[
+        "Terre-Neuve"
+    ],
+    "name:rum_x_preferred":[
+        "Terre-Neuve"
+    ],
+    "qs:name":"Terre Neuve",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":783,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716785,
+        "gp:id":97130,
+        "qs:id":585303,
+        "wd:id":"Q2637871",
+        "wk:page":"Terra Nova"
+    },
+    "wof:country":"HT",
+    "wof:created":1469051472,
+    "wof:geomhash":"064dd4fd341bef7d1f86f99fe57d5743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":890422935,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":890422935,
+    "wof:lastmodified":1527727162,
+    "wof:name":"Terre Neuve",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:population":911,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78111,
+    19.59944,
+    -72.78111,
+    19.59944
+],
+  "geometry": {"coordinates":[-72.78111,19.59944],"type":"Point"}
+}

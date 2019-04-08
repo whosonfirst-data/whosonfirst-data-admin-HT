@@ -1,0 +1,71 @@
+{
+  "id": 1327252467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24532,19.72263,-72.24532,19.72263",
+    "geom:latitude":19.72263,
+    "geom:longitude":-72.24532,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3728473.0",
+    "gn:asciiname":"La Voute",
+    "gn:country_code":"HT",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722362,
+    "gn:latitude":19.72263,
+    "gn:longitude":-72.24532,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"La Vo\u00fbte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Vo\u00fbte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722362
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8b0562dcfad919cfe6778d1770c9e64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686431,
+            "locality_id":1327252467,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1327252467,
+    "wof:lastmodified":1537626048,
+    "wof:name":"La Voute",
+    "wof:parent_id":1091686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24531999999998,
+    19.72263,
+    -72.24531999999998,
+    19.72263
+],
+  "geometry": {"coordinates":[-72.24531999999998,19.72263],"type":"Point"}
+}

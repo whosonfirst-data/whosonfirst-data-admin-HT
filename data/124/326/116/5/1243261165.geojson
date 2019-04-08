@@ -1,0 +1,68 @@
+{
+  "id": 1243261165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.75972,19.54833,-72.75972,19.54833",
+    "geom:latitude":19.54833,
+    "geom:longitude":-72.75972,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Bois d'Huis",
+    "gn:country_code":"HT",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729798,
+    "gn:latitude":19.54833,
+    "gn:longitude":-72.75972,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bois d\u2019Huis",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729798
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"70c7f93633933054d8cf7bda7aef4be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1243261165,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1243261165,
+    "wof:lastmodified":1537069634,
+    "wof:name":"Bois d'Huis",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.75972,
+    19.54833,
+    -72.75972,
+    19.54833
+],
+  "geometry": {"coordinates":[-72.75972,19.54833],"type":"Point"}
+}

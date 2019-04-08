@@ -1,0 +1,102 @@
+{
+  "id": 890445097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0,18.18333,-73.0,18.18333",
+    "geom:latitude":18.18333,
+    "geom:longitude":-73.0,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":2393,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062a\u064a\u0633 \u062f\u064a \u0641\u064a\u0631"
+    ],
+    "name:dut_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
+    "name:eng_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
+    "name:fra_x_preferred":[
+        "C\u00f4tes de Fer"
+    ],
+    "name:fre_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
+    "name:hat_x_preferred":[
+        "Kotdef\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "C\u00f4te-de-Fer"
+    ],
+    "name:por_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
+    "name:rum_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
+    "name:swe_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
+    "name:unk_x_variant":[
+        "Cote de Fer"
+    ],
+    "qs:name":"C\u00f4tes-de-Fer",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":32,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727287,
+        "gp:id":89773,
+        "qs:id":1046675,
+        "wd:id":"Q2256742",
+        "wk:page":"C\u00f4tes-de-Fer"
+    },
+    "wof:country":"HT",
+    "wof:created":1469052496,
+    "wof:geomhash":"3cb2234ceea01e86f01298409d55a539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":890445097,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":890445097,
+    "wof:lastmodified":1553816401,
+    "wof:name":"C\u00f4tes-de-Fer",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:population":2393,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0,
+    18.18333,
+    -73.0,
+    18.18333
+],
+  "geometry": {"coordinates":[-73.0,18.18333],"type":"Point"}
+}

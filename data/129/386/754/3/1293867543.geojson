@@ -1,0 +1,61 @@
+{
+  "id": 1293867543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.23333,18.68333,-74.23333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":-74.23333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Briers",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729070,
+    "gn:latitude":18.68333,
+    "gn:longitude":-74.23333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Briers",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729070
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6ebe537708a9ecedee1a42db6da134df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293867543,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293867543,
+    "wof:lastmodified":1536736394,
+    "wof:name":"Briers",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.23333000000002,
+    18.68333,
+    -74.23333000000002,
+    18.68333
+],
+  "geometry": {"coordinates":[-74.23333000000002,18.68333],"type":"Point"}
+}

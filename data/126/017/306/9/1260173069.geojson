@@ -1,0 +1,67 @@
+{
+  "id": 1260173069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25,18.91667,-72.25,18.91667",
+    "geom:latitude":18.91667,
+    "geom:longitude":-72.25,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dos Malice",
+    "gn:country_code":"HT",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726194,
+    "gn:latitude":18.91667,
+    "gn:longitude":-72.25,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Dos Malice",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726194
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d16788a9f34ad9dfd53902283eca9e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1260173069,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1260173069,
+    "wof:lastmodified":1536860851,
+    "wof:name":"Dos Malice",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25,
+    18.91667,
+    -72.25,
+    18.91667
+],
+  "geometry": {"coordinates":[-72.25,18.91667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209202799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0,18.38333,-73.0,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-73.0,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Morne Arman",
+    "gn:country_code":"HT",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720592,
+    "gn:latitude":18.38333,
+    "gn:longitude":-73.0,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne Arman",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720592
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4053ba7d6b1330feab5ff5dfc7035222",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209202799
+        }
+    ],
+    "wof:id":1209202799,
+    "wof:lastmodified":1536294553,
+    "wof:name":"Morne Arman",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0,
+    18.38333,
+    -73.0,
+    18.38333
+],
+  "geometry": {"coordinates":[-73.0,18.38333],"type":"Point"}
+}

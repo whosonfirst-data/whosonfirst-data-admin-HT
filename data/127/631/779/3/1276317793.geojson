@@ -1,0 +1,73 @@
+{
+  "id": 1276317793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,19.46667,-72.23333,19.46667",
+    "geom:latitude":19.46667,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Nan Guinee",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720007,
+    "gn:latitude":19.46667,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Guin\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan Guinin",
+        "Nan Guin\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720007
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"27b70f2e2776711093af94e7a52c6a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686895,
+            "locality_id":1276317793,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1276317793,
+    "wof:lastmodified":1537626018,
+    "wof:name":"Nan Guinee",
+    "wof:parent_id":1091686895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    19.46667,
+    -72.23333000000002,
+    19.46667
+],
+  "geometry": {"coordinates":[-72.23333000000002,19.46667],"type":"Point"}
+}

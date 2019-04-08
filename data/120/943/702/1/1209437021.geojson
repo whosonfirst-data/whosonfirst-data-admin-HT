@@ -1,0 +1,65 @@
+{
+  "id": 1209437021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.58661,19.53207,-72.58661,19.53207",
+    "geom:latitude":19.53207,
+    "geom:longitude":-72.58661,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"La Coupe",
+    "gn:country_code":"HT",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723222,
+    "gn:latitude":19.53207,
+    "gn:longitude":-72.58661,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"La Coupe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Coupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723222
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6c864499096fb343955e1b5a42ca56e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209437021
+        }
+    ],
+    "wof:id":1209437021,
+    "wof:lastmodified":1537626061,
+    "wof:name":"La Coupe",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.58661,
+    19.53207,
+    -72.58661,
+    19.53207
+],
+  "geometry": {"coordinates":[-72.58660999999999,19.53207],"type":"Point"}
+}

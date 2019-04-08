@@ -1,0 +1,68 @@
+{
+  "id": 1343837463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,18.31667,-72.1,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Beland",
+    "gn:country_code":"HT",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730396,
+    "gn:latitude":18.31667,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Beland",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730396
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ffa468a23e90d0d2eb8b6322f86dac5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1343837463,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1343837463,
+    "wof:lastmodified":1536700093,
+    "wof:name":"Beland",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    18.31667,
+    -72.1,
+    18.31667
+],
+  "geometry": {"coordinates":[-72.09999999999999,18.31667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1293363551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51667,18.58333,-73.51667,18.58333",
+    "geom:latitude":18.58333,
+    "geom:longitude":-73.51667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"L'Usine",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721924,
+    "gn:latitude":18.58333,
+    "gn:longitude":-73.51667,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"L\u2019Usine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721924
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4e312fe7d2191300921cea9f6f8c4651",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293363551,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293363551,
+    "wof:lastmodified":1536965590,
+    "wof:name":"L'Usine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51666999999998,
+    18.58333,
+    -73.51666999999998,
+    18.58333
+],
+  "geometry": {"coordinates":[-73.51666999999998,18.58333],"type":"Point"}
+}

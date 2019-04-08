@@ -1,0 +1,68 @@
+{
+  "id": 1242570875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3,19.26667,-72.3,19.26667",
+    "geom:latitude":19.26667,
+    "geom:longitude":-72.3,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Nan Palmiste",
+    "gn:country_code":"HT",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719840,
+    "gn:latitude":19.26667,
+    "gn:longitude":-72.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Palmiste",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719840
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e98e62412a679108576c5a8f81ed6826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1242570875,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1242570875,
+    "wof:lastmodified":1537070311,
+    "wof:name":"Nan Palmiste",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3,
+    19.26667,
+    -72.3,
+    19.26667
+],
+  "geometry": {"coordinates":[-72.3,19.26667],"type":"Point"}
+}

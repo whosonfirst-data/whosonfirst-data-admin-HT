@@ -1,0 +1,68 @@
+{
+  "id": 1326627769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43333,19.13333,-72.43333,19.13333",
+    "geom:latitude":19.13333,
+    "geom:longitude":-72.43333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Delbagne",
+    "gn:country_code":"HT",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726842,
+    "gn:latitude":19.13333,
+    "gn:longitude":-72.43333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Delbagne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726842
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9c5133bc2be7924b3212fa2c979319ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1326627769,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1326627769,
+    "wof:lastmodified":1536845213,
+    "wof:name":"Delbagne",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43333,
+    19.13333,
+    -72.43333,
+    19.13333
+],
+  "geometry": {"coordinates":[-72.43333,19.13333],"type":"Point"}
+}

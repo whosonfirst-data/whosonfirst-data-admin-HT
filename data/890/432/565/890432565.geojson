@@ -1,0 +1,93 @@
+{
+  "id": 890432565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86667,18.31667,-73.86667,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-73.86667,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":967,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u0628 \u0628\u064a\u0631\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "name:eng_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "name:fre_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "name:hat_x_preferred":[
+        "Kan Peren"
+    ],
+    "name:ita_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "name:por_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "name:rum_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "qs:name":"Camp Perrin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":509,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728562,
+        "gp:id":88898,
+        "qs:id":585398,
+        "wd:id":"Q2281419",
+        "wk:page":"Camp-Perrin"
+    },
+    "wof:country":"HT",
+    "wof:created":1469051945,
+    "wof:geomhash":"1626ca46acda43353c804eeca9e54dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":890432565,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":890432565,
+    "wof:lastmodified":1527793040,
+    "wof:name":"Camp Perrin",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:population":967,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86667,
+    18.31667,
+    -73.86667,
+    18.31667
+],
+  "geometry": {"coordinates":[-73.86667,18.31667],"type":"Point"}
+}

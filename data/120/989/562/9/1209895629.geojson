@@ -1,0 +1,71 @@
+{
+  "id": 1209895629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.642,18.30878,-72.642,18.30878",
+    "geom:latitude":18.30878,
+    "geom:longitude":-72.642,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Laquete Lamarre",
+    "gn:country_code":"HT",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722678,
+    "gn:latitude":18.30878,
+    "gn:longitude":-72.642,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Laqu\u00eate Lamarre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Laqu\u00eate Lamarre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722678
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b911246661e64a6a08b493d3570bbefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1209895629,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1209895629,
+    "wof:lastmodified":1537626053,
+    "wof:name":"Laquete Lamarre",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.642,
+    18.30878,
+    -72.642,
+    18.30878
+],
+  "geometry": {"coordinates":[-72.642,18.30878],"type":"Point"}
+}

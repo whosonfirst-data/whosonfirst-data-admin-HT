@@ -1,0 +1,62 @@
+{
+  "id": 1209300653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.56722,18.22306,-72.56722,18.22306",
+    "geom:latitude":18.22306,
+    "geom:longitude":-72.56722,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Nan Margot",
+    "gn:country_code":"HT",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719902,
+    "gn:latitude":18.22306,
+    "gn:longitude":-72.56722,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Margot",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719902
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"126a18f06b8c3ecf1b032b458892fcf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209300653
+        }
+    ],
+    "wof:id":1209300653,
+    "wof:lastmodified":1536291370,
+    "wof:name":"Nan Margot",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.56721999999998,
+    18.22306,
+    -72.56721999999998,
+    18.22306
+],
+  "geometry": {"coordinates":[-72.56721999999998,18.22306],"type":"Point"}
+}

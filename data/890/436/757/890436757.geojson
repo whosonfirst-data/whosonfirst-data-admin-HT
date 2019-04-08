@@ -1,0 +1,88 @@
+{
+  "id": 890436757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.97667,18.50583,-71.97667,18.50583",
+    "geom:latitude":18.50583,
+    "geom:longitude":-71.97667,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":18256,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Fonds-Parisien"
+    ],
+    "name:eng_x_preferred":[
+        "Fonds-Parisien"
+    ],
+    "name:fre_x_preferred":[
+        "Fonds-Parisien"
+    ],
+    "name:ger_x_preferred":[
+        "Fonds-Parisien"
+    ],
+    "name:pol_x_preferred":[
+        "Fonds-Parisien"
+    ],
+    "name:rum_x_preferred":[
+        "Fonds-Parisien"
+    ],
+    "name:swe_x_preferred":[
+        "Fond Parisien"
+    ],
+    "qs:name":"Fond Parisien",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725276,
+        "gp:id":91218,
+        "qs:id":1046673,
+        "wd:id":"Q3075771"
+    },
+    "wof:country":"HT",
+    "wof:created":1469052124,
+    "wof:geomhash":"d876642fc1efd91e4586487164e17509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":890436757,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":890436757,
+    "wof:lastmodified":1514447775,
+    "wof:name":"Fond Parisien",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:population":18256,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.97667,
+    18.50583,
+    -71.97667,
+    18.50583
+],
+  "geometry": {"coordinates":[-71.97667,18.50583],"type":"Point"}
+}

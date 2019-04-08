@@ -1,0 +1,66 @@
+{
+  "id": 1209396071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.87159,18.81725,-72.87159,18.81725",
+    "geom:latitude":18.81725,
+    "geom:longitude":-72.87159,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Nan Doval",
+    "gn:country_code":"HT",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720115,
+    "gn:latitude":18.81725,
+    "gn:longitude":-72.87159,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Nan Doval",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doval",
+        "Nan Doval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720115
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0e40c309d2fcb214988be8ca112816de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209396071
+        }
+    ],
+    "wof:id":1209396071,
+    "wof:lastmodified":1537626020,
+    "wof:name":"Nan Doval",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.87159,
+    18.81725,
+    -72.87159,
+    18.81725
+],
+  "geometry": {"coordinates":[-72.87159,18.81725],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1326837859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35,19.61667,-73.35,19.61667",
+    "geom:latitude":19.61667,
+    "geom:longitude":-73.35,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764",
+    "gn:asciiname":"Anse a Chat",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731137,
+    "gn:latitude":19.61667,
+    "gn:longitude":-73.35,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Anse \u00e0 Chat",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731137
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6a3ce7c1d84ceac2f37e6c97d0f1fa98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326837859,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326837859,
+    "wof:lastmodified":1537038910,
+    "wof:name":"Anse a Chat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35,
+    19.61667000000001,
+    -73.35,
+    19.61667000000001
+],
+  "geometry": {"coordinates":[-73.34999999999999,19.61667000000001],"type":"Point"}
+}

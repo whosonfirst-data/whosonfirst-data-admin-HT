@@ -1,0 +1,68 @@
+{
+  "id": 1293022153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95,18.91667,-71.95,18.91667",
+    "geom:latitude":18.91667,
+    "geom:longitude":-71.95,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Fonds Pierre",
+    "gn:country_code":"HT",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725234,
+    "gn:latitude":18.91667,
+    "gn:longitude":-71.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Fonds Pierre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725234
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"65031b65d3fc6549dfeb365e085cc874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1293022153,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293022153,
+    "wof:lastmodified":1536960876,
+    "wof:name":"Fonds Pierre",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95,
+    18.91667,
+    -71.95,
+    18.91667
+],
+  "geometry": {"coordinates":[-71.95,18.91667],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209287711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.71472,18.49639,-73.71472,18.49639",
+    "geom:latitude":18.49639,
+    "geom:longitude":-73.71472,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3730801.0",
+    "gn:asciiname":"Gardier",
+    "gn:country_code":"HT",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724930,
+    "gn:latitude":18.49639,
+    "gn:longitude":-73.71472,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gardier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cardier",
+        "Gardier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724930
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0e8ba32ee60a63474e58e1114d825a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209287711
+        }
+    ],
+    "wof:id":1209287711,
+    "wof:lastmodified":1537626081,
+    "wof:name":"Gardier",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.71472,
+    18.49639,
+    -73.71472,
+    18.49639
+],
+  "geometry": {"coordinates":[-73.71472,18.49639],"type":"Point"}
+}

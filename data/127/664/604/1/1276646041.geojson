@@ -1,0 +1,68 @@
+{
+  "id": 1276646041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15,19.63333,-72.15,19.63333",
+    "geom:latitude":19.63333,
+    "geom:longitude":-72.15,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3728473.0",
+    "gn:asciiname":"Digo",
+    "gn:country_code":"HT",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726423,
+    "gn:latitude":19.63333,
+    "gn:longitude":-72.15,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Digo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726423
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4e6ef52285e858ab90bc4149e3b85209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686431,
+            "locality_id":1276646041,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1276646041,
+    "wof:lastmodified":1536855651,
+    "wof:name":"Digo",
+    "wof:parent_id":1091686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15,
+    19.63333,
+    -72.15,
+    19.63333
+],
+  "geometry": {"coordinates":[-72.15000000000001,19.63333],"type":"Point"}
+}

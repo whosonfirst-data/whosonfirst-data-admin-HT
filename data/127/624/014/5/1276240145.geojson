@@ -1,0 +1,75 @@
+{
+  "id": 1276240145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.64991,19.83944,-72.64991,19.83944",
+    "geom:latitude":19.83944,
+    "geom:longitude":-72.64991,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3717599.0",
+    "gn:asciiname":"La Verte",
+    "gn:country_code":"HT",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722394,
+    "gn:latitude":19.83944,
+    "gn:longitude":-72.64991,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"La Verte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lavert"
+    ],
+    "name:und_x_variant":[
+        "La Vert",
+        "La Verte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722394
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"46ac925857b7ae32c6b4aee9fc7efe7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686807,
+            "locality_id":1276240145,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1276240145,
+    "wof:lastmodified":1537626048,
+    "wof:name":"La Verte",
+    "wof:parent_id":1091686807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.64990999999998,
+    19.83944,
+    -72.64990999999998,
+    19.83944
+],
+  "geometry": {"coordinates":[-72.64990999999998,19.83944],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326909809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53028,18.30028,-72.53028,18.30028",
+    "geom:latitude":18.30028,
+    "geom:longitude":-72.53028,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"D'Haiti",
+    "gn:country_code":"HT",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726482,
+    "gn:latitude":18.30028,
+    "gn:longitude":-72.53028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"D\u2019Ha\u00efti",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726482
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9edbdc7216d20c782ab07bbcf853c25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1326909809,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1326909809,
+    "wof:lastmodified":1536937916,
+    "wof:name":"D'Haiti",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53028,
+    18.30028,
+    -72.53028,
+    18.30028
+],
+  "geometry": {"coordinates":[-72.53028,18.30028],"type":"Point"}
+}

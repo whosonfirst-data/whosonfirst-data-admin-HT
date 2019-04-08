@@ -1,0 +1,72 @@
+{
+  "id": 1259959249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76716,18.25595,-71.76716,18.25595",
+    "geom:latitude":18.25595,
+    "geom:longitude":-71.76716,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Bois Codine",
+    "gn:country_code":"HT",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729840,
+    "gn:latitude":18.25595,
+    "gn:longitude":-71.76716,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bois Codine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bois Cod\u00e9ine",
+        "Bois Codine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729840
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"48f1d72f1700b94486269b1fd9fa22c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1259959249,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1259959249,
+    "wof:lastmodified":1537626142,
+    "wof:name":"Bois Codine",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76716,
+    18.25595,
+    -71.76716,
+    18.25595
+],
+  "geometry": {"coordinates":[-71.76716,18.25595],"type":"Point"}
+}

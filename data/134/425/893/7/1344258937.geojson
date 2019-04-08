@@ -1,0 +1,68 @@
+{
+  "id": 1344258937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.17444,19.83028,-73.17444,19.83028",
+    "geom:latitude":19.83028,
+    "geom:longitude":-73.17444,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Nan Solon",
+    "gn:country_code":"HT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719673,
+    "gn:latitude":19.83028,
+    "gn:longitude":-73.17444,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Solon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719673
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a5d44b24e88fa61b73855b07f4e4187b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1344258937,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1344258937,
+    "wof:lastmodified":1537083185,
+    "wof:name":"Nan Solon",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.17444,
+    19.83028,
+    -73.17444,
+    19.83028
+],
+  "geometry": {"coordinates":[-73.17444,19.83028],"type":"Point"}
+}

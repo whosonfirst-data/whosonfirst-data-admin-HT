@@ -1,0 +1,74 @@
+{
+  "id": 1243165881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78705,19.59233,-71.78705,19.59233",
+    "geom:latitude":19.59233,
+    "geom:longitude":-71.78705,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3719435.0",
+    "gn:asciiname":"Tetard",
+    "gn:country_code":"HT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716727,
+    "gn:latitude":19.59233,
+    "gn:longitude":-71.78705,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"T\u00eatard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tetard"
+    ],
+    "name:und_x_variant":[
+        "T\u00eatard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716727
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f3e946461f146a23fc14e4fb852e226f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1243165881,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1243165881,
+    "wof:lastmodified":1537625979,
+    "wof:name":"Tetard",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78705,
+    19.59233,
+    -71.78705,
+    19.59233
+],
+  "geometry": {"coordinates":[-71.78704999999999,19.59233],"type":"Point"}
+}

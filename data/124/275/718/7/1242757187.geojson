@@ -1,0 +1,68 @@
+{
+  "id": 1242757187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.62917,18.22222,-72.62917,18.22222",
+    "geom:latitude":18.22222,
+    "geom:longitude":-72.62917,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Desravines",
+    "gn:country_code":"HT",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726560,
+    "gn:latitude":18.22222,
+    "gn:longitude":-72.62917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Desravines",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726560
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7a5f5149d6c90c4b6dfb39cd42031d53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1242757187,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1242757187,
+    "wof:lastmodified":1536804901,
+    "wof:name":"Desravines",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.62917,
+    18.22222,
+    -72.62917,
+    18.22222
+],
+  "geometry": {"coordinates":[-72.62917,18.22222],"type":"Point"}
+}

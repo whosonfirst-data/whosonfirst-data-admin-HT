@@ -1,0 +1,61 @@
+{
+  "id": 1327117225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6,18.53333,-73.6,18.53333",
+    "geom:latitude":18.53333,
+    "geom:longitude":-73.6,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Delbreuil",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726837,
+    "gn:latitude":18.53333,
+    "gn:longitude":-73.6,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Delbreuil",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726837
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6134f17a740beeebe77e1cc3a0cf1386",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327117225,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327117225,
+    "wof:lastmodified":1536636915,
+    "wof:name":"Delbreuil",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6,
+    18.53333,
+    -73.6,
+    18.53333
+],
+  "geometry": {"coordinates":[-73.59999999999999,18.53333],"type":"Point"}
+}

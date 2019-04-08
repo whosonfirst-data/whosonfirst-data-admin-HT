@@ -1,0 +1,68 @@
+{
+  "id": 1293284173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83333,19.0,-71.83333,19.0",
+    "geom:latitude":19.0,
+    "geom:longitude":-71.83333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"Los Caimitos",
+    "gn:country_code":"HT",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721996,
+    "gn:latitude":19.0,
+    "gn:longitude":-71.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Los Caimitos",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632713,
+        85670601,
+        890453405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721996
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a92e0bac2612d3df38a23750ef5ac8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632713,
+            "county_id":890453405,
+            "locality_id":1293284173,
+            "region_id":85670601
+        }
+    ],
+    "wof:id":1293284173,
+    "wof:lastmodified":1537077046,
+    "wof:name":"Los Caimitos",
+    "wof:parent_id":890453405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83333,
+    19.0,
+    -71.83333,
+    19.0
+],
+  "geometry": {"coordinates":[-71.83333,19.0],"type":"Point"}
+}

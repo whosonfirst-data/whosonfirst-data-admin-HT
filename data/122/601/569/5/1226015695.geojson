@@ -1,0 +1,69 @@
+{
+  "id": 1226015695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.31667,18.51667,-74.31667,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":-74.31667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Grande Plaine",
+    "gn:country_code":"HT",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724484,
+    "gn:latitude":18.51667,
+    "gn:longitude":-74.31667,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Grande Plaine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724484,
+        "wk:page":"Grande_Plaine"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fbd108d3bfa540d13ebe1fa24b402770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1226015695,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1226015695,
+    "wof:lastmodified":1537563337,
+    "wof:name":"Grande Plaine",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.31667,
+    18.51667,
+    -74.31667,
+    18.51667
+],
+  "geometry": {"coordinates":[-74.31667,18.51667],"type":"Point"}
+}

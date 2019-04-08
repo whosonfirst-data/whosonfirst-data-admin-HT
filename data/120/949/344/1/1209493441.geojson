@@ -1,0 +1,64 @@
+{
+  "id": 1209493441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49021,18.54151,-72.49021,18.54151",
+    "geom:latitude":18.54151,
+    "geom:longitude":-72.49021,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Merger",
+    "gn:country_code":"HT",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720956,
+    "gn:latitude":18.54151,
+    "gn:longitude":-72.49021,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Merger",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Merger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720956
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8cde05286f773eb9b1c7cb57f8b72389",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209493441
+        }
+    ],
+    "wof:id":1209493441,
+    "wof:lastmodified":1537626029,
+    "wof:name":"Merger",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49021,
+    18.54151,
+    -72.49021,
+    18.54151
+],
+  "geometry": {"coordinates":[-72.49021,18.54151],"type":"Point"}
+}

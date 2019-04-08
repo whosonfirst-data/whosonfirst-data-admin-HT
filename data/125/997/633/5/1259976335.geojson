@@ -1,0 +1,68 @@
+{
+  "id": 1259976335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.65,19.16667,-71.65,19.16667",
+    "geom:latitude":19.16667,
+    "geom:longitude":-71.65,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"Petit Trou",
+    "gn:country_code":"HT",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718940,
+    "gn:latitude":19.16667,
+    "gn:longitude":-71.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Petit Trou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718940
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ec9f370b7ae1c9a388ef2f8f9d30bee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1259976335,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1259976335,
+    "wof:lastmodified":1536644901,
+    "wof:name":"Petit Trou",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.65,
+    19.16667,
+    -71.65,
+    19.16667
+],
+  "geometry": {"coordinates":[-71.65000000000001,19.16667],"type":"Point"}
+}

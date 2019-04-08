@@ -1,0 +1,68 @@
+{
+  "id": 1276740233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83333,18.05,-73.83333,18.05",
+    "geom:latitude":18.05,
+    "geom:longitude":-73.83333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"Port a Nannette",
+    "gn:country_code":"HT",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718433,
+    "gn:latitude":18.05,
+    "gn:longitude":-73.83333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Port \u00e0 Nannette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718433
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f555387c50594da1af6dfa3764d5f597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1276740233,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1276740233,
+    "wof:lastmodified":1536731024,
+    "wof:name":"Port a Nannette",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83333,
+    18.05,
+    -73.83333,
+    18.05
+],
+  "geometry": {"coordinates":[-73.83333,18.05],"type":"Point"}
+}

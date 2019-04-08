@@ -1,0 +1,72 @@
+{
+  "id": 1292897719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.67979,19.1247,-71.67979,19.1247",
+    "geom:latitude":19.1247,
+    "geom:longitude":-71.67979,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"Grand Castilleur",
+    "gn:country_code":"HT",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724560,
+    "gn:latitude":19.1247,
+    "gn:longitude":-71.67979,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Grand Castilleur",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Castilleur",
+        "Grand Castilleur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724560
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1ce5c91bcbea8afcd71ca906c2527521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1292897719,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1292897719,
+    "wof:lastmodified":1537626077,
+    "wof:name":"Grand Castilleur",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.67979,
+    19.1247,
+    -71.67979,
+    19.1247
+],
+  "geometry": {"coordinates":[-71.67979,19.1247],"type":"Point"}
+}

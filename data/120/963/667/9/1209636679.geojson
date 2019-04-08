@@ -1,0 +1,62 @@
+{
+  "id": 1209636679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85056,18.85611,-71.85056,18.85611",
+    "geom:latitude":18.85611,
+    "geom:longitude":-71.85056,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Croix Fer",
+    "gn:country_code":"HT",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727131,
+    "gn:latitude":18.85611,
+    "gn:longitude":-71.85056,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Croix Fer",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727131
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"192aa0cb978e37efb22890748a3171ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209636679
+        }
+    ],
+    "wof:id":1209636679,
+    "wof:lastmodified":1536281022,
+    "wof:name":"Croix Fer",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85056,
+    18.85611,
+    -71.85056,
+    18.85611
+],
+  "geometry": {"coordinates":[-71.85056,18.85611],"type":"Point"}
+}

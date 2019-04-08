@@ -1,0 +1,72 @@
+{
+  "id": 1226135353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51516,18.9819,-72.51516,18.9819",
+    "geom:latitude":18.9819,
+    "geom:longitude":-72.51516,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Terre Nette",
+    "gn:country_code":"HT",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716790,
+    "gn:latitude":18.9819,
+    "gn:longitude":-72.51516,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Terre Nette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terre Net",
+        "Terre Nette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716790
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4b30408fca7cbbb81402adb38a49a134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1226135353,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1226135353,
+    "wof:lastmodified":1537625980,
+    "wof:name":"Terre Nette",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51516,
+    18.9819,
+    -72.51516,
+    18.9819
+],
+  "geometry": {"coordinates":[-72.51515999999999,18.9819],"type":"Point"}
+}

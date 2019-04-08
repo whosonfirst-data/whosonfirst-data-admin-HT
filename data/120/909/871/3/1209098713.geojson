@@ -1,0 +1,65 @@
+{
+  "id": 1209098713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39363,19.28628,-72.39363,19.28628",
+    "geom:latitude":19.28628,
+    "geom:longitude":-72.39363,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Didi",
+    "gn:country_code":"HT",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726451,
+    "gn:latitude":19.28628,
+    "gn:longitude":-72.39363,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Didi",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Didi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726451
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1e33c704bd491c0083df84be5771c3eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209098713
+        }
+    ],
+    "wof:id":1209098713,
+    "wof:lastmodified":1537626099,
+    "wof:name":"Didi",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39363,
+    19.28628,
+    -72.39363,
+    19.28628
+],
+  "geometry": {"coordinates":[-72.39363,19.28628],"type":"Point"}
+}

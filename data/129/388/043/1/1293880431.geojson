@@ -1,0 +1,72 @@
+{
+  "id": 1293880431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11984,19.01402,-72.11984,19.01402",
+    "geom:latitude":19.01402,
+    "geom:longitude":-72.11984,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Saint-Martin",
+    "gn:country_code":"HT",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717573,
+    "gn:latitude":19.01402,
+    "gn:longitude":-72.11984,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Saint-Martin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chapelle Saint-Martin",
+        "Saint-Martin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717573
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a50db78c95421caaa693fa8623e13420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1293880431,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293880431,
+    "wof:lastmodified":1537625989,
+    "wof:name":"Saint-Martin",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11984,
+    19.01402,
+    -72.11984,
+    19.01402
+],
+  "geometry": {"coordinates":[-72.11984,19.01402],"type":"Point"}
+}

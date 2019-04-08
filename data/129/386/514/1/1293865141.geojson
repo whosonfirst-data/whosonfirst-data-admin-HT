@@ -1,0 +1,73 @@
+{
+  "id": 1293865141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.35,18.48333,-72.35,18.48333",
+    "geom:latitude":18.48333,
+    "geom:longitude":-72.35,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Feca",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725552,
+    "gn:latitude":18.48333,
+    "gn:longitude":-72.35,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"F\u00e9ca",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferra",
+        "F\u00e9ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725552
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3d6dde38db2e46479f69a6ce213ea333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1293865141,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293865141,
+    "wof:lastmodified":1537626089,
+    "wof:name":"Feca",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.35,
+    18.48333,
+    -72.35,
+    18.48333
+],
+  "geometry": {"coordinates":[-72.34999999999999,18.48333],"type":"Point"}
+}

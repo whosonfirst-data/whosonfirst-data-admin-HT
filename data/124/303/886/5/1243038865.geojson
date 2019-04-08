@@ -1,0 +1,68 @@
+{
+  "id": 1243038865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.79601,18.60482,-73.79601,18.60482",
+    "geom:latitude":18.60482,
+    "geom:longitude":-73.79601,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381",
+    "gn:asciiname":"Pointe Sable",
+    "gn:country_code":"HT",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523170,
+    "gn:latitude":18.60482,
+    "gn:longitude":-73.79601,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Pointe Sable",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pointe Sable"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523170
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a0cdcb1e4586ef8cca49bf5048491380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "locality_id":1243038865,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243038865,
+    "wof:lastmodified":1537626162,
+    "wof:name":"Pointe Sable",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.79601,
+    18.60482,
+    -73.79601,
+    18.60482
+],
+  "geometry": {"coordinates":[-73.79601,18.60482],"type":"Point"}
+}

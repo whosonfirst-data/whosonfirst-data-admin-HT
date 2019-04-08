@@ -1,0 +1,61 @@
+{
+  "id": 1209637545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2,19.0,-72.2,19.0",
+    "geom:latitude":19.0,
+    "geom:longitude":-72.2,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dual",
+    "gn:country_code":"HT",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726088,
+    "gn:latitude":19.0,
+    "gn:longitude":-72.2,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Dual",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726088
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7e7dffa2007a508865152f9829f297f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209637545
+        }
+    ],
+    "wof:id":1209637545,
+    "wof:lastmodified":1536280993,
+    "wof:name":"Dual",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2,
+    19.0,
+    -72.2,
+    19.0
+],
+  "geometry": {"coordinates":[-72.2,19.0],"type":"Point"}
+}

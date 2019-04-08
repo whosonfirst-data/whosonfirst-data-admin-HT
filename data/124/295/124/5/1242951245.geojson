@@ -1,0 +1,68 @@
+{
+  "id": 1242951245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43333,18.53333,-72.43333,18.53333",
+    "geom:latitude":18.53333,
+    "geom:longitude":-72.43333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Plaisimond",
+    "gn:country_code":"HT",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718662,
+    "gn:latitude":18.53333,
+    "gn:longitude":-72.43333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Plaisimond",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718662
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"122de3de7c7cbda777cbbbc1eaa4ef72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1242951245,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1242951245,
+    "wof:lastmodified":1537021607,
+    "wof:name":"Plaisimond",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43333,
+    18.53333,
+    -72.43333,
+    18.53333
+],
+  "geometry": {"coordinates":[-72.43333,18.53333],"type":"Point"}
+}

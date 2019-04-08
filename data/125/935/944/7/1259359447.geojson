@@ -1,0 +1,75 @@
+{
+  "id": 1259359447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76252,18.1209,-71.76252,18.1209",
+    "geom:latitude":18.1209,
+    "geom:longitude":-71.76252,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Cassourde",
+    "gn:country_code":"HT",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728178,
+    "gn:latitude":18.1209,
+    "gn:longitude":-71.76252,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Cassourde",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cassourd\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Cassourd",
+        "Cassourde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728178
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"53ac4eae889f79fee1d7f2630bc88032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1259359447,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1259359447,
+    "wof:lastmodified":1537626121,
+    "wof:name":"Cassourde",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76252,
+    18.1209,
+    -71.76252,
+    18.1209
+],
+  "geometry": {"coordinates":[-71.76251999999999,18.1209],"type":"Point"}
+}

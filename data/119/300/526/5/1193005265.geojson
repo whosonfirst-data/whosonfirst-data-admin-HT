@@ -1,0 +1,72 @@
+{
+  "id": 1193005265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.60953,18.35023,-73.60953,18.35023",
+    "geom:latitude":18.35023,
+    "geom:longitude":-73.60953,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Gros Marin",
+    "gn:country_code":"HT",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724174,
+    "gn:latitude":18.35023,
+    "gn:longitude":-73.60953,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Gros Marin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrefour Gros Marin",
+        "Gros Marin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724174
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"103a6a66983ec531d15a6f0a5d5a71bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1193005265,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1193005265,
+    "wof:lastmodified":1537626073,
+    "wof:name":"Gros Marin",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.60953,
+    18.35023,
+    -73.60953,
+    18.35023
+],
+  "geometry": {"coordinates":[-73.60953000000001,18.35023],"type":"Point"}
+}

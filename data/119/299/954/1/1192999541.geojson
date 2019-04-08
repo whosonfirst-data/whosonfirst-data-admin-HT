@@ -1,0 +1,73 @@
+{
+  "id": 1192999541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13333,18.43333,-72.13333,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":-72.13333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Coupet",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727228,
+    "gn:latitude":18.43333,
+    "gn:longitude":-72.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Coupet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coupette",
+        "Coupet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727228
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e8ca574a9ad614d7202eb39971543864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1192999541,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1192999541,
+    "wof:lastmodified":1537626110,
+    "wof:name":"Coupet",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13333,
+    18.43333,
+    -72.13333,
+    18.43333
+],
+  "geometry": {"coordinates":[-72.13333,18.43333],"type":"Point"}
+}

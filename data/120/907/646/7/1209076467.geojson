@@ -1,0 +1,64 @@
+{
+  "id": 1209076467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.36114,18.35583,-73.36114,18.35583",
+    "geom:latitude":18.35583,
+    "geom:longitude":-73.36114,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Mahotiere",
+    "gn:country_code":"HT",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721768,
+    "gn:latitude":18.35583,
+    "gn:longitude":-73.36114,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mahoti\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahoti\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721768
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4c46026b55a3a2a61848b5c109c4eddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209076467
+        }
+    ],
+    "wof:id":1209076467,
+    "wof:lastmodified":1537626039,
+    "wof:name":"Mahotiere",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.36114,
+    18.35583,
+    -73.36114,
+    18.35583
+],
+  "geometry": {"coordinates":[-73.36114000000001,18.35583],"type":"Point"}
+}

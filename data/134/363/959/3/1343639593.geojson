@@ -1,0 +1,73 @@
+{
+  "id": 1343639593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8422,18.68213,-71.8422,18.68213",
+    "geom:latitude":18.68213,
+    "geom:longitude":-71.8422,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Nan l'Etang",
+    "gn:country_code":"HT",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719956,
+    "gn:latitude":18.68213,
+    "gn:longitude":-71.8422,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nan l\u2019\u00c9tang",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etang Gros Dos",
+        "Nan l\u2019\u00c9tang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719956,
+        "wk:page":"Nan_l%E2%80%99%C3%89tang"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0e08f72755f8de7ec5d56106928ad4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1343639593,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1343639593,
+    "wof:lastmodified":1537626017,
+    "wof:name":"Nan l'Etang",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8422,
+    18.68213,
+    -71.8422,
+    18.68213
+],
+  "geometry": {"coordinates":[-71.84220000000001,18.68213],"type":"Point"}
+}

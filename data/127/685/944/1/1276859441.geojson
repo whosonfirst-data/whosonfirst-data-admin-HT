@@ -1,0 +1,68 @@
+{
+  "id": 1276859441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.61667,18.53333,-72.61667,18.53333",
+    "geom:latitude":18.53333,
+    "geom:longitude":-72.61667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Mercery",
+    "gn:country_code":"HT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720973,
+    "gn:latitude":18.53333,
+    "gn:longitude":-72.61667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mercery",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720973
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2de52c787b721da68466af2d5fb01dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1276859441,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1276859441,
+    "wof:lastmodified":1537065611,
+    "wof:name":"Mercery",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.61667,
+    18.53333,
+    -72.61667,
+    18.53333
+],
+  "geometry": {"coordinates":[-72.61667,18.53333],"type":"Point"}
+}

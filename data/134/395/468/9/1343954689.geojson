@@ -1,0 +1,74 @@
+{
+  "id": 1343954689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.53987,19.677,-72.53987,19.677",
+    "geom:latitude":19.677,
+    "geom:longitude":-72.53987,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3718665.0",
+    "gn:asciiname":"Duclerac",
+    "gn:country_code":"HT",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726011,
+    "gn:latitude":19.677,
+    "gn:longitude":-72.53987,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Duclerac",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Duclerac"
+    ],
+    "name:und_x_variant":[
+        "Ducl\u00e9rac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726011
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e746f7523fc15d53b14be613e56c5b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686691,
+            "locality_id":1343954689,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1343954689,
+    "wof:lastmodified":1537626094,
+    "wof:name":"Duclerac",
+    "wof:parent_id":1091686691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.53987,
+    19.677,
+    -72.53987,
+    19.677
+],
+  "geometry": {"coordinates":[-72.53986999999999,19.677],"type":"Point"}
+}

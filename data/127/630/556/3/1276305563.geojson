@@ -1,0 +1,68 @@
+{
+  "id": 1276305563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.45,18.4,-73.45,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-73.45,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Ca Bois",
+    "gn:country_code":"HT",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728939,
+    "gn:latitude":18.4,
+    "gn:longitude":-73.45,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ca Bois",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728939
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"497d48556a315c6df78ad951f7a5f4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1276305563,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1276305563,
+    "wof:lastmodified":1536815242,
+    "wof:name":"Ca Bois",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.45,
+    18.4,
+    -73.45,
+    18.4
+],
+  "geometry": {"coordinates":[-73.45,18.4],"type":"Point"}
+}

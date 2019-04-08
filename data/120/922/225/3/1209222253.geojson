@@ -1,0 +1,62 @@
+{
+  "id": 1209222253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15083,19.755,-73.15083,19.755",
+    "geom:latitude":19.755,
+    "geom:longitude":-73.15083,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Obo",
+    "gn:country_code":"HT",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719504,
+    "gn:latitude":19.755,
+    "gn:longitude":-73.15083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Obo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719504
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f6c2e2ba998f4645e5ca318b84aaafc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209222253
+        }
+    ],
+    "wof:id":1209222253,
+    "wof:lastmodified":1536293922,
+    "wof:name":"Obo",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15083,
+    19.755,
+    -73.15083,
+    19.755
+],
+  "geometry": {"coordinates":[-73.15083,19.755],"type":"Point"}
+}

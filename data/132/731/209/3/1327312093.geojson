@@ -1,0 +1,71 @@
+{
+  "id": 1327312093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39924,18.49053,-72.39924,18.49053",
+    "geom:latitude":18.49053,
+    "geom:longitude":-72.39924,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Fond Ferrier",
+    "gn:country_code":"HT",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725344,
+    "gn:latitude":18.49053,
+    "gn:longitude":-72.39924,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Fond Ferrier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond F\u00e9rrier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725344
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4109880fb613d06b32c989c45d9c4de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1327312093,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327312093,
+    "wof:lastmodified":1537626087,
+    "wof:name":"Fond Ferrier",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39924,
+    18.49053,
+    -72.39924,
+    18.49053
+],
+  "geometry": {"coordinates":[-72.39924000000001,18.49053],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226363779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.22686,19.0531,-72.22686,19.0531",
+    "geom:latitude":19.0531,
+    "geom:longitude":-72.22686,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Leyan",
+    "gn:country_code":"HT",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722187,
+    "gn:latitude":19.0531,
+    "gn:longitude":-72.22686,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"L\u00e9yan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u00e9yan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722187
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"22d9ba6d1ded540876b55616289a8526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1226363779,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1226363779,
+    "wof:lastmodified":1537626045,
+    "wof:name":"Leyan",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.22686,
+    19.0531,
+    -72.22686,
+    19.0531
+],
+  "geometry": {"coordinates":[-72.22686,19.0531],"type":"Point"}
+}

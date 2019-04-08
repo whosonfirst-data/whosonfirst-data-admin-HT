@@ -1,0 +1,68 @@
+{
+  "id": 1293873401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06667,19.33333,-72.06667,19.33333",
+    "geom:latitude":19.33333,
+    "geom:longitude":-72.06667,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Gaspard",
+    "gn:country_code":"HT",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724891,
+    "gn:latitude":19.33333,
+    "gn:longitude":-72.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gaspard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724891
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"40a4f032e2b9f7f56a7caee72e0fa888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686137,
+            "locality_id":1293873401,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1293873401,
+    "wof:lastmodified":1536728273,
+    "wof:name":"Gaspard",
+    "wof:parent_id":1091686137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06667,
+    19.33333,
+    -72.06667,
+    19.33333
+],
+  "geometry": {"coordinates":[-72.06667,19.33333],"type":"Point"}
+}

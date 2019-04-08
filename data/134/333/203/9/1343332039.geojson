@@ -1,0 +1,71 @@
+{
+  "id": 1343332039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.37456,18.50151,-73.37456,18.50151",
+    "geom:latitude":18.50151,
+    "geom:longitude":-73.37456,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Grand Fond",
+    "gn:country_code":"HT",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724358,
+    "gn:latitude":18.50151,
+    "gn:longitude":-73.37456,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Grand Fond",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand Fond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724358
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4de03f7bced1d870c74193345a165c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1343332039,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1343332039,
+    "wof:lastmodified":1537626075,
+    "wof:name":"Grand Fond",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.37456,
+    18.50151,
+    -73.37456,
+    18.50151
+],
+  "geometry": {"coordinates":[-73.37456,18.50151],"type":"Point"}
+}

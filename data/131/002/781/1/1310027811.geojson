@@ -1,0 +1,71 @@
+{
+  "id": 1310027811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51531,19.21819,-72.51531,19.21819",
+    "geom:latitude":19.21819,
+    "geom:longitude":-72.51531,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Carrefour Ti Bois",
+    "gn:country_code":"HT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728250,
+    "gn:latitude":19.21819,
+    "gn:longitude":-72.51531,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Carrefour Ti Bois",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Carrefour Ti Bois"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728250
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ca0ebd2a583b0bd6c5fc799d02003323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1310027811,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1310027811,
+    "wof:lastmodified":1537626122,
+    "wof:name":"Carrefour Ti Bois",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51531,
+    19.21819,
+    -72.51531,
+    19.21819
+],
+  "geometry": {"coordinates":[-72.51531,19.21819],"type":"Point"}
+}

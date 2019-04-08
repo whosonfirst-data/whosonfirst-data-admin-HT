@@ -1,0 +1,68 @@
+{
+  "id": 1226024999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89139,18.10417,-73.89139,18.10417",
+    "geom:latitude":18.10417,
+    "geom:longitude":-73.89139,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"Barbois",
+    "gn:country_code":"HT",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730777,
+    "gn:latitude":18.10417,
+    "gn:longitude":-73.89139,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barbois",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730777
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c7c268232c4deb49c02a27efd9b55ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1226024999,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1226024999,
+    "wof:lastmodified":1536755178,
+    "wof:name":"Barbois",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89139,
+    18.10417,
+    -73.89139,
+    18.10417
+],
+  "geometry": {"coordinates":[-73.89139,18.10417],"type":"Point"}
+}

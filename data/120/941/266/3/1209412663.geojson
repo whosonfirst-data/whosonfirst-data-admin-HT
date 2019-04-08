@@ -1,0 +1,61 @@
+{
+  "id": 1209412663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,18.83333,-72.33333,18.83333",
+    "geom:latitude":18.83333,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Fond Major",
+    "gn:country_code":"HT",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725301,
+    "gn:latitude":18.83333,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"2000-03-21",
+    "gn:name":"Fond Major",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725301
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fef3f00c74a07904dc2414ea1ada3a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209412663
+        }
+    ],
+    "wof:id":1209412663,
+    "wof:lastmodified":1536287788,
+    "wof:name":"Fond Major",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    18.83333,
+    -72.33333,
+    18.83333
+],
+  "geometry": {"coordinates":[-72.33333,18.83333],"type":"Point"}
+}

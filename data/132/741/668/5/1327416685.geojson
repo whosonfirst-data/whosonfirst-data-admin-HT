@@ -1,0 +1,71 @@
+{
+  "id": 1327416685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74094,18.49127,-73.74094,18.49127",
+    "geom:latitude":18.49127,
+    "geom:longitude":-73.74094,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Bourjolly",
+    "gn:country_code":"HT",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729203,
+    "gn:latitude":18.49127,
+    "gn:longitude":-73.74094,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bourjolly",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bourjoly",
+        "Bourjolly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729203
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1de425deb7c1cdc247616e14378ac790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1327416685,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1327416685,
+    "wof:lastmodified":1537626135,
+    "wof:name":"Bourjolly",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74094000000002,
+    18.49127,
+    -73.74094000000002,
+    18.49127
+],
+  "geometry": {"coordinates":[-73.74094000000002,18.49127],"type":"Point"}
+}

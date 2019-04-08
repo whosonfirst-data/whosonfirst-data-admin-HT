@@ -1,0 +1,71 @@
+{
+  "id": 1209986837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.27805,18.4351,-73.27805,18.4351",
+    "geom:latitude":18.4351,
+    "geom:longitude":-73.27805,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Coma",
+    "gn:country_code":"HT",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727493,
+    "gn:latitude":18.4351,
+    "gn:longitude":-73.27805,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Coma",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Coma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727493
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0720e9d87e1c9c8e487d20d549778c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1209986837,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1209986837,
+    "wof:lastmodified":1537626113,
+    "wof:name":"Coma",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.27805,
+    18.4351,
+    -73.27805,
+    18.4351
+],
+  "geometry": {"coordinates":[-73.27804999999999,18.4351],"type":"Point"}
+}

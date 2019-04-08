@@ -1,0 +1,68 @@
+{
+  "id": 1259767771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.23333,19.5,-72.23333,19.5",
+    "geom:latitude":19.5,
+    "geom:longitude":-72.23333,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Peujot",
+    "gn:country_code":"HT",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718935,
+    "gn:latitude":19.5,
+    "gn:longitude":-72.23333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Peujot",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718935
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f3c828cb81281d014aa02f47f7a07b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686895,
+            "locality_id":1259767771,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1259767771,
+    "wof:lastmodified":1536946212,
+    "wof:name":"Peujot",
+    "wof:parent_id":1091686895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.23333000000002,
+    19.5,
+    -72.23333000000002,
+    19.5
+],
+  "geometry": {"coordinates":[-72.23333000000002,19.5],"type":"Point"}
+}

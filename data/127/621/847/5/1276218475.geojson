@@ -1,0 +1,71 @@
+{
+  "id": 1276218475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24214,19.23069,-72.24214,19.23069",
+    "geom:latitude":19.23069,
+    "geom:longitude":-72.24214,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Callebassier",
+    "gn:country_code":"HT",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728664,
+    "gn:latitude":19.23069,
+    "gn:longitude":-72.24214,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Callebassier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Callebassier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728664
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fc0df8f31836a64f4ada063c7252ad21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1276218475,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1276218475,
+    "wof:lastmodified":1537626128,
+    "wof:name":"Callebassier",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24214,
+    19.23069,
+    -72.24214,
+    19.23069
+],
+  "geometry": {"coordinates":[-72.24214000000001,19.23069],"type":"Point"}
+}

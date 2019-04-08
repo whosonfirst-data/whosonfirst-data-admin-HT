@@ -1,0 +1,74 @@
+{
+  "id": 1327111691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.98333,18.18333,-73.98333,18.18333",
+    "geom:latitude":18.18333,
+    "geom:longitude":-73.98333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727295.0",
+    "gn:asciiname":"Rosier",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717790,
+    "gn:latitude":18.18333,
+    "gn:longitude":-73.98333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rosier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carre Rosie",
+        "Rogier",
+        "Rosier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717790
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5b3b64b0259be790697ad3a0d345c155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686543,
+            "locality_id":1327111691,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1327111691,
+    "wof:lastmodified":1537625991,
+    "wof:name":"Rosier",
+    "wof:parent_id":1091686543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.98333000000002,
+    18.18333,
+    -73.98333000000002,
+    18.18333
+],
+  "geometry": {"coordinates":[-73.98333000000002,18.18333],"type":"Point"}
+}

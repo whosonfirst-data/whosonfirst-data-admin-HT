@@ -1,0 +1,68 @@
+{
+  "id": 1226412761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.55,18.51667,-73.55,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":-73.55,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Nan l'Etang",
+    "gn:country_code":"HT",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719957,
+    "gn:latitude":18.51667,
+    "gn:longitude":-73.55,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan l\u2019\u00c9tang",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719957
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"72834c2ecb362a3d195651482df5c3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1226412761,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1226412761,
+    "wof:lastmodified":1536693347,
+    "wof:name":"Nan l'Etang",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55,
+    18.51667,
+    -73.55,
+    18.51667
+],
+  "geometry": {"coordinates":[-73.55,18.51667],"type":"Point"}
+}

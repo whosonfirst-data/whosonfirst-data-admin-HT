@@ -1,0 +1,68 @@
+{
+  "id": 1327456037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.43333,19.28333,-72.43333,19.28333",
+    "geom:latitude":19.28333,
+    "geom:longitude":-72.43333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Ti Fond",
+    "gn:country_code":"HT",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716567,
+    "gn:latitude":19.28333,
+    "gn:longitude":-72.43333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ti Fond",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716567
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9e82d04701cb20ddcd5a842e59ac6f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1327456037,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1327456037,
+    "wof:lastmodified":1536646247,
+    "wof:name":"Ti Fond",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.43333,
+    19.28333,
+    -72.43333,
+    19.28333
+],
+  "geometry": {"coordinates":[-72.43333,19.28333],"type":"Point"}
+}

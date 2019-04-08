@@ -1,0 +1,82 @@
+{
+  "id": 421179609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.81667,19.65,-71.81667,19.65",
+    "geom:latitude":19.65,
+    "geom:longitude":-71.81667,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Lagnon"
+    ],
+    "qs:gn_country":"HT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3726728,
+    "qs:gn_pop":1855,
+    "qs:name":"D\u00e9rac",
+    "qs:name_adm0":"Ha\u00efti",
+    "qs:name_adm1":"Nord-Est",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":150268,
+    "qs:woe_adm0":23424839,
+    "qs:woe_id":90175,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726728,
+        "gp:id":90175,
+        "qs:id":150268
+    },
+    "wof:country":"HT",
+    "wof:created":1459009227,
+    "wof:geomhash":"cea3f9e4fe7355c76305e4b5b98c3cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":421179609,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":421179609,
+    "wof:lastmodified":1505340643,
+    "wof:name":"D\u00e9rac",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:population":1855,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.81667,
+    19.65,
+    -71.81667,
+    19.65
+],
+  "geometry": {"coordinates":[-71.81667,19.65],"type":"Point"}
+}

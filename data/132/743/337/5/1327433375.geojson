@@ -1,0 +1,71 @@
+{
+  "id": 1327433375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03872,19.90652,-73.03872,19.90652",
+    "geom:latitude":19.90652,
+    "geom:longitude":-73.03872,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Port a l'Ecu",
+    "gn:country_code":"HT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718435,
+    "gn:latitude":19.90652,
+    "gn:longitude":-73.03872,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Port \u00e0 l\u2019\u00c9cu",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Port \u00e0 l\u2019\u00c9cu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718435
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"08d3dc73553803aad0c85f7e8ed16565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1327433375,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1327433375,
+    "wof:lastmodified":1537625998,
+    "wof:name":"Port a l'Ecu",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03872,
+    19.90652,
+    -73.03872,
+    19.90652
+],
+  "geometry": {"coordinates":[-73.03872,19.90652],"type":"Point"}
+}

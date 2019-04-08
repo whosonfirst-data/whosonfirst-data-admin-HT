@@ -1,0 +1,68 @@
+{
+  "id": 1226031873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.20926,18.32151,-74.20926,18.32151",
+    "geom:latitude":18.32151,
+    "geom:longitude":-74.20926,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Nan Digue",
+    "gn:country_code":"HT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720127,
+    "gn:latitude":18.32151,
+    "gn:longitude":-74.20926,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Digue",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720127
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"66986ba91c7a851889e6878eb4902c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686503,
+            "locality_id":1226031873,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1226031873,
+    "wof:lastmodified":1536744861,
+    "wof:name":"Nan Digue",
+    "wof:parent_id":1091686503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.20926,
+    18.32151,
+    -74.20926,
+    18.32151
+],
+  "geometry": {"coordinates":[-74.20926,18.32151],"type":"Point"}
+}

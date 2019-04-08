@@ -1,0 +1,72 @@
+{
+  "id": 1310282265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.8729,18.05576,-73.8729,18.05576",
+    "geom:latitude":18.05576,
+    "geom:longitude":-73.8729,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"Dumond",
+    "gn:country_code":"HT",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725921,
+    "gn:latitude":18.05576,
+    "gn:longitude":-73.8729,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dumond",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumont",
+        "Dumond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725921
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5229e4fb83fa7680d4c1f16788a142fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1310282265,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1310282265,
+    "wof:lastmodified":1537626093,
+    "wof:name":"Dumond",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.8729,
+    18.05576,
+    -73.8729,
+    18.05576
+],
+  "geometry": {"coordinates":[-73.8729,18.05576],"type":"Point"}
+}

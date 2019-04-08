@@ -1,0 +1,71 @@
+{
+  "id": 1343639687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.42739,18.85605,-72.42739,18.85605",
+    "geom:latitude":18.85605,
+    "geom:longitude":-72.42739,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Ca Dupuy",
+    "gn:country_code":"HT",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728817,
+    "gn:latitude":18.85605,
+    "gn:longitude":-72.42739,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ca Dupuy",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ca Dupuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728817
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fc7501f9f838d64849ebbc6a1d5efa51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1343639687,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1343639687,
+    "wof:lastmodified":1537626131,
+    "wof:name":"Ca Dupuy",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.42739,
+    18.85605,
+    -72.42739,
+    18.85605
+],
+  "geometry": {"coordinates":[-72.42739,18.85605],"type":"Point"}
+}

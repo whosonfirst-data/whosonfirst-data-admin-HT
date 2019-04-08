@@ -1,0 +1,67 @@
+{
+  "id": 1209905291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.68333,19.21667,-71.68333,19.21667",
+    "geom:latitude":19.21667,
+    "geom:longitude":-71.68333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Savane Grade Brule",
+    "gn:country_code":"HT",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717321,
+    "gn:latitude":19.21667,
+    "gn:longitude":-71.68333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Savane Grad\u00e9 Br\u00fbl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717321
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ecdd0c8e3d91cdfda999d6baa83cce68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1209905291,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1209905291,
+    "wof:lastmodified":1536384492,
+    "wof:name":"Savane Grade Brule",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.68333,
+    19.21667,
+    -71.68333,
+    19.21667
+],
+  "geometry": {"coordinates":[-71.68333,19.21667],"type":"Point"}
+}

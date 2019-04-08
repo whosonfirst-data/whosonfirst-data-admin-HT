@@ -1,0 +1,65 @@
+{
+  "id": 1209496453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.84069,18.75086,-72.84069,18.75086",
+    "geom:latitude":18.75086,
+    "geom:longitude":-72.84069,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Liberal",
+    "gn:country_code":"HT",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722163,
+    "gn:latitude":18.75086,
+    "gn:longitude":-72.84069,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Lib\u00e9ral",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lib\u00e9ral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722163
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9885bff7ab72b9edd8ae5e172a764a53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209496453
+        }
+    ],
+    "wof:id":1209496453,
+    "wof:lastmodified":1537626044,
+    "wof:name":"Liberal",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.84069000000002,
+    18.75086,
+    -72.84069000000002,
+    18.75086
+],
+  "geometry": {"coordinates":[-72.84069000000002,18.75086],"type":"Point"}
+}

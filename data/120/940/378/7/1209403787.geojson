@@ -1,0 +1,62 @@
+{
+  "id": 1209403787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88333,19.43333,-71.88333,19.43333",
+    "geom:latitude":19.43333,
+    "geom:longitude":-71.88333,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716114.0",
+    "gn:asciiname":"Salnave",
+    "gn:country_code":"HT",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717500,
+    "gn:latitude":19.43333,
+    "gn:longitude":-71.88333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Salnave",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717500
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8dad6f0bad5b408444528269ccc19cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209403787
+        }
+    ],
+    "wof:id":1209403787,
+    "wof:lastmodified":1536288060,
+    "wof:name":"Salnave",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88333,
+    19.43333,
+    -71.88333,
+    19.43333
+],
+  "geometry": {"coordinates":[-71.88333,19.43333],"type":"Point"}
+}

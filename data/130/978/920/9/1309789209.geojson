@@ -1,0 +1,67 @@
+{
+  "id": 1309789209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.76667,18.5,-73.76667,18.5",
+    "geom:latitude":18.5,
+    "geom:longitude":-73.76667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nan Philippe",
+    "gn:country_code":"HT",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719819,
+    "gn:latitude":18.5,
+    "gn:longitude":-73.76667,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Nan Philippe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719819
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5014818c4d3d0fc010497cb5c34885d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1309789209,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1309789209,
+    "wof:lastmodified":1536955063,
+    "wof:name":"Nan Philippe",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.76666999999998,
+    18.5,
+    -73.76666999999998,
+    18.5
+],
+  "geometry": {"coordinates":[-73.76666999999998,18.5],"type":"Point"}
+}

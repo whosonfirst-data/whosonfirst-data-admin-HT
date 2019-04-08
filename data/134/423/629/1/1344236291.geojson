@@ -1,0 +1,68 @@
+{
+  "id": 1344236291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.70528,18.19583,-72.70528,18.19583",
+    "geom:latitude":18.19583,
+    "geom:longitude":-72.70528,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"Terre Rouge",
+    "gn:country_code":"HT",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716769,
+    "gn:latitude":18.19583,
+    "gn:longitude":-72.70528,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Terre Rouge",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716769
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2caf3078c9fa09ac4e598359cd9c40f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1344236291,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1344236291,
+    "wof:lastmodified":1536619806,
+    "wof:name":"Terre Rouge",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.70528,
+    18.19583,
+    -72.70528,
+    18.19583
+],
+  "geometry": {"coordinates":[-72.70528,18.19583],"type":"Point"}
+}

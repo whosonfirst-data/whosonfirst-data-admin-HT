@@ -1,0 +1,71 @@
+{
+  "id": 1276633621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.83385,18.74375,-72.83385,18.74375",
+    "geom:latitude":18.74375,
+    "geom:longitude":-72.83385,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Fond Plaisir",
+    "gn:country_code":"HT",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725263,
+    "gn:latitude":18.74375,
+    "gn:longitude":-72.83385,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Fond Plaisir",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Plaisir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725263
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3b1aeedb9429759b76b9e00d2a7e922e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1276633621,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1276633621,
+    "wof:lastmodified":1537626085,
+    "wof:name":"Fond Plaisir",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.83385,
+    18.74375,
+    -72.83385,
+    18.74375
+],
+  "geometry": {"coordinates":[-72.83385,18.74375],"type":"Point"}
+}

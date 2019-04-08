@@ -1,0 +1,68 @@
+{
+  "id": 1327433235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.85,19.71667,-72.85,19.71667",
+    "geom:latitude":19.71667,
+    "geom:longitude":-72.85,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Grivo",
+    "gn:country_code":"HT",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724210,
+    "gn:latitude":19.71667,
+    "gn:longitude":-72.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Grivo",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724210
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"22d1720d541e43af876ab1df955c9eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1327433235,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1327433235,
+    "wof:lastmodified":1536679562,
+    "wof:name":"Grivo",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.85,
+    19.71667,
+    -72.85,
+    19.71667
+],
+  "geometry": {"coordinates":[-72.84999999999999,19.71667],"type":"Point"}
+}

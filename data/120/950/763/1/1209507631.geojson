@@ -1,0 +1,65 @@
+{
+  "id": 1209507631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.86122,19.58775,-72.86122,19.58775",
+    "geom:latitude":19.58775,
+    "geom:longitude":-72.86122,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Mont Bayard",
+    "gn:country_code":"HT",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720686,
+    "gn:latitude":19.58775,
+    "gn:longitude":-72.86122,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Mont Bayard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mont Bayard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720686
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"19330f64bdce22c800015645f83e859a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209507631
+        }
+    ],
+    "wof:id":1209507631,
+    "wof:lastmodified":1537626026,
+    "wof:name":"Mont Bayard",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.86121999999997,
+    19.58775,
+    -72.86121999999997,
+    19.58775
+],
+  "geometry": {"coordinates":[-72.86121999999997,19.58775],"type":"Point"}
+}

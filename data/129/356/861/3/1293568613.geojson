@@ -1,0 +1,68 @@
+{
+  "id": 1293568613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.69389,18.28694,-72.69389,18.28694",
+    "geom:latitude":18.28694,
+    "geom:longitude":-72.69389,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Nan Fourneau",
+    "gn:country_code":"HT",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720068,
+    "gn:latitude":18.28694,
+    "gn:longitude":-72.69389,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Fourneau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720068
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2c22c52986e46efedc9b6157646b53c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1293568613,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1293568613,
+    "wof:lastmodified":1536670158,
+    "wof:name":"Nan Fourneau",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.69389,
+    18.28694,
+    -72.69389,
+    18.28694
+],
+  "geometry": {"coordinates":[-72.69389,18.28694],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209606843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20445,18.89963,-72.20445,18.89963",
+    "geom:latitude":18.89963,
+    "geom:longitude":-72.20445,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Guillaume",
+    "gn:country_code":"HT",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724044,
+    "gn:latitude":18.89963,
+    "gn:longitude":-72.20445,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Guillaume",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guillaume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724044
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9f6a3fe6c7aef19d282cdb216c8fed9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209606843
+        }
+    ],
+    "wof:id":1209606843,
+    "wof:lastmodified":1537626071,
+    "wof:name":"Guillaume",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20445,
+    18.89963,
+    -72.20445,
+    18.89963
+],
+  "geometry": {"coordinates":[-72.20444999999999,18.89963],"type":"Point"}
+}

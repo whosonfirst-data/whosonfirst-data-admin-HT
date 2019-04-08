@@ -1,0 +1,71 @@
+{
+  "id": 1327456201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4729,18.99233,-72.4729,18.99233",
+    "geom:latitude":18.99233,
+    "geom:longitude":-72.4729,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Fourneau",
+    "gn:country_code":"HT",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725128,
+    "gn:latitude":18.99233,
+    "gn:longitude":-72.4729,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Fourneau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fourneaux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725128
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a4bf6e8fcdf14c2011a7d705ea978ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1327456201,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1327456201,
+    "wof:lastmodified":1537626084,
+    "wof:name":"Fourneau",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4729,
+    18.99233,
+    -72.4729,
+    18.99233
+],
+  "geometry": {"coordinates":[-72.4729,18.99233],"type":"Point"}
+}

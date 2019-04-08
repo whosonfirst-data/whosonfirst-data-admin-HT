@@ -1,0 +1,74 @@
+{
+  "id": 1259660823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.77721,18.34501,-73.77721,18.34501",
+    "geom:latitude":18.34501,
+    "geom:longitude":-73.77721,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Maniche",
+    "gn:country_code":"HT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721621,
+    "gn:latitude":18.34501,
+    "gn:longitude":-73.77721,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Maniche",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Manich"
+    ],
+    "name:und_x_variant":[
+        "Moniche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721621
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"17ed157b2870961f07f510012e8053ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1259660823,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1259660823,
+    "wof:lastmodified":1537626037,
+    "wof:name":"Maniche",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.77721,
+    18.34501,
+    -73.77721,
+    18.34501
+],
+  "geometry": {"coordinates":[-73.77721,18.34501],"type":"Point"}
+}

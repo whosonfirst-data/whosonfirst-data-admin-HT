@@ -1,0 +1,72 @@
+{
+  "id": 1326916699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.81475,18.20332,-71.81475,18.20332",
+    "geom:latitude":18.20332,
+    "geom:longitude":-71.81475,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Boulaille",
+    "gn:country_code":"HT",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729269,
+    "gn:latitude":18.20332,
+    "gn:longitude":-71.81475,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boulaille",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan Boulaille",
+        "Boulaille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729269
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"434041ca2a83d31f3e0a335aa2fd6568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1326916699,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1326916699,
+    "wof:lastmodified":1537626136,
+    "wof:name":"Boulaille",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.81475,
+    18.20332,
+    -71.81475,
+    18.20332
+],
+  "geometry": {"coordinates":[-71.81475,18.20332],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343631777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.03482,18.30877,-73.03482,18.30877",
+    "geom:latitude":18.30877,
+    "geom:longitude":-73.03482,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Belivert",
+    "gn:country_code":"HT",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11522525,
+    "gn:latitude":18.30877,
+    "gn:longitude":-73.03482,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"B\u00e9livert",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9livert"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11522525
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ef610980658c643fe5531395e199e07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1343631777,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1343631777,
+    "wof:lastmodified":1537626162,
+    "wof:name":"Belivert",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.03482,
+    18.30877000000001,
+    -73.03482,
+    18.30877000000001
+],
+  "geometry": {"coordinates":[-73.03482,18.30877000000001],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1260253411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25,18.7,-74.25,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":-74.25,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Brisson",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729054,
+    "gn:latitude":18.7,
+    "gn:longitude":-74.25,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Brisson",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729054
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d392077de747ec5e31ad376538e3cddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260253411,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260253411,
+    "wof:lastmodified":1536752625,
+    "wof:name":"Brisson",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25,
+    18.7,
+    -74.25,
+    18.7
+],
+  "geometry": {"coordinates":[-74.25,18.7],"type":"Point"}
+}

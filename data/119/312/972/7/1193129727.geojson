@@ -1,0 +1,71 @@
+{
+  "id": 1193129727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73765,18.99797,-72.73765,18.99797",
+    "geom:latitude":18.99797,
+    "geom:longitude":-72.73765,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Pierre Payen",
+    "gn:country_code":"HT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718849,
+    "gn:latitude":18.99797,
+    "gn:longitude":-72.73765,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Pierre Payen",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pierre Payen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718849
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"41e7b687c8cec62f5c666fe3364a76b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1193129727,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1193129727,
+    "wof:lastmodified":1537626004,
+    "wof:name":"Pierre Payen",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73765,
+    18.99797,
+    -72.73765,
+    18.99797
+],
+  "geometry": {"coordinates":[-72.73765,18.99797],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209393147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.70607,18.42864,-72.70607,18.42864",
+    "geom:latitude":18.42864,
+    "geom:longitude":-72.70607,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Grand Trou",
+    "gn:country_code":"HT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724269,
+    "gn:latitude":18.42864,
+    "gn:longitude":-72.70607,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Grand Trou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand Trou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724269
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"87f8fcb5798792f24548d9bb01588bef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209393147
+        }
+    ],
+    "wof:id":1209393147,
+    "wof:lastmodified":1537626074,
+    "wof:name":"Grand Trou",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.70607,
+    18.42864,
+    -72.70607,
+    18.42864
+],
+  "geometry": {"coordinates":[-72.70607,18.42864],"type":"Point"}
+}

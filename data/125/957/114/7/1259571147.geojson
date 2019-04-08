@@ -1,0 +1,71 @@
+{
+  "id": 1259571147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25906,18.42334,-72.25906,18.42334",
+    "geom:latitude":18.42334,
+    "geom:longitude":-72.25906,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Boucan Michel",
+    "gn:country_code":"HT",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729353,
+    "gn:latitude":18.42334,
+    "gn:longitude":-72.25906,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boucan Michel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Boucan Michel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729353
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a7665f3666d91c9be10d7dea0e6611cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1259571147,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259571147,
+    "wof:lastmodified":1537626137,
+    "wof:name":"Boucan Michel",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25905999999998,
+    18.42334,
+    -72.25905999999998,
+    18.42334
+],
+  "geometry": {"coordinates":[-72.25905999999998,18.42334],"type":"Point"}
+}

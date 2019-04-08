@@ -1,0 +1,73 @@
+{
+  "id": 1326621727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.08333,18.76667,-72.08333,18.76667",
+    "geom:latitude":18.76667,
+    "geom:longitude":-72.08333,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Cholette",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727711,
+    "gn:latitude":18.76667,
+    "gn:longitude":-72.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Cholette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cholotte",
+        "Cholette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727711
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b34ffd9f003febba031a9e894cb4141a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1326621727,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1326621727,
+    "wof:lastmodified":1537626115,
+    "wof:name":"Cholette",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.08333,
+    18.76667,
+    -72.08333,
+    18.76667
+],
+  "geometry": {"coordinates":[-72.08333,18.76667],"type":"Point"}
+}

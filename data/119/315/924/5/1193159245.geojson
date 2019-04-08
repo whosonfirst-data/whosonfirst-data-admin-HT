@@ -1,0 +1,74 @@
+{
+  "id": 1193159245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.45099,18.97353,-72.45099,18.97353",
+    "geom:latitude":18.97353,
+    "geom:longitude":-72.45099,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"L'Epinard",
+    "gn:country_code":"HT",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722279,
+    "gn:latitude":18.97353,
+    "gn:longitude":-72.45099,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"L\u2019\u00c9pinard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u00e9pinard"
+    ],
+    "name:und_x_variant":[
+        "L\u2019\u00c9pinard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722279
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d44913e9afb5880a0552f350ebb7e708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1193159245,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1193159245,
+    "wof:lastmodified":1537626047,
+    "wof:name":"L'Epinard",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.45099,
+    18.97353,
+    -72.45099,
+    18.97353
+],
+  "geometry": {"coordinates":[-72.45099,18.97353],"type":"Point"}
+}

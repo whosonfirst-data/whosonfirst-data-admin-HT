@@ -1,0 +1,71 @@
+{
+  "id": 1226229239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.06247,18.337,-74.06247,18.337",
+    "geom:latitude":18.337,
+    "geom:longitude":-74.06247,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Nan Bento",
+    "gn:country_code":"HT",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720324,
+    "gn:latitude":18.337,
+    "gn:longitude":-74.06247,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nan Bento",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Bento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720324
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f5eae0cd15f3b546b36e6cb3854cb3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686503,
+            "locality_id":1226229239,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1226229239,
+    "wof:lastmodified":1537626023,
+    "wof:name":"Nan Bento",
+    "wof:parent_id":1091686503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.06246999999998,
+    18.337,
+    -74.06246999999998,
+    18.337
+],
+  "geometry": {"coordinates":[-74.06246999999998,18.337],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1293468655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.13333,18.68333,-74.13333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":-74.13333,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nan Lundi",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719941,
+    "gn:latitude":18.68333,
+    "gn:longitude":-74.13333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Nan Lundi",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719941
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bccf1445d68bf1adf3451c0f79b8b3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293468655,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293468655,
+    "wof:lastmodified":1536813650,
+    "wof:name":"Nan Lundi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.13333,
+    18.68333,
+    -74.13333,
+    18.68333
+],
+  "geometry": {"coordinates":[-74.13333,18.68333],"type":"Point"}
+}

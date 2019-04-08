@@ -1,0 +1,67 @@
+{
+  "id": 1193117323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2,18.4,-74.2,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-74.2,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bellevue",
+    "gn:country_code":"HT",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730307,
+    "gn:latitude":18.4,
+    "gn:longitude":-74.2,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Bellevue",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730307
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b9b31348b7dc98e10ac86fe04a6fec4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1193117323,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1193117323,
+    "wof:lastmodified":1536366840,
+    "wof:name":"Bellevue",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2,
+    18.4,
+    -74.2,
+    18.4
+],
+  "geometry": {"coordinates":[-74.2,18.4],"type":"Point"}
+}

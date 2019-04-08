@@ -1,0 +1,68 @@
+{
+  "id": 1293560509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.71667,18.3,-72.71667,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-72.71667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Sejourne",
+    "gn:country_code":"HT",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717172,
+    "gn:latitude":18.3,
+    "gn:longitude":-72.71667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"S\u00e9journ\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717172
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"79526619dbe4c260899bd4ea6fe5e823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1293560509,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1293560509,
+    "wof:lastmodified":1536681886,
+    "wof:name":"Sejourne",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71667,
+    18.3,
+    -72.71667,
+    18.3
+],
+  "geometry": {"coordinates":[-72.71666999999999,18.3],"type":"Point"}
+}

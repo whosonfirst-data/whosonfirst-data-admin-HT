@@ -1,0 +1,71 @@
+{
+  "id": 1327425717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.88567,19.06316,-71.88567,19.06316",
+    "geom:latitude":19.06316,
+    "geom:longitude":-71.88567,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"Letance",
+    "gn:country_code":"HT",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722220,
+    "gn:latitude":19.06316,
+    "gn:longitude":-71.88567,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"L\u00e9tance",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u00e9tance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722220
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"cf0b87c0d6ff615bc28ca8fb97467d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1327425717,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1327425717,
+    "wof:lastmodified":1537626045,
+    "wof:name":"Letance",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.88566999999998,
+    19.06316,
+    -71.88566999999998,
+    19.06316
+],
+  "geometry": {"coordinates":[-71.88566999999998,19.06316],"type":"Point"}
+}

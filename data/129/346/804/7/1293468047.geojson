@@ -1,0 +1,68 @@
+{
+  "id": 1293468047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.46667,18.41667,-72.46667,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-72.46667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Morel",
+    "gn:country_code":"HT",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720624,
+    "gn:latitude":18.41667,
+    "gn:longitude":-72.46667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720624
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2fb1686dfbccbe5d0d19eab40f03b58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1293468047,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293468047,
+    "wof:lastmodified":1536814477,
+    "wof:name":"Morel",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.46667,
+    18.41667,
+    -72.46667,
+    18.41667
+],
+  "geometry": {"coordinates":[-72.46666999999999,18.41667],"type":"Point"}
+}

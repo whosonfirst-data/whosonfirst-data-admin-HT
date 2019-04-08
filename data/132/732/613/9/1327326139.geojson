@@ -1,0 +1,67 @@
+{
+  "id": 1327326139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.58333,18.96667,-72.58333,18.96667",
+    "geom:latitude":18.96667,
+    "geom:longitude":-72.58333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Turin",
+    "gn:country_code":"HT",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716150,
+    "gn:latitude":18.96667,
+    "gn:longitude":-72.58333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Turin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716150
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6f31ec37fa4743c25270f5e2eb63d293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1327326139,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327326139,
+    "wof:lastmodified":1536833273,
+    "wof:name":"Turin",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.58333,
+    18.96667,
+    -72.58333,
+    18.96667
+],
+  "geometry": {"coordinates":[-72.58333,18.96667],"type":"Point"}
+}

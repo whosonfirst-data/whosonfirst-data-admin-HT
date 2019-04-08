@@ -1,0 +1,112 @@
+{
+  "id": 1125940971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85,18.25,-71.85,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":-71.85,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2461,
+    "gn:population":2461,
+    "iso:country":"HT",
+    "lbl:latitude":18.25,
+    "lbl:longitude":-71.85,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062a\u064a\u0648\u062a"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0445\u0438\u043e\u0442\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Thiotte"
+    ],
+    "name:eng_x_preferred":[
+        "Thiotte"
+    ],
+    "name:fre_x_preferred":[
+        "Thiotte"
+    ],
+    "name:hat_x_preferred":[
+        "Ty\u00f2t"
+    ],
+    "name:ita_x_preferred":[
+        "Thiotte"
+    ],
+    "name:por_x_preferred":[
+        "Thiotte"
+    ],
+    "name:rum_x_preferred":[
+        "Thiotte"
+    ],
+    "name:swe_x_preferred":[
+        "Thiote"
+    ],
+    "name:unk_x_variant":[
+        "Ca\u00ef-Tiot"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3716679,
+    "qs_pg:gn_pop":2461,
+    "qs_pg:name":"Thiote",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1046638,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716679,
+        "qs_pg:id":1046638,
+        "wd:id":"Q2241009"
+    },
+    "wof:country":"HT",
+    "wof:created":1497297115,
+    "wof:geomhash":"5c8791999be99f8e021e813bea3c59f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1125940971,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1125940971,
+    "wof:lastmodified":1514447852,
+    "wof:name":"Thiote",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:population":2461,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85,
+    18.25,
+    -71.85,
+    18.25
+],
+  "geometry": {"coordinates":[-71.84999999999999,18.25],"type":"Point"}
+}

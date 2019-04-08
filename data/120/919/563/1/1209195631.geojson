@@ -1,0 +1,65 @@
+{
+  "id": 1209195631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.57231,18.41049,-72.57231,18.41049",
+    "geom:latitude":18.41049,
+    "geom:longitude":-72.57231,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Mardi Gras",
+    "gn:country_code":"HT",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721497,
+    "gn:latitude":18.41049,
+    "gn:longitude":-72.57231,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Mardi Gras",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mardi Gras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721497
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5419d19eb16a813f7c575bbc912945b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209195631
+        }
+    ],
+    "wof:id":1209195631,
+    "wof:lastmodified":1537626035,
+    "wof:name":"Mardi Gras",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57231,
+    18.41049,
+    -72.57231,
+    18.41049
+],
+  "geometry": {"coordinates":[-72.57231,18.41049],"type":"Point"}
+}

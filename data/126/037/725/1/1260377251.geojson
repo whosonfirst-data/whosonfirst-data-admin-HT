@@ -1,0 +1,68 @@
+{
+  "id": 1260377251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.52028,18.32944,-72.52028,18.32944",
+    "geom:latitude":18.32944,
+    "geom:longitude":-72.52028,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Mamouset",
+    "gn:country_code":"HT",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721648,
+    "gn:latitude":18.32944,
+    "gn:longitude":-72.52028,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mamouset",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721648
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d16340fb8ddffcb1850e38c001bb1fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1260377251,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1260377251,
+    "wof:lastmodified":1537080211,
+    "wof:name":"Mamouset",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.52028,
+    18.32944,
+    -72.52028,
+    18.32944
+],
+  "geometry": {"coordinates":[-72.52028,18.32944],"type":"Point"}
+}

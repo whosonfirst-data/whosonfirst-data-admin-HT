@@ -1,0 +1,118 @@
+{
+  "id": 1126016509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.3449,18.5011,-73.3449,18.5011",
+    "geom:latitude":18.5011,
+    "geom:longitude":-73.3449,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1731,
+    "gn:population":1731,
+    "iso:country":"HT",
+    "lbl:latitude":18.5011,
+    "lbl:longitude":-73.3449,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0622\u0646\u0633 \u0641\u064a\u0648\u064a"
+    ],
+    "name:chi_x_preferred":[
+        "\u6602\u85a9\u6c83"
+    ],
+    "name:dut_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:eng_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:fre_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:hat_x_preferred":[
+        "Ansavo"
+    ],
+    "name:ita_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:por_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:rum_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0441-\u0430-\u0412\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Anse-\u00e0-Veau"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u0430-\u0412\u0443"
+    ],
+    "name:unk_x_variant":[
+        "Ville de Anse \u00e0 Veau"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3731123,
+    "qs_pg:gn_pop":1731,
+    "qs_pg:name":"Anse-\u00e0-Veau",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":585430,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731123,
+        "qs_pg:id":585430,
+        "wd:id":"Q2703974"
+    },
+    "wof:country":"HT",
+    "wof:created":1497300582,
+    "wof:geomhash":"34bd52a9d2c8fbfc3958db081fbd0b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1126016509,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1126016509,
+    "wof:lastmodified":1514447764,
+    "wof:name":"Anse-\u00e0-Veau",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:population":1731,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.3449,
+    18.5011,
+    -73.3449,
+    18.5011
+],
+  "geometry": {"coordinates":[-73.3449,18.5011],"type":"Point"}
+}

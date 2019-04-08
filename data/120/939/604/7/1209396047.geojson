@@ -1,0 +1,62 @@
+{
+  "id": 1209396047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.32278,18.75222,-72.32278,18.75222",
+    "geom:latitude":18.75222,
+    "geom:longitude":-72.32278,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Le Jardin",
+    "gn:country_code":"HT",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722300,
+    "gn:latitude":18.75222,
+    "gn:longitude":-72.32278,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Le Jardin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722300
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0a64a2aa38341e38edce1875ab41d189",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209396047
+        }
+    ],
+    "wof:id":1209396047,
+    "wof:lastmodified":1536288298,
+    "wof:name":"Le Jardin",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.32278000000002,
+    18.75222,
+    -72.32278000000002,
+    18.75222
+],
+  "geometry": {"coordinates":[-72.32278000000002,18.75222],"type":"Point"}
+}

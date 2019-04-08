@@ -1,0 +1,74 @@
+{
+  "id": 1226130883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.35171,18.44073,-72.35171,18.44073",
+    "geom:latitude":18.44073,
+    "geom:longitude":-72.35171,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Bongars",
+    "gn:country_code":"HT",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729530,
+    "gn:latitude":18.44073,
+    "gn:longitude":-72.35171,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bongars",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bongat",
+        "Bongas",
+        "Bongars",
+        "Bonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729530
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8f214d5b597d06603107e3635f8474e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1226130883,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1226130883,
+    "wof:lastmodified":1537626139,
+    "wof:name":"Bongars",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.35171,
+    18.44073,
+    -72.35171,
+    18.44073
+],
+  "geometry": {"coordinates":[-72.35171,18.44073],"type":"Point"}
+}

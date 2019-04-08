@@ -1,0 +1,70 @@
+{
+  "id": 1310082769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1194,18.35174,-73.1194,18.35174",
+    "geom:latitude":18.35174,
+    "geom:longitude":-73.1194,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Dambreville",
+    "gn:country_code":"HT",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727063,
+    "gn:latitude":18.35174,
+    "gn:longitude":-73.1194,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Dambreville",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dambreville"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727063
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ce2314a2383da3b2f0f16c653c46d03a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1310082769,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1310082769,
+    "wof:lastmodified":1537626108,
+    "wof:name":"Dambreville",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1194,
+    18.35174,
+    -73.1194,
+    18.35174
+],
+  "geometry": {"coordinates":[-73.1194,18.35174],"type":"Point"}
+}

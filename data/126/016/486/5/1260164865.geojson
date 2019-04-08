@@ -1,0 +1,72 @@
+{
+  "id": 1260164865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.84142,19.35281,-71.84142,19.35281",
+    "geom:latitude":19.35281,
+    "geom:longitude":-71.84142,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716114.0",
+    "gn:asciiname":"Bois Rouge",
+    "gn:country_code":"HT",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729592,
+    "gn:latitude":19.35281,
+    "gn:longitude":-71.84142,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bois Rouge",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boy Rouge",
+        "Bois Rouge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729592
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"61e12ebcbb16cc536eb390e1f7046bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687119,
+            "locality_id":1260164865,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1260164865,
+    "wof:lastmodified":1537626140,
+    "wof:name":"Bois Rouge",
+    "wof:parent_id":1091687119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.84142,
+    19.35281,
+    -71.84142,
+    19.35281
+],
+  "geometry": {"coordinates":[-71.84142,19.35281],"type":"Point"}
+}

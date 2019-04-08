@@ -1,0 +1,71 @@
+{
+  "id": 1225842805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38069,19.16005,-72.38069,19.16005",
+    "geom:latitude":19.16005,
+    "geom:longitude":-72.38069,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Berrard",
+    "gn:country_code":"HT",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730136,
+    "gn:latitude":19.16005,
+    "gn:longitude":-72.38069,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Berrard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Berrard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730136
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a41ee4b5c404d9cc8e90759d5873219d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1225842805,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1225842805,
+    "wof:lastmodified":1537626147,
+    "wof:name":"Berrard",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38069,
+    19.16005,
+    -72.38069,
+    19.16005
+],
+  "geometry": {"coordinates":[-72.38069,19.16005],"type":"Point"}
+}

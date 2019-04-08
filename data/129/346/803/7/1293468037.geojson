@@ -1,0 +1,68 @@
+{
+  "id": 1293468037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.655,18.50389,-72.655,18.50389",
+    "geom:latitude":18.50389,
+    "geom:longitude":-72.655,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Brossier",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729035,
+    "gn:latitude":18.50389,
+    "gn:longitude":-72.655,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Brossier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729035
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ea02594b23ee98ac3579a2102a90ba33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1293468037,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293468037,
+    "wof:lastmodified":1536814490,
+    "wof:name":"Brossier",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.655,
+    18.50389,
+    -72.655,
+    18.50389
+],
+  "geometry": {"coordinates":[-72.655,18.50389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243153261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.95645,18.30408,-72.95645,18.30408",
+    "geom:latitude":18.30408,
+    "geom:longitude":-72.95645,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Lompre",
+    "gn:country_code":"HT",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722038,
+    "gn:latitude":18.30408,
+    "gn:longitude":-72.95645,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lompr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lompr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722038
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"faf28b64204ebc5bbac4740d27ce8ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1243153261,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1243153261,
+    "wof:lastmodified":1537626042,
+    "wof:name":"Lompre",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.95645,
+    18.30408,
+    -72.95645,
+    18.30408
+],
+  "geometry": {"coordinates":[-72.95645,18.30408],"type":"Point"}
+}

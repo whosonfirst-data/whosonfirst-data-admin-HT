@@ -1,0 +1,71 @@
+{
+  "id": 1292928203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.71287,19.65959,-72.71287,19.65959",
+    "geom:latitude":19.65959,
+    "geom:longitude":-72.71287,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Baden",
+    "gn:country_code":"HT",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730953,
+    "gn:latitude":19.65959,
+    "gn:longitude":-72.71287,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Baden",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baden"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730953
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ce361225c7f0f405ba79614cf90731da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1292928203,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1292928203,
+    "wof:lastmodified":1537626156,
+    "wof:name":"Baden",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71287,
+    19.65959,
+    -72.71287,
+    19.65959
+],
+  "geometry": {"coordinates":[-72.71287,19.65959],"type":"Point"}
+}

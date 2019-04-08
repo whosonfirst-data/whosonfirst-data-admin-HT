@@ -1,0 +1,71 @@
+{
+  "id": 1343869729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.17158,19.81257,-73.17158,19.81257",
+    "geom:latitude":19.81257,
+    "geom:longitude":-73.17158,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Bassin Bleu",
+    "gn:country_code":"HT",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730636,
+    "gn:latitude":19.81257,
+    "gn:longitude":-73.17158,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bassin Bleu",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bassin Bleu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730636
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"21ae6d21b309e8c82f5484d0233cdfdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1343869729,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1343869729,
+    "wof:lastmodified":1537626152,
+    "wof:name":"Bassin Bleu",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.17158,
+    19.81257,
+    -73.17158,
+    19.81257
+],
+  "geometry": {"coordinates":[-73.17158000000001,19.81257],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259805649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.40143,19.34781,-72.40143,19.34781",
+    "geom:latitude":19.34781,
+    "geom:longitude":-72.40143,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563",
+    "gn:asciiname":"Alhadere",
+    "gn:country_code":"HT",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731199,
+    "gn:latitude":19.34781,
+    "gn:longitude":-72.40143,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Alhad\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Alhad\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731199
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f63638c66c65fdc335129be3719a4958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1259805649,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1259805649,
+    "wof:lastmodified":1537626159,
+    "wof:name":"Alhadere",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.40143,
+    19.34781,
+    -72.40143,
+    19.34781
+],
+  "geometry": {"coordinates":[-72.40143,19.34781],"type":"Point"}
+}

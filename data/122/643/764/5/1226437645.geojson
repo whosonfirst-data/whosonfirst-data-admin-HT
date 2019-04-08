@@ -1,0 +1,71 @@
+{
+  "id": 1226437645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.99125,19.569,-71.99125,19.569",
+    "geom:latitude":19.569,
+    "geom:longitude":-71.99125,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716223.0",
+    "gn:asciiname":"Cabon",
+    "gn:country_code":"HT",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728937,
+    "gn:latitude":19.569,
+    "gn:longitude":-71.99125,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Cabon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cabon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728937
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"87455a2c136d710f41ae5590bc3f08f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1226437645,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1226437645,
+    "wof:lastmodified":1537626132,
+    "wof:name":"Cabon",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.99125,
+    19.56900000000001,
+    -71.99125,
+    19.56900000000001
+],
+  "geometry": {"coordinates":[-71.99124999999999,19.56900000000001],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226432037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2425,19.67778,-72.2425,19.67778",
+    "geom:latitude":19.67778,
+    "geom:longitude":-72.2425,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232.0",
+    "gn:asciiname":"La Suisse",
+    "gn:country_code":"HT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722509,
+    "gn:latitude":19.67778,
+    "gn:longitude":-72.2425,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Suisse",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722509
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f368184aee920a4f2a574c8dc2fda094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":1226432037,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1226432037,
+    "wof:lastmodified":1536665262,
+    "wof:name":"La Suisse",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2425,
+    19.67778,
+    -72.2425,
+    19.67778
+],
+  "geometry": {"coordinates":[-72.24250000000001,19.67778],"type":"Point"}
+}

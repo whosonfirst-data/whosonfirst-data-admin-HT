@@ -1,0 +1,68 @@
+{
+  "id": 1360107023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.4,19.51667,-72.4,19.51667",
+    "geom:latitude":19.51667,
+    "geom:longitude":-72.4,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Morne Roux",
+    "gn:country_code":"HT",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720479,
+    "gn:latitude":19.51667,
+    "gn:longitude":-72.4,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne Roux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720479
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"33fc6da859ec0aff42094f6bc1c2a557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1360107023,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1360107023,
+    "wof:lastmodified":1536914461,
+    "wof:name":"Morne Roux",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.4,
+    19.51667,
+    -72.4,
+    19.51667
+],
+  "geometry": {"coordinates":[-72.40000000000001,19.51667],"type":"Point"}
+}

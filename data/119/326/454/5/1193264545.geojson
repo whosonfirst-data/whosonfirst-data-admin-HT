@@ -1,0 +1,68 @@
+{
+  "id": 1193264545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54583,18.30306,-72.54583,18.30306",
+    "geom:latitude":18.30306,
+    "geom:longitude":-72.54583,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Carrefour Nan Brule",
+    "gn:country_code":"HT",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728264,
+    "gn:latitude":18.30306,
+    "gn:longitude":-72.54583,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Carrefour Nan Br\u00fbl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728264
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d2a4f5ada9a970b3f2640ec3fbbac64a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1193264545,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1193264545,
+    "wof:lastmodified":1536377299,
+    "wof:name":"Carrefour Nan Brule",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54583000000002,
+    18.30306,
+    -72.54583000000002,
+    18.30306
+],
+  "geometry": {"coordinates":[-72.54583000000002,18.30306],"type":"Point"}
+}

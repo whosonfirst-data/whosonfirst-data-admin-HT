@@ -1,0 +1,62 @@
+{
+  "id": 1209507555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.85,19.53333,-72.85,19.53333",
+    "geom:latitude":19.53333,
+    "geom:longitude":-72.85,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Barcadere Trompe",
+    "gn:country_code":"HT",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730773,
+    "gn:latitude":19.53333,
+    "gn:longitude":-72.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Barcad\u00e8re Trompe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730773
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"be99182ce45c1de498667bb86738b3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209507555
+        }
+    ],
+    "wof:id":1209507555,
+    "wof:lastmodified":1536284986,
+    "wof:name":"Barcadere Trompe",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.85,
+    19.53333,
+    -72.85,
+    19.53333
+],
+  "geometry": {"coordinates":[-72.84999999999999,19.53333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226413497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89818,18.46315,-73.89818,18.46315",
+    "geom:latitude":18.46315,
+    "geom:longitude":-73.89818,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Corcette",
+    "gn:country_code":"HT",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727351,
+    "gn:latitude":18.46315,
+    "gn:longitude":-73.89818,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Corcette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Corcette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727351
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4db9a98511514fdd1508df0a7f2c6648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1226413497,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1226413497,
+    "wof:lastmodified":1537626111,
+    "wof:name":"Corcette",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89818000000002,
+    18.46315,
+    -73.89818000000002,
+    18.46315
+],
+  "geometry": {"coordinates":[-73.89818000000002,18.46315],"type":"Point"}
+}

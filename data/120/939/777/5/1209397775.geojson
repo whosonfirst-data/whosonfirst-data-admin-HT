@@ -1,0 +1,65 @@
+{
+  "id": 1209397775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.70506,18.42758,-73.70506,18.42758",
+    "geom:latitude":18.42758,
+    "geom:longitude":-73.70506,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3730801.0",
+    "gn:asciiname":"Jeanroui",
+    "gn:country_code":"HT",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723612,
+    "gn:latitude":18.42758,
+    "gn:longitude":-73.70506,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Jeanroui",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jeanroui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723612
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"95b48c55d142f8cfd726023a8b5a6d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209397775
+        }
+    ],
+    "wof:id":1209397775,
+    "wof:lastmodified":1537626066,
+    "wof:name":"Jeanroui",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.70506,
+    18.42758,
+    -73.70506,
+    18.42758
+],
+  "geometry": {"coordinates":[-73.70506,18.42758],"type":"Point"}
+}

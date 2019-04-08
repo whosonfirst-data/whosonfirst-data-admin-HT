@@ -1,0 +1,73 @@
+{
+  "id": 1242565813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.66417,18.48306,-72.66417,18.48306",
+    "geom:latitude":18.48306,
+    "geom:longitude":-72.66417,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Belol",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730240,
+    "gn:latitude":18.48306,
+    "gn:longitude":-72.66417,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Belol",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belac",
+        "Belol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730240
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9518ea4e2416f723721aab8a4e521ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1242565813,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1242565813,
+    "wof:lastmodified":1537626148,
+    "wof:name":"Belol",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.66417,
+    18.48306,
+    -72.66417,
+    18.48306
+],
+  "geometry": {"coordinates":[-72.66417,18.48306],"type":"Point"}
+}

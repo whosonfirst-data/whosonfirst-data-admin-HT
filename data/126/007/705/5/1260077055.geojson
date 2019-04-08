@@ -1,0 +1,67 @@
+{
+  "id": 1260077055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31667,19.15,-72.31667,19.15",
+    "geom:latitude":19.15,
+    "geom:longitude":-72.31667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bois de Lance",
+    "gn:country_code":"HT",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729807,
+    "gn:latitude":19.15,
+    "gn:longitude":-72.31667,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Bois de Lance",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729807
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"aaee806466a06e0b03b4a8481b02ebde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1260077055,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1260077055,
+    "wof:lastmodified":1536996563,
+    "wof:name":"Bois de Lance",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31667,
+    19.15,
+    -72.31667,
+    19.15
+],
+  "geometry": {"coordinates":[-72.31667,19.15],"type":"Point"}
+}

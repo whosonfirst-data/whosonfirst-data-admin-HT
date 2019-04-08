@@ -1,0 +1,67 @@
+{
+  "id": 1209024433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.06667,19.53333,-72.06667,19.53333",
+    "geom:latitude":19.53333,
+    "geom:longitude":-72.06667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716223.0",
+    "gn:asciiname":"Torsini",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716391,
+    "gn:latitude":19.53333,
+    "gn:longitude":-72.06667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Torsini",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torzin",
+        "Torsini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716391
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5d68422af8bd61c949341662836817cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209024433
+        }
+    ],
+    "wof:id":1209024433,
+    "wof:lastmodified":1537625975,
+    "wof:name":"Torsini",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.06667,
+    19.53333,
+    -72.06667,
+    19.53333
+],
+  "geometry": {"coordinates":[-72.06667,19.53333],"type":"Point"}
+}

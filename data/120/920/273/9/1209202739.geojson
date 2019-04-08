@@ -1,0 +1,62 @@
+{
+  "id": 1209202739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.93333,18.33333,-72.93333,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-72.93333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Matin",
+    "gn:country_code":"HT",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721103,
+    "gn:latitude":18.33333,
+    "gn:longitude":-72.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Matin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721103
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f19b80ff364b9edf749f8641c03de21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209202739
+        }
+    ],
+    "wof:id":1209202739,
+    "wof:lastmodified":1536294554,
+    "wof:name":"Matin",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93333,
+    18.33333,
+    -72.93333,
+    18.33333
+],
+  "geometry": {"coordinates":[-72.93333,18.33333],"type":"Point"}
+}

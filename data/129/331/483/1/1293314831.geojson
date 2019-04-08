@@ -1,0 +1,71 @@
+{
+  "id": 1293314831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.50864,19.51704,-72.50864,19.51704",
+    "geom:latitude":19.51704,
+    "geom:longitude":-72.50864,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Macanda",
+    "gn:country_code":"HT",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721911,
+    "gn:latitude":19.51704,
+    "gn:longitude":-72.50864,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Macanda",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Macanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721911
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"63dda6263d021d225dd2c1ab6c062eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687025,
+            "locality_id":1293314831,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1293314831,
+    "wof:lastmodified":1537626040,
+    "wof:name":"Macanda",
+    "wof:parent_id":1091687025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.50864,
+    19.51704,
+    -72.50864,
+    19.51704
+],
+  "geometry": {"coordinates":[-72.50864,19.51704],"type":"Point"}
+}

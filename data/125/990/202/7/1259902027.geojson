@@ -1,0 +1,71 @@
+{
+  "id": 1259902027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.46373,19.15655,-72.46373,19.15655",
+    "geom:latitude":19.15655,
+    "geom:longitude":-72.46373,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Vincent",
+    "gn:country_code":"HT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715923,
+    "gn:latitude":19.15655,
+    "gn:longitude":-72.46373,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Vincent",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Vincent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715923
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d2c42cba35ded19270cf3246af7d8bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1259902027,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1259902027,
+    "wof:lastmodified":1537625969,
+    "wof:name":"Vincent",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.46373,
+    19.15655,
+    -72.46373,
+    19.15655
+],
+  "geometry": {"coordinates":[-72.46373,19.15655],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209285883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.46667,18.3,-72.46667,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-72.46667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Mangou",
+    "gn:country_code":"HT",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721624,
+    "gn:latitude":18.3,
+    "gn:longitude":-72.46667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mangou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721624
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c30b2ce0fe4525148eb6e08e2fa438f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209285883
+        }
+    ],
+    "wof:id":1209285883,
+    "wof:lastmodified":1536291862,
+    "wof:name":"Mangou",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.46667,
+    18.3,
+    -72.46667,
+    18.3
+],
+  "geometry": {"coordinates":[-72.46666999999999,18.3],"type":"Point"}
+}

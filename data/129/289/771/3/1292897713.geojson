@@ -1,0 +1,68 @@
+{
+  "id": 1292897713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.92583,18.83472,-71.92583,18.83472",
+    "geom:latitude":18.83472,
+    "geom:longitude":-71.92583,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Croix Martyrs",
+    "gn:country_code":"HT",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727125,
+    "gn:latitude":18.83472,
+    "gn:longitude":-71.92583,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Croix Martyrs",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727125
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"99df0d86d364732577c40601a3f2c941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1292897713,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1292897713,
+    "wof:lastmodified":1536642481,
+    "wof:name":"Croix Martyrs",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.92583,
+    18.83472,
+    -71.92583,
+    18.83472
+],
+  "geometry": {"coordinates":[-71.92583,18.83472],"type":"Point"}
+}

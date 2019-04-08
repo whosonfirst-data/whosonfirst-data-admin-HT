@@ -1,0 +1,67 @@
+{
+  "id": 1209512347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.96376,18.7964,-71.96376,18.7964",
+    "geom:latitude":18.7964,
+    "geom:longitude":-71.96376,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Flande",
+    "gn:country_code":"HT",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725464,
+    "gn:latitude":18.7964,
+    "gn:longitude":-71.96376,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Fland\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poste de Flande",
+        "Carrefour Fland\u00e9",
+        "Fland\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725464
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7fe2011cc7515476d8c74297bc988401",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209512347
+        }
+    ],
+    "wof:id":1209512347,
+    "wof:lastmodified":1537626088,
+    "wof:name":"Flande",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96376,
+    18.7964,
+    -71.96376,
+    18.7964
+],
+  "geometry": {"coordinates":[-71.96375999999999,18.7964],"type":"Point"}
+}

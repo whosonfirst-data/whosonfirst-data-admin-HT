@@ -1,0 +1,71 @@
+{
+  "id": 1242667223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54025,19.77584,-72.54025,19.77584",
+    "geom:latitude":19.77584,
+    "geom:longitude":-72.54025,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3729454.0",
+    "gn:asciiname":"Robillard",
+    "gn:country_code":"HT",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717949,
+    "gn:latitude":19.77584,
+    "gn:longitude":-72.54025,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Robillard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Robillard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717949
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"811c7a422919d0b6a505a58cc40b3c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686137,
+            "locality_id":1242667223,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1242667223,
+    "wof:lastmodified":1537625993,
+    "wof:name":"Robillard",
+    "wof:parent_id":1091686137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54025,
+    19.77584,
+    -72.54025,
+    19.77584
+],
+  "geometry": {"coordinates":[-72.54025,19.77584],"type":"Point"}
+}

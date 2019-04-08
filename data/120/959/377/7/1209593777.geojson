@@ -1,0 +1,62 @@
+{
+  "id": 1209593777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.66667,18.36667,-72.66667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-72.66667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Picolet",
+    "gn:country_code":"HT",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718891,
+    "gn:latitude":18.36667,
+    "gn:longitude":-72.66667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Picolet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718891
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c9f8970afcb85f8d3f3aad102cc1a3b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209593777
+        }
+    ],
+    "wof:id":1209593777,
+    "wof:lastmodified":1536282392,
+    "wof:name":"Picolet",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.66667,
+    18.366670000000006,
+    -72.66667,
+    18.366670000000006
+],
+  "geometry": {"coordinates":[-72.66667,18.36667000000001],"type":"Point"}
+}

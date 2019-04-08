@@ -1,0 +1,67 @@
+{
+  "id": 1276632505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25,18.4,-74.25,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-74.25,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Grand l'Etang",
+    "gn:country_code":"HT",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724316,
+    "gn:latitude":18.4,
+    "gn:longitude":-74.25,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Grand l\u2019\u00c9tang",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724316
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"29cdd09637b551f174c416df7b0b1201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1276632505,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1276632505,
+    "wof:lastmodified":1536874241,
+    "wof:name":"Grand l'Etang",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25,
+    18.4,
+    -74.25,
+    18.4
+],
+  "geometry": {"coordinates":[-74.25,18.4],"type":"Point"}
+}

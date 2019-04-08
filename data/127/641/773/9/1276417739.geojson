@@ -1,0 +1,68 @@
+{
+  "id": 1276417739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.96667,18.16667,-73.96667,18.16667",
+    "geom:latitude":18.16667,
+    "geom:longitude":-73.96667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727295.0",
+    "gn:asciiname":"Beaulier",
+    "gn:country_code":"HT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730479,
+    "gn:latitude":18.16667,
+    "gn:longitude":-73.96667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Beaulier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730479
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5a4841537e71b439b5c511acce4c7a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686543,
+            "locality_id":1276417739,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1276417739,
+    "wof:lastmodified":1536665622,
+    "wof:name":"Beaulier",
+    "wof:parent_id":1091686543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.96667,
+    18.16667,
+    -73.96667,
+    18.16667
+],
+  "geometry": {"coordinates":[-73.96666999999999,18.16667],"type":"Point"}
+}

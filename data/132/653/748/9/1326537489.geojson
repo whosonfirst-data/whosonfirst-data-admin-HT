@@ -1,0 +1,71 @@
+{
+  "id": 1326537489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38877,19.70515,-73.38877,19.70515",
+    "geom:latitude":19.70515,
+    "geom:longitude":-73.38877,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Peri",
+    "gn:country_code":"HT",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719077,
+    "gn:latitude":19.70515,
+    "gn:longitude":-73.38877,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"P\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "P\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719077
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"17f5ee7067d77e50a1d295583d2fb737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1326537489,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1326537489,
+    "wof:lastmodified":1537626006,
+    "wof:name":"Peri",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38877,
+    19.70515,
+    -73.38877,
+    19.70515
+],
+  "geometry": {"coordinates":[-73.38876999999999,19.70515],"type":"Point"}
+}

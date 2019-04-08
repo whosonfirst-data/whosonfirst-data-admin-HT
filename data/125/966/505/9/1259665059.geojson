@@ -1,0 +1,68 @@
+{
+  "id": 1259665059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25,18.76667,-72.25,18.76667",
+    "geom:latitude":18.76667,
+    "geom:longitude":-72.25,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Calebasse",
+    "gn:country_code":"HT",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728685,
+    "gn:latitude":18.76667,
+    "gn:longitude":-72.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Calebasse",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728685
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5bdcef4d4c0d39d6a81a6bfa8b01a258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1259665059,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259665059,
+    "wof:lastmodified":1537090346,
+    "wof:name":"Calebasse",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25,
+    18.76667,
+    -72.25,
+    18.76667
+],
+  "geometry": {"coordinates":[-72.25,18.76667],"type":"Point"}
+}

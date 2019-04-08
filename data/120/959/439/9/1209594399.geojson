@@ -1,0 +1,62 @@
+{
+  "id": 1209594399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33333,18.51667,-74.33333,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":-74.33333,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Boucan",
+    "gn:country_code":"HT",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729408,
+    "gn:latitude":18.51667,
+    "gn:longitude":-74.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Boucan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729408
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"97aa95d4332b3d26b22ba7ac61faa81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209594399
+        }
+    ],
+    "wof:id":1209594399,
+    "wof:lastmodified":1536282372,
+    "wof:name":"Boucan",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33333,
+    18.51667,
+    -74.33333,
+    18.51667
+],
+  "geometry": {"coordinates":[-74.33333,18.51667],"type":"Point"}
+}

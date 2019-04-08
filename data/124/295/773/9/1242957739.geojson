@@ -1,0 +1,75 @@
+{
+  "id": 1242957739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24529,19.77172,-72.24529,19.77172",
+    "geom:latitude":19.77172,
+    "geom:longitude":-72.24529,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3728473.0",
+    "gn:asciiname":"Labadie",
+    "gn:country_code":"HT",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723428,
+    "gn:latitude":19.77172,
+    "gn:longitude":-72.24529,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Labadie",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Labadie"
+    ],
+    "name:und_x_variant":[
+        "Labady",
+        "Labadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723428
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e06a424e8ad40ebef8e2614f9c3f7920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686431,
+            "locality_id":1242957739,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1242957739,
+    "wof:lastmodified":1537626064,
+    "wof:name":"Labadie",
+    "wof:parent_id":1091686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24529,
+    19.77172,
+    -72.24529,
+    19.77172
+],
+  "geometry": {"coordinates":[-72.24529,19.77172],"type":"Point"}
+}

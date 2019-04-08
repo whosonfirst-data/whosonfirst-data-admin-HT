@@ -1,0 +1,62 @@
+{
+  "id": 1209222167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.38333,19.68333,-73.38333,19.68333",
+    "geom:latitude":19.68333,
+    "geom:longitude":-73.38333,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Ti Place",
+    "gn:country_code":"HT",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716481,
+    "gn:latitude":19.68333,
+    "gn:longitude":-73.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ti Place",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716481
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"673a79384fb300b9a3122e497928255b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209222167
+        }
+    ],
+    "wof:id":1209222167,
+    "wof:lastmodified":1536293924,
+    "wof:name":"Ti Place",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38333,
+    19.68333,
+    -73.38333,
+    19.68333
+],
+  "geometry": {"coordinates":[-73.38333,19.68333],"type":"Point"}
+}

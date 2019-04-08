@@ -1,0 +1,68 @@
+{
+  "id": 1209700181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,19.51667,-72.1,19.51667",
+    "geom:latitude":19.51667,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3724438.0",
+    "gn:asciiname":"Tercel",
+    "gn:country_code":"HT",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716848,
+    "gn:latitude":19.51667,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Tercel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716848
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2243ce2f046ba6681fe90aa1abe475e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686273,
+            "locality_id":1209700181,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1209700181,
+    "wof:lastmodified":1536395327,
+    "wof:name":"Tercel",
+    "wof:parent_id":1091686273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    19.51667,
+    -72.1,
+    19.51667
+],
+  "geometry": {"coordinates":[-72.09999999999999,19.51667],"type":"Point"}
+}

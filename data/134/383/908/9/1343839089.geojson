@@ -1,0 +1,68 @@
+{
+  "id": 1343839089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.41667,18.88333,-72.41667,18.88333",
+    "geom:latitude":18.88333,
+    "geom:longitude":-72.41667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Pouillant",
+    "gn:country_code":"HT",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718359,
+    "gn:latitude":18.88333,
+    "gn:longitude":-72.41667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pouillant",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718359
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3bb7d4592cfa4214dea1ee6a0df348bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1343839089,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1343839089,
+    "wof:lastmodified":1536697688,
+    "wof:name":"Pouillant",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.41667,
+    18.88333,
+    -72.41667,
+    18.88333
+],
+  "geometry": {"coordinates":[-72.41667,18.88333],"type":"Point"}
+}

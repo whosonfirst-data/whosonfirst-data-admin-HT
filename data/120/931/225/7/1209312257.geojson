@@ -1,0 +1,62 @@
+{
+  "id": 1209312257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,19.03333,-72.33333,19.03333",
+    "geom:latitude":19.03333,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Terre Grainnin",
+    "gn:country_code":"HT",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716797,
+    "gn:latitude":19.03333,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Terre Grainnin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716797
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"33c19089083754ab8284535075e2a0de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209312257
+        }
+    ],
+    "wof:id":1209312257,
+    "wof:lastmodified":1536290986,
+    "wof:name":"Terre Grainnin",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    19.03333,
+    -72.33333,
+    19.03333
+],
+  "geometry": {"coordinates":[-72.33333,19.03333],"type":"Point"}
+}

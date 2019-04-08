@@ -1,0 +1,68 @@
+{
+  "id": 1260371463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.65,18.4,-72.65,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-72.65,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Baret",
+    "gn:country_code":"HT",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730766,
+    "gn:latitude":18.4,
+    "gn:longitude":-72.65,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Baret",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730766
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4703aa721843674cb911be719836c6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1260371463,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1260371463,
+    "wof:lastmodified":1537087843,
+    "wof:name":"Baret",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.65,
+    18.4,
+    -72.65,
+    18.4
+],
+  "geometry": {"coordinates":[-72.65000000000001,18.4],"type":"Point"}
+}

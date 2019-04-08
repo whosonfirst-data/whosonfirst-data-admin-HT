@@ -1,0 +1,62 @@
+{
+  "id": 1209028867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38333,18.98333,-72.38333,18.98333",
+    "geom:latitude":18.98333,
+    "geom:longitude":-72.38333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Mousso",
+    "gn:country_code":"HT",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720409,
+    "gn:latitude":18.98333,
+    "gn:longitude":-72.38333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Mousso",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720409
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a8a4f650384603bf13f346f8493b1a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209028867
+        }
+    ],
+    "wof:id":1209028867,
+    "wof:lastmodified":1536299908,
+    "wof:name":"Mousso",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38333,
+    18.98333,
+    -72.38333,
+    18.98333
+],
+  "geometry": {"coordinates":[-72.38333,18.98333],"type":"Point"}
+}

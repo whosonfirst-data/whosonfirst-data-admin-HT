@@ -1,0 +1,61 @@
+{
+  "id": 1310684713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.45,18.51667,-74.45,18.51667",
+    "geom:latitude":18.51667,
+    "geom:longitude":-74.45,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Demarre",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726764,
+    "gn:latitude":18.51667,
+    "gn:longitude":-74.45,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Demarre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726764
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"066331b2b4d32be2344f4bbd5245fc85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310684713,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310684713,
+    "wof:lastmodified":1536658482,
+    "wof:name":"Demarre",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.45,
+    18.51667,
+    -74.45,
+    18.51667
+],
+  "geometry": {"coordinates":[-74.45,18.51667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326917489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.55,18.37528,-73.55,18.37528",
+    "geom:latitude":18.37528,
+    "geom:longitude":-73.55,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Leger",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722312,
+    "gn:latitude":18.37528,
+    "gn:longitude":-73.55,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"L\u00e9ger",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lager",
+        "L\u00e9ger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722312
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"67f6350575a46157084580a5eb902379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1326917489,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1326917489,
+    "wof:lastmodified":1537626047,
+    "wof:name":"Leger",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.55,
+    18.37528,
+    -73.55,
+    18.37528
+],
+  "geometry": {"coordinates":[-73.55,18.37528],"type":"Point"}
+}

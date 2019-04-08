@@ -1,0 +1,71 @@
+{
+  "id": 1242675435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51686,18.95919,-72.51686,18.95919",
+    "geom:latitude":18.95919,
+    "geom:longitude":-72.51686,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Zabethe",
+    "gn:country_code":"HT",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3715840,
+    "gn:latitude":18.95919,
+    "gn:longitude":-72.51686,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Zabethe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Zabethe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3715840
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bf9472f58f37a750fdbeeb466416c11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1242675435,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1242675435,
+    "wof:lastmodified":1537625968,
+    "wof:name":"Zabethe",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51686,
+    18.95919,
+    -72.51686,
+    18.95919
+],
+  "geometry": {"coordinates":[-72.51685999999999,18.95919],"type":"Point"}
+}

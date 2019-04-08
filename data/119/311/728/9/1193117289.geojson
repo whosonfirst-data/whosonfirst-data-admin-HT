@@ -1,0 +1,68 @@
+{
+  "id": 1193117289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.85,18.25,-73.85,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":-73.85,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Bauzan",
+    "gn:country_code":"HT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730557,
+    "gn:latitude":18.25,
+    "gn:longitude":-73.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bauzan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730557
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5e29390fd8eb7f078ca40bfcd1b2edab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1193117289,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1193117289,
+    "wof:lastmodified":1536366863,
+    "wof:name":"Bauzan",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.85,
+    18.25,
+    -73.85,
+    18.25
+],
+  "geometry": {"coordinates":[-73.84999999999999,18.25],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209411035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.16106,19.72461,-72.16106,19.72461",
+    "geom:latitude":19.72461,
+    "geom:longitude":-72.16106,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3728473.0",
+    "gn:asciiname":"Defraille",
+    "gn:country_code":"HT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726876,
+    "gn:latitude":19.72461,
+    "gn:longitude":-72.16106,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"D\u00e9fraille",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9fraille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726876
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8bc101b788527f48d59a65ec1bba87e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209411035
+        }
+    ],
+    "wof:id":1209411035,
+    "wof:lastmodified":1537626106,
+    "wof:name":"Defraille",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.16105999999998,
+    19.72461,
+    -72.16105999999998,
+    19.72461
+],
+  "geometry": {"coordinates":[-72.16105999999998,19.72461],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243265851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.2426,19.69652,-73.2426,19.69652",
+    "geom:latitude":19.69652,
+    "geom:longitude":-73.2426,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"George Callebassier",
+    "gn:country_code":"HT",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724826,
+    "gn:latitude":19.69652,
+    "gn:longitude":-73.2426,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"George Callebassier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "George Callebassier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724826
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5f32125608c792da065c37bb89af08ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1243265851,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1243265851,
+    "wof:lastmodified":1537626080,
+    "wof:name":"George Callebassier",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.2426,
+    19.69652,
+    -73.2426,
+    19.69652
+],
+  "geometry": {"coordinates":[-73.2426,19.69652],"type":"Point"}
+}

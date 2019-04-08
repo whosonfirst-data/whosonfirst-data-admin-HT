@@ -1,0 +1,65 @@
+{
+  "id": 1209185139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.1198,18.63674,-74.1198,18.63674",
+    "geom:latitude":18.63674,
+    "geom:longitude":-74.1198,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Sainte-Helene",
+    "gn:country_code":"HT",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717662,
+    "gn:latitude":18.63674,
+    "gn:longitude":-74.1198,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sainte-H\u00e9l\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sainte-H\u00e9l\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717662
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9ffd94943c3eafdc0c25e25bfd9bb565",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209185139
+        }
+    ],
+    "wof:id":1209185139,
+    "wof:lastmodified":1537625990,
+    "wof:name":"Sainte-Helene",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.1198,
+    18.63674,
+    -74.1198,
+    18.63674
+],
+  "geometry": {"coordinates":[-74.1198,18.63674],"type":"Point"}
+}

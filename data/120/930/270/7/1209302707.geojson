@@ -1,0 +1,66 @@
+{
+  "id": 1209302707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49627,18.88291,-72.49627,18.88291",
+    "geom:latitude":18.88291,
+    "geom:longitude":-72.49627,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Mare Zoranger",
+    "gn:country_code":"HT",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721358,
+    "gn:latitude":18.88291,
+    "gn:longitude":-72.49627,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Mare Zoranger",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mare Loranger",
+        "Mare Zoranger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721358
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"426bdedd96114a83302adb7a0043ad3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209302707
+        }
+    ],
+    "wof:id":1209302707,
+    "wof:lastmodified":1537626033,
+    "wof:name":"Mare Zoranger",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49627,
+    18.88291,
+    -72.49627,
+    18.88291
+],
+  "geometry": {"coordinates":[-72.49627,18.88291],"type":"Point"}
+}

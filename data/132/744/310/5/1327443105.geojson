@@ -1,0 +1,72 @@
+{
+  "id": 1327443105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89674,20.03997,-72.89674,20.03997",
+    "geom:latitude":20.03997,
+    "geom:longitude":-72.89674,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Boucan Guepe",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729373,
+    "gn:latitude":20.03997,
+    "gn:longitude":-72.89674,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Boucan Gu\u00eape",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boucan Gu\u00eape",
+        "Boucan Gu\u00eapes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729373
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f76d041a56ce2fb0472203643eb71d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1327443105,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1327443105,
+    "wof:lastmodified":1537626137,
+    "wof:name":"Boucan Guepe",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89674000000002,
+    20.03997,
+    -72.89674000000002,
+    20.03997
+],
+  "geometry": {"coordinates":[-72.89674000000002,20.03997],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293763763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.58237,18.34622,-73.58237,18.34622",
+    "geom:latitude":18.34622,
+    "geom:longitude":-73.58237,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Corail Henry",
+    "gn:country_code":"HT",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727366,
+    "gn:latitude":18.34622,
+    "gn:longitude":-73.58237,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Corail Henry",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Corail Henry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727366
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2b0c881ce0bb14479380ee03df785383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1293763763,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293763763,
+    "wof:lastmodified":1537626112,
+    "wof:name":"Corail Henry",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.58237,
+    18.34622,
+    -73.58237,
+    18.34622
+],
+  "geometry": {"coordinates":[-73.58237,18.34622],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293569285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.92212,18.15759,-73.92212,18.15759",
+    "geom:latitude":18.15759,
+    "geom:longitude":-73.92212,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3718404.0",
+    "gn:asciiname":"Louroux",
+    "gn:country_code":"HT",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721948,
+    "gn:latitude":18.15759,
+    "gn:longitude":-73.92212,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Louroux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Louroux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721948
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5d64c6992d3c1fd6113ad5d97ec4b0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1293569285,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293569285,
+    "wof:lastmodified":1537626041,
+    "wof:name":"Louroux",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.92211999999998,
+    18.15759,
+    -73.92211999999998,
+    18.15759
+],
+  "geometry": {"coordinates":[-73.92211999999998,18.15759],"type":"Point"}
+}

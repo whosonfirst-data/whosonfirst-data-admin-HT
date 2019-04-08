@@ -1,0 +1,70 @@
+{
+  "id": 1243432417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.633,18.90308,-72.633,18.90308",
+    "geom:latitude":18.90308,
+    "geom:longitude":-72.633,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Trou Baguette",
+    "gn:country_code":"HT",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716269,
+    "gn:latitude":18.90308,
+    "gn:longitude":-72.633,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Trou Baguette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trou Baguette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716269
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"441e7356386051ad798f2f8b511873d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1243432417,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1243432417,
+    "wof:lastmodified":1537625974,
+    "wof:name":"Trou Baguette",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.633,
+    18.90308,
+    -72.633,
+    18.90308
+],
+  "geometry": {"coordinates":[-72.633,18.90308],"type":"Point"}
+}

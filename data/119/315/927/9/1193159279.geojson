@@ -1,0 +1,71 @@
+{
+  "id": 1193159279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49427,19.36507,-72.49427,19.36507",
+    "geom:latitude":19.36507,
+    "geom:longitude":-72.49427,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Derriere Zorde",
+    "gn:country_code":"HT",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726680,
+    "gn:latitude":19.36507,
+    "gn:longitude":-72.49427,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Derri\u00e8re Zorde",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Derri\u00e8re Zorde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726680
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5c12cfed60d91c6cd33a2baf901c89c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1193159279,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1193159279,
+    "wof:lastmodified":1537626103,
+    "wof:name":"Derriere Zorde",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49427,
+    19.36507000000001,
+    -72.49427,
+    19.36507000000001
+],
+  "geometry": {"coordinates":[-72.49427,19.36507000000001],"type":"Point"}
+}

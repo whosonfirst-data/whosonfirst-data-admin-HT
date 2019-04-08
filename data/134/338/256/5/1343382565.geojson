@@ -1,0 +1,71 @@
+{
+  "id": 1343382565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18291,19.17283,-72.18291,19.17283",
+    "geom:latitude":19.17283,
+    "geom:longitude":-72.18291,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Ceverine",
+    "gn:country_code":"HT",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728041,
+    "gn:latitude":19.17283,
+    "gn:longitude":-72.18291,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"C\u00e9verine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "C\u00e9verine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728041
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4a07b7aecc832ee93d55dabe1cc22cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1343382565,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1343382565,
+    "wof:lastmodified":1537626120,
+    "wof:name":"Ceverine",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18290999999998,
+    19.17283,
+    -72.18290999999998,
+    19.17283
+],
+  "geometry": {"coordinates":[-72.18290999999998,19.17283],"type":"Point"}
+}

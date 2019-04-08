@@ -1,0 +1,63 @@
+{
+  "id": 1276966267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61667,18.23333,-73.61667,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-73.61667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Pointe",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722712,
+    "gn:latitude":18.23333,
+    "gn:longitude":-73.61667,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"La Pointe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722712
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1dc75dc691385ce8e8a0327f1c3bdf73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1276966267,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276966267,
+    "wof:lastmodified":1536926243,
+    "wof:name":"La Pointe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61667,
+    18.23333,
+    -73.61667,
+    18.23333
+],
+  "geometry": {"coordinates":[-73.61667,18.23333],"type":"Point"}
+}

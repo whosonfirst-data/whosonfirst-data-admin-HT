@@ -1,0 +1,67 @@
+{
+  "id": 1209437049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.5992,19.16612,-72.5992,19.16612",
+    "geom:latitude":19.16612,
+    "geom:longitude":-72.5992,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Peye",
+    "gn:country_code":"HT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718931,
+    "gn:latitude":19.16612,
+    "gn:longitude":-72.5992,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Peye",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrefour Peye",
+        "Carrefour Paye",
+        "Peye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718931
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"18be0a0678e588f2a35a570e42d40f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209437049
+        }
+    ],
+    "wof:id":1209437049,
+    "wof:lastmodified":1537626004,
+    "wof:name":"Peye",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.5992,
+    19.16612000000001,
+    -72.5992,
+    19.16612000000001
+],
+  "geometry": {"coordinates":[-72.5992,19.16612000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209192449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.20491,18.83627,-73.20491,18.83627",
+    "geom:latitude":18.83627,
+    "geom:longitude":-73.20491,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pointe Pierrot",
+    "gn:country_code":"HT",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718527,
+    "gn:latitude":18.83627,
+    "gn:longitude":-73.20491,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Pointe Pierrot",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pointe \u00e0 Pierrot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718527
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ae6bdfebc84e9a8cd35d1148c8846d6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209192449
+        }
+    ],
+    "wof:id":1209192449,
+    "wof:lastmodified":1537625999,
+    "wof:name":"Pointe Pierrot",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.20491,
+    18.83627000000001,
+    -73.20491,
+    18.83627000000001
+],
+  "geometry": {"coordinates":[-73.20491,18.83627000000001],"type":"Point"}
+}

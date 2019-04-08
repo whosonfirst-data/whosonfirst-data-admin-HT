@@ -1,0 +1,68 @@
+{
+  "id": 1242769417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95,19.13333,-71.95,19.13333",
+    "geom:latitude":19.13333,
+    "geom:longitude":-71.95,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"La Partie",
+    "gn:country_code":"HT",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722751,
+    "gn:latitude":19.13333,
+    "gn:longitude":-71.95,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Partie",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722751
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2a08d38445f681b442b32a05797d0615",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1242769417,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1242769417,
+    "wof:lastmodified":1536787879,
+    "wof:name":"La Partie",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95,
+    19.13333,
+    -71.95,
+    19.13333
+],
+  "geometry": {"coordinates":[-71.95,19.13333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209426419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.28798,19.70079,-73.28798,19.70079",
+    "geom:latitude":19.70079,
+    "geom:longitude":-73.28798,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Jasmin",
+    "gn:country_code":"HT",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723700,
+    "gn:latitude":19.70079,
+    "gn:longitude":-73.28798,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Jasmin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jasmin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723700
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"06cccfa9716fa2f29e9e7fa370389861",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209426419
+        }
+    ],
+    "wof:id":1209426419,
+    "wof:lastmodified":1537626067,
+    "wof:name":"Jasmin",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.28798,
+    19.70079,
+    -73.28798,
+    19.70079
+],
+  "geometry": {"coordinates":[-73.28798,19.70079],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209397663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33333,18.45,-73.33333,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-73.33333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Ti Michel",
+    "gn:country_code":"HT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716528,
+    "gn:latitude":18.45,
+    "gn:longitude":-73.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ti Michel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ti Savane",
+        "Ti Michel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716528
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"125b65cedbdc7f627a4797c5ef9794aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209397663
+        }
+    ],
+    "wof:id":1209397663,
+    "wof:lastmodified":1537625976,
+    "wof:name":"Ti Michel",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33333,
+    18.45,
+    -73.33333,
+    18.45
+],
+  "geometry": {"coordinates":[-73.33333,18.45],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259366735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.84001,19.55436,-71.84001,19.55436",
+    "geom:latitude":19.55436,
+    "geom:longitude":-71.84001,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Grande Colline",
+    "gn:country_code":"HT",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724525,
+    "gn:latitude":19.55436,
+    "gn:longitude":-71.84001,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Grande Colline",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grande Colline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724525
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"99b34491cd7c17189d375ee6a4d62fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1259366735,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1259366735,
+    "wof:lastmodified":1537626077,
+    "wof:name":"Grande Colline",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.84000999999998,
+    19.55436,
+    -71.84000999999998,
+    19.55436
+],
+  "geometry": {"coordinates":[-71.84000999999998,19.55436],"type":"Point"}
+}

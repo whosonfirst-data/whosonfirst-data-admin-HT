@@ -1,0 +1,68 @@
+{
+  "id": 1292979147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26667,18.36667,-72.26667,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-72.26667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Delize",
+    "gn:country_code":"HT",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726793,
+    "gn:latitude":18.36667,
+    "gn:longitude":-72.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"D\u00e9lize",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726793
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"96c89b789279175cbf70d9d4eb093dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1292979147,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1292979147,
+    "wof:lastmodified":1537021909,
+    "wof:name":"Delize",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26666999999998,
+    18.36667000000001,
+    -72.26666999999998,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[-72.26666999999998,18.36667000000001],"type":"Point"}
+}

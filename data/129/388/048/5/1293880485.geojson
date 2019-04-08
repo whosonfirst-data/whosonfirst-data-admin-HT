@@ -1,0 +1,70 @@
+{
+  "id": 1293880485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.20091,19.03815,-72.20091,19.03815",
+    "geom:latitude":19.03815,
+    "geom:longitude":-72.20091,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gros Morne",
+    "gn:country_code":"HT",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724146,
+    "gn:latitude":19.03815,
+    "gn:longitude":-72.20091,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Gros Morne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gros Morne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724146
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"79f88e0cf3c8251a6ea5664eeb7c028e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1293880485,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293880485,
+    "wof:lastmodified":1537626072,
+    "wof:name":"Gros Morne",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.20091,
+    19.03815,
+    -72.20091,
+    19.03815
+],
+  "geometry": {"coordinates":[-72.20090999999999,19.03815],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259956303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.8,18.3,-71.8,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-71.8,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jardin Bois",
+    "gn:country_code":"HT",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723712,
+    "gn:latitude":18.3,
+    "gn:longitude":-71.8,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Jardin Bois",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723712
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6dbce2959e610e9f260bbb2ab3ec08cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1259956303,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259956303,
+    "wof:lastmodified":1536674298,
+    "wof:name":"Jardin Bois",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.8,
+    18.3,
+    -71.8,
+    18.3
+],
+  "geometry": {"coordinates":[-71.8,18.3],"type":"Point"}
+}

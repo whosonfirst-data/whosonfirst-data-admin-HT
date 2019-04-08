@@ -1,0 +1,67 @@
+{
+  "id": 1293568055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61778,18.42028,-73.61778,18.42028",
+    "geom:latitude":18.42028,
+    "geom:longitude":-73.61778,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Caducou",
+    "gn:country_code":"HT",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728820,
+    "gn:latitude":18.42028,
+    "gn:longitude":-73.61778,
+    "gn:modification_date":"1994-08-17",
+    "gn:name":"Caducou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728820
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"723382d6c525c45815d407d11fa0b467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1293568055,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293568055,
+    "wof:lastmodified":1536670959,
+    "wof:name":"Caducou",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61778000000002,
+    18.42028,
+    -73.61778000000002,
+    18.42028
+],
+  "geometry": {"coordinates":[-73.61778000000002,18.42028],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276204307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,18.36667,-72.33333,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Grande Savane",
+    "gn:country_code":"HT",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724415,
+    "gn:latitude":18.36667,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Grande Savane",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724415
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a132e551a030b0ac93f42005ae2753cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1276204307,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1276204307,
+    "wof:lastmodified":1536952124,
+    "wof:name":"Grande Savane",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    18.36667000000001,
+    -72.33333,
+    18.36667000000001
+],
+  "geometry": {"coordinates":[-72.33333,18.36667000000001],"type":"Point"}
+}

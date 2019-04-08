@@ -1,0 +1,68 @@
+{
+  "id": 1243252625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.91667,19.43333,-71.91667,19.43333",
+    "geom:latitude":19.43333,
+    "geom:longitude":-71.91667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716114.0",
+    "gn:asciiname":"Trois Platons",
+    "gn:country_code":"HT",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716290,
+    "gn:latitude":19.43333,
+    "gn:longitude":-71.91667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Trois Platons",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716290
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"70691e3b1b5c7a5298ca40624bbdc28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687119,
+            "locality_id":1243252625,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1243252625,
+    "wof:lastmodified":1537081767,
+    "wof:name":"Trois Platons",
+    "wof:parent_id":1091687119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.91667,
+    19.43333,
+    -71.91667,
+    19.43333
+],
+  "geometry": {"coordinates":[-71.91667,19.43333],"type":"Point"}
+}

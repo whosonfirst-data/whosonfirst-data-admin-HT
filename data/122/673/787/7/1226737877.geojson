@@ -1,0 +1,71 @@
+{
+  "id": 1226737877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89888,18.82858,-72.89888,18.82858",
+    "geom:latitude":18.82858,
+    "geom:longitude":-72.89888,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Devallon",
+    "gn:country_code":"HT",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726491,
+    "gn:latitude":18.82858,
+    "gn:longitude":-72.89888,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Devallon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9vallon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726491
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a80004ea9da2bea4d54b7676a0220fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1226737877,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1226737877,
+    "wof:lastmodified":1537626100,
+    "wof:name":"Devallon",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89888,
+    18.82858,
+    -72.89888,
+    18.82858
+],
+  "geometry": {"coordinates":[-72.89888000000001,18.82858],"type":"Point"}
+}

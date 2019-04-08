@@ -1,0 +1,70 @@
+{
+  "id": 1293469971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61331,18.25473,-73.61331,18.25473",
+    "geom:latitude":18.25473,
+    "geom:longitude":-73.61331,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bere",
+    "gn:country_code":"HT",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730189,
+    "gn:latitude":18.25473,
+    "gn:longitude":-73.61331,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"B\u00e9r\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9r\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730189
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"63bd99c6bf72ae6aaeedc56487eb1252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1293469971,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293469971,
+    "wof:lastmodified":1537626148,
+    "wof:name":"Bere",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61331,
+    18.25473,
+    -73.61331,
+    18.25473
+],
+  "geometry": {"coordinates":[-73.61331,18.25473],"type":"Point"}
+}

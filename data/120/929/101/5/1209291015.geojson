@@ -1,0 +1,62 @@
+{
+  "id": 1209291015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.86667,18.21667,-72.86667,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":-72.86667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"La Biche",
+    "gn:country_code":"HT",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723381,
+    "gn:latitude":18.21667,
+    "gn:longitude":-72.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Biche",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723381
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"39a655f89f42c05b9bbfd5aeaa4b2d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209291015
+        }
+    ],
+    "wof:id":1209291015,
+    "wof:lastmodified":1536291694,
+    "wof:name":"La Biche",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.86667,
+    18.21667,
+    -72.86667,
+    18.21667
+],
+  "geometry": {"coordinates":[-72.86667,18.21667],"type":"Point"}
+}

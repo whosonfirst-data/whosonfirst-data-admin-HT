@@ -1,0 +1,68 @@
+{
+  "id": 1293580893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14083,18.80639,-72.14083,18.80639",
+    "geom:latitude":18.80639,
+    "geom:longitude":-72.14083,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Docan",
+    "gn:country_code":"HT",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726342,
+    "gn:latitude":18.80639,
+    "gn:longitude":-72.14083,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Docan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726342
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bf5cee62d054a07f56a7737bbe286566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1293580893,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293580893,
+    "wof:lastmodified":1536652396,
+    "wof:name":"Docan",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14083000000002,
+    18.80639,
+    -72.14083000000002,
+    18.80639
+],
+  "geometry": {"coordinates":[-72.14083000000002,18.80639],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209312165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51841,19.4923,-72.51841,19.4923",
+    "geom:latitude":19.4923,
+    "geom:longitude":-72.51841,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Manime",
+    "gn:country_code":"HT",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721620,
+    "gn:latitude":19.4923,
+    "gn:longitude":-72.51841,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Manime",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manime"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721620
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"dbdb50c2a728c188de885e6521ea3d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209312165
+        }
+    ],
+    "wof:id":1209312165,
+    "wof:lastmodified":1537626037,
+    "wof:name":"Manime",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51841,
+    19.4923,
+    -72.51841,
+    19.4923
+],
+  "geometry": {"coordinates":[-72.51841,19.4923],"type":"Point"}
+}

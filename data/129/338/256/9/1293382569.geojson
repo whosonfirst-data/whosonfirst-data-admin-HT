@@ -1,0 +1,71 @@
+{
+  "id": 1293382569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63898,19.59318,-72.63898,19.59318",
+    "geom:latitude":19.59318,
+    "geom:longitude":-72.63898,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Tete Canal",
+    "gn:country_code":"HT",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716716,
+    "gn:latitude":19.59318,
+    "gn:longitude":-72.63898,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"T\u00eate Canal",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "T\u00eate Canal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716716
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7e3c11b57f1b04b18799e74d54392a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687025,
+            "locality_id":1293382569,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1293382569,
+    "wof:lastmodified":1537625979,
+    "wof:name":"Tete Canal",
+    "wof:parent_id":1091687025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63898,
+    19.59318,
+    -72.63898,
+    19.59318
+],
+  "geometry": {"coordinates":[-72.63898,19.59318],"type":"Point"}
+}

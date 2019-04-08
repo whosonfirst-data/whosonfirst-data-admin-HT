@@ -1,0 +1,71 @@
+{
+  "id": 1326732323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.71086,19.91151,-72.71086,19.91151",
+    "geom:latitude":19.91151,
+    "geom:longitude":-72.71086,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3717599.0",
+    "gn:asciiname":"Balantier",
+    "gn:country_code":"HT",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730883,
+    "gn:latitude":19.91151,
+    "gn:longitude":-72.71086,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Balantier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Balantier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730883
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a0804cf658220be049b6ab2c7f402fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686807,
+            "locality_id":1326732323,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1326732323,
+    "wof:lastmodified":1537626155,
+    "wof:name":"Balantier",
+    "wof:parent_id":1091686807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71086,
+    19.91151,
+    -72.71086,
+    19.91151
+],
+  "geometry": {"coordinates":[-72.71086,19.91151],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226440027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27205,19.42738,-72.27205,19.42738",
+    "geom:latitude":19.42738,
+    "geom:longitude":-72.27205,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Sainte-Marthe",
+    "gn:country_code":"HT",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717652,
+    "gn:latitude":19.42738,
+    "gn:longitude":-72.27205,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sainte-Marthe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sainte-Marthe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717652
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8a4a6c4d0b6b57b5c957d3625c40e1c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1226440027,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1226440027,
+    "wof:lastmodified":1537625990,
+    "wof:name":"Sainte-Marthe",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27205,
+    19.42738,
+    -72.27205,
+    19.42738
+],
+  "geometry": {"coordinates":[-72.27204999999999,19.42738],"type":"Point"}
+}

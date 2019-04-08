@@ -1,0 +1,71 @@
+{
+  "id": 1276735741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.43386,18.37901,-73.43386,18.37901",
+    "geom:latitude":18.37901,
+    "geom:longitude":-73.43386,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Charpentier",
+    "gn:country_code":"HT",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727861,
+    "gn:latitude":18.37901,
+    "gn:longitude":-73.43386,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Charpentier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Charpentier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727861
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5afefda96745b72b7f453cb36774fa1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1276735741,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1276735741,
+    "wof:lastmodified":1537626117,
+    "wof:name":"Charpentier",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.43386,
+    18.37901,
+    -73.43386,
+    18.37901
+],
+  "geometry": {"coordinates":[-73.43386,18.37901],"type":"Point"}
+}

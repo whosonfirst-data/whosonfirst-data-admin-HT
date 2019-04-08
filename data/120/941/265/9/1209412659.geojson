@@ -1,0 +1,65 @@
+{
+  "id": 1209412659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6514,19.08757,-72.6514,19.08757",
+    "geom:latitude":19.08757,
+    "geom:longitude":-72.6514,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Dorval",
+    "gn:country_code":"HT",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726240,
+    "gn:latitude":19.08757,
+    "gn:longitude":-72.6514,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dorval",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dorval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726240
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2f61e9b441f35e67ab1616aac2376f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209412659
+        }
+    ],
+    "wof:id":1209412659,
+    "wof:lastmodified":1537626097,
+    "wof:name":"Dorval",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6514,
+    19.08757,
+    -72.6514,
+    19.08757
+],
+  "geometry": {"coordinates":[-72.6514,19.08757],"type":"Point"}
+}

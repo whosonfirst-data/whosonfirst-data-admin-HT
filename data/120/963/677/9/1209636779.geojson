@@ -1,0 +1,61 @@
+{
+  "id": 1209636779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93333,18.73333,-71.93333,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":-71.93333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bois Martin",
+    "gn:country_code":"HT",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729708,
+    "gn:latitude":18.73333,
+    "gn:longitude":-71.93333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Bois Martin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729708
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"199cca8ec7f4173d47bbd60bbb256743",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209636779
+        }
+    ],
+    "wof:id":1209636779,
+    "wof:lastmodified":1536281018,
+    "wof:name":"Bois Martin",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93333,
+    18.73333,
+    -71.93333,
+    18.73333
+],
+  "geometry": {"coordinates":[-71.93333,18.73333],"type":"Point"}
+}

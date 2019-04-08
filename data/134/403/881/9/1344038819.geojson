@@ -1,0 +1,68 @@
+{
+  "id": 1344038819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3,18.66667,-72.3,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-72.3,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Nan Couline",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720155,
+    "gn:latitude":18.66667,
+    "gn:longitude":-72.3,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Couline",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720155
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ee5871772acd253f82c6bcfc82d853cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1344038819,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1344038819,
+    "wof:lastmodified":1536907157,
+    "wof:name":"Nan Couline",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3,
+    18.66667,
+    -72.3,
+    18.66667
+],
+  "geometry": {"coordinates":[-72.3,18.66667],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1242943943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15,18.66667,-74.15,18.66667",
+    "geom:latitude":18.66667,
+    "geom:longitude":-74.15,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Tosia",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716383,
+    "gn:latitude":18.66667,
+    "gn:longitude":-74.15,
+    "gn:modification_date":"2018-06-19",
+    "gn:name":"Tosia",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716383
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1bcc6d3acffd78d37a6226c9c89901a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242943943,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242943943,
+    "wof:lastmodified":1537031751,
+    "wof:name":"Tosia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15,
+    18.66667,
+    -74.15,
+    18.66667
+],
+  "geometry": {"coordinates":[-74.15000000000001,18.66667],"type":"Point"}
+}

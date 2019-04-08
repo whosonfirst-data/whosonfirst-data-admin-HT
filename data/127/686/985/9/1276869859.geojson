@@ -1,0 +1,70 @@
+{
+  "id": 1276869859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73465,19.78567,-72.73465,19.78567",
+    "geom:latitude":19.78567,
+    "geom:longitude":-72.73465,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pendu",
+    "gn:country_code":"HT",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719118,
+    "gn:latitude":19.78567,
+    "gn:longitude":-72.73465,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Pendu",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pendu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719118
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"579edca9d3a516d3c12bbed84e850762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1276869859,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276869859,
+    "wof:lastmodified":1537626007,
+    "wof:name":"Pendu",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73465,
+    19.78567,
+    -72.73465,
+    19.78567
+],
+  "geometry": {"coordinates":[-72.73465,19.78567],"type":"Point"}
+}

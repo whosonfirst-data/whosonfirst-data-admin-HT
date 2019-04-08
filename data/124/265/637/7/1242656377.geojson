@@ -1,0 +1,72 @@
+{
+  "id": 1242656377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86918,18.45466,-73.86918,18.45466",
+    "geom:latitude":18.45466,
+    "geom:longitude":-73.86918,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Fond Deron",
+    "gn:country_code":"HT",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725365,
+    "gn:latitude":18.45466,
+    "gn:longitude":-73.86918,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Fond D\u00e9ron",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fonderon",
+        "Fond D\u00e9ron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725365
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"88945551c6fc9e2859d0fe5154543410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1242656377,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1242656377,
+    "wof:lastmodified":1537626087,
+    "wof:name":"Fond Deron",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86918,
+    18.45466,
+    -73.86918,
+    18.45466
+],
+  "geometry": {"coordinates":[-73.86918,18.45466],"type":"Point"}
+}

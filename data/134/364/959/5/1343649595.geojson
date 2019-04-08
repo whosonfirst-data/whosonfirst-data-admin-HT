@@ -1,0 +1,71 @@
+{
+  "id": 1343649595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.74209,18.30484,-72.74209,18.30484",
+    "geom:latitude":18.30484,
+    "geom:longitude":-72.74209,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bereau",
+    "gn:country_code":"HT",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730187,
+    "gn:latitude":18.30484,
+    "gn:longitude":-72.74209,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"B\u00e9reau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9raud",
+        "B\u00e9reau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730187
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"095362fa3fc58dfccb2c08e16cac4929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1343649595,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1343649595,
+    "wof:lastmodified":1537626147,
+    "wof:name":"Bereau",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.74209,
+    18.30484,
+    -72.74209,
+    18.30484
+],
+  "geometry": {"coordinates":[-72.74209,18.30484],"type":"Point"}
+}

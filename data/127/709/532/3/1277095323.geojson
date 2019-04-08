@@ -1,0 +1,72 @@
+{
+  "id": 1277095323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13011,19.70545,-72.13011,19.70545",
+    "geom:latitude":19.70545,
+    "geom:longitude":-72.13011,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3728473.0",
+    "gn:asciiname":"Tabary",
+    "gn:country_code":"HT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716934,
+    "gn:latitude":19.70545,
+    "gn:longitude":-72.13011,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Tabary",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tebary",
+        "Tabary"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716934
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e8c5910eb7490b84abad0a9ce3d2a730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686431,
+            "locality_id":1277095323,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1277095323,
+    "wof:lastmodified":1537625982,
+    "wof:name":"Tabary",
+    "wof:parent_id":1091686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13011,
+    19.70545,
+    -72.13011,
+    19.70545
+],
+  "geometry": {"coordinates":[-72.13011,19.70545],"type":"Point"}
+}

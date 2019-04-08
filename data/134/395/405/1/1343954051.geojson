@@ -1,0 +1,71 @@
+{
+  "id": 1343954051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95529,19.55917,-71.95529,19.55917",
+    "geom:latitude":19.55917,
+    "geom:longitude":-71.95529,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716223.0",
+    "gn:asciiname":"Chaber",
+    "gn:country_code":"HT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728036,
+    "gn:latitude":19.55917,
+    "gn:longitude":-71.95529,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Chaber",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chaber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728036
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d49f21b46884990da64c34757c48d6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1343954051,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1343954051,
+    "wof:lastmodified":1537626119,
+    "wof:name":"Chaber",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95529,
+    19.55917,
+    -71.95529,
+    19.55917
+],
+  "geometry": {"coordinates":[-71.95529000000001,19.55917],"type":"Point"}
+}

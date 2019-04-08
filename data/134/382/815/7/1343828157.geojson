@@ -1,0 +1,68 @@
+{
+  "id": 1343828157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51667,18.45,-73.51667,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-73.51667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Poinceau",
+    "gn:country_code":"HT",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718531,
+    "gn:latitude":18.45,
+    "gn:longitude":-73.51667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Poinceau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718531
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f43adb9d7ca532e8007e46b52bbeb17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1343828157,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1343828157,
+    "wof:lastmodified":1536713645,
+    "wof:name":"Poinceau",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51666999999998,
+    18.45,
+    -73.51666999999998,
+    18.45
+],
+  "geometry": {"coordinates":[-73.51666999999998,18.45],"type":"Point"}
+}

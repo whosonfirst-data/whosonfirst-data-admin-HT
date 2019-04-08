@@ -1,0 +1,70 @@
+{
+  "id": 1309786899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.94638,18.34131,-72.94638,18.34131",
+    "geom:latitude":18.34131,
+    "geom:longitude":-72.94638,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Blaise",
+    "gn:country_code":"HT",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729996,
+    "gn:latitude":18.34131,
+    "gn:longitude":-72.94638,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Blaise",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Blaise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729996
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0be6eda0ff503632333892c2e5f4b254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1309786899,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1309786899,
+    "wof:lastmodified":1537626145,
+    "wof:name":"Blaise",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.94638,
+    18.34131,
+    -72.94638,
+    18.34131
+],
+  "geometry": {"coordinates":[-72.94638,18.34131],"type":"Point"}
+}

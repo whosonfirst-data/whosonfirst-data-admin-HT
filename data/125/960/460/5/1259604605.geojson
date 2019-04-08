@@ -1,0 +1,68 @@
+{
+  "id": 1259604605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85,18.93333,-71.85,18.93333",
+    "geom:latitude":18.93333,
+    "geom:longitude":-71.85,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"La Domate",
+    "gn:country_code":"HT",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723133,
+    "gn:latitude":18.93333,
+    "gn:longitude":-71.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Domate",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723133
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ee3886fa72e033d697fce8aba4aa8df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1259604605,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1259604605,
+    "wof:lastmodified":1536684387,
+    "wof:name":"La Domate",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85,
+    18.93333,
+    -71.85,
+    18.93333
+],
+  "geometry": {"coordinates":[-71.84999999999999,18.93333],"type":"Point"}
+}

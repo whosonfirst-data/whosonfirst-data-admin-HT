@@ -1,0 +1,73 @@
+{
+  "id": 1327011041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93333,18.68333,-71.93333,18.68333",
+    "geom:latitude":18.68333,
+    "geom:longitude":-71.93333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Dupin",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725891,
+    "gn:latitude":18.68333,
+    "gn:longitude":-71.93333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dupin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ka Dupin",
+        "Dupin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725891
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"493374e6e4fc3dc9ffff2ae575c724be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1327011041,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327011041,
+    "wof:lastmodified":1537626092,
+    "wof:name":"Dupin",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93333,
+    18.68333,
+    -71.93333,
+    18.68333
+],
+  "geometry": {"coordinates":[-71.93333,18.68333],"type":"Point"}
+}

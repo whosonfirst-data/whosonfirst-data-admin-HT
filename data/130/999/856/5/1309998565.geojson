@@ -1,0 +1,71 @@
+{
+  "id": 1309998565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.46779,19.27956,-72.46779,19.27956",
+    "geom:latitude":19.27956,
+    "geom:longitude":-72.46779,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Fond Alezan",
+    "gn:country_code":"HT",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725422,
+    "gn:latitude":19.27956,
+    "gn:longitude":-72.46779,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Fond Alezan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fone Alezan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725422
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bdfd1cc0cf5890bb49170267b4cae5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1309998565,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1309998565,
+    "wof:lastmodified":1537626088,
+    "wof:name":"Fond Alezan",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.46779000000002,
+    19.27956,
+    -72.46779000000002,
+    19.27956
+],
+  "geometry": {"coordinates":[-72.46779000000002,19.27956],"type":"Point"}
+}

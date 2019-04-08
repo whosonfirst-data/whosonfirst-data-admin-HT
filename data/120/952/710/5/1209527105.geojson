@@ -1,0 +1,65 @@
+{
+  "id": 1209527105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.09102,19.81292,-73.09102,19.81292",
+    "geom:latitude":19.81292,
+    "geom:longitude":-73.09102,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Digoterie",
+    "gn:country_code":"HT",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726412,
+    "gn:latitude":19.81292,
+    "gn:longitude":-73.09102,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Digoterie",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Digoterie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726412
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"033d10c0c316b668310f1dfda2fa67cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209527105
+        }
+    ],
+    "wof:id":1209527105,
+    "wof:lastmodified":1537626099,
+    "wof:name":"Digoterie",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.09102,
+    19.81292,
+    -73.09102,
+    19.81292
+],
+  "geometry": {"coordinates":[-73.09102,19.81292],"type":"Point"}
+}

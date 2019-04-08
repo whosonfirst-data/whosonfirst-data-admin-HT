@@ -1,0 +1,71 @@
+{
+  "id": 1292914817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.79388,19.86249,-72.79388,19.86249",
+    "geom:latitude":19.86249,
+    "geom:longitude":-72.79388,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Fond Merle",
+    "gn:country_code":"HT",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725291,
+    "gn:latitude":19.86249,
+    "gn:longitude":-72.79388,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Fond Merle",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Merle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725291
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c21b9069b9c310797c3192a60005e3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1292914817,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1292914817,
+    "wof:lastmodified":1537626086,
+    "wof:name":"Fond Merle",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79388,
+    19.86249,
+    -72.79388,
+    19.86249
+],
+  "geometry": {"coordinates":[-72.79388,19.86249],"type":"Point"}
+}

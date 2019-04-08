@@ -1,0 +1,68 @@
+{
+  "id": 1259958007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.13333,18.38333,-72.13333,18.38333",
+    "geom:latitude":18.38333,
+    "geom:longitude":-72.13333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Bois Coupet",
+    "gn:country_code":"HT",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729832,
+    "gn:latitude":18.38333,
+    "gn:longitude":-72.13333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bois Coupet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729832
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"76ebb789b52e7648b2df13a620b05ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1259958007,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259958007,
+    "wof:lastmodified":1536671809,
+    "wof:name":"Bois Coupet",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.13333,
+    18.38333,
+    -72.13333,
+    18.38333
+],
+  "geometry": {"coordinates":[-72.13333,18.38333],"type":"Point"}
+}

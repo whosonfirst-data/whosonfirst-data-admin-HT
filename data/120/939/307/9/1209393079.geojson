@@ -1,0 +1,64 @@
+{
+  "id": 1209393079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21435,18.36603,-72.21435,18.36603",
+    "geom:latitude":18.36603,
+    "geom:longitude":-72.21435,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Cateno",
+    "gn:country_code":"HT",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728149,
+    "gn:latitude":18.36603,
+    "gn:longitude":-72.21435,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Cateno",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cateno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728149
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b1ed6366dc709df14aed898cd2b7d786",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209393079
+        }
+    ],
+    "wof:id":1209393079,
+    "wof:lastmodified":1537626121,
+    "wof:name":"Cateno",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21435,
+    18.36603,
+    -72.21435,
+    18.36603
+],
+  "geometry": {"coordinates":[-72.21435,18.36603],"type":"Point"}
+}

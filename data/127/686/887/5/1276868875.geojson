@@ -1,0 +1,68 @@
+{
+  "id": 1276868875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.05,19.2,-72.05,19.2",
+    "geom:latitude":19.2,
+    "geom:longitude":-72.05,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Campeche",
+    "gn:country_code":"HT",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728577,
+    "gn:latitude":19.2,
+    "gn:longitude":-72.05,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Camp\u00eache",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728577
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0372f5adb8ceb7671d024a3498ade80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1276868875,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1276868875,
+    "wof:lastmodified":1537053619,
+    "wof:name":"Campeche",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.05,
+    19.2,
+    -72.05,
+    19.2
+],
+  "geometry": {"coordinates":[-72.05,19.2],"type":"Point"}
+}

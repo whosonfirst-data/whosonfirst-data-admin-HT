@@ -1,0 +1,65 @@
+{
+  "id": 1259795239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.96784,20.06492,-72.96784,20.06492",
+    "geom:latitude":20.06492,
+    "geom:longitude":-72.96784,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Pointe Ouest",
+    "gn:country_code":"HT",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718517,
+    "gn:latitude":20.06492,
+    "gn:longitude":-72.96784,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Pointe Ouest",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718517
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4ecc7b0d65115d0c26c7020852b3f87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "locality_id":1259795239,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259795239,
+    "wof:lastmodified":1536906439,
+    "wof:name":"Pointe Ouest",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.96784,
+    20.06492,
+    -72.96784,
+    20.06492
+],
+  "geometry": {"coordinates":[-72.96784,20.06492],"type":"Point"}
+}

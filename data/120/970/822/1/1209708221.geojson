@@ -1,0 +1,67 @@
+{
+  "id": 1209708221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,18.85,-72.33333,18.85",
+    "geom:latitude":18.85,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bois Vea",
+    "gn:country_code":"HT",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729565,
+    "gn:latitude":18.85,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Bois V\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729565
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f9fa66378e63cc9c7486758b8fe7784e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1209708221,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1209708221,
+    "wof:lastmodified":1536391882,
+    "wof:name":"Bois Vea",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    18.85,
+    -72.33333,
+    18.85
+],
+  "geometry": {"coordinates":[-72.33333,18.85],"type":"Point"}
+}

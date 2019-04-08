@@ -1,0 +1,71 @@
+{
+  "id": 1309695985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90542,19.47655,-71.90542,19.47655",
+    "geom:latitude":19.47655,
+    "geom:longitude":-71.90542,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Bas Madeleine",
+    "gn:country_code":"HT",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730672,
+    "gn:latitude":19.47655,
+    "gn:longitude":-71.90542,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bas Madeleine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bas Madeleine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730672
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3e41e98e1e3a792a0f8587f74a92dad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1309695985,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1309695985,
+    "wof:lastmodified":1537626153,
+    "wof:name":"Bas Madeleine",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90541999999998,
+    19.47655,
+    -71.90541999999998,
+    19.47655
+],
+  "geometry": {"coordinates":[-71.90541999999998,19.47655],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1344254541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63055,19.18565,-72.63055,19.18565",
+    "geom:latitude":19.18565,
+    "geom:longitude":-72.63055,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Molette",
+    "gn:country_code":"HT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720762,
+    "gn:latitude":19.18565,
+    "gn:longitude":-72.63055,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Molette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mozette",
+        "Molette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720762
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3adea6c3c664057d0245bbdeb82097f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1344254541,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1344254541,
+    "wof:lastmodified":1537626027,
+    "wof:name":"Molette",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63055,
+    19.18565,
+    -72.63055,
+    19.18565
+],
+  "geometry": {"coordinates":[-72.63055,19.18565],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 421185845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0,18.18333,-74.0,18.18333",
+    "geom:latitude":18.18333,
+    "geom:longitude":-74.0,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0634 \u0628\u0627\u062a\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Roche-\u00e0-Bateau"
+    ],
+    "name:hat_x_preferred":[
+        "W\u00f2chabato"
+    ],
+    "name:ita_x_preferred":[
+        "Roche-\u00e0-Bateaux"
+    ],
+    "name:nld_x_preferred":[
+        "Roche-\u00e0-Bateaux"
+    ],
+    "name:por_x_preferred":[
+        "Roche-\u00e0-Bateaux"
+    ],
+    "name:ron_x_preferred":[
+        "Roche-\u00e0-Bateau"
+    ],
+    "name:swe_x_preferred":[
+        "Roche-\u00e0-Bateau"
+    ],
+    "name:unk_x_variant":[
+        "Roche a Bateaux"
+    ],
+    "qs:gn_country":"HT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3717916,
+    "qs:gn_pop":1662,
+    "qs:name":"Roche-\u00c0-Bateau",
+    "qs:name_adm0":"Ha\u00efti",
+    "qs:name_adm1":"Sud",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1046643,
+    "qs:woe_adm0":23424839,
+    "qs:woe_id":96489,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":44,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717916,
+        "gp:id":96489,
+        "qs:id":1046643,
+        "wd:id":"Q2637880",
+        "wk:page":"Roche-\u00e0-Bateaux"
+    },
+    "wof:country":"HT",
+    "wof:created":1459009456,
+    "wof:geomhash":"72adb3085eeabcfd253f944548e1e804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686543,
+            "locality_id":421185845,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":421185845,
+    "wof:lastmodified":1527726502,
+    "wof:name":"Roche-\u00c0-Bateau",
+    "wof:parent_id":1091686543,
+    "wof:placetype":"locality",
+    "wof:population":1662,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0,
+    18.18333,
+    -74.0,
+    18.18333
+],
+  "geometry": {"coordinates":[-74.0,18.18333],"type":"Point"}
+}

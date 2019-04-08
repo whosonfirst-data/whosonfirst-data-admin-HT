@@ -1,0 +1,62 @@
+{
+  "id": 1209599749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15,19.43333,-72.15,19.43333",
+    "geom:latitude":19.43333,
+    "geom:longitude":-72.15,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Nan Citron",
+    "gn:country_code":"HT",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720202,
+    "gn:latitude":19.43333,
+    "gn:longitude":-72.15,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Citron",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720202
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"56ca2bb7b5b6f1be35f60a4658d0a030",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209599749
+        }
+    ],
+    "wof:id":1209599749,
+    "wof:lastmodified":1536282207,
+    "wof:name":"Nan Citron",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15,
+    19.43333,
+    -72.15,
+    19.43333
+],
+  "geometry": {"coordinates":[-72.15000000000001,19.43333],"type":"Point"}
+}

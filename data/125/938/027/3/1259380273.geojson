@@ -1,0 +1,71 @@
+{
+  "id": 1259380273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25996,19.24613,-72.25996,19.24613",
+    "geom:latitude":19.24613,
+    "geom:longitude":-72.25996,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717563.0",
+    "gn:asciiname":"Ducheine",
+    "gn:country_code":"HT",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726020,
+    "gn:latitude":19.24613,
+    "gn:longitude":-72.25996,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Ducheine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ducheine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726020
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9f4be7afeee56d3f8319b3b6d781fef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1259380273,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1259380273,
+    "wof:lastmodified":1537626094,
+    "wof:name":"Ducheine",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25995999999998,
+    19.24613,
+    -72.25995999999998,
+    19.24613
+],
+  "geometry": {"coordinates":[-72.25995999999998,19.24613],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209491731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81556,18.22944,-72.81556,18.22944",
+    "geom:latitude":18.22944,
+    "geom:longitude":-72.81556,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"Ti Bras",
+    "gn:country_code":"HT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716623,
+    "gn:latitude":18.22944,
+    "gn:longitude":-72.81556,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ti Bras",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti Bras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716623
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"56857deece3a6b50b43d6bf6ad8bef9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209491731
+        }
+    ],
+    "wof:id":1209491731,
+    "wof:lastmodified":1537625978,
+    "wof:name":"Ti Bras",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81555999999998,
+    18.22944,
+    -72.81555999999998,
+    18.22944
+],
+  "geometry": {"coordinates":[-72.81555999999998,18.22944],"type":"Point"}
+}

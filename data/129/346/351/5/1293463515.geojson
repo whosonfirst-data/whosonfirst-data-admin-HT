@@ -1,0 +1,73 @@
+{
+  "id": 1293463515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.33227,18.64435,-74.33227,18.64435",
+    "geom:latitude":18.64435,
+    "geom:longitude":-74.33227,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Saint-Just",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717610,
+    "gn:latitude":18.64435,
+    "gn:longitude":-74.33227,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Saint-Just",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint Juste",
+        "Saint-Just"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717610
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1999d0d17266cd2cdc796485207b3241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1293463515,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1293463515,
+    "wof:lastmodified":1537625989,
+    "wof:name":"Saint-Just",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.33227,
+    18.64435,
+    -74.33227,
+    18.64435
+],
+  "geometry": {"coordinates":[-74.33226999999999,18.64435],"type":"Point"}
+}

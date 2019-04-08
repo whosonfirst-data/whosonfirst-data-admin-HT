@@ -1,0 +1,72 @@
+{
+  "id": 1226729179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85393,18.1389,-71.85393,18.1389",
+    "geom:latitude":18.1389,
+    "geom:longitude":-71.85393,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Malpasse Taureau",
+    "gn:country_code":"HT",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721664,
+    "gn:latitude":18.1389,
+    "gn:longitude":-71.85393,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Malpasse Taureau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malepasse Taureau",
+        "Malpasse Taureau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721664
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e437f4201a5f6a45186a9de69ced6ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1226729179,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1226729179,
+    "wof:lastmodified":1537626037,
+    "wof:name":"Malpasse Taureau",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85393,
+    18.1389,
+    -71.85393,
+    18.1389
+],
+  "geometry": {"coordinates":[-71.85393000000001,18.1389],"type":"Point"}
+}

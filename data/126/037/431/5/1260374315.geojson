@@ -1,0 +1,71 @@
+{
+  "id": 1260374315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.80272,19.57031,-71.80272,19.57031",
+    "geom:latitude":19.57031,
+    "geom:longitude":-71.80272,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3719435.0",
+    "gn:asciiname":"Gounote",
+    "gn:country_code":"HT",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724650,
+    "gn:latitude":19.57031,
+    "gn:longitude":-71.80272,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Gounote",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gounote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724650
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f5fbac9e81d00a4bde79c98f69805603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687117,
+            "locality_id":1260374315,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1260374315,
+    "wof:lastmodified":1537626078,
+    "wof:name":"Gounote",
+    "wof:parent_id":1091687117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.80272,
+    19.57031,
+    -71.80272,
+    19.57031
+],
+  "geometry": {"coordinates":[-71.80271999999999,19.57031],"type":"Point"}
+}

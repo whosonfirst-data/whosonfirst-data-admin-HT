@@ -1,0 +1,71 @@
+{
+  "id": 1310086847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.02759,18.43453,-72.02759,18.43453",
+    "geom:latitude":18.43453,
+    "geom:longitude":-72.02759,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Terre Pierre",
+    "gn:country_code":"HT",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716778,
+    "gn:latitude":18.43453,
+    "gn:longitude":-72.02759,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Terre Pierre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Terre Pierre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716778
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a1015a3ec71cf6ba8bcd38d20a025441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1310086847,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310086847,
+    "wof:lastmodified":1537625980,
+    "wof:name":"Terre Pierre",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.02759,
+    18.43453,
+    -72.02759,
+    18.43453
+],
+  "geometry": {"coordinates":[-72.02759,18.43453],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327107799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.51389,18.43861,-73.51389,18.43861",
+    "geom:latitude":18.43861,
+    "geom:longitude":-73.51389,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Carrefour Michel",
+    "gn:country_code":"HT",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728269,
+    "gn:latitude":18.43861,
+    "gn:longitude":-73.51389,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Carrefour Michel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728269
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"18a1f0d58fd1200349c4d33f7b2b2812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1327107799,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1327107799,
+    "wof:lastmodified":1536651603,
+    "wof:name":"Carrefour Michel",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.51389,
+    18.43861,
+    -73.51389,
+    18.43861
+],
+  "geometry": {"coordinates":[-73.51389,18.43861],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259867983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54834,18.87034,-72.54834,18.87034",
+    "geom:latitude":18.87034,
+    "geom:longitude":-72.54834,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Bois d'Orme",
+    "gn:country_code":"HT",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729786,
+    "gn:latitude":18.87034,
+    "gn:longitude":-72.54834,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Bois d\u2019Orme",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois d\u2019Orme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729786
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ddf5d41f0eaf492432584bc7713613b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1259867983,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259867983,
+    "wof:lastmodified":1537626142,
+    "wof:name":"Bois d'Orme",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54834,
+    18.87034,
+    -72.54834,
+    18.87034
+],
+  "geometry": {"coordinates":[-72.54834,18.87034],"type":"Point"}
+}

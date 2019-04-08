@@ -1,0 +1,74 @@
+{
+  "id": 1242982315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89144,19.78202,-72.89144,19.78202",
+    "geom:latitude":19.78202,
+    "geom:longitude":-72.89144,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"La Rode",
+    "gn:country_code":"HT",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722624,
+    "gn:latitude":19.78202,
+    "gn:longitude":-72.89144,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"La Rode",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Rode"
+    ],
+    "name:und_x_variant":[
+        "Larode"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722624
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ee089910a6be7d6c414c179f0e46ca06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1242982315,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1242982315,
+    "wof:lastmodified":1537626052,
+    "wof:name":"La Rode",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89144,
+    19.78202000000001,
+    -72.89144,
+    19.78202000000001
+],
+  "geometry": {"coordinates":[-72.89144,19.78202000000001],"type":"Point"}
+}

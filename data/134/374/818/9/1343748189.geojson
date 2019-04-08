@@ -1,0 +1,68 @@
+{
+  "id": 1343748189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.52389,18.24278,-72.52389,18.24278",
+    "geom:latitude":18.24278,
+    "geom:longitude":-72.52389,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Meditout",
+    "gn:country_code":"HT",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721025,
+    "gn:latitude":18.24278,
+    "gn:longitude":-72.52389,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"M\u00e9ditout",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721025
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"84bd8d544ef50c52add1a97bf4fd7a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1343748189,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1343748189,
+    "wof:lastmodified":1536827667,
+    "wof:name":"Meditout",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.52389000000002,
+    18.24278,
+    -72.52389000000002,
+    18.24278
+],
+  "geometry": {"coordinates":[-72.52389000000002,18.24278],"type":"Point"}
+}

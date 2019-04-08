@@ -1,0 +1,71 @@
+{
+  "id": 1310076457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.93087,18.53165,-73.93087,18.53165",
+    "geom:latitude":18.53165,
+    "geom:longitude":-73.93087,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3727381.0",
+    "gn:asciiname":"Troupeau",
+    "gn:country_code":"HT",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716181,
+    "gn:latitude":18.53165,
+    "gn:longitude":-73.93087,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Troupeau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Troupeau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716181
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"238ccbc9434732410969f562500fbe8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686181,
+            "locality_id":1310076457,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1310076457,
+    "wof:lastmodified":1537625972,
+    "wof:name":"Troupeau",
+    "wof:parent_id":1091686181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.93087,
+    18.53165,
+    -73.93087,
+    18.53165
+],
+  "geometry": {"coordinates":[-73.93087,18.53165],"type":"Point"}
+}

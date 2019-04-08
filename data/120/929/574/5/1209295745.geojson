@@ -1,0 +1,62 @@
+{
+  "id": 1209295745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6,18.36667,-72.6,18.36667",
+    "geom:latitude":18.36667,
+    "geom:longitude":-72.6,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Bois Neuf",
+    "gn:country_code":"HT",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729688,
+    "gn:latitude":18.36667,
+    "gn:longitude":-72.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bois Neuf",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729688
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9b84ab05f2995a8c5be52afa5bf70491",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209295745
+        }
+    ],
+    "wof:id":1209295745,
+    "wof:lastmodified":1536291534,
+    "wof:name":"Bois Neuf",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6,
+    18.366670000000006,
+    -72.6,
+    18.366670000000006
+],
+  "geometry": {"coordinates":[-72.59999999999999,18.36667000000001],"type":"Point"}
+}

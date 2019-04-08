@@ -1,0 +1,72 @@
+{
+  "id": 1343356225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.89074,18.90042,-71.89074,18.90042",
+    "geom:latitude":18.90042,
+    "geom:longitude":-71.89074,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Tombacaleme",
+    "gn:country_code":"HT",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716417,
+    "gn:latitude":18.90042,
+    "gn:longitude":-71.89074,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Tombacal\u00e8me",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tombacal\u00e8ne",
+        "Tombacal\u00e8me"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716417
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fad95c26a2e5e1c259e1db405425cb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1343356225,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1343356225,
+    "wof:lastmodified":1537625975,
+    "wof:name":"Tombacaleme",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.89074000000002,
+    18.90042,
+    -71.89074000000002,
+    18.90042
+],
+  "geometry": {"coordinates":[-71.89074000000002,18.90042],"type":"Point"}
+}

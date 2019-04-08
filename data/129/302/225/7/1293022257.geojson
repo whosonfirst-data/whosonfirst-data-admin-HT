@@ -1,0 +1,68 @@
+{
+  "id": 1293022257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.86667,19.1,-71.86667,19.1",
+    "geom:latitude":19.1,
+    "geom:longitude":-71.86667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"Rande Joie",
+    "gn:country_code":"HT",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718210,
+    "gn:latitude":19.1,
+    "gn:longitude":-71.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Rande Joie",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718210
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5a1e6b50f88a67e2624215d2dc73a4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1293022257,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1293022257,
+    "wof:lastmodified":1536960722,
+    "wof:name":"Rande Joie",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.86667,
+    19.1,
+    -71.86667,
+    19.1
+],
+  "geometry": {"coordinates":[-71.86667,19.1],"type":"Point"}
+}

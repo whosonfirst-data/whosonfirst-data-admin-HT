@@ -1,0 +1,71 @@
+{
+  "id": 1243168963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.90753,18.77203,-71.90753,18.77203",
+    "geom:latitude":18.77203,
+    "geom:longitude":-71.90753,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Morne Ti Bois Pin",
+    "gn:country_code":"HT",
+    "gn:dem":865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716633,
+    "gn:latitude":18.77203,
+    "gn:longitude":-71.90753,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Morne Ti Bois Pin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Ti Bois Pin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716633
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3f0915cafa2663867e68261c4e710c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1243168963,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1243168963,
+    "wof:lastmodified":1537625978,
+    "wof:name":"Morne Ti Bois Pin",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.90753000000002,
+    18.77203,
+    -71.90753000000002,
+    18.77203
+],
+  "geometry": {"coordinates":[-71.90753000000002,18.77203],"type":"Point"}
+}

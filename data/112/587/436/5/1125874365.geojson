@@ -1,0 +1,81 @@
+{
+  "id": 1125874365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38889,18.99167,-72.38889,18.99167",
+    "geom:latitude":18.99167,
+    "geom:longitude":-72.38889,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":15594,
+    "gn:population":15594,
+    "iso:country":"HT",
+    "lbl:latitude":18.99167,
+    "lbl:longitude":-72.38889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "D\u00e9sarmes"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3726674,
+    "qs_pg:gn_pop":15594,
+    "qs_pg:name":"D\u00e9sarmes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":150267,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726674,
+        "qs_pg:id":150267
+    },
+    "wof:country":"HT",
+    "wof:created":1497294465,
+    "wof:geomhash":"85a696691495e268525efea1a9a16968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1125874365,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1125874365,
+    "wof:lastmodified":1509397602,
+    "wof:name":"D\u00e9sarmes",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:population":15594,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38889,
+    18.99167,
+    -72.38889,
+    18.99167
+],
+  "geometry": {"coordinates":[-72.38889,18.99167],"type":"Point"}
+}

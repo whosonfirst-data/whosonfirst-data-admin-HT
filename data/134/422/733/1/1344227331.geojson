@@ -1,0 +1,71 @@
+{
+  "id": 1344227331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.35577,18.3959,-73.35577,18.3959",
+    "geom:latitude":18.3959,
+    "geom:longitude":-73.35577,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Morisseau",
+    "gn:country_code":"HT",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720606,
+    "gn:latitude":18.3959,
+    "gn:longitude":-73.35577,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Morisseau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morisseau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720606
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ae071cdb488c20c4ad1c10d5c1680494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1344227331,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1344227331,
+    "wof:lastmodified":1537626025,
+    "wof:name":"Morisseau",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.35576999999998,
+    18.3959,
+    -73.35576999999998,
+    18.3959
+],
+  "geometry": {"coordinates":[-73.35576999999998,18.3959],"type":"Point"}
+}

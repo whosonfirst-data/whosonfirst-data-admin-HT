@@ -1,0 +1,71 @@
+{
+  "id": 1293675361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.99802,18.28608,-72.99802,18.28608",
+    "geom:latitude":18.28608,
+    "geom:longitude":-72.99802,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"Morne Dessources",
+    "gn:country_code":"HT",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720547,
+    "gn:latitude":18.28608,
+    "gn:longitude":-72.99802,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Morne Dessources",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morne Dessources"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720547
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"64270fdcf257a27025931895b8ff2f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1293675361,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1293675361,
+    "wof:lastmodified":1537626025,
+    "wof:name":"Morne Dessources",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99802,
+    18.28608,
+    -72.99802,
+    18.28608
+],
+  "geometry": {"coordinates":[-72.99802,18.28608],"type":"Point"}
+}

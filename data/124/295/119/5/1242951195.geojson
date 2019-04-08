@@ -1,0 +1,68 @@
+{
+  "id": 1242951195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.2,18.41667,-72.2,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-72.2,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Prospere",
+    "gn:country_code":"HT",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718304,
+    "gn:latitude":18.41667,
+    "gn:longitude":-72.2,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Prosp\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718304
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3968e6def29351a884f22ac5e32a8b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1242951195,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1242951195,
+    "wof:lastmodified":1537021673,
+    "wof:name":"Prospere",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.2,
+    18.41667,
+    -72.2,
+    18.41667
+],
+  "geometry": {"coordinates":[-72.2,18.41667],"type":"Point"}
+}

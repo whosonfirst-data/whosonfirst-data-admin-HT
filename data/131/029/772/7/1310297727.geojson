@@ -1,0 +1,71 @@
+{
+  "id": 1310297727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.60442,19.42261,-72.60442,19.42261",
+    "geom:latitude":19.42261,
+    "geom:longitude":-72.60442,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Mandrin",
+    "gn:country_code":"HT",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721632,
+    "gn:latitude":19.42261,
+    "gn:longitude":-72.60442,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Mandrin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mandrin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721632
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0ed80412cf9adbd82c1af901b768c7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687025,
+            "locality_id":1310297727,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1310297727,
+    "wof:lastmodified":1537626037,
+    "wof:name":"Mandrin",
+    "wof:parent_id":1091687025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.60441999999998,
+    19.42261,
+    -72.60441999999998,
+    19.42261
+],
+  "geometry": {"coordinates":[-72.60441999999998,19.42261],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209902509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.40909,18.37978,-72.40909,18.37978",
+    "geom:latitude":18.37978,
+    "geom:longitude":-72.40909,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Morne Saint Laurent",
+    "gn:country_code":"HT",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720474,
+    "gn:latitude":18.37978,
+    "gn:longitude":-72.40909,
+    "gn:modification_date":"2015-11-02",
+    "gn:name":"Morne Saint Laurent",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720474
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"da7b3876a3e2d1f9f2b60f68b3d35b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1209902509,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1209902509,
+    "wof:lastmodified":1536385793,
+    "wof:name":"Morne Saint Laurent",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.40909,
+    18.37978,
+    -72.40909,
+    18.37978
+],
+  "geometry": {"coordinates":[-72.40909000000001,18.37978],"type":"Point"}
+}

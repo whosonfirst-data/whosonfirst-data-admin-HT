@@ -1,0 +1,71 @@
+{
+  "id": 1259960919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.0355,18.83922,-73.0355,18.83922",
+    "geom:latitude":18.83922,
+    "geom:longitude":-73.0355,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Ti Fort Negre",
+    "gn:country_code":"HT",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716561,
+    "gn:latitude":18.83922,
+    "gn:longitude":-73.0355,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Ti Fort N\u00e8gre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ti Fort N\u00e8gre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716561
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"72b66de13a1227f0cde0fa2b1aafd7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1259960919,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1259960919,
+    "wof:lastmodified":1537625977,
+    "wof:name":"Ti Fort Negre",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0355,
+    18.83922,
+    -73.0355,
+    18.83922
+],
+  "geometry": {"coordinates":[-73.0355,18.83922],"type":"Point"}
+}

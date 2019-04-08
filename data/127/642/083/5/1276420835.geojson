@@ -1,0 +1,70 @@
+{
+  "id": 1276420835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.16047,18.33812,-73.16047,18.33812",
+    "geom:latitude":18.33812,
+    "geom:longitude":-73.16047,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Briand",
+    "gn:country_code":"HT",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729082,
+    "gn:latitude":18.33812,
+    "gn:longitude":-73.16047,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Briand",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Briand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729082
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"813a8b61d01b6ce310738c7e96025be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1276420835,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1276420835,
+    "wof:lastmodified":1537626134,
+    "wof:name":"Briand",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.16046999999998,
+    18.33812,
+    -73.16046999999998,
+    18.33812
+],
+  "geometry": {"coordinates":[-73.16046999999998,18.33812],"type":"Point"}
+}

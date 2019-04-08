@@ -1,0 +1,71 @@
+{
+  "id": 1193017971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.27647,19.83827,-73.27647,19.83827",
+    "geom:latitude":19.83827,
+    "geom:longitude":-73.27647,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Cotes de Fer",
+    "gn:country_code":"HT",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727286,
+    "gn:latitude":19.83827,
+    "gn:longitude":-73.27647,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"C\u00f4tes de Fer",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "C\u00f4tes de Fer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727286
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"853a52aa28ec491d10bc572c1cd8d552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1193017971,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1193017971,
+    "wof:lastmodified":1537626111,
+    "wof:name":"Cotes de Fer",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.27646999999997,
+    19.83827,
+    -73.27646999999997,
+    19.83827
+],
+  "geometry": {"coordinates":[-73.27646999999997,19.83827],"type":"Point"}
+}

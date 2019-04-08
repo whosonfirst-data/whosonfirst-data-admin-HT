@@ -1,0 +1,68 @@
+{
+  "id": 1259987215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.11667,19.9,-73.11667,19.9",
+    "geom:latitude":19.9,
+    "geom:longitude":-73.11667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Platon Morne Bourrique",
+    "gn:country_code":"HT",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718567,
+    "gn:latitude":19.9,
+    "gn:longitude":-73.11667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Platon Morne Bourrique",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718567
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f22b94b0d9d7960a52915ba6aa770d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1259987215,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1259987215,
+    "wof:lastmodified":1536627977,
+    "wof:name":"Platon Morne Bourrique",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.11667,
+    19.9,
+    -73.11667,
+    19.9
+],
+  "geometry": {"coordinates":[-73.11667,19.9],"type":"Point"}
+}

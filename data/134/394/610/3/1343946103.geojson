@@ -1,0 +1,71 @@
+{
+  "id": 1343946103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.54315,18.80979,-72.54315,18.80979",
+    "geom:latitude":18.80979,
+    "geom:longitude":-72.54315,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Garotte",
+    "gn:country_code":"HT",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724911,
+    "gn:latitude":18.80979,
+    "gn:longitude":-72.54315,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Garotte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Garotte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724911
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7161e306e47c224d897a423cbd63b55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1343946103,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1343946103,
+    "wof:lastmodified":1537626081,
+    "wof:name":"Garotte",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.54315,
+    18.80979,
+    -72.54315,
+    18.80979
+],
+  "geometry": {"coordinates":[-72.54315,18.80979],"type":"Point"}
+}

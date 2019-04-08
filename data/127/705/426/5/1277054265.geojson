@@ -1,0 +1,72 @@
+{
+  "id": 1277054265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.98333,18.81667,-72.98333,18.81667",
+    "geom:latitude":18.81667,
+    "geom:longitude":-72.98333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"L'Autre Bord de l'Eau",
+    "gn:country_code":"HT",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722427,
+    "gn:latitude":18.81667,
+    "gn:longitude":-72.98333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"L\u2019Autre Bord de l\u2019Eau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u2019autre Bord D\u2019l\u2019eau",
+        "L\u2019Autre Bord de l\u2019Eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722427
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b346dbee61f4fc334e4cf61b1c14369f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1277054265,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1277054265,
+    "wof:lastmodified":1537626049,
+    "wof:name":"L'Autre Bord de l'Eau",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.98333000000002,
+    18.81667,
+    -72.98333000000002,
+    18.81667
+],
+  "geometry": {"coordinates":[-72.98333000000002,18.81667],"type":"Point"}
+}

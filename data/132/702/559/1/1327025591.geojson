@@ -1,0 +1,71 @@
+{
+  "id": 1327025591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.739,19.766,-72.739,19.766",
+    "geom:latitude":19.766,
+    "geom:longitude":-72.739,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nan Donna",
+    "gn:country_code":"HT",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720116,
+    "gn:latitude":19.766,
+    "gn:longitude":-72.739,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Nan Donna",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan Gonna",
+        "Nan Donna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720116
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c3c14a2082f546604155200f99dafdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1327025591,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1327025591,
+    "wof:lastmodified":1537626020,
+    "wof:name":"Nan Donna",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73899999999998,
+    19.766,
+    -72.73899999999998,
+    19.766
+],
+  "geometry": {"coordinates":[-72.73899999999998,19.766],"type":"Point"}
+}

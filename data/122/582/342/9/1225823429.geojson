@@ -1,0 +1,74 @@
+{
+  "id": 1225823429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.89863,18.78872,-72.89863,18.78872",
+    "geom:latitude":18.78872,
+    "geom:longitude":-72.89863,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Bois Brule",
+    "gn:country_code":"HT",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729875,
+    "gn:latitude":18.78872,
+    "gn:longitude":-72.89863,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Bois Br\u00fbl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Brul\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Bois Br\u00fbl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729875
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6634874b0e5371985aeaadb2fb6ab32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1225823429,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1225823429,
+    "wof:lastmodified":1537626143,
+    "wof:name":"Bois Brule",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.89863000000003,
+    18.78872,
+    -72.89863000000003,
+    18.78872
+],
+  "geometry": {"coordinates":[-72.89863000000003,18.78872],"type":"Point"}
+}

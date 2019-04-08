@@ -1,0 +1,73 @@
+{
+  "id": 1310623187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.51156,19.42469,-72.51156,19.42469",
+    "geom:latitude":19.42469,
+    "geom:longitude":-72.51156,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Castor",
+    "gn:country_code":"HT",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728157,
+    "gn:latitude":19.42469,
+    "gn:longitude":-72.51156,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Castor",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gastor",
+        "Cator",
+        "Castor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728157
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d687544ce3563a8b987900efc5f77f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687025,
+            "locality_id":1310623187,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1310623187,
+    "wof:lastmodified":1537626121,
+    "wof:name":"Castor",
+    "wof:parent_id":1091687025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.51156,
+    19.42469,
+    -72.51156,
+    19.42469
+],
+  "geometry": {"coordinates":[-72.51156,19.42469],"type":"Point"}
+}

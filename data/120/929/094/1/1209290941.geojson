@@ -1,0 +1,62 @@
+{
+  "id": 1209290941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.6925,18.21333,-72.6925,18.21333",
+    "geom:latitude":18.21333,
+    "geom:longitude":-72.6925,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"Grande Crete",
+    "gn:country_code":"HT",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724522,
+    "gn:latitude":18.21333,
+    "gn:longitude":-72.6925,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Grande Cr\u00eate",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724522
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6b14fbb180ed01899cf403e933cbaae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209290941
+        }
+    ],
+    "wof:id":1209290941,
+    "wof:lastmodified":1536291697,
+    "wof:name":"Grande Crete",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.6925,
+    18.21333,
+    -72.6925,
+    18.21333
+],
+  "geometry": {"coordinates":[-72.6925,18.21333],"type":"Point"}
+}

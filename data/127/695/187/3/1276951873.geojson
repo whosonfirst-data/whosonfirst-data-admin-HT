@@ -1,0 +1,71 @@
+{
+  "id": 1276951873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.23276,18.65097,-74.23276,18.65097",
+    "geom:latitude":18.65097,
+    "geom:longitude":-74.23276,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Petite Plaine",
+    "gn:country_code":"HT",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718990,
+    "gn:latitude":18.65097,
+    "gn:longitude":-74.23276,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Petite Plaine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petite Plaine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718990
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b36f6b31acb433d368aa008d5c5b8bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1276951873,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1276951873,
+    "wof:lastmodified":1537626005,
+    "wof:name":"Petite Plaine",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.23276,
+    18.65097,
+    -74.23276,
+    18.65097
+],
+  "geometry": {"coordinates":[-74.23276,18.65097],"type":"Point"}
+}

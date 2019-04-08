@@ -1,0 +1,62 @@
+{
+  "id": 1209087435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14528,18.56528,-72.14528,18.56528",
+    "geom:latitude":18.56528,
+    "geom:longitude":-72.14528,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Descloches",
+    "gn:country_code":"HT",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726650,
+    "gn:latitude":18.56528,
+    "gn:longitude":-72.14528,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Descloches",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726650
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7370ec53fcef53fa04be7be1794f5d97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209087435
+        }
+    ],
+    "wof:id":1209087435,
+    "wof:lastmodified":1536298141,
+    "wof:name":"Descloches",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14528,
+    18.56528,
+    -72.14528,
+    18.56528
+],
+  "geometry": {"coordinates":[-72.14528,18.56528],"type":"Point"}
+}

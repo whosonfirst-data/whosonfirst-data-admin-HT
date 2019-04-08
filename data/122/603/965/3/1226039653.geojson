@@ -1,0 +1,73 @@
+{
+  "id": 1226039653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.27194,18.82389,-72.27194,18.82389",
+    "geom:latitude":18.82389,
+    "geom:longitude":-72.27194,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"La Coupe",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723224,
+    "gn:latitude":18.82389,
+    "gn:longitude":-72.27194,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"La Coupe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Platon La Coupe",
+        "La Coupe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723224
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a830d06d9dcc643d4426375eb7799555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1226039653,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1226039653,
+    "wof:lastmodified":1537626061,
+    "wof:name":"La Coupe",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.27194,
+    18.82389,
+    -72.27194,
+    18.82389
+],
+  "geometry": {"coordinates":[-72.27194,18.82389],"type":"Point"}
+}

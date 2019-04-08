@@ -1,0 +1,71 @@
+{
+  "id": 1276143683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.02243,19.18873,-72.02243,19.18873",
+    "geom:latitude":19.18873,
+    "geom:longitude":-72.02243,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Began Nabe",
+    "gn:country_code":"HT",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730436,
+    "gn:latitude":19.18873,
+    "gn:longitude":-72.02243,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Began Nab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Began Nab\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730436
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9a6a02dd194c0a7a2439a8b1cffb422c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1276143683,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1276143683,
+    "wof:lastmodified":1537626150,
+    "wof:name":"Began Nabe",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.02243,
+    19.18873,
+    -72.02243,
+    19.18873
+],
+  "geometry": {"coordinates":[-72.02243,19.18873],"type":"Point"}
+}

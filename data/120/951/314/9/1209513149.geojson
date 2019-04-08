@@ -1,0 +1,62 @@
+{
+  "id": 1209513149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63333,19.1,-72.63333,19.1",
+    "geom:latitude":19.1,
+    "geom:longitude":-72.63333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Bois l'Etat",
+    "gn:country_code":"HT",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729727,
+    "gn:latitude":19.1,
+    "gn:longitude":-72.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bois l\u2019\u00c9tat",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729727
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c65a480058bf82d39ed3cb36d7bf9f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209513149
+        }
+    ],
+    "wof:id":1209513149,
+    "wof:lastmodified":1536284818,
+    "wof:name":"Bois l'Etat",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63333,
+    19.1,
+    -72.63333,
+    19.1
+],
+  "geometry": {"coordinates":[-72.63333,19.1],"type":"Point"}
+}

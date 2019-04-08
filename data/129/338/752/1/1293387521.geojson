@@ -1,0 +1,72 @@
+{
+  "id": 1293387521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.60226,19.18782,-72.60226,19.18782",
+    "geom:latitude":19.18782,
+    "geom:longitude":-72.60226,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Cadeau",
+    "gn:country_code":"HT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728863,
+    "gn:latitude":19.18782,
+    "gn:longitude":-72.60226,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Cadeau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carrefour Cado",
+        "Cadeau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728863
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ff1acfad6193dc95aa8d1a34d8758b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1293387521,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1293387521,
+    "wof:lastmodified":1537626131,
+    "wof:name":"Cadeau",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.60226,
+    19.18782,
+    -72.60226,
+    19.18782
+],
+  "geometry": {"coordinates":[-72.60226,19.18782],"type":"Point"}
+}

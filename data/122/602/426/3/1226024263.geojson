@@ -1,0 +1,72 @@
+{
+  "id": 1226024263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39539,18.35056,-72.39539,18.35056",
+    "geom:latitude":18.35056,
+    "geom:longitude":-72.39539,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Fond Duline",
+    "gn:country_code":"HT",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725350,
+    "gn:latitude":18.35056,
+    "gn:longitude":-72.39539,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Fond Duline",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duline",
+        "Fond Duline"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725350
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"51e11ed9acd2acb93cd5dcd3759466e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1226024263,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1226024263,
+    "wof:lastmodified":1537626087,
+    "wof:name":"Fond Duline",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39539,
+    18.35056,
+    -72.39539,
+    18.35056
+],
+  "geometry": {"coordinates":[-72.39539000000001,18.35056],"type":"Point"}
+}

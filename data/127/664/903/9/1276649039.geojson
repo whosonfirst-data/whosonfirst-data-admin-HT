@@ -1,0 +1,70 @@
+{
+  "id": 1276649039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26111,18.89203,-72.26111,18.89203",
+    "geom:latitude":18.89203,
+    "geom:longitude":-72.26111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pierre Paul",
+    "gn:country_code":"HT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718850,
+    "gn:latitude":18.89203,
+    "gn:longitude":-72.26111,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Pierre Paul",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pierre Paul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718850
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"84e1a175831089f821ba0683174d9526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1276649039,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276649039,
+    "wof:lastmodified":1537626004,
+    "wof:name":"Pierre Paul",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26111,
+    18.89203,
+    -72.26111,
+    18.89203
+],
+  "geometry": {"coordinates":[-72.26111,18.89203],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327126145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.14675,19.04172,-72.14675,19.04172",
+    "geom:latitude":19.04172,
+    "geom:longitude":-72.14675,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Nan Train",
+    "gn:country_code":"HT",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719647,
+    "gn:latitude":19.04172,
+    "gn:longitude":-72.14675,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nan Train",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Train"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719647
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a6b4c32b2fdc4f1efebccfed80043432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1327126145,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1327126145,
+    "wof:lastmodified":1537626012,
+    "wof:name":"Nan Train",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.14675,
+    19.04172,
+    -72.14675,
+    19.04172
+],
+  "geometry": {"coordinates":[-72.14675,19.04172],"type":"Point"}
+}

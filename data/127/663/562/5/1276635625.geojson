@@ -1,0 +1,71 @@
+{
+  "id": 1276635625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.74617,18.37397,-73.74617,18.37397",
+    "geom:latitude":18.37397,
+    "geom:longitude":-73.74617,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Morency",
+    "gn:country_code":"HT",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720619,
+    "gn:latitude":18.37397,
+    "gn:longitude":-73.74617,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Morency",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Morency"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720619
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2b71288a26cf8bd60b38c1e771489076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1276635625,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1276635625,
+    "wof:lastmodified":1537626025,
+    "wof:name":"Morency",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.74616999999998,
+    18.37397,
+    -73.74616999999998,
+    18.37397
+],
+  "geometry": {"coordinates":[-73.74616999999998,18.37397],"type":"Point"}
+}

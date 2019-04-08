@@ -1,0 +1,68 @@
+{
+  "id": 1260259943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2155,18.31395,-74.2155,18.31395",
+    "geom:latitude":18.31395,
+    "geom:longitude":-74.2155,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727900.0",
+    "gn:asciiname":"Derriere Morne",
+    "gn:country_code":"HT",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726685,
+    "gn:latitude":18.31395,
+    "gn:longitude":-74.2155,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Derri\u00e8re Morne",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726685
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"79019f743ce14c6430f2dbafd0edf84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686503,
+            "locality_id":1260259943,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1260259943,
+    "wof:lastmodified":1536743447,
+    "wof:name":"Derriere Morne",
+    "wof:parent_id":1091686503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2155,
+    18.31395,
+    -74.2155,
+    18.31395
+],
+  "geometry": {"coordinates":[-74.21550000000001,18.31395],"type":"Point"}
+}

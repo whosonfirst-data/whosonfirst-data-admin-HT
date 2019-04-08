@@ -1,0 +1,72 @@
+{
+  "id": 1309883897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.99657,18.87628,-72.99657,18.87628",
+    "geom:latitude":18.87628,
+    "geom:longitude":-72.99657,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Grand Lagon",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724318,
+    "gn:latitude":18.87628,
+    "gn:longitude":-72.99657,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Grand Lagon",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grand Eagon",
+        "Grand Lagon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724318
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"be0c1f9dc2ee9e3c17df2e1727087fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1309883897,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1309883897,
+    "wof:lastmodified":1537626075,
+    "wof:name":"Grand Lagon",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99656999999998,
+    18.87628,
+    -72.99656999999998,
+    18.87628
+],
+  "geometry": {"coordinates":[-72.99656999999998,18.87628],"type":"Point"}
+}

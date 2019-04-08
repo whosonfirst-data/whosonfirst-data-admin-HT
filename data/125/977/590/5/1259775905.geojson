@@ -1,0 +1,68 @@
+{
+  "id": 1259775905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.48333,19.11667,-72.48333,19.11667",
+    "geom:latitude":19.11667,
+    "geom:longitude":-72.48333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Bellance",
+    "gn:country_code":"HT",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730372,
+    "gn:latitude":19.11667,
+    "gn:longitude":-72.48333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Bellance",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730372
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"739868f0c6a6b6e89cd05a93e6e2af54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1259775905,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1259775905,
+    "wof:lastmodified":1536934860,
+    "wof:name":"Bellance",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.48333000000002,
+    19.11667000000001,
+    -72.48333000000002,
+    19.11667000000001
+],
+  "geometry": {"coordinates":[-72.48333000000002,19.11667000000001],"type":"Point"}
+}

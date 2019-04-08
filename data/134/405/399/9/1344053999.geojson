@@ -1,0 +1,68 @@
+{
+  "id": 1344053999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.81667,18.9,-71.81667,18.9",
+    "geom:latitude":18.9,
+    "geom:longitude":-71.81667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Caranarang",
+    "gn:country_code":"HT",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728421,
+    "gn:latitude":18.9,
+    "gn:longitude":-71.81667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Caranarang",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728421
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d019ce2842383620aaf10110260c3136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1344053999,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1344053999,
+    "wof:lastmodified":1536884415,
+    "wof:name":"Caranarang",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.81667,
+    18.9,
+    -71.81667,
+    18.9
+],
+  "geometry": {"coordinates":[-71.81667,18.9],"type":"Point"}
+}

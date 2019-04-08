@@ -1,0 +1,68 @@
+{
+  "id": 1226230229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63333,18.41667,-72.63333,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-72.63333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Gue Bourget",
+    "gn:country_code":"HT",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724083,
+    "gn:latitude":18.41667,
+    "gn:longitude":-72.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gu\u00e9 Bourget",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724083
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8d74faafdba6561426c6b2f2c32ccad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1226230229,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1226230229,
+    "wof:lastmodified":1536956079,
+    "wof:name":"Gue Bourget",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63333,
+    18.41667,
+    -72.63333,
+    18.41667
+],
+  "geometry": {"coordinates":[-72.63333,18.41667],"type":"Point"}
+}

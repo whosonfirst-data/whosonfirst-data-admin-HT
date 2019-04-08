@@ -1,0 +1,71 @@
+{
+  "id": 1243151565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63494,18.25865,-72.63494,18.25865",
+    "geom:latitude":18.25865,
+    "geom:longitude":-72.63494,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Terre Brulee",
+    "gn:country_code":"HT",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716817,
+    "gn:latitude":18.25865,
+    "gn:longitude":-72.63494,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Terre Br\u00fbl\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Terre Br\u00fbl\u00e9e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716817
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fb2eeecb1ecc2b92891e00632d90e9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1243151565,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1243151565,
+    "wof:lastmodified":1537625981,
+    "wof:name":"Terre Brulee",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63494,
+    18.25865,
+    -72.63494,
+    18.25865
+],
+  "geometry": {"coordinates":[-72.63494,18.25865],"type":"Point"}
+}

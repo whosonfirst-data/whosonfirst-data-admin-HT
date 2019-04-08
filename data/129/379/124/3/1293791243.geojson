@@ -1,0 +1,71 @@
+{
+  "id": 1293791243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.83357,20.0605,-72.83357,20.0605",
+    "geom:latitude":20.0605,
+    "geom:longitude":-72.83357,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Servily",
+    "gn:country_code":"HT",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717141,
+    "gn:latitude":20.0605,
+    "gn:longitude":-72.83357,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Servily",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Servily"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717141
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"43c1706aebff87da6419af93db962aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1293791243,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1293791243,
+    "wof:lastmodified":1537625984,
+    "wof:name":"Servily",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.83357,
+    20.0605,
+    -72.83357,
+    20.0605
+],
+  "geometry": {"coordinates":[-72.83356999999999,20.0605],"type":"Point"}
+}

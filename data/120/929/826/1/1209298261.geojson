@@ -1,0 +1,65 @@
+{
+  "id": 1209298261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.09552,19.53577,-72.09552,19.53577",
+    "geom:latitude":19.53577,
+    "geom:longitude":-72.09552,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Gilette",
+    "gn:country_code":"HT",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724772,
+    "gn:latitude":19.53577,
+    "gn:longitude":-72.09552,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Gilette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gillette",
+        "Gilette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724772
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fc921d09360e2ff835df4d8855efbcb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209298261
+        }
+    ],
+    "wof:id":1209298261,
+    "wof:lastmodified":1537626079,
+    "wof:name":"Gilette",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.09552,
+    19.53577,
+    -72.09552,
+    19.53577
+],
+  "geometry": {"coordinates":[-72.09551999999999,19.53577],"type":"Point"}
+}

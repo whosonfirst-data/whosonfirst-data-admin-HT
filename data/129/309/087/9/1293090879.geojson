@@ -1,0 +1,67 @@
+{
+  "id": 1293090879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,19.55,-72.1,19.55",
+    "geom:latitude":19.55,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chateaubriand",
+    "gn:country_code":"HT",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727829,
+    "gn:latitude":19.55,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Chateaubriand",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727829
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2ea021012d967552d911d8fd2b204f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1293090879,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1293090879,
+    "wof:lastmodified":1536860459,
+    "wof:name":"Chateaubriand",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    19.55,
+    -72.1,
+    19.55
+],
+  "geometry": {"coordinates":[-72.09999999999999,19.55],"type":"Point"}
+}

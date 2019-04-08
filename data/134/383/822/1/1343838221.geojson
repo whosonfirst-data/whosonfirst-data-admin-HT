@@ -1,0 +1,70 @@
+{
+  "id": 1343838221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.66879,18.22923,-73.66879,18.22923",
+    "geom:latitude":18.22923,
+    "geom:longitude":-73.66879,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"L'Ilet",
+    "gn:country_code":"HT",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11438996,
+    "gn:latitude":18.22923,
+    "gn:longitude":-73.66879,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"L\u2019\u00celet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019\u00celet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11438996
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"61acec436b75cc6cabb8724918d05976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1343838221,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1343838221,
+    "wof:lastmodified":1537626160,
+    "wof:name":"L'Ilet",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.66879,
+    18.22923,
+    -73.66879,
+    18.22923
+],
+  "geometry": {"coordinates":[-73.66879,18.22923],"type":"Point"}
+}

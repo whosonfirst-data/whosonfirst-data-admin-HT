@@ -1,0 +1,71 @@
+{
+  "id": 1343353153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.98857,18.79514,-71.98857,18.79514",
+    "geom:latitude":18.79514,
+    "geom:longitude":-71.98857,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Chauvet",
+    "gn:country_code":"HT",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727808,
+    "gn:latitude":18.79514,
+    "gn:longitude":-71.98857,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Chauvet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chauvet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727808
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bfec52d78efd7c8eb71da578302fa1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1343353153,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1343353153,
+    "wof:lastmodified":1537626116,
+    "wof:name":"Chauvet",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.98857,
+    18.79514,
+    -71.98857,
+    18.79514
+],
+  "geometry": {"coordinates":[-71.98857,18.79514],"type":"Point"}
+}

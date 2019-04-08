@@ -1,0 +1,68 @@
+{
+  "id": 1243246425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.61333,18.455,-73.61333,18.455",
+    "geom:latitude":18.455,
+    "geom:longitude":-73.61333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3730801.0",
+    "gn:asciiname":"Dumoulin",
+    "gn:country_code":"HT",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725913,
+    "gn:latitude":18.455,
+    "gn:longitude":-73.61333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Dumoulin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725913
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b9ef34e89bd717dc01b97e5995dd3467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1243246425,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1243246425,
+    "wof:lastmodified":1537090644,
+    "wof:name":"Dumoulin",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.61333,
+    18.455,
+    -73.61333,
+    18.455
+],
+  "geometry": {"coordinates":[-73.61333,18.455],"type":"Point"}
+}

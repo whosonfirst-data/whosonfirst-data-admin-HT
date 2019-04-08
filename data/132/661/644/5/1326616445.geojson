@@ -1,0 +1,67 @@
+{
+  "id": 1326616445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.84778,18.33972,-72.84778,18.33972",
+    "geom:latitude":18.33972,
+    "geom:longitude":-72.84778,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Fond Gerard",
+    "gn:country_code":"HT",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725337,
+    "gn:latitude":18.33972,
+    "gn:longitude":-72.84778,
+    "gn:modification_date":"2000-03-21",
+    "gn:name":"Fond G\u00e9rard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725337
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a6a5363126407f99761d0aa696ccf14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687199,
+            "locality_id":1326616445,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1326616445,
+    "wof:lastmodified":1536861232,
+    "wof:name":"Fond Gerard",
+    "wof:parent_id":1091687199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.84778,
+    18.33972,
+    -72.84778,
+    18.33972
+],
+  "geometry": {"coordinates":[-72.84778,18.33972],"type":"Point"}
+}

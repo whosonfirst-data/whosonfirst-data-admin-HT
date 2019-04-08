@@ -1,0 +1,61 @@
+{
+  "id": 1276424335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.2,18.7,-74.2,18.7",
+    "geom:latitude":18.7,
+    "geom:longitude":-74.2,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Detrit",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726512,
+    "gn:latitude":18.7,
+    "gn:longitude":-74.2,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"D\u00e9trit",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726512
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c340a08f7b4aca64c7aae9eb38433675",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276424335,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276424335,
+    "wof:lastmodified":1536656852,
+    "wof:name":"Detrit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.2,
+    18.7,
+    -74.2,
+    18.7
+],
+  "geometry": {"coordinates":[-74.2,18.7],"type":"Point"}
+}

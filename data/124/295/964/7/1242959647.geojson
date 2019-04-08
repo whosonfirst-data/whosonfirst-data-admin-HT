@@ -1,0 +1,71 @@
+{
+  "id": 1242959647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.52667,18.27222,-72.52667,18.27222",
+    "geom:latitude":18.27222,
+    "geom:longitude":-72.52667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3723778.0",
+    "gn:asciiname":"Lafond",
+    "gn:country_code":"HT",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723072,
+    "gn:latitude":18.27222,
+    "gn:longitude":-72.52667,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lafond",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lafond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091687171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723072
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7ce14a3c69166551e8978d12ff66c604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687171,
+            "locality_id":1242959647,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1242959647,
+    "wof:lastmodified":1537626059,
+    "wof:name":"Lafond",
+    "wof:parent_id":1091687171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.52667,
+    18.27222,
+    -72.52667,
+    18.27222
+],
+  "geometry": {"coordinates":[-72.52667,18.27222],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310306677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.78333,19.76667,-72.78333,19.76667",
+    "geom:latitude":19.76667,
+    "geom:longitude":-72.78333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Brizard Nicole",
+    "gn:country_code":"HT",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729049,
+    "gn:latitude":19.76667,
+    "gn:longitude":-72.78333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Brizard Nicole",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729049
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c934f5e7eb3d8a10fae253cab914cfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1310306677,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1310306677,
+    "wof:lastmodified":1536706474,
+    "wof:name":"Brizard Nicole",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.78333,
+    19.76667,
+    -72.78333,
+    19.76667
+],
+  "geometry": {"coordinates":[-72.78333000000001,19.76667],"type":"Point"}
+}

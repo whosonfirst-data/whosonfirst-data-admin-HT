@@ -1,0 +1,70 @@
+{
+  "id": 1326608269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78713,18.32869,-71.78713,18.32869",
+    "geom:latitude":18.32869,
+    "geom:longitude":-71.78713,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Foret des Pins",
+    "gn:country_code":"HT",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725200,
+    "gn:latitude":18.32869,
+    "gn:longitude":-71.78713,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"For\u00eat des Pins",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "For\u00eat des Pins"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725200
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"48342ebe4266182088bb2645dc25bb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1326608269,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1326608269,
+    "wof:lastmodified":1537626084,
+    "wof:name":"Foret des Pins",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78713,
+    18.32869,
+    -71.78713,
+    18.32869
+],
+  "geometry": {"coordinates":[-71.78713,18.32869],"type":"Point"}
+}

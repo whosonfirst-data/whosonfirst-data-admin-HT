@@ -1,0 +1,71 @@
+{
+  "id": 1260159137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.62202,18.8908,-72.62202,18.8908",
+    "geom:latitude":18.8908,
+    "geom:longitude":-72.62202,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Carries",
+    "gn:country_code":"HT",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728242,
+    "gn:latitude":18.8908,
+    "gn:longitude":-72.62202,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Carri\u00e8s",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Carri\u00e8s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728242
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8eefea4027835411204dd6e3906fe64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1260159137,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1260159137,
+    "wof:lastmodified":1537626122,
+    "wof:name":"Carries",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.62201999999998,
+    18.8908,
+    -72.62201999999998,
+    18.8908
+],
+  "geometry": {"coordinates":[-72.62201999999998,18.8908],"type":"Point"}
+}

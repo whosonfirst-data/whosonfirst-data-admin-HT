@@ -1,0 +1,67 @@
+{
+  "id": 1310007703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.89767,18.07023,-73.89767,18.07023",
+    "geom:latitude":18.07023,
+    "geom:longitude":-73.89767,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Source",
+    "gn:country_code":"HT",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722525,
+    "gn:latitude":18.07023,
+    "gn:longitude":-73.89767,
+    "gn:modification_date":"2014-10-14",
+    "gn:name":"La Source",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722525
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d58039f20699690ba49cdebf0731b023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687329,
+            "locality_id":1310007703,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1310007703,
+    "wof:lastmodified":1536639102,
+    "wof:name":"La Source",
+    "wof:parent_id":1091687329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.89766999999998,
+    18.07023,
+    -73.89766999999998,
+    18.07023
+],
+  "geometry": {"coordinates":[-73.89766999999998,18.07023],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1327425565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.01667,18.75,-72.01667,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":-72.01667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Morne Diable",
+    "gn:country_code":"HT",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720546,
+    "gn:latitude":18.75,
+    "gn:longitude":-72.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne Diable",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720546
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"fa7bcee13cb150b2457e8e85d246f60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1327425565,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1327425565,
+    "wof:lastmodified":1536690873,
+    "wof:name":"Morne Diable",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.01666999999998,
+    18.75,
+    -72.01666999999998,
+    18.75
+],
+  "geometry": {"coordinates":[-72.01666999999998,18.75],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344248699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.89942,19.02923,-71.89942,19.02923",
+    "geom:latitude":19.02923,
+    "geom:longitude":-71.89942,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3723840.0",
+    "gn:asciiname":"Marchal",
+    "gn:country_code":"HT",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721520,
+    "gn:latitude":19.02923,
+    "gn:longitude":-71.89942,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Marchal",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Marchal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721520
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b3ae08aa0498317682794dfd616412d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686313,
+            "locality_id":1344248699,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1344248699,
+    "wof:lastmodified":1537626035,
+    "wof:name":"Marchal",
+    "wof:parent_id":1091686313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.89941999999998,
+    19.02923,
+    -71.89941999999998,
+    19.02923
+],
+  "geometry": {"coordinates":[-71.89941999999998,19.02923],"type":"Point"}
+}

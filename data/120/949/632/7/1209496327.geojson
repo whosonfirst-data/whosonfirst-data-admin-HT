@@ -1,0 +1,66 @@
+{
+  "id": 1209496327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.62725,18.42967,-72.62725,18.42967",
+    "geom:latitude":18.42967,
+    "geom:longitude":-72.62725,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3722285.0",
+    "gn:asciiname":"Bigonet",
+    "gn:country_code":"HT",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730060,
+    "gn:latitude":18.42967,
+    "gn:longitude":-72.62725,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bigonet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bigoney",
+        "Bigonet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730060
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8e1898f50f901c10ef98bec610b0d719",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209496327
+        }
+    ],
+    "wof:id":1209496327,
+    "wof:lastmodified":1537626146,
+    "wof:name":"Bigonet",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.62725,
+    18.42967,
+    -72.62725,
+    18.42967
+],
+  "geometry": {"coordinates":[-72.62725,18.42967],"type":"Point"}
+}

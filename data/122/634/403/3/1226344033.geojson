@@ -1,0 +1,61 @@
+{
+  "id": 1226344033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.4,19.81667,-73.4,19.81667",
+    "geom:latitude":19.81667,
+    "geom:longitude":-73.4,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Presqu'ile du Mole",
+    "gn:country_code":"HT",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718329,
+    "gn:latitude":19.81667,
+    "gn:longitude":-73.4,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Presqu\u2019\u00eele du M\u00f4le",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718329
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bbffed02e39a4982f1e2f52a6264d07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226344033,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226344033,
+    "wof:lastmodified":1536792251,
+    "wof:name":"Presqu'ile du Mole",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.4,
+    19.81667,
+    -73.4,
+    19.81667
+],
+  "geometry": {"coordinates":[-73.40000000000001,19.81667],"type":"Point"}
+}

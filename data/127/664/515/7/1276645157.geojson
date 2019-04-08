@@ -1,0 +1,71 @@
+{
+  "id": 1276645157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78093,19.37434,-71.78093,19.37434",
+    "geom:latitude":19.37434,
+    "geom:longitude":-71.78093,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3719435.0",
+    "gn:asciiname":"La Rose",
+    "gn:country_code":"HT",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722617,
+    "gn:latitude":19.37434,
+    "gn:longitude":-71.78093,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"La Rose",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Rose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722617
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"98667a5d9ee8af2c40d42babacbc9951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687117,
+            "locality_id":1276645157,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1276645157,
+    "wof:lastmodified":1537626052,
+    "wof:name":"La Rose",
+    "wof:parent_id":1091687117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78093,
+    19.37434,
+    -71.78093,
+    19.37434
+],
+  "geometry": {"coordinates":[-71.78093,19.37434],"type":"Point"}
+}

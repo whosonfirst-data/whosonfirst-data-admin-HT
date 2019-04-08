@@ -1,0 +1,102 @@
+{
+  "id": 890437213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.25,18.56667,-74.25,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":-74.25,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
+    "gn:pop":1830,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Moron"
+    ],
+    "name:eng_x_preferred":[
+        "Moron"
+    ],
+    "name:fre_x_preferred":[
+        "Moron"
+    ],
+    "name:hat_x_preferred":[
+        "Monwon"
+    ],
+    "name:ita_x_preferred":[
+        "Moron"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30a6\u30a9\u30f3"
+    ],
+    "name:por_x_preferred":[
+        "Moron"
+    ],
+    "name:rum_x_preferred":[
+        "Moron"
+    ],
+    "name:swe_x_preferred":[
+        "Moron"
+    ],
+    "name:unk_x_variant":[
+        "Bourg de Moron"
+    ],
+    "qs:name":"Moron",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":210,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720455,
+        "gp:id":94668,
+        "qs:id":1046657,
+        "wd:id":"Q2432649",
+        "wk:page":"Moron"
+    },
+    "wof:country":"HT",
+    "wof:created":1469052142,
+    "wof:geomhash":"b1e865f5bada5610f448b0ba85f6a123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":890437213,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":890437213,
+    "wof:lastmodified":1553816397,
+    "wof:name":"Moron",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:population":1830,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.25,
+    18.56667,
+    -74.25,
+    18.56667
+],
+  "geometry": {"coordinates":[-74.25,18.56667],"type":"Point"}
+}

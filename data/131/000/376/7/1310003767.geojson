@@ -1,0 +1,68 @@
+{
+  "id": 1310003767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1,19.68333,-73.1,19.68333",
+    "geom:latitude":19.68333,
+    "geom:longitude":-73.1,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Morne de Paille",
+    "gn:country_code":"HT",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720549,
+    "gn:latitude":19.68333,
+    "gn:longitude":-73.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne de Paille",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720549
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3c403f5d58a4e4cda0d66776ac575f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1310003767,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1310003767,
+    "wof:lastmodified":1536645274,
+    "wof:name":"Morne de Paille",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1,
+    19.68333,
+    -73.1,
+    19.68333
+],
+  "geometry": {"coordinates":[-73.09999999999999,19.68333],"type":"Point"}
+}

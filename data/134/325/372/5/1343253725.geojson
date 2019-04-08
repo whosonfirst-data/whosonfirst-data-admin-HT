@@ -1,0 +1,68 @@
+{
+  "id": 1343253725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.74639,18.835,-71.74639,18.835",
+    "geom:latitude":18.835,
+    "geom:longitude":-71.74639,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578",
+    "gn:asciiname":"Loquette Loga",
+    "gn:country_code":"HT",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3738208,
+    "gn:latitude":18.835,
+    "gn:longitude":-71.74639,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Loquette Loga",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3738208
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f2b26b291214a00ab707e782450f5c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686393,
+            "locality_id":1343253725,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1343253725,
+    "wof:lastmodified":1537042893,
+    "wof:name":"Loquette Loga",
+    "wof:parent_id":1091686393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.74639,
+    18.835,
+    -71.74639,
+    18.835
+],
+  "geometry": {"coordinates":[-71.74639000000001,18.835],"type":"Point"}
+}

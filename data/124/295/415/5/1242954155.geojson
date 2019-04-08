@@ -1,0 +1,73 @@
+{
+  "id": 1242954155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.26667,18.43333,-72.26667,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":-72.26667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Grande Place",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724498,
+    "gn:latitude":18.43333,
+    "gn:longitude":-72.26667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Grande Place",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grand Place",
+        "Grande Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724498
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e5d96881bca7ebf8bececbd56ce87dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1242954155,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1242954155,
+    "wof:lastmodified":1537626076,
+    "wof:name":"Grande Place",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.26666999999998,
+    18.43333,
+    -72.26666999999998,
+    18.43333
+],
+  "geometry": {"coordinates":[-72.26666999999998,18.43333],"type":"Point"}
+}

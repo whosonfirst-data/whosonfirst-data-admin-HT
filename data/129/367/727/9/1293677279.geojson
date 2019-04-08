@@ -1,0 +1,68 @@
+{
+  "id": 1293677279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.42528,18.50306,-72.42528,18.50306",
+    "geom:latitude":18.50306,
+    "geom:longitude":-72.42528,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425",
+    "gn:asciiname":"Angibeau",
+    "gn:country_code":"HT",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731156,
+    "gn:latitude":18.50306,
+    "gn:longitude":-72.42528,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Angibeau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731156
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"8be8855871e2ba2a35149e3152091f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1293677279,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293677279,
+    "wof:lastmodified":1537010043,
+    "wof:name":"Angibeau",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.42528,
+    18.50306,
+    -72.42528,
+    18.50306
+],
+  "geometry": {"coordinates":[-72.42528,18.50306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259766043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.1,18.43333,-73.1,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":-73.1,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3720823.0",
+    "gn:asciiname":"Duverger",
+    "gn:country_code":"HT",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725770,
+    "gn:latitude":18.43333,
+    "gn:longitude":-73.1,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Duverger",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725770
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b4e5b52475cbd71c5b5bf9d68d0ac3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1259766043,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1259766043,
+    "wof:lastmodified":1536948624,
+    "wof:name":"Duverger",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.1,
+    18.43333,
+    -73.1,
+    18.43333
+],
+  "geometry": {"coordinates":[-73.09999999999999,18.43333],"type":"Point"}
+}

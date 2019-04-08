@@ -1,0 +1,70 @@
+{
+  "id": 1292901133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.29179,19.19822,-72.29179,19.19822",
+    "geom:latitude":19.19822,
+    "geom:longitude":-72.29179,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dahomey",
+    "gn:country_code":"HT",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727088,
+    "gn:latitude":19.19822,
+    "gn:longitude":-72.29179,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dahomey",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dahomey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727088
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0f4343daa6462b96e8634c2141f412ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1292901133,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1292901133,
+    "wof:lastmodified":1537626109,
+    "wof:name":"Dahomey",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.29179,
+    19.19822000000001,
+    -72.29179,
+    19.19822000000001
+],
+  "geometry": {"coordinates":[-72.29179000000001,19.19822000000001],"type":"Point"}
+}

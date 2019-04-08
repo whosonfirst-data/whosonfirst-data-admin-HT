@@ -1,0 +1,71 @@
+{
+  "id": 1344042005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.18032,19.59116,-72.18032,19.59116",
+    "geom:latitude":19.59116,
+    "geom:longitude":-72.18032,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3724438.0",
+    "gn:asciiname":"Jonas",
+    "gn:country_code":"HT",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723543,
+    "gn:latitude":19.59116,
+    "gn:longitude":-72.18032,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Jonas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jonas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723543
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"90ad99932242e68930789e2e972e331b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686273,
+            "locality_id":1344042005,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1344042005,
+    "wof:lastmodified":1537626065,
+    "wof:name":"Jonas",
+    "wof:parent_id":1091686273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.18032,
+    19.59116,
+    -72.18032,
+    19.59116
+],
+  "geometry": {"coordinates":[-72.18031999999999,19.59116],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1277054183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.08333,18.83333,-73.08333,18.83333",
+    "geom:latitude":18.83333,
+    "geom:longitude":-73.08333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Nan Marc",
+    "gn:country_code":"HT",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719910,
+    "gn:latitude":18.83333,
+    "gn:longitude":-73.08333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Marc",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719910
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ea1bb06cb660652baf504cd1f2f26b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686345,
+            "locality_id":1277054183,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1277054183,
+    "wof:lastmodified":1536807171,
+    "wof:name":"Nan Marc",
+    "wof:parent_id":1091686345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08333,
+    18.83333,
+    -73.08333,
+    18.83333
+],
+  "geometry": {"coordinates":[-73.08333,18.83333],"type":"Point"}
+}

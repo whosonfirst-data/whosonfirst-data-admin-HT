@@ -1,0 +1,67 @@
+{
+  "id": 1327019531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03333,19.51667,-72.03333,19.51667",
+    "geom:latitude":19.51667,
+    "geom:longitude":-72.03333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Donis",
+    "gn:country_code":"HT",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726261,
+    "gn:latitude":19.51667,
+    "gn:longitude":-72.03333,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Donis",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726261
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ca84c0fb3c5ab289341b660576c04fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1327019531,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1327019531,
+    "wof:lastmodified":1536779575,
+    "wof:name":"Donis",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03333,
+    19.51667,
+    -72.03333,
+    19.51667
+],
+  "geometry": {"coordinates":[-72.03333000000001,19.51667],"type":"Point"}
+}

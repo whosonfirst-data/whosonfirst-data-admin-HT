@@ -1,0 +1,66 @@
+{
+  "id": 1209336623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73359,19.25837,-72.73359,19.25837",
+    "geom:latitude":19.25837,
+    "geom:longitude":-72.73359,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Dauphin",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726993,
+    "gn:latitude":19.25837,
+    "gn:longitude":-72.73359,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Dauphin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dauphine",
+        "Dauphin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726993
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"252bc1ff2776bc4fd19cc9fd84ba1f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209336623
+        }
+    ],
+    "wof:id":1209336623,
+    "wof:lastmodified":1537626107,
+    "wof:name":"Dauphin",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73359,
+    19.25837000000001,
+    -72.73359,
+    19.25837000000001
+],
+  "geometry": {"coordinates":[-72.73359000000001,19.25837000000001],"type":"Point"}
+}

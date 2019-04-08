@@ -1,0 +1,68 @@
+{
+  "id": 1277160701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.15,18.45,-74.15,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-74.15,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Nan Joupa",
+    "gn:country_code":"HT",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719981,
+    "gn:latitude":18.45,
+    "gn:longitude":-74.15,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Joupa",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719981
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9d948a4aa6fa2895c5c3a83058587d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1277160701,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1277160701,
+    "wof:lastmodified":1536655350,
+    "wof:name":"Nan Joupa",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.15,
+    18.45,
+    -74.15,
+    18.45
+],
+  "geometry": {"coordinates":[-74.15000000000001,18.45],"type":"Point"}
+}

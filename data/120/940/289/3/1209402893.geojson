@@ -1,0 +1,68 @@
+{
+  "id": 1209402893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.3287,18.42145,-72.3287,18.42145",
+    "geom:latitude":18.42145,
+    "geom:longitude":-72.3287,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Debauche",
+    "gn:country_code":"HT",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726957,
+    "gn:latitude":18.42145,
+    "gn:longitude":-72.3287,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"D\u00e9bauch\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9bauch\u00e9"
+    ],
+    "name:fra_x_variant":[
+        "D\u00e9bauche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726957
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"dd77933291ed94b7d64ae97def8936ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209402893
+        }
+    ],
+    "wof:id":1209402893,
+    "wof:lastmodified":1537626107,
+    "wof:name":"Debauche",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.3287,
+    18.42145,
+    -72.3287,
+    18.42145
+],
+  "geometry": {"coordinates":[-72.3287,18.42145],"type":"Point"}
+}

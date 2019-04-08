@@ -1,0 +1,71 @@
+{
+  "id": 1259572909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.49665,19.69385,-72.49665,19.69385",
+    "geom:latitude":19.69385,
+    "geom:longitude":-72.49665,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3718665.0",
+    "gn:asciiname":"Nan Rousseau",
+    "gn:country_code":"HT",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719718,
+    "gn:latitude":19.69385,
+    "gn:longitude":-72.49665,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Nan Rousseau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Rousseau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719718
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2d398c16677b26621785a58a5b1d59fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686691,
+            "locality_id":1259572909,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1259572909,
+    "wof:lastmodified":1537626014,
+    "wof:name":"Nan Rousseau",
+    "wof:parent_id":1091686691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.49665,
+    19.69385,
+    -72.49665,
+    19.69385
+],
+  "geometry": {"coordinates":[-72.49665,19.69385],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327455317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.7911,19.05849,-71.7911,19.05849",
+    "geom:latitude":19.05849,
+    "geom:longitude":-71.7911,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3728053.0",
+    "gn:asciiname":"La Playe",
+    "gn:country_code":"HT",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722713,
+    "gn:latitude":19.05849,
+    "gn:longitude":-71.7911,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"La Playe",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Playe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091687123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722713
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"68b5fa34f7da1e05e3ee5f73525dd9e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687123,
+            "locality_id":1327455317,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1327455317,
+    "wof:lastmodified":1537626054,
+    "wof:name":"La Playe",
+    "wof:parent_id":1091687123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7911,
+    19.05849,
+    -71.7911,
+    19.05849
+],
+  "geometry": {"coordinates":[-71.7911,19.05849],"type":"Point"}
+}

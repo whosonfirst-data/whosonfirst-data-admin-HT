@@ -1,0 +1,68 @@
+{
+  "id": 1327321847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28333,18.8,-72.28333,18.8",
+    "geom:latitude":18.8,
+    "geom:longitude":-72.28333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Roches Noires",
+    "gn:country_code":"HT",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717856,
+    "gn:latitude":18.8,
+    "gn:longitude":-72.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Roches Noires",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717856
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"3ef779c022b3a322b4e9c0220dbccdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1327321847,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1327321847,
+    "wof:lastmodified":1536839499,
+    "wof:name":"Roches Noires",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28333,
+    18.8,
+    -72.28333,
+    18.8
+],
+  "geometry": {"coordinates":[-72.28333000000001,18.8],"type":"Point"}
+}

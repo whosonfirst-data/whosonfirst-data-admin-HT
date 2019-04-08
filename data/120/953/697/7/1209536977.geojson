@@ -1,0 +1,65 @@
+{
+  "id": 1209536977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.82189,18.74429,-71.82189,18.74429",
+    "geom:latitude":18.74429,
+    "geom:longitude":-71.82189,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3722578.0",
+    "gn:asciiname":"Savanette",
+    "gn:country_code":"HT",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717229,
+    "gn:latitude":18.74429,
+    "gn:longitude":-71.82189,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Savanette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:hat_x_preferred":[
+        "Savan\u00e8t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717229
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e754dda898caaa8c65a38bd1a32983d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209536977
+        }
+    ],
+    "wof:id":1209536977,
+    "wof:lastmodified":1537625985,
+    "wof:name":"Savanette",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.82189,
+    18.74429,
+    -71.82189,
+    18.74429
+],
+  "geometry": {"coordinates":[-71.82189,18.74429],"type":"Point"}
+}

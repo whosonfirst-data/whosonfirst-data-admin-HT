@@ -1,0 +1,68 @@
+{
+  "id": 1243355127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.11306,18.85639,-72.11306,18.85639",
+    "geom:latitude":18.85639,
+    "geom:longitude":-72.11306,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Debaye",
+    "gn:country_code":"HT",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726949,
+    "gn:latitude":18.85639,
+    "gn:longitude":-72.11306,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"D\u00e9baye",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726949
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"cc7a683f9780a331bcac543befce3829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1243355127,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1243355127,
+    "wof:lastmodified":1536938021,
+    "wof:name":"Debaye",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.11306,
+    18.85639,
+    -72.11306,
+    18.85639
+],
+  "geometry": {"coordinates":[-72.11306,18.85639],"type":"Point"}
+}

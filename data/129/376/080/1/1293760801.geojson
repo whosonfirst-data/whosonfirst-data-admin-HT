@@ -1,0 +1,68 @@
+{
+  "id": 1293760801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.6,18.3,-73.6,18.3",
+    "geom:latitude":18.3,
+    "geom:longitude":-73.6,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Chaterie",
+    "gn:country_code":"HT",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727823,
+    "gn:latitude":18.3,
+    "gn:longitude":-73.6,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Chaterie",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727823
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"270b8fac661b9620386808b99f68d948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1293760801,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1293760801,
+    "wof:lastmodified":1536889782,
+    "wof:name":"Chaterie",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.6,
+    18.3,
+    -73.6,
+    18.3
+],
+  "geometry": {"coordinates":[-73.59999999999999,18.3],"type":"Point"}
+}

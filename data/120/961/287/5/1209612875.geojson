@@ -1,0 +1,62 @@
+{
+  "id": 1209612875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73333,19.78333,-72.73333,19.78333",
+    "geom:latitude":19.78333,
+    "geom:longitude":-72.73333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Deux Poteaux",
+    "gn:country_code":"HT",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726494,
+    "gn:latitude":19.78333,
+    "gn:longitude":-72.73333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Deux Poteaux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726494
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"bd8e2cff3b0083ec9c0a7b01122b26bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209612875
+        }
+    ],
+    "wof:id":1209612875,
+    "wof:lastmodified":1536281789,
+    "wof:name":"Deux Poteaux",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73333000000002,
+    19.78333,
+    -72.73333000000002,
+    19.78333
+],
+  "geometry": {"coordinates":[-72.73333000000002,19.78333],"type":"Point"}
+}

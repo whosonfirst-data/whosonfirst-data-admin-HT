@@ -1,0 +1,68 @@
+{
+  "id": 1310474985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23333,18.4,-73.23333,18.4",
+    "geom:latitude":18.4,
+    "geom:longitude":-73.23333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3720823",
+    "gn:asciiname":"Abraham",
+    "gn:country_code":"HT",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731274,
+    "gn:latitude":18.4,
+    "gn:longitude":-73.23333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Abraham",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731274
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"91afada9f9090b576b75c79a1f31ab1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1310474985,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310474985,
+    "wof:lastmodified":1536960879,
+    "wof:name":"Abraham",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23333000000002,
+    18.4,
+    -73.23333000000002,
+    18.4
+],
+  "geometry": {"coordinates":[-73.23333000000002,18.4],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293482553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.55445,19.20995,-72.55445,19.20995",
+    "geom:latitude":19.20995,
+    "geom:longitude":-72.55445,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"La Couture",
+    "gn:country_code":"HT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723193,
+    "gn:latitude":19.20995,
+    "gn:longitude":-72.55445,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"La Couture",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Couture"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723193
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"96747200b3764f26e2126ca163a80dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1293482553,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1293482553,
+    "wof:lastmodified":1537626061,
+    "wof:name":"La Couture",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.55445,
+    19.20995,
+    -72.55445,
+    19.20995
+],
+  "geometry": {"coordinates":[-72.55445,19.20995],"type":"Point"}
+}

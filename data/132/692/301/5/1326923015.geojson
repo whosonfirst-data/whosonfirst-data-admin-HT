@@ -1,0 +1,70 @@
+{
+  "id": 1326923015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.37444,19.53575,-72.37444,19.53575",
+    "geom:latitude":19.53575,
+    "geom:longitude":-72.37444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Plaine Bassin",
+    "gn:country_code":"HT",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718723,
+    "gn:latitude":19.53575,
+    "gn:longitude":-72.37444,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Plaine Bassin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Plaine Bassin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718723
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b128f72e63a56c925cc435ec0732edae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686583,
+            "locality_id":1326923015,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1326923015,
+    "wof:lastmodified":1537626002,
+    "wof:name":"Plaine Bassin",
+    "wof:parent_id":1091686583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.37444,
+    19.53575,
+    -72.37444,
+    19.53575
+],
+  "geometry": {"coordinates":[-72.37444000000001,19.53575],"type":"Point"}
+}

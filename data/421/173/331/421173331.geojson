@@ -1,0 +1,132 @@
+{
+  "id": 421173331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31667,19.68333,-72.31667,19.68333",
+    "geom:latitude":19.68333,
+    "geom:longitude":-72.31667,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0622\u0643\u0644 \u062f\u0648 \u0646\u0648\u0631\u062f"
+    ],
+    "name:dut_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:eng_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06a9\u0648\u0644-\u062f\u0648-\u0646\u0648\u0631\u062f"
+    ],
+    "name:fra_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:fre_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:hat_x_preferred":[
+        "Akil din\u00f2"
+    ],
+    "name:hat_x_variant":[
+        "Akil di N\u00f2"
+    ],
+    "name:ita_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ad\u30eb\u30fb\u30c7\u30a3\u30ce\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06a9\u0648\u0644-\u062f\u0648-\u0646\u0648\u0631\u062f"
+    ],
+    "name:por_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:ron_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:rum_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:spa_x_preferred":[
+        "Acul-du-Nord"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0443\u043b-\u0434\u0443-\u041d\u043e\u0440\u0434"
+    ],
+    "qs:gn_country":"HT",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3731233,
+    "qs:gn_pop":3454,
+    "qs:name":"Acul du Nord",
+    "qs:name_adm0":"Ha\u00efti",
+    "qs:name_adm1":"Nord",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":500557,
+    "qs:woe_adm0":23424839,
+    "qs:woe_id":86954,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":76,
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731233,
+        "gp:id":86954,
+        "qs:id":500557,
+        "wd:id":"Q2710854"
+    },
+    "wof:country":"HT",
+    "wof:created":1459008979,
+    "wof:geomhash":"9bdfbe26c89ea4dd7cd515f00d8bd1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":421173331,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":421173331,
+    "wof:lastmodified":1527716253,
+    "wof:name":"Acul du Nord",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:population":3454,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31667,
+    19.68333,
+    -72.31667,
+    19.68333
+],
+  "geometry": {"coordinates":[-72.31667,19.68333],"type":"Point"}
+}

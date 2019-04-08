@@ -1,0 +1,64 @@
+{
+  "id": 1209092599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.80883,18.28252,-72.80883,18.28252",
+    "geom:latitude":18.28252,
+    "geom:longitude":-72.80883,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Roussel",
+    "gn:country_code":"HT",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717746,
+    "gn:latitude":18.28252,
+    "gn:longitude":-72.80883,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Roussel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Roussel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717746
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"67714cb760bea69d8e3ae156a8341725",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209092599
+        }
+    ],
+    "wof:id":1209092599,
+    "wof:lastmodified":1537625991,
+    "wof:name":"Roussel",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.80883,
+    18.28252,
+    -72.80883,
+    18.28252
+],
+  "geometry": {"coordinates":[-72.80883,18.28252],"type":"Point"}
+}

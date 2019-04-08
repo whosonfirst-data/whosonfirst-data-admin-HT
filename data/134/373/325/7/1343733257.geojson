@@ -1,0 +1,73 @@
+{
+  "id": 1343733257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.28673,18.48392,-74.28673,18.48392",
+    "geom:latitude":18.48392,
+    "geom:longitude":-74.28673,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"3723592.0",
+    "gn:asciiname":"Sources Chaudes",
+    "gn:country_code":"HT",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716980,
+    "gn:latitude":18.48392,
+    "gn:longitude":-74.28673,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Sources Chaudes",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sources Chaudes des Irois",
+        "Sources Chaudes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716980,
+        "wk:page":"Sources_Chaudes"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e0848ef0723e223c09a61ad4f395228c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686323,
+            "locality_id":1343733257,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1343733257,
+    "wof:lastmodified":1537625982,
+    "wof:name":"Sources Chaudes",
+    "wof:parent_id":1091686323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.28673,
+    18.48392,
+    -74.28673,
+    18.48392
+],
+  "geometry": {"coordinates":[-74.28673000000001,18.48392],"type":"Point"}
+}

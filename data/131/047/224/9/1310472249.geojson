@@ -1,0 +1,71 @@
+{
+  "id": 1310472249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.46682,18.51398,-73.46682,18.51398",
+    "geom:latitude":18.51398,
+    "geom:longitude":-73.46682,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Ravine Mamzelle",
+    "gn:country_code":"HT",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718146,
+    "gn:latitude":18.51398,
+    "gn:longitude":-73.46682,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ravine Mamzelle",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ravine Mamzelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718146
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1b96ececa27d01da2e548035459d4c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1310472249,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310472249,
+    "wof:lastmodified":1537625995,
+    "wof:name":"Ravine Mamzelle",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.46682,
+    18.51398,
+    -73.46682,
+    18.51398
+],
+  "geometry": {"coordinates":[-73.46682,18.51398],"type":"Point"}
+}

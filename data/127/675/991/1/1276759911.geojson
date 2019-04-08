@@ -1,0 +1,71 @@
+{
+  "id": 1276759911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.58452,19.04076,-72.58452,19.04076",
+    "geom:latitude":19.04076,
+    "geom:longitude":-72.58452,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Popotte",
+    "gn:country_code":"HT",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718448,
+    "gn:latitude":19.04076,
+    "gn:longitude":-72.58452,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Popotte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Popotte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718448
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"336bdf7609487a2da6212be74fb0c072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1276759911,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276759911,
+    "wof:lastmodified":1537625998,
+    "wof:name":"Popotte",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.58452,
+    19.04076,
+    -72.58452,
+    19.04076
+],
+  "geometry": {"coordinates":[-72.58452,19.04076],"type":"Point"}
+}

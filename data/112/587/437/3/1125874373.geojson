@@ -1,0 +1,109 @@
+{
+  "id": 1125874373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.41667,18.56667,-74.41667,18.56667",
+    "geom:latitude":18.56667,
+    "geom:longitude":-74.41667,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6036,
+    "gn:population":6036,
+    "iso:country":"HT",
+    "lbl:latitude":18.56667,
+    "lbl:longitude":-74.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0645 \u0645\u0627\u0631\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Dame-Marie"
+    ],
+    "name:eng_x_preferred":[
+        "Dame-Marie"
+    ],
+    "name:fre_x_preferred":[
+        "Dame-Marie"
+    ],
+    "name:hat_x_preferred":[
+        "Dam Mari"
+    ],
+    "name:ita_x_preferred":[
+        "Dame-Marie"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30e0\u30fb\u30de\u30ea\u30fc"
+    ],
+    "name:por_x_preferred":[
+        "Dame-Marie"
+    ],
+    "name:rum_x_preferred":[
+        "Dame-Marie"
+    ],
+    "name:unk_x_variant":[
+        "Ville de Dame Marie"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3727055,
+    "qs_pg:gn_pop":6036,
+    "qs_pg:name":"Dame-Marie",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":150270,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671933,
+        1091686011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727055,
+        "qs_pg:id":150270,
+        "wd:id":"Q599041"
+    },
+    "wof:country":"HT",
+    "wof:created":1497294465,
+    "wof:geomhash":"2dedf9f0239ab3153c5cd8bc064ae7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686011,
+            "locality_id":1125874373,
+            "region_id":85671933
+        }
+    ],
+    "wof:id":1125874373,
+    "wof:lastmodified":1514447774,
+    "wof:name":"Dame-Marie",
+    "wof:parent_id":1091686011,
+    "wof:placetype":"locality",
+    "wof:population":6036,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.41667,
+    18.56667,
+    -74.41667,
+    18.56667
+],
+  "geometry": {"coordinates":[-74.41667,18.56667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226826181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.83713,18.14728,-73.83713,18.14728",
+    "geom:latitude":18.14728,
+    "geom:longitude":-73.83713,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Houck",
+    "gn:country_code":"HT",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723827,
+    "gn:latitude":18.14728,
+    "gn:longitude":-73.83713,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Houck",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Houck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723827
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"aed26a252e16af6cf8427473ec912829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1226826181,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1226826181,
+    "wof:lastmodified":1537626068,
+    "wof:name":"Houck",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.83713,
+    18.14728,
+    -73.83713,
+    18.14728
+],
+  "geometry": {"coordinates":[-73.83713,18.14728],"type":"Point"}
+}

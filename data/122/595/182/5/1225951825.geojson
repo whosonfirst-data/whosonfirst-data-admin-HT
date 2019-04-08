@@ -1,0 +1,68 @@
+{
+  "id": 1225951825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.23306,19.86389,-73.23306,19.86389",
+    "geom:latitude":19.86389,
+    "geom:longitude":-73.23306,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Corosol",
+    "gn:country_code":"HT",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727319,
+    "gn:latitude":19.86389,
+    "gn:longitude":-73.23306,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Corosol",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727319
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"42d1b01efbed92653430b84d319cea0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1225951825,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1225951825,
+    "wof:lastmodified":1536859142,
+    "wof:name":"Corosol",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.23306,
+    19.86389,
+    -73.23306,
+    19.86389
+],
+  "geometry": {"coordinates":[-73.23305999999999,19.86389],"type":"Point"}
+}

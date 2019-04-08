@@ -1,0 +1,67 @@
+{
+  "id": 1259863971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.1,19.56667,-72.1,19.56667",
+    "geom:latitude":19.56667,
+    "geom:longitude":-72.1,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Marecage",
+    "gn:country_code":"HT",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721460,
+    "gn:latitude":19.56667,
+    "gn:longitude":-72.1,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Mar\u00e9cage",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721460
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e62e6b18e67151ca5b838b966c8db465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1259863971,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1259863971,
+    "wof:lastmodified":1536807050,
+    "wof:name":"Marecage",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.1,
+    19.56667,
+    -72.1,
+    19.56667
+],
+  "geometry": {"coordinates":[-72.09999999999999,19.56667],"type":"Point"}
+}

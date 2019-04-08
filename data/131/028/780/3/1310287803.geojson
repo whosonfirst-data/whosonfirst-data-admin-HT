@@ -1,0 +1,73 @@
+{
+  "id": 1310287803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.52471,18.37258,-73.52471,18.37258",
+    "geom:latitude":18.37258,
+    "geom:longitude":-73.52471,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Changieux",
+    "gn:country_code":"HT",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727947,
+    "gn:latitude":18.37258,
+    "gn:longitude":-73.52471,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Changieux",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changeux",
+        "Changier",
+        "Changieux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727947
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ab326dfd5c9e2b2eb28999b7b3896305",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1310287803,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1310287803,
+    "wof:lastmodified":1537626118,
+    "wof:name":"Changieux",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.52471,
+    18.37258,
+    -73.52471,
+    18.37258
+],
+  "geometry": {"coordinates":[-73.52471,18.37258],"type":"Point"}
+}

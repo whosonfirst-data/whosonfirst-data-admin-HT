@@ -1,0 +1,71 @@
+{
+  "id": 1343531735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.53606,18.51093,-73.53606,18.51093",
+    "geom:latitude":18.51093,
+    "geom:longitude":-73.53606,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Picoulet",
+    "gn:country_code":"HT",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718880,
+    "gn:latitude":18.51093,
+    "gn:longitude":-73.53606,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Picoulet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Picoulet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091687241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718880
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"a97f4e0623dcc3d2df082c3043699bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687241,
+            "locality_id":1343531735,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1343531735,
+    "wof:lastmodified":1537626004,
+    "wof:name":"Picoulet",
+    "wof:parent_id":1091687241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.53605999999998,
+    18.51093,
+    -73.53605999999998,
+    18.51093
+],
+  "geometry": {"coordinates":[-73.53605999999998,18.51093],"type":"Point"}
+}

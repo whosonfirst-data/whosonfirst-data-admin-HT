@@ -1,0 +1,68 @@
+{
+  "id": 1243552009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28333,18.93333,-72.28333,18.93333",
+    "geom:latitude":18.93333,
+    "geom:longitude":-72.28333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3726539.0",
+    "gn:asciiname":"Guepin",
+    "gn:country_code":"HT",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724077,
+    "gn:latitude":18.93333,
+    "gn:longitude":-72.28333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Gu\u00e9pin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724077
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"7931410089f69e1c43baf880247d4e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687127,
+            "locality_id":1243552009,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1243552009,
+    "wof:lastmodified":1536653358,
+    "wof:name":"Guepin",
+    "wof:parent_id":1091687127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28333,
+    18.93333,
+    -72.28333,
+    18.93333
+],
+  "geometry": {"coordinates":[-72.28333000000001,18.93333],"type":"Point"}
+}

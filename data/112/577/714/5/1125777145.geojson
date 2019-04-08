@@ -1,0 +1,118 @@
+{
+  "id": 1125777145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.85694,18.39139,-71.85694,18.39139",
+    "geom:latitude":18.39139,
+    "geom:longitude":-71.85694,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2789,
+    "gn:population":2789,
+    "iso:country":"HT",
+    "lbl:latitude":18.39139,
+    "lbl:longitude":-71.85694,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0641\u0648\u0646\u062f\u0633 \u0641\u064a\u0631\u064a\u062a\u064a\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:eng_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:fra_x_preferred":[
+        "Fonds Verrettes"
+    ],
+    "name:fre_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:hat_x_preferred":[
+        "Fon V\u00e8r\u00e8t"
+    ],
+    "name:ita_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:nob_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:por_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:rum_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:spa_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:swe_x_preferred":[
+        "Fond Verrettes"
+    ],
+    "name:unk_x_variant":[
+        "Fonds Verettes"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3725222,
+    "qs_pg:gn_pop":2789,
+    "qs_pg:name":"Fond Verrettes",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":1046672,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725222,
+        "qs_pg:id":1046672,
+        "wd:id":"Q2711238"
+    },
+    "wof:country":"HT",
+    "wof:created":1497290312,
+    "wof:geomhash":"fd5e281d6c8bb08d45ecc88aa1486a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1125777145,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1125777145,
+    "wof:lastmodified":1553816527,
+    "wof:name":"Fond Verrettes",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:population":2789,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85694,
+    18.39139,
+    -71.85694,
+    18.39139
+],
+  "geometry": {"coordinates":[-71.85693999999999,18.39139],"type":"Point"}
+}

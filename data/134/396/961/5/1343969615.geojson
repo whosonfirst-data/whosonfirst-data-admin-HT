@@ -1,0 +1,71 @@
+{
+  "id": 1343969615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.12366,19.80419,-73.12366,19.80419",
+    "geom:latitude":19.80419,
+    "geom:longitude":-73.12366,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3720764.0",
+    "gn:asciiname":"Pividi",
+    "gn:country_code":"HT",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718748,
+    "gn:latitude":19.80419,
+    "gn:longitude":-73.12366,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Pividi",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pividi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718748
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b39ce7ad1f83ea6af3c9a87e21e12139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1343969615,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1343969615,
+    "wof:lastmodified":1537626002,
+    "wof:name":"Pividi",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.12366,
+    19.80419,
+    -73.12366,
+    19.80419
+],
+  "geometry": {"coordinates":[-73.12366,19.80419],"type":"Point"}
+}

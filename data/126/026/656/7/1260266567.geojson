@@ -1,0 +1,71 @@
+{
+  "id": 1260266567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.83499,19.53308,-71.83499,19.53308",
+    "geom:latitude":19.53308,
+    "geom:longitude":-71.83499,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Desmoulins",
+    "gn:country_code":"HT",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726589,
+    "gn:latitude":19.53308,
+    "gn:longitude":-71.83499,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Desmoulins",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Desmoulins"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091686227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726589
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2f01ec8e6a510fc70c12ef19c895d2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686227,
+            "locality_id":1260266567,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1260266567,
+    "wof:lastmodified":1537626101,
+    "wof:name":"Desmoulins",
+    "wof:parent_id":1091686227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.83499,
+    19.53308,
+    -71.83499,
+    19.53308
+],
+  "geometry": {"coordinates":[-71.83499,19.53308],"type":"Point"}
+}

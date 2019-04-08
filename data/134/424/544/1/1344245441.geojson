@@ -1,0 +1,71 @@
+{
+  "id": 1344245441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.57874,18.93987,-72.57874,18.93987",
+    "geom:latitude":18.93987,
+    "geom:longitude":-72.57874,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3731086.0",
+    "gn:asciiname":"Docot",
+    "gn:country_code":"HT",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726316,
+    "gn:latitude":18.93987,
+    "gn:longitude":-72.57874,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Docot",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Docot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726316
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b99dee895745ad4685f66154bed11218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686327,
+            "locality_id":1344245441,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1344245441,
+    "wof:lastmodified":1537626098,
+    "wof:name":"Docot",
+    "wof:parent_id":1091686327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.57874,
+    18.93987000000001,
+    -72.57874,
+    18.93987000000001
+],
+  "geometry": {"coordinates":[-72.57874,18.93987000000001],"type":"Point"}
+}

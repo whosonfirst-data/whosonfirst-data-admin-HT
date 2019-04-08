@@ -1,0 +1,67 @@
+{
+  "id": 1193148791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.81667,19.71667,-72.81667,19.71667",
+    "geom:latitude":19.71667,
+    "geom:longitude":-72.81667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bas La Source",
+    "gn:country_code":"HT",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730678,
+    "gn:latitude":19.71667,
+    "gn:longitude":-72.81667,
+    "gn:modification_date":"1993-10-14",
+    "gn:name":"Bas La Source",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730678
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"724b33999e04a222ec4ef6cb632b0752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1193148791,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1193148791,
+    "wof:lastmodified":1536380519,
+    "wof:name":"Bas La Source",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.81667,
+    19.71667,
+    -72.81667,
+    19.71667
+],
+  "geometry": {"coordinates":[-72.81667,19.71667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243538449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.93083,19.3358,-71.93083,19.3358",
+    "geom:latitude":19.3358,
+    "geom:longitude":-71.93083,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716114.0",
+    "gn:asciiname":"Lalia",
+    "gn:country_code":"HT",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3722905,
+    "gn:latitude":19.3358,
+    "gn:longitude":-71.93083,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Lalia",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3722905
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f6365d1b5c247c3e870bce1db9a2dd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687119,
+            "locality_id":1243538449,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1243538449,
+    "wof:lastmodified":1537626056,
+    "wof:name":"Lalia",
+    "wof:parent_id":1091687119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.93083,
+    19.3358,
+    -71.93083,
+    19.3358
+],
+  "geometry": {"coordinates":[-71.93083,19.3358],"type":"Point"}
+}

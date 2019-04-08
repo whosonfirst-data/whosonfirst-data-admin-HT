@@ -1,0 +1,68 @@
+{
+  "id": 1243546949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.63333,19.58333,-72.63333,19.58333",
+    "geom:latitude":19.58333,
+    "geom:longitude":-72.63333,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724695.0",
+    "gn:asciiname":"Morne Bongnin",
+    "gn:country_code":"HT",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720572,
+    "gn:latitude":19.58333,
+    "gn:longitude":-72.63333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Morne Bongnin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091687025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720572
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6add7f5e7e7a3ecb28391462c7f71031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687025,
+            "locality_id":1243546949,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1243546949,
+    "wof:lastmodified":1536660785,
+    "wof:name":"Morne Bongnin",
+    "wof:parent_id":1091687025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.63333,
+    19.58333,
+    -72.63333,
+    19.58333
+],
+  "geometry": {"coordinates":[-72.63333,19.58333],"type":"Point"}
+}

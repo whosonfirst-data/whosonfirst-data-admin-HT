@@ -1,0 +1,68 @@
+{
+  "id": 1259969545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.15,19.35,-72.15,19.35",
+    "geom:latitude":19.35,
+    "geom:longitude":-72.15,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3717545.0",
+    "gn:asciiname":"Ravine Tache",
+    "gn:country_code":"HT",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718133,
+    "gn:latitude":19.35,
+    "gn:longitude":-72.15,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ravine Tache",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718133
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9d860343868954dbf3e83beb524aae7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686137,
+            "locality_id":1259969545,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1259969545,
+    "wof:lastmodified":1536655262,
+    "wof:name":"Ravine Tache",
+    "wof:parent_id":1091686137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.15,
+    19.35,
+    -72.15,
+    19.35
+],
+  "geometry": {"coordinates":[-72.15000000000001,19.35],"type":"Point"}
+}

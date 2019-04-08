@@ -1,0 +1,73 @@
+{
+  "id": 1259773255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.22917,19.66944,-72.22917,19.66944",
+    "geom:latitude":19.66944,
+    "geom:longitude":-72.22917,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232.0",
+    "gn:asciiname":"Montalibord",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720693,
+    "gn:latitude":19.66944,
+    "gn:longitude":-72.22917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Montalibord",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Montalbord",
+        "Montalibord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720693
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ff6043efbff13cfd4b7c86c1ff6f3822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686325,
+            "locality_id":1259773255,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1259773255,
+    "wof:lastmodified":1537626026,
+    "wof:name":"Montalibord",
+    "wof:parent_id":1091686325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.22917,
+    19.66944,
+    -72.22917,
+    19.66944
+],
+  "geometry": {"coordinates":[-72.22917,19.66944],"type":"Point"}
+}

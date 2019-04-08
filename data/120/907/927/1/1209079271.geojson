@@ -1,0 +1,65 @@
+{
+  "id": 1209079271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.50196,18.35694,-73.50196,18.35694",
+    "geom:latitude":18.35694,
+    "geom:longitude":-73.50196,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Nan Colas",
+    "gn:country_code":"HT",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720191,
+    "gn:latitude":18.35694,
+    "gn:longitude":-73.50196,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nan Colas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nan Colas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720191
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"4b7750b7e34c8d0951489d9070486319",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209079271
+        }
+    ],
+    "wof:id":1209079271,
+    "wof:lastmodified":1537626021,
+    "wof:name":"Nan Colas",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.50196,
+    18.35694,
+    -73.50196,
+    18.35694
+],
+  "geometry": {"coordinates":[-73.50196,18.35694],"type":"Point"}
+}

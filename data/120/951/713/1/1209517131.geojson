@@ -1,0 +1,65 @@
+{
+  "id": 1209517131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.8053,19.90583,-72.8053,19.90583",
+    "geom:latitude":19.90583,
+    "geom:longitude":-72.8053,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Ca China",
+    "gn:country_code":"HT",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728890,
+    "gn:latitude":19.90583,
+    "gn:longitude":-72.8053,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Ca China",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ca China"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728890
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"e5fd5a8d210be022cbb289a2132d0b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209517131
+        }
+    ],
+    "wof:id":1209517131,
+    "wof:lastmodified":1537626132,
+    "wof:name":"Ca China",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.8053,
+    19.90583,
+    -72.8053,
+    19.90583
+],
+  "geometry": {"coordinates":[-72.8053,19.90583],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277154341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.0346,18.27217,-74.0346,18.27217",
+    "geom:latitude":18.27217,
+    "geom:longitude":-74.0346,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727295.0",
+    "gn:asciiname":"Depas",
+    "gn:country_code":"HT",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726735,
+    "gn:latitude":18.27217,
+    "gn:longitude":-74.0346,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"D\u00e9pas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Despas"
+    ],
+    "name:und_x_variant":[
+        "5\u00e8me Section Despas",
+        "D\u00e9pas",
+        "Cinqui\u00e8me Section Despas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726735
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0c66a9e8ed76f22abd846f42ef5f914d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686543,
+            "locality_id":1277154341,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1277154341,
+    "wof:lastmodified":1537626103,
+    "wof:name":"Depas",
+    "wof:parent_id":1091686543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.0346,
+    18.27217000000001,
+    -74.0346,
+    18.27217000000001
+],
+  "geometry": {"coordinates":[-74.0346,18.27217000000001],"type":"Point"}
+}

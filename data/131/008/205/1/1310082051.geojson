@@ -1,0 +1,72 @@
+{
+  "id": 1310082051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.75,18.31667,-71.75,18.31667",
+    "geom:latitude":18.31667,
+    "geom:longitude":-71.75,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Boucan Chatte",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":1696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729388,
+    "gn:latitude":18.31667,
+    "gn:longitude":-71.75,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Boucan Chatte",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boucan",
+        "Boucan Chatte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729388
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d603f2e60d30662e574c8834c9fbad1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1310082051,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310082051,
+    "wof:lastmodified":1537626137,
+    "wof:name":"Boucan Chatte",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.75,
+    18.31667,
+    -71.75,
+    18.31667
+],
+  "geometry": {"coordinates":[-71.75,18.31667],"type":"Point"}
+}

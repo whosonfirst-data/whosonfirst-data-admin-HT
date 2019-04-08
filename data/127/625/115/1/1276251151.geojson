@@ -1,0 +1,70 @@
+{
+  "id": 1276251151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.65948,19.05571,-72.65948,19.05571",
+    "geom:latitude":19.05571,
+    "geom:longitude":-72.65948,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Modelle",
+    "gn:country_code":"HT",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11535423,
+    "gn:latitude":19.05571,
+    "gn:longitude":-72.65948,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Modelle",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Modelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11535423
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"f0ca88e562ab08c9d8a173b7bb592cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1276251151,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276251151,
+    "wof:lastmodified":1537626162,
+    "wof:name":"Modelle",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.65948,
+    19.05571,
+    -72.65948,
+    19.05571
+],
+  "geometry": {"coordinates":[-72.65948,19.05571],"type":"Point"}
+}

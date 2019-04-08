@@ -1,0 +1,71 @@
+{
+  "id": 1243063009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.95273,19.58435,-71.95273,19.58435",
+    "geom:latitude":19.58435,
+    "geom:longitude":-71.95273,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3716223.0",
+    "gn:asciiname":"Michel",
+    "gn:country_code":"HT",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720899,
+    "gn:latitude":19.58435,
+    "gn:longitude":-71.95273,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Michel",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Michel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671957,
+        1091687099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720899
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"6f5354fe1e695d42a5622ba6dbd6a854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687099,
+            "locality_id":1243063009,
+            "region_id":85671957
+        }
+    ],
+    "wof:id":1243063009,
+    "wof:lastmodified":1537626028,
+    "wof:name":"Michel",
+    "wof:parent_id":1091687099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.95273,
+    19.58435,
+    -71.95273,
+    19.58435
+],
+  "geometry": {"coordinates":[-71.95273,19.58435],"type":"Point"}
+}

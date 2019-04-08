@@ -1,0 +1,70 @@
+{
+  "id": 1193257681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.93015,18.19464,-72.93015,18.19464",
+    "geom:latitude":18.19464,
+    "geom:longitude":-72.93015,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Trou Coucou",
+    "gn:country_code":"HT",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716244,
+    "gn:latitude":18.19464,
+    "gn:longitude":-72.93015,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Trou Coucou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Trou Coucou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716244
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"576f0f07f14d44b6efcce81d3b0f5409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1193257681,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1193257681,
+    "wof:lastmodified":1537625973,
+    "wof:name":"Trou Coucou",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93015,
+    18.19464,
+    -72.93015,
+    18.19464
+],
+  "geometry": {"coordinates":[-72.93015,18.19464],"type":"Point"}
+}

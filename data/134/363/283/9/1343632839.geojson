@@ -1,0 +1,71 @@
+{
+  "id": 1343632839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76742,18.10783,-71.76742,18.10783",
+    "geom:latitude":18.10783,
+    "geom:longitude":-71.76742,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Barbe Pangnol",
+    "gn:country_code":"HT",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730782,
+    "gn:latitude":18.10783,
+    "gn:longitude":-71.76742,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Barbe Pangnol",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Barbe Pangnole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730782
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5ce5e238b2a51b612393be86de09cc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1343632839,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1343632839,
+    "wof:lastmodified":1537626154,
+    "wof:name":"Barbe Pangnol",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76742,
+    18.10783,
+    -71.76742,
+    18.10783
+],
+  "geometry": {"coordinates":[-71.76742,18.10783],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259570131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.36667,18.33333,-73.36667,18.33333",
+    "geom:latitude":18.33333,
+    "geom:longitude":-73.36667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094.0",
+    "gn:asciiname":"Joliette",
+    "gn:country_code":"HT",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723556,
+    "gn:latitude":18.33333,
+    "gn:longitude":-73.36667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Joliette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723556
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ac19770c35e8190ff20eccea81a65661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1259570131,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1259570131,
+    "wof:lastmodified":1536734303,
+    "wof:name":"Joliette",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.36667,
+    18.33333,
+    -73.36667,
+    18.33333
+],
+  "geometry": {"coordinates":[-73.36667,18.33333],"type":"Point"}
+}

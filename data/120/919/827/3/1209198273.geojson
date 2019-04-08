@@ -1,0 +1,62 @@
+{
+  "id": 1209198273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76667,19.61667,-71.76667,19.61667",
+    "geom:latitude":19.61667,
+    "geom:longitude":-71.76667,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3725169.0",
+    "gn:asciiname":"Blond",
+    "gn:country_code":"HT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729960,
+    "gn:latitude":19.61667,
+    "gn:longitude":-71.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Blond",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729960
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"96640d3cb28468aad60d7f31ce8aa287",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209198273
+        }
+    ],
+    "wof:id":1209198273,
+    "wof:lastmodified":1536294699,
+    "wof:name":"Blond",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76666999999998,
+    19.616670000000006,
+    -71.76666999999998,
+    19.616670000000006
+],
+  "geometry": {"coordinates":[-71.76666999999998,19.61667000000001],"type":"Point"}
+}

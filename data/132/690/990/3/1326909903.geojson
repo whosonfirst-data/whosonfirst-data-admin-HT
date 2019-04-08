@@ -1,0 +1,68 @@
+{
+  "id": 1326909903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.76667,18.23333,-71.76667,18.23333",
+    "geom:latitude":18.23333,
+    "geom:longitude":-71.76667,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730361.0",
+    "gn:asciiname":"Ti Simbi",
+    "gn:country_code":"HT",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3716454,
+    "gn:latitude":18.23333,
+    "gn:longitude":-71.76667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ti Simbi",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3716454
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"58f74fbb76af042e958ed3ec2f45ec3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686107,
+            "locality_id":1326909903,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1326909903,
+    "wof:lastmodified":1536937778,
+    "wof:name":"Ti Simbi",
+    "wof:parent_id":1091686107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.76666999999998,
+    18.23333,
+    -71.76666999999998,
+    18.23333
+],
+  "geometry": {"coordinates":[-71.76666999999998,18.23333],"type":"Point"}
+}

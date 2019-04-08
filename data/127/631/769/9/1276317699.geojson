@@ -1,0 +1,68 @@
+{
+  "id": 1276317699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.07583,19.68222,-72.07583,19.68222",
+    "geom:latitude":19.68222,
+    "geom:longitude":-72.07583,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3728473.0",
+    "gn:asciiname":"Conodi",
+    "gn:country_code":"HT",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727461,
+    "gn:latitude":19.68222,
+    "gn:longitude":-72.07583,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Conodi",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091686431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727461
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2cd6b6ab03920921ccd5f75a7b088b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686431,
+            "locality_id":1276317699,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1276317699,
+    "wof:lastmodified":1536799762,
+    "wof:name":"Conodi",
+    "wof:parent_id":1091686431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.07583000000002,
+    19.68222,
+    -72.07583000000002,
+    19.68222
+],
+  "geometry": {"coordinates":[-72.07583000000002,19.68222],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209496341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.33333,18.41667,-72.33333,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-72.33333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Madou",
+    "gn:country_code":"HT",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3721817,
+    "gn:latitude":18.41667,
+    "gn:longitude":-72.33333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Madou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721817
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ef9f1c1648427131798e5333874d8271",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209496341
+        }
+    ],
+    "wof:id":1209496341,
+    "wof:lastmodified":1536285323,
+    "wof:name":"Madou",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.33333,
+    18.41667,
+    -72.33333,
+    18.41667
+],
+  "geometry": {"coordinates":[-72.33333,18.41667],"type":"Point"}
+}

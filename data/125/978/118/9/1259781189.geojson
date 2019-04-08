@@ -1,0 +1,71 @@
+{
+  "id": 1259781189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.74467,19.69219,-72.74467,19.69219",
+    "geom:latitude":19.69219,
+    "geom:longitude":-72.74467,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3724144.0",
+    "gn:asciiname":"Dupuy",
+    "gn:country_code":"HT",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3725841,
+    "gn:latitude":19.69219,
+    "gn:longitude":-72.74467,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Dupuy",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dupuy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3725841
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2e568a4ef69d4d4b4648e5643fb9a290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686981,
+            "locality_id":1259781189,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1259781189,
+    "wof:lastmodified":1537626092,
+    "wof:name":"Dupuy",
+    "wof:parent_id":1091686981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.74467,
+    19.69219,
+    -72.74467,
+    19.69219
+],
+  "geometry": {"coordinates":[-72.74467,19.69219],"type":"Point"}
+}

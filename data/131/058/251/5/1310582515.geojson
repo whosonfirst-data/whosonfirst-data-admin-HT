@@ -1,0 +1,68 @@
+{
+  "id": 1310582515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.24806,18.51306,-72.24806,18.51306",
+    "geom:latitude":18.51306,
+    "geom:longitude":-72.24806,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Metivier",
+    "gn:country_code":"HT",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720928,
+    "gn:latitude":18.51306,
+    "gn:longitude":-72.24806,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"M\u00e9tivier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720928
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"22bb15ff4419b90f196ceca593588379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1310582515,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1310582515,
+    "wof:lastmodified":1536805732,
+    "wof:name":"Metivier",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.24806,
+    18.51306,
+    -72.24806,
+    18.51306
+],
+  "geometry": {"coordinates":[-72.24806,18.51306],"type":"Point"}
+}

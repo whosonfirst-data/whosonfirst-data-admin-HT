@@ -1,0 +1,65 @@
+{
+  "id": 1209212623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.47331,19.01098,-72.47331,19.01098",
+    "geom:latitude":19.01098,
+    "geom:longitude":-72.47331,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Calas",
+    "gn:country_code":"HT",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728700,
+    "gn:latitude":19.01098,
+    "gn:longitude":-72.47331,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Calas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Calas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728700
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"b390b3ff1ea8b6b27460c5262eaf1d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209212623
+        }
+    ],
+    "wof:id":1209212623,
+    "wof:lastmodified":1537626128,
+    "wof:name":"Calas",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.47331,
+    19.01098,
+    -72.47331,
+    19.01098
+],
+  "geometry": {"coordinates":[-72.47331,19.01098],"type":"Point"}
+}

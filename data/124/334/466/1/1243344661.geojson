@@ -1,0 +1,68 @@
+{
+  "id": 1243344661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31667,18.73333,-72.31667,18.73333",
+    "geom:latitude":18.73333,
+    "geom:longitude":-72.31667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Douge",
+    "gn:country_code":"HT",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3726134,
+    "gn:latitude":18.73333,
+    "gn:longitude":-72.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Doug\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091687379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3726134
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2f8a8f667d14a56e3334320444c7f1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687379,
+            "locality_id":1243344661,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1243344661,
+    "wof:lastmodified":1536952492,
+    "wof:name":"Douge",
+    "wof:parent_id":1091687379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31667,
+    18.73333,
+    -72.31667,
+    18.73333
+],
+  "geometry": {"coordinates":[-72.31667,18.73333],"type":"Point"}
+}

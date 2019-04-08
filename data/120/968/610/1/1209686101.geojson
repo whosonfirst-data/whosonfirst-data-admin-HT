@@ -1,0 +1,65 @@
+{
+  "id": 1209686101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.33836,18.42521,-73.33836,18.42521",
+    "geom:latitude":18.42521,
+    "geom:longitude":-73.33836,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"3731122.0",
+    "gn:asciiname":"Baquet",
+    "gn:country_code":"HT",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730806,
+    "gn:latitude":18.42521,
+    "gn:longitude":-73.33836,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Baquet",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Baquet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730806
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"75095d3e941401f7f969a0efcdf62f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209686101
+        }
+    ],
+    "wof:id":1209686101,
+    "wof:lastmodified":1537626154,
+    "wof:name":"Baquet",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.33836,
+    18.42521,
+    -73.33836,
+    18.42521
+],
+  "geometry": {"coordinates":[-73.33835999999999,18.42521],"type":"Point"}
+}

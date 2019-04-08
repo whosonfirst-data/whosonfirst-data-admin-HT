@@ -1,0 +1,71 @@
+{
+  "id": 1310300039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.41073,19.76857,-72.41073,19.76857",
+    "geom:latitude":19.76857,
+    "geom:longitude":-72.41073,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3722122.0",
+    "gn:asciiname":"Bois d'Eau",
+    "gn:country_code":"HT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729826,
+    "gn:latitude":19.76857,
+    "gn:longitude":-72.41073,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Bois d\u2019Eau",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois d\u2019Eau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091687057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729826
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"62a977436dbd2030d19b4302d1fd14b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687057,
+            "locality_id":1310300039,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1310300039,
+    "wof:lastmodified":1537626142,
+    "wof:name":"Bois d'Eau",
+    "wof:parent_id":1091687057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.41073,
+    19.76857,
+    -72.41073,
+    19.76857
+],
+  "geometry": {"coordinates":[-72.41073,19.76857],"type":"Point"}
+}

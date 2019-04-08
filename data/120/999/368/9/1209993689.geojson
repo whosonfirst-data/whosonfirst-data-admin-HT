@@ -1,0 +1,68 @@
+{
+  "id": 1209993689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.03333,18.28333,-74.03333,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-74.03333,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727295.0",
+    "gn:asciiname":"Ouache",
+    "gn:country_code":"HT",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719440,
+    "gn:latitude":18.28333,
+    "gn:longitude":-74.03333,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Ouache",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719440
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"c513cf5ebd70f4024b9f9b40517a465d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686543,
+            "locality_id":1209993689,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1209993689,
+    "wof:lastmodified":1536385258,
+    "wof:name":"Ouache",
+    "wof:parent_id":1091686543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.03333,
+    18.28333,
+    -74.03333,
+    18.28333
+],
+  "geometry": {"coordinates":[-74.03333000000001,18.28333],"type":"Point"}
+}

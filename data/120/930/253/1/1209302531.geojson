@@ -1,0 +1,68 @@
+{
+  "id": 1209302531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25944,18.64556,-72.25944,18.64556",
+    "geom:latitude":18.64556,
+    "geom:longitude":-72.25944,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3727134.0",
+    "gn:asciiname":"Hatte Lathan",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723946,
+    "gn:latitude":18.64556,
+    "gn:longitude":-72.25944,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Hatte Lathan",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatte Lathan Balan",
+        "Hatte Lathan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723946,
+        "wk:page":"Hatte_Lathan"
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"5ce0f5ecc0041c96c24b00a28d24b1c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209302531
+        }
+    ],
+    "wof:id":1209302531,
+    "wof:lastmodified":1537626070,
+    "wof:name":"Hatte Lathan",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25944,
+    18.64556,
+    -72.25944,
+    18.64556
+],
+  "geometry": {"coordinates":[-72.25944,18.64556],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293294779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.77076,20.06613,-72.77076,20.06613",
+    "geom:latitude":20.06613,
+    "geom:longitude":-72.77076,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Clair Messine",
+    "gn:country_code":"HT",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727645,
+    "gn:latitude":20.06613,
+    "gn:longitude":-72.77076,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Clair Messine",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Clair Messine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727645
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1c7729c7ca3daf7882f0a4e42ac383e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1293294779,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1293294779,
+    "wof:lastmodified":1537626114,
+    "wof:name":"Clair Messine",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.77076,
+    20.06613,
+    -72.77076,
+    20.06613
+],
+  "geometry": {"coordinates":[-72.77076,20.06613],"type":"Point"}
+}

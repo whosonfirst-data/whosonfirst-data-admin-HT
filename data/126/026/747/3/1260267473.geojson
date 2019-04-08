@@ -1,0 +1,71 @@
+{
+  "id": 1260267473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.38054,19.781,-72.38054,19.781",
+    "geom:latitude":19.781,
+    "geom:longitude":-72.38054,
+    "gn:admin1_code":"9.0",
+    "gn:admin2_code":"3731232",
+    "gn:asciiname":"Antage",
+    "gn:country_code":"HT",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731103,
+    "gn:latitude":19.781,
+    "gn:longitude":-72.38054,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Antage",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lantage"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671961,
+        1091687057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731103
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d0f0a347d2e5e8d90f0e250d705827ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687057,
+            "locality_id":1260267473,
+            "region_id":85671961
+        }
+    ],
+    "wof:id":1260267473,
+    "wof:lastmodified":1537626158,
+    "wof:name":"Antage",
+    "wof:parent_id":1091687057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.38054,
+    19.781,
+    -72.38054,
+    19.781
+],
+  "geometry": {"coordinates":[-72.38054,19.781],"type":"Point"}
+}

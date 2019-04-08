@@ -1,0 +1,68 @@
+{
+  "id": 1309992887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-74.01667,18.21667,-74.01667,18.21667",
+    "geom:latitude":18.21667,
+    "geom:longitude":-74.01667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3727295.0",
+    "gn:asciiname":"Colas",
+    "gn:country_code":"HT",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3727564,
+    "gn:latitude":18.21667,
+    "gn:longitude":-74.01667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Colas",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3727564
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"1576da4e0e16f598e913926f2c3192ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686543,
+            "locality_id":1309992887,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1309992887,
+    "wof:lastmodified":1536661549,
+    "wof:name":"Colas",
+    "wof:parent_id":1091686543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -74.01666999999998,
+    18.21667,
+    -74.01666999999998,
+    18.21667
+],
+  "geometry": {"coordinates":[-74.01666999999998,18.21667],"type":"Point"}
+}

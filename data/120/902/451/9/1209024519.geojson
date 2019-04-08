@@ -1,0 +1,65 @@
+{
+  "id": 1209024519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.78545,19.39087,-71.78545,19.39087",
+    "geom:latitude":19.39087,
+    "geom:longitude":-71.78545,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"3719435.0",
+    "gn:asciiname":"Bernard",
+    "gn:country_code":"HT",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730151,
+    "gn:latitude":19.39087,
+    "gn:longitude":-71.78545,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Bernard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bernard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730151
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"04dd8c231d8670925fecdf5ddecb5c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209024519
+        }
+    ],
+    "wof:id":1209024519,
+    "wof:lastmodified":1537626147,
+    "wof:name":"Bernard",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.78545,
+    19.39087,
+    -71.78545,
+    19.39087
+],
+  "geometry": {"coordinates":[-71.78545,19.39087],"type":"Point"}
+}

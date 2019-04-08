@@ -1,0 +1,73 @@
+{
+  "id": 1293189099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.31667,18.6,-72.31667,18.6",
+    "geom:latitude":18.6,
+    "geom:longitude":-72.31667,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Blanchard",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3729985,
+    "gn:latitude":18.6,
+    "gn:longitude":-72.31667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Blanchard",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blancherd",
+        "Blanchard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3729985
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2fae27f2b992c212d3c4ad2d8328da58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1293189099,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1293189099,
+    "wof:lastmodified":1537626144,
+    "wof:name":"Blanchard",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.31667,
+    18.6,
+    -72.31667,
+    18.6
+],
+  "geometry": {"coordinates":[-72.31667,18.6],"type":"Point"}
+}

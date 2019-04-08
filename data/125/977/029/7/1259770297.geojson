@@ -1,0 +1,73 @@
+{
+  "id": 1259770297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.86667,18.25,-73.86667,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":-73.86667,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Regnier",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3718081,
+    "gn:latitude":18.25,
+    "gn:longitude":-73.86667,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"R\u00e9gnier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e9gner",
+        "R\u00e9gnier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3718081
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0a7a7afc4678cf2d8d98a2d6083fe4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1259770297,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1259770297,
+    "wof:lastmodified":1537625994,
+    "wof:name":"Regnier",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.86667,
+    18.25,
+    -73.86667,
+    18.25
+],
+  "geometry": {"coordinates":[-73.86667,18.25],"type":"Point"}
+}

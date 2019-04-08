@@ -1,0 +1,81 @@
+{
+  "id": 1125892855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.15444,19.62972,-73.15444,19.62972",
+    "geom:latitude":19.62972,
+    "geom:longitude":-73.15444,
+    "gn:gn_country":"HT",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1539,
+    "gn:population":1539,
+    "iso:country":"HT",
+    "lbl:latitude":19.62972,
+    "lbl:longitude":-73.15444,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:fra_x_preferred":[
+        "Petite Anse"
+    ],
+    "qs_pg:aaroncc":"HT",
+    "qs_pg:gn_country":"HT",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3719008,
+    "qs_pg:gn_pop":1539,
+    "qs_pg:name":"Petite Anse",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":1046652,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719008,
+        "qs_pg:id":1046652
+    },
+    "wof:country":"HT",
+    "wof:created":1497295403,
+    "wof:geomhash":"d0b0459fb92697e64187c62302b2438a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686921,
+            "locality_id":1125892855,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1125892855,
+    "wof:lastmodified":1509398907,
+    "wof:name":"Petite Anse",
+    "wof:parent_id":1091686921,
+    "wof:placetype":"locality",
+    "wof:population":1539,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15444,
+    19.62972,
+    -73.15444,
+    19.62972
+],
+  "geometry": {"coordinates":[-73.15443999999999,19.62972],"type":"Point"}
+}

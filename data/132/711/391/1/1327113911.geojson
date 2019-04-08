@@ -1,0 +1,68 @@
+{
+  "id": 1327113911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.73,18.23833,-72.73,18.23833",
+    "geom:latitude":18.23833,
+    "geom:longitude":-72.73,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"3730910.0",
+    "gn:asciiname":"Grandou",
+    "gn:country_code":"HT",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3724300,
+    "gn:latitude":18.23833,
+    "gn:longitude":-72.73,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Grandou",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671969,
+        1091686057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3724300
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"71dad0fdc1b15213b4ee01155c1883ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686057,
+            "locality_id":1327113911,
+            "region_id":85671969
+        }
+    ],
+    "wof:id":1327113911,
+    "wof:lastmodified":1536642067,
+    "wof:name":"Grandou",
+    "wof:parent_id":1091686057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.73,
+    18.23833,
+    -72.73,
+    18.23833
+],
+  "geometry": {"coordinates":[-72.73,18.23833],"type":"Point"}
+}

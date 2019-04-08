@@ -1,0 +1,71 @@
+{
+  "id": 1276755999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.03917,18.90333,-72.03917,18.90333",
+    "geom:latitude":18.90333,
+    "geom:longitude":-72.03917,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"3720809.0",
+    "gn:asciiname":"Peligre",
+    "gn:country_code":"HT",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3719127,
+    "gn:latitude":18.90333,
+    "gn:longitude":-72.03917,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"P\u00e9ligre",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00e9ligre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671955,
+        1091686673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3719127
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"d72ce3400f865a003e73bbfd161d1ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686673,
+            "locality_id":1276755999,
+            "region_id":85671955
+        }
+    ],
+    "wof:id":1276755999,
+    "wof:lastmodified":1537626007,
+    "wof:name":"Peligre",
+    "wof:parent_id":1091686673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.03917,
+    18.90333,
+    -72.03917,
+    18.90333
+],
+  "geometry": {"coordinates":[-72.03917,18.90333],"type":"Point"}
+}

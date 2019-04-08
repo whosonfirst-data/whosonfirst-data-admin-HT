@@ -1,0 +1,79 @@
+{
+  "id": 421169767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.29472,18.5725,-72.29472,18.5725",
+    "geom:latitude":18.5725,
+    "geom:longitude":-72.29472,
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Ma\u00efs G\u00e2t\u00e9"
+    ],
+    "qs:gn_country":"HT",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3721718,
+    "qs:gn_pop":0,
+    "qs:name":"Ma\u00efs G\u00e2t\u00e9",
+    "qs:name_adm0":"Ha\u00efti",
+    "qs:name_adm1":"Ouest",
+    "qs:photos":680,
+    "qs:photos_1k":138,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":680,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240936,
+    "qs:woe_adm0":23424839,
+    "qs:woe_id":93756,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3721718,
+        "gp:id":93756,
+        "qs:id":240936
+    },
+    "wof:country":"HT",
+    "wof:created":1459008823,
+    "wof:geomhash":"0701f4b1559a5d50f6739aa9cda62ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":421169767,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":421169767,
+    "wof:lastmodified":1501268802,
+    "wof:name":"Ma\u00efs G\u00e2t\u00e9",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.29472,
+    18.5725,
+    -72.29472,
+    18.5725
+],
+  "geometry": {"coordinates":[-72.29472,18.5725],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360065443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.5259,18.25077,-73.5259,18.25077",
+    "geom:latitude":18.25077,
+    "geom:longitude":-73.5259,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3731094",
+    "gn:asciiname":"Anglade",
+    "gn:country_code":"HT",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3731154,
+    "gn:latitude":18.25077,
+    "gn:longitude":-73.5259,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Anglade",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Anglade"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091687293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3731154
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"2015e1a086e38db5dd90bf4ef82f11ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091687293,
+            "locality_id":1360065443,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1360065443,
+    "wof:lastmodified":1537626159,
+    "wof:name":"Anglade",
+    "wof:parent_id":1091687293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.5259,
+    18.25077000000001,
+    -73.5259,
+    18.25077000000001
+],
+  "geometry": {"coordinates":[-73.52589999999999,18.25077000000001],"type":"Point"}
+}

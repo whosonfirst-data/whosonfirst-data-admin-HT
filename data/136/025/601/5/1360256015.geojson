@@ -1,0 +1,72 @@
+{
+  "id": 1360256015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.01667,18.25,-73.01667,18.25",
+    "geom:latitude":18.25,
+    "geom:longitude":-73.01667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Savane Henry",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717317,
+    "gn:latitude":18.25,
+    "gn:longitude":-73.01667,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Savane Henry",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Savane Henri",
+        "Savane Henry"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671937,
+        1091686629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717317
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"cbc0f77c2be533642328b8bb6060a6e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686629,
+            "locality_id":1360256015,
+            "region_id":85671937
+        }
+    ],
+    "wof:id":1360256015,
+    "wof:lastmodified":1537625986,
+    "wof:name":"Savane Henry",
+    "wof:parent_id":1091686629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.01666999999998,
+    18.25,
+    -73.01666999999998,
+    18.25
+],
+  "geometry": {"coordinates":[-73.01666999999998,18.25],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276896517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.39338,18.96075,-72.39338,18.96075",
+    "geom:latitude":18.96075,
+    "geom:longitude":-72.39338,
+    "gn:admin1_code":"6.0",
+    "gn:admin2_code":"3717587.0",
+    "gn:asciiname":"Janvier",
+    "gn:country_code":"HT",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3723716,
+    "gn:latitude":18.96075,
+    "gn:longitude":-72.39338,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Janvier",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Janvier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671949,
+        1091686855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3723716
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"20930abc0b4b6f5e682fcc3e05d7844f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686855,
+            "locality_id":1276896517,
+            "region_id":85671949
+        }
+    ],
+    "wof:id":1276896517,
+    "wof:lastmodified":1537626067,
+    "wof:name":"Janvier",
+    "wof:parent_id":1091686855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.39338000000002,
+    18.96075,
+    -72.39338000000002,
+    18.96075
+],
+  "geometry": {"coordinates":[-72.39338000000002,18.96075],"type":"Point"}
+}

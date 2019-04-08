@@ -1,0 +1,74 @@
+{
+  "id": 1344264419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.66178,20.01004,-72.66178,20.01004",
+    "geom:latitude":20.01004,
+    "geom:longitude":-72.66178,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"3718419.0",
+    "gn:asciiname":"Les Plaines",
+    "gn:country_code":"HT",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3730994,
+    "gn:latitude":20.01004,
+    "gn:longitude":-72.66178,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Les Plaines",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Plaines"
+    ],
+    "name:fra_x_variant":[
+        "Aux Plaines"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671941,
+        1091686781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3730994
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"ea9046ee7b40945bef0aba76285d7344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686781,
+            "locality_id":1344264419,
+            "region_id":85671941
+        }
+    ],
+    "wof:id":1344264419,
+    "wof:lastmodified":1537626157,
+    "wof:name":"Les Plaines",
+    "wof:parent_id":1091686781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.66178000000002,
+    20.01004,
+    -72.66178000000002,
+    20.01004
+],
+  "geometry": {"coordinates":[-72.66178000000002,20.01004],"type":"Point"}
+}

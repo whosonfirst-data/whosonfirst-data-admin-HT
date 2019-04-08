@@ -1,0 +1,73 @@
+{
+  "id": 1209997807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.25,18.45,-72.25,18.45",
+    "geom:latitude":18.45,
+    "geom:longitude":-72.25,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3718425.0",
+    "gn:asciiname":"Robin",
+    "gn:cc2":"HT",
+    "gn:country_code":"HT",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3717947,
+    "gn:latitude":18.45,
+    "gn:longitude":-72.25,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Robin",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grande Place Robin",
+        "Robin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671967,
+        1091686735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3717947
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"9d1020aa7d5ecfde1a4436a2b31ff3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686735,
+            "locality_id":1209997807,
+            "region_id":85671967
+        }
+    ],
+    "wof:id":1209997807,
+    "wof:lastmodified":1537625993,
+    "wof:name":"Robin",
+    "wof:parent_id":1091686735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.25,
+    18.45,
+    -72.25,
+    18.45
+],
+  "geometry": {"coordinates":[-72.25,18.45],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276313165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-73.88382,18.31714,-73.88382,18.31714",
+    "geom:latitude":18.31714,
+    "geom:longitude":-73.88382,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"3728096.0",
+    "gn:asciiname":"Cachette",
+    "gn:country_code":"HT",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3728900,
+    "gn:latitude":18.31714,
+    "gn:longitude":-73.88382,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Cachette",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gachette",
+        "Cachette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632433,
+        85671947,
+        1091686479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3728900
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"0505cd93e8941eeb62bfa3267fe2605e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632433,
+            "county_id":1091686479,
+            "locality_id":1276313165,
+            "region_id":85671947
+        }
+    ],
+    "wof:id":1276313165,
+    "wof:lastmodified":1537626132,
+    "wof:name":"Cachette",
+    "wof:parent_id":1091686479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.88382,
+    18.31714,
+    -73.88382,
+    18.31714
+],
+  "geometry": {"coordinates":[-73.88382,18.31714],"type":"Point"}
+}

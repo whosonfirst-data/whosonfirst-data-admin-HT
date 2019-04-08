@@ -1,0 +1,62 @@
+{
+  "id": 1209493459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.85,18.75,-72.85,18.75",
+    "geom:latitude":18.75,
+    "geom:longitude":-72.85,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"3723019.0",
+    "gn:asciiname":"Nan Duvers",
+    "gn:country_code":"HT",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3720106,
+    "gn:latitude":18.75,
+    "gn:longitude":-72.85,
+    "gn:modification_date":"2016-01-30",
+    "gn:name":"Nan Duvers",
+    "gn:population":0,
+    "gn:timezone":"America/Port-au-Prince",
+    "iso:country":"HT",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3720106
+    },
+    "wof:country":"HT",
+    "wof:geomhash":"60ad9708e0ec24fb6ed4b84496cba229",
+    "wof:hierarchy":[
+        {
+            "country_id":85632433,
+            "locality_id":1209493459
+        }
+    ],
+    "wof:id":1209493459,
+    "wof:lastmodified":1536285411,
+    "wof:name":"Nan Duvers",
+    "wof:parent_id":85632433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ht",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.85,
+    18.75,
+    -72.85,
+    18.75
+],
+  "geometry": {"coordinates":[-72.84999999999999,18.75],"type":"Point"}
+}
