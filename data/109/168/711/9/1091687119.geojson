@@ -10,6 +10,12 @@
     "geom:latitude":19.377031,
     "geom:longitude":-71.905831,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Valli\u00e8res Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.369099,
     "lbl:longitude":-71.907995,
     "meso:admin_1":"North East",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091687119,
-    "wof:lastmodified":1536614929,
+    "wof:lastmodified":1553717899,
     "wof:name":"Valli\u00e8res",
     "wof:parent_id":85671957,
     "wof:placetype":"county",

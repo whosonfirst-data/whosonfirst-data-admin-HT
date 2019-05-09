@@ -10,6 +10,12 @@
     "geom:latitude":18.237354,
     "geom:longitude":-71.958908,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Belle-Anse Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.250258,
     "lbl:longitude":-71.937093,
     "meso:admin_1":"South East",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686107,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1553717895,
     "wof:name":"Belle-Anse",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

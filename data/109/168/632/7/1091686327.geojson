@@ -10,6 +10,12 @@
     "geom:latitude":18.847488,
     "geom:longitude":-72.484224,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "l'Arcahaie Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.845087,
     "lbl:longitude":-72.47099,
     "meso:admin_1":"West",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686327,
-    "wof:lastmodified":1536614927,
+    "wof:lastmodified":1553717896,
     "wof:name":"l'Arcahaie",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

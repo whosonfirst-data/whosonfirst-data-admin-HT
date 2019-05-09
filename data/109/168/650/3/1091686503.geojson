@@ -10,6 +10,12 @@
     "geom:latitude":18.339786,
     "geom:longitude":-74.209317,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "les Chardonni\u00e8res Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.345653,
     "lbl:longitude":-74.188983,
     "meso:admin_1":"South",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686503,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717897,
     "wof:name":"les Chardonni\u00e8res",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

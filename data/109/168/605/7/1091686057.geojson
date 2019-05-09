@@ -10,6 +10,12 @@
     "geom:latitude":18.230376,
     "geom:longitude":-72.821109,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Bainet Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.214827,
     "lbl:longitude":-72.817464,
     "meso:admin_1":"South East",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686057,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1553717896,
     "wof:name":"Bainet",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

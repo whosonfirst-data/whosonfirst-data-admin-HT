@@ -10,6 +10,12 @@
     "geom:latitude":19.460646,
     "geom:longitude":-71.76621,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Ouanaminthe Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.437231,
     "lbl:longitude":-71.764494,
     "meso:admin_1":"North East",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091687117,
-    "wof:lastmodified":1536614929,
+    "wof:lastmodified":1553717898,
     "wof:name":"Ouanaminthe",
     "wof:parent_id":85671957,
     "wof:placetype":"county",

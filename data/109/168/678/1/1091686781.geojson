@@ -10,6 +10,12 @@
     "geom:latitude":19.877901,
     "geom:longitude":-72.862129,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Port-de-Paix Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.82854,
     "lbl:longitude":-72.885587,
     "meso:admin_1":"North West",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686781,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717898,
     "wof:name":"Port-de-Paix",
     "wof:parent_id":85671941,
     "wof:placetype":"county",

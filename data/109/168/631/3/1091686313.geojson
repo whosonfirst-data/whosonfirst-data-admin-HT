@@ -10,6 +10,12 @@
     "geom:latitude":19.140464,
     "geom:longitude":-72.041068,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Hinche Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.142434,
     "lbl:longitude":-72.044997,
     "meso:admin_1":"Centre",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686313,
-    "wof:lastmodified":1536614927,
+    "wof:lastmodified":1553717897,
     "wof:name":"Hinche",
     "wof:parent_id":85671955,
     "wof:placetype":"county",

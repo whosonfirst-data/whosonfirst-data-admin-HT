@@ -10,6 +10,12 @@
     "geom:latitude":18.466287,
     "geom:longitude":-74.391,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Anse d'Hainault Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.425673,
     "lbl:longitude":-74.398804,
     "meso:admin_1":"Grande-Anse",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686011,
-    "wof:lastmodified":1536614926,
+    "wof:lastmodified":1553717896,
     "wof:name":"Anse d'Hainault",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

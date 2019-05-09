@@ -10,6 +10,12 @@
     "geom:latitude":19.047951,
     "geom:longitude":-72.570634,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Saint-Marc Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.053689,
     "lbl:longitude":-72.566184,
     "meso:admin_1":"Artibonite",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686855,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717898,
     "wof:name":"Saint-Marc",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

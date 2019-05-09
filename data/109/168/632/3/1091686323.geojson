@@ -10,6 +10,12 @@
     "geom:latitude":18.534133,
     "geom:longitude":-74.222392,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "J\u00e9r\u00e9mie Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.537719,
     "lbl:longitude":-74.209666,
     "meso:admin_1":"Grande-Anse",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686323,
-    "wof:lastmodified":1536614927,
+    "wof:lastmodified":1553717896,
     "wof:name":"J\u00e9r\u00e9mie",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

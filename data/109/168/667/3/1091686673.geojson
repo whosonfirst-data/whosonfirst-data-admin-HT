@@ -10,6 +10,12 @@
     "geom:latitude":18.86415,
     "geom:longitude":-72.142488,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Mirebalais Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.842189,
     "lbl:longitude":-72.145662,
     "meso:admin_1":"Centre",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686673,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717898,
     "wof:name":"Mirebalais",
     "wof:parent_id":85671955,
     "wof:placetype":"county",

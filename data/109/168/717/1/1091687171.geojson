@@ -10,6 +10,12 @@
     "geom:latitude":18.290952,
     "geom:longitude":-72.448365,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Jacmel Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.310476,
     "lbl:longitude":-72.47399,
     "meso:admin_1":"South East",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091687171,
-    "wof:lastmodified":1536614929,
+    "wof:lastmodified":1553717898,
     "wof:name":"Jacmel",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

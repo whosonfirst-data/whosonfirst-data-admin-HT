@@ -10,6 +10,12 @@
     "geom:latitude":19.656412,
     "geom:longitude":-72.292466,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "l'Acul-du-Nord Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.642814,
     "lbl:longitude":-72.290342,
     "meso:admin_1":"North",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686325,
-    "wof:lastmodified":1536614927,
+    "wof:lastmodified":1553717895,
     "wof:name":"l'Acul-du-Nord",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

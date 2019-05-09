@@ -10,6 +10,12 @@
     "geom:latitude":19.64589,
     "geom:longitude":-72.517724,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Plaisance Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.645737,
     "lbl:longitude":-72.515944,
     "meso:admin_1":"North",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686691,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717898,
     "wof:name":"Plaisance",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

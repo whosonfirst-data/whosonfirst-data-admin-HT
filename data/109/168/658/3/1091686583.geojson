@@ -10,6 +10,12 @@
     "geom:latitude":19.370991,
     "geom:longitude":-72.344586,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Marmelade Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.337569,
     "lbl:longitude":-72.342339,
     "meso:admin_1":"Artibonite",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686583,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717897,
     "wof:name":"Marmelade",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

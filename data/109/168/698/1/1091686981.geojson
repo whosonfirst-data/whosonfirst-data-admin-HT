@@ -10,6 +10,12 @@
     "geom:latitude":19.660366,
     "geom:longitude":-72.830888,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Gros-Morne Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.623732,
     "lbl:longitude":-72.826663,
     "meso:admin_1":"Artibonite",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686981,
-    "wof:lastmodified":1536614929,
+    "wof:lastmodified":1553717897,
     "wof:name":"Gros-Morne",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

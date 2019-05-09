@@ -10,6 +10,12 @@
     "geom:latitude":18.451425,
     "geom:longitude":-73.51342,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "l'Anse-\u00e0-Veau Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.431686,
     "lbl:longitude":-73.465792,
     "meso:admin_1":"Nippes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091687241,
-    "wof:lastmodified":1536614930,
+    "wof:lastmodified":1553717898,
     "wof:name":"l'Anse-\u00e0-Veau",
     "wof:parent_id":85671937,
     "wof:placetype":"county",

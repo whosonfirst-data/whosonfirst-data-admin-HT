@@ -10,6 +10,12 @@
     "geom:latitude":19.467723,
     "geom:longitude":-72.59331,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "les Gona\u00efves Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":19.465279,
     "lbl:longitude":-72.57852,
     "meso:admin_1":"Artibonite",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091687025,
-    "wof:lastmodified":1536614929,
+    "wof:lastmodified":1553717898,
     "wof:name":"les Gona\u00efves",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

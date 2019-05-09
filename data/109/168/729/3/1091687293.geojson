@@ -10,6 +10,12 @@
     "geom:latitude":18.294881,
     "geom:longitude":-73.362588,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Aquin Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.299326,
     "lbl:longitude":-73.29964,
     "meso:admin_1":"South",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091687293,
-    "wof:lastmodified":1536614930,
+    "wof:lastmodified":1553717900,
     "wof:name":"Aquin",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

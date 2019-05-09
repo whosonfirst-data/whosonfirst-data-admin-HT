@@ -10,6 +10,12 @@
     "geom:latitude":18.394568,
     "geom:longitude":-73.148928,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Mirago\u00e2ne Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.420393,
     "lbl:longitude":-73.166035,
     "meso:admin_1":"Nippes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686629,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717896,
     "wof:name":"Mirago\u00e2ne",
     "wof:parent_id":85671937,
     "wof:placetype":"county",

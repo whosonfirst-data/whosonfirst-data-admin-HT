@@ -10,6 +10,12 @@
     "geom:latitude":18.495094,
     "geom:longitude":-73.929498,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "Corail Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.48511,
     "lbl:longitude":-73.970689,
     "meso:admin_1":"Grande-Anse",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091686181,
-    "wof:lastmodified":1536614927,
+    "wof:lastmodified":1553717895,
     "wof:name":"Corail",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":18.24254,
     "geom:longitude":-74.024414,
     "iso:country":"HT",
+    "label:eng_x_preferred_longname":[
+        "les C\u00f4teaux Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":18.259373,
     "lbl:longitude":-74.036846,
     "meso:admin_1":"South",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091686543,
-    "wof:lastmodified":1536614928,
+    "wof:lastmodified":1553717897,
     "wof:name":"les C\u00f4teaux",
     "wof:parent_id":85671947,
     "wof:placetype":"county",
