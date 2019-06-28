@@ -25,13 +25,10 @@
     "name:bul_x_preferred":[
         "\u0422\u0445\u0438\u043e\u0442\u0435"
     ],
-    "name:dut_x_preferred":[
-        "Thiotte"
-    ],
     "name:eng_x_preferred":[
         "Thiotte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Thiotte"
     ],
     "name:hat_x_preferred":[
@@ -40,10 +37,13 @@
     "name:ita_x_preferred":[
         "Thiotte"
     ],
+    "name:nld_x_preferred":[
+        "Thiotte"
+    ],
     "name:por_x_preferred":[
         "Thiotte"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Thiotte"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +91,7 @@
         }
     ],
     "wof:id":1125940971,
-    "wof:lastmodified":1514447852,
+    "wof:lastmodified":1561749984,
     "wof:name":"Thiote",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

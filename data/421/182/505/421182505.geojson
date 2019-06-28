@@ -16,25 +16,13 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0628\u0627\u0644\u064a\u0647"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u723e\u5df4\u840a"
-    ],
     "name:deu_x_preferred":[
-        "Mirebalais"
-    ],
-    "name:dut_x_preferred":[
         "Mirebalais"
     ],
     "name:eng_x_preferred":[
         "Mirebalais"
     ],
     "name:fra_x_preferred":[
-        "Mirebalais"
-    ],
-    "name:fre_x_preferred":[
-        "Mirebalais"
-    ],
-    "name:ger_x_preferred":[
         "Mirebalais"
     ],
     "name:hat_x_preferred":[
@@ -53,9 +41,6 @@
         "Mirebalais"
     ],
     "name:ron_x_preferred":[
-        "Mirebalais"
-    ],
-    "name:rum_x_preferred":[
         "Mirebalais"
     ],
     "name:spa_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":421182505,
-    "wof:lastmodified":1527726425,
+    "wof:lastmodified":1561749982,
     "wof:name":"Mirebalais",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

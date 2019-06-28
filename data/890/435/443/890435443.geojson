@@ -18,16 +18,13 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a \u062a\u0631\u0648 \u062f\u064a \u0646\u064a\u0628\u064a\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u4f69\u8482\u7279-\u7279\u9b6f-\u5fb7-\u5c3c\u4f69\u65af"
-    ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
     "name:eng_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
     "name:hat_x_preferred":[
@@ -36,13 +33,16 @@
     "name:ita_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
+    "name:nld_x_preferred":[
+        "Petit-Trou-de-Nippes"
+    ],
     "name:pol_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
     "name:por_x_preferred":[
         "Petit Trou de Nippes"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
     "name:swe_x_preferred":[
@@ -51,8 +51,8 @@
     "name:unk_x_variant":[
         "Petit Trou"
     ],
-    "name:wel_x_preferred":[
-        "Petit-Trou-de-Nippes"
+    "name:zho_x_preferred":[
+        "\u4f69\u8482\u7279-\u7279\u9b6f-\u5fb7-\u5c3c\u4f69\u65af"
     ],
     "qs:name":"Petit Trou de Nippes",
     "qs:photos_9r":0,
@@ -87,7 +87,7 @@
         }
     ],
     "wof:id":890435443,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561749984,
     "wof:name":"Petit Trou de Nippes",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

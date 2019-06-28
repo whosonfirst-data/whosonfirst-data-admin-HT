@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0633 \u0631\u0648\u062c"
     ],
-    "name:dut_x_preferred":[
-        "Anse-Rouge"
-    ],
     "name:eng_x_preferred":[
         "Anse-Rouge"
     ],
     "name:fra_x_preferred":[
-        "Anse-Rouge"
-    ],
-    "name:fre_x_preferred":[
         "Anse-Rouge"
     ],
     "name:hat_x_preferred":[
@@ -47,9 +41,6 @@
         "Anse-Rouge"
     ],
     "name:ron_x_preferred":[
-        "Anse-Rouge"
-    ],
-    "name:rum_x_preferred":[
         "Anse-Rouge"
     ],
     "name:unk_x_variant":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421179611,
-    "wof:lastmodified":1527717704,
+    "wof:lastmodified":1561749982,
     "wof:name":"Anse Rouge",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

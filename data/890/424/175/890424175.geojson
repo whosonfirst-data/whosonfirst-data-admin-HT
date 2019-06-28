@@ -19,17 +19,17 @@
     "name:ara_x_preferred":[
         "\u0641\u0648\u0646\u062f \u062f\u064a\u0633 \u0628\u0644\u0627\u0646\u0643\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Fond des Blancs"
-    ],
     "name:eng_x_preferred":[
         "Fond des Blancs"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Fond-des-Blancs"
     ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a9\u30f3\uff1d\u30c7\uff1d\u30d6\u30e9\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Fond des Blancs"
     ],
     "name:swe_x_preferred":[
         "Fond des Blancs"
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890424175,
-    "wof:lastmodified":1514447776,
+    "wof:lastmodified":1561749982,
     "wof:name":"Gethsemane Scholarship Inst. of Fond Des Blancs",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0622\u0643\u0644 \u062f\u0648 \u0646\u0648\u0631\u062f"
     ],
-    "name:dut_x_preferred":[
-        "Acul-du-Nord"
-    ],
     "name:eng_x_preferred":[
         "Acul-du-Nord"
     ],
@@ -26,9 +23,6 @@
         "\u0627\u06a9\u0648\u0644-\u062f\u0648-\u0646\u0648\u0631\u062f"
     ],
     "name:fra_x_preferred":[
-        "Acul-du-Nord"
-    ],
-    "name:fre_x_preferred":[
         "Acul-du-Nord"
     ],
     "name:hat_x_preferred":[
@@ -46,16 +40,10 @@
     "name:nld_x_preferred":[
         "Acul-du-Nord"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06a9\u0648\u0644-\u062f\u0648-\u0646\u0648\u0631\u062f"
-    ],
     "name:por_x_preferred":[
         "Acul-du-Nord"
     ],
     "name:ron_x_preferred":[
-        "Acul-du-Nord"
-    ],
-    "name:rum_x_preferred":[
         "Acul-du-Nord"
     ],
     "name:spa_x_preferred":[
@@ -111,7 +99,7 @@
         }
     ],
     "wof:id":421173331,
-    "wof:lastmodified":1527716253,
+    "wof:lastmodified":1561749981,
     "wof:name":"Acul du Nord",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

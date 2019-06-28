@@ -19,20 +19,11 @@
     "name:deu_x_preferred":[
         "Pl\u00e8n din\u00f2"
     ],
-    "name:dut_x_preferred":[
-        "Plaine-du-Nord"
-    ],
     "name:eng_x_preferred":[
         "Plaine-du-Nord"
     ],
     "name:fra_x_preferred":[
         "Plaine-du-Nord"
-    ],
-    "name:fre_x_preferred":[
-        "Plaine-du-Nord"
-    ],
-    "name:ger_x_preferred":[
-        "Pl\u00e8n din\u00f2"
     ],
     "name:hat_x_preferred":[
         "Pl\u00e8n din\u00f2"
@@ -50,9 +41,6 @@
         "Plaine-du-Nord"
     ],
     "name:ron_x_preferred":[
-        "Plaine-du-Nord"
-    ],
-    "name:rum_x_preferred":[
         "Plaine-du-Nord"
     ],
     "qs:gn_country":"HT",
@@ -102,7 +90,7 @@
         }
     ],
     "wof:id":421198251,
-    "wof:lastmodified":1527716352,
+    "wof:lastmodified":1561749981,
     "wof:name":"Plaine du Nord",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

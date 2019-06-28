@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u0633\u0627 \u0644\u0627 \u0633\u0648\u0631\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Cerca-la-Source"
-    ],
     "name:eng_x_preferred":[
         "Cerca-la-Source"
     ],
     "name:fra_x_preferred":[
-        "Cerca-la-Source"
-    ],
-    "name:fre_x_preferred":[
         "Cerca-la-Source"
     ],
     "name:hat_x_preferred":[
@@ -44,9 +38,6 @@
         "Cerca La Source"
     ],
     "name:ron_x_preferred":[
-        "Cerca-la-Source"
-    ],
-    "name:rum_x_preferred":[
         "Cerca-la-Source"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421177561,
-    "wof:lastmodified":1527716477,
+    "wof:lastmodified":1561749982,
     "wof:name":"Cerca la Source",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

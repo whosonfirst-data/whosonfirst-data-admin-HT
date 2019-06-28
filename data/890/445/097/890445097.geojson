@@ -18,16 +18,13 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u064a\u0633 \u062f\u064a \u0641\u064a\u0631"
     ],
-    "name:dut_x_preferred":[
-        "C\u00f4tes-de-Fer"
-    ],
     "name:eng_x_preferred":[
         "C\u00f4tes-de-Fer"
     ],
     "name:fra_x_preferred":[
         "C\u00f4tes de Fer"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "C\u00f4tes-de-Fer"
     ],
     "name:hat_x_preferred":[
@@ -36,10 +33,13 @@
     "name:ita_x_preferred":[
         "C\u00f4te-de-Fer"
     ],
+    "name:nld_x_preferred":[
+        "C\u00f4tes-de-Fer"
+    ],
     "name:por_x_preferred":[
         "C\u00f4tes-de-Fer"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "C\u00f4tes-de-Fer"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890445097,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561749983,
     "wof:name":"C\u00f4tes-de-Fer",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

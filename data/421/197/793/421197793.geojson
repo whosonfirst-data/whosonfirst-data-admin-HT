@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0628\u064a"
     ],
-    "name:dut_x_preferred":[
-        "Limb\u00e9"
-    ],
     "name:eng_x_preferred":[
         "Limb\u00e9"
     ],
     "name:fra_x_preferred":[
-        "Limb\u00e9"
-    ],
-    "name:fre_x_preferred":[
         "Limb\u00e9"
     ],
     "name:hat_x_preferred":[
@@ -53,9 +47,6 @@
         "Limb\u00e9"
     ],
     "name:ron_x_preferred":[
-        "Limb\u00e9"
-    ],
-    "name:rum_x_preferred":[
         "Limb\u00e9"
     ],
     "name:rus_x_preferred":[
@@ -115,7 +106,7 @@
         }
     ],
     "wof:id":421197793,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561749981,
     "wof:name":"Limb\u00e9",
     "wof:parent_id":1091687057,
     "wof:placetype":"locality",

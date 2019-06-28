@@ -19,17 +19,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09b0\u09bf\u09bf\u09ab\u09cb\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u52d2\u5bcc\u723e"
-    ],
     "name:dan_x_preferred":[
         "Carrefour"
     ],
     "name:deu_x_preferred":[
         "Carrefour"
     ],
-    "name:dut_x_preferred":[
-        "Carrefour"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c6\u03bf\u03cd\u03c1"
     ],
     "name:eng_x_preferred":[
         "Carrefour"
@@ -42,15 +39,6 @@
     ],
     "name:fra_x_preferred":[
         "Carrefour"
-    ],
-    "name:fre_x_preferred":[
-        "Carrefour"
-    ],
-    "name:ger_x_preferred":[
-        "Carrefour"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03c6\u03bf\u03cd\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab0\u0ac7\u0aab\u0acb\u0ab0"
@@ -85,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0930\u0947\u092b\u094b\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Carrefour"
     ],
     "name:nld_x_preferred":[
@@ -107,9 +95,6 @@
         "Carrefour"
     ],
     "name:ron_x_preferred":[
-        "Carrefour"
-    ],
-    "name:rum_x_preferred":[
         "Carrefour"
     ],
     "name:rus_x_preferred":[
@@ -203,7 +188,7 @@
         }
     ],
     "wof:id":421178115,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1561749982,
     "wof:name":"Carrefour",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

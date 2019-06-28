@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646 \u0631\u0627\u0628\u064a\u0644"
     ],
-    "name:dut_x_preferred":[
-        "Jean-Rabel"
-    ],
     "name:eng_x_preferred":[
         "Jean-Rabel"
     ],
     "name:fra_x_preferred":[
-        "Jean-Rabel"
-    ],
-    "name:fre_x_preferred":[
         "Jean-Rabel"
     ],
     "name:hat_x_preferred":[
@@ -50,9 +44,6 @@
         "Jean-Rabel"
     ],
     "name:ron_x_preferred":[
-        "Jean-Rabel"
-    ],
-    "name:rum_x_preferred":[
         "Jean-Rabel"
     ],
     "name:swe_x_preferred":[
@@ -109,7 +100,7 @@
         }
     ],
     "wof:id":421201727,
-    "wof:lastmodified":1527716442,
+    "wof:lastmodified":1561749981,
     "wof:name":"Jean-Rabel",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

@@ -16,19 +16,10 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0641\u0627\u064a\u0648\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u97e6\u9686"
-    ],
-    "name:dut_x_preferred":[
-        "Cavaillon"
-    ],
     "name:eng_x_preferred":[
         "Cavaellon"
     ],
     "name:fra_x_preferred":[
-        "Cavaillon"
-    ],
-    "name:fre_x_preferred":[
         "Cavaillon"
     ],
     "name:hat_x_preferred":[
@@ -49,7 +40,7 @@
     "name:por_x_preferred":[
         "Cavaellon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cavaillon"
     ],
     "name:unk_x_variant":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421201205,
-    "wof:lastmodified":1527716434,
+    "wof:lastmodified":1561749981,
     "wof:name":"Cavaillon",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062a"
     ],
-    "name:dut_x_preferred":[
-        "Pilate"
-    ],
     "name:eng_x_preferred":[
         "Pilate"
     ],
     "name:fra_x_preferred":[
-        "Pilate"
-    ],
-    "name:fre_x_preferred":[
         "Pilate"
     ],
     "name:hat_x_preferred":[
@@ -41,9 +35,6 @@
         "Pilate"
     ],
     "name:ron_x_preferred":[
-        "Pilate"
-    ],
-    "name:rum_x_preferred":[
         "Pilate"
     ],
     "name:swe_x_preferred":[
@@ -97,7 +88,7 @@
         }
     ],
     "wof:id":421180257,
-    "wof:lastmodified":1527716235,
+    "wof:lastmodified":1561749981,
     "wof:name":"Pilate",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

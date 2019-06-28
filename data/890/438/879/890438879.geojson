@@ -18,13 +18,10 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633 \u0625\u0631\u0648\u064a\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Les Irois"
-    ],
     "name:eng_x_preferred":[
         "Les Irois"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Les Irois"
     ],
     "name:hat_x_preferred":[
@@ -36,10 +33,13 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30b8\u30ef"
     ],
+    "name:nld_x_preferred":[
+        "Les Irois"
+    ],
     "name:por_x_preferred":[
         "Les Irois"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Les Irois"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890438879,
-    "wof:lastmodified":1553816398,
+    "wof:lastmodified":1561749983,
     "wof:name":"Les Irois",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

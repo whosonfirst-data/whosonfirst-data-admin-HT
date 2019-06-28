@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Milot"
     ],
-    "name:dut_x_preferred":[
-        "Milot"
-    ],
     "name:eng_x_preferred":[
         "Milot"
     ],
     "name:fra_x_preferred":[
-        "Milot"
-    ],
-    "name:fre_x_preferred":[
-        "Milot"
-    ],
-    "name:ger_x_preferred":[
         "Milot"
     ],
     "name:hat_x_preferred":[
@@ -50,9 +41,6 @@
         "Milot"
     ],
     "name:ron_x_preferred":[
-        "Milot"
-    ],
-    "name:rum_x_preferred":[
         "Milot"
     ],
     "name:rus_x_preferred":[
@@ -111,7 +99,7 @@
         }
     ],
     "wof:id":421194349,
-    "wof:lastmodified":1527716132,
+    "wof:lastmodified":1561749980,
     "wof:name":"Milot",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

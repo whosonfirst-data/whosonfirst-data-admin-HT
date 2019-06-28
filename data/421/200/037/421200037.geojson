@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0647\u0648\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Bahon"
-    ],
     "name:eng_x_preferred":[
         "Bahon"
     ],
     "name:fra_x_preferred":[
-        "Bahon"
-    ],
-    "name:fre_x_preferred":[
         "Bahon"
     ],
     "name:hat_x_preferred":[
@@ -41,9 +35,6 @@
         "Bahon"
     ],
     "name:ron_x_preferred":[
-        "Bahon"
-    ],
-    "name:rum_x_preferred":[
         "Bahon"
     ],
     "name:swe_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421200037,
-    "wof:lastmodified":1527716424,
+    "wof:lastmodified":1561749981,
     "wof:name":"Bahon",
     "wof:parent_id":1091686273,
     "wof:placetype":"locality",

@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a\u064a \u0631\u064a\u0641\u064a\u0631\u064a \u062f\u064a \u0646\u064a\u0628\u064a\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Petite-Rivi\u00e8re-de-Nippes"
-    ],
     "name:eng_x_preferred":[
         "Petite-Rivi\u00e8re-de-Nippes"
     ],
     "name:fra_x_preferred":[
-        "Petite-Rivi\u00e8re-de-Nippes"
-    ],
-    "name:fre_x_preferred":[
         "Petite-Rivi\u00e8re-de-Nippes"
     ],
     "name:hat_x_preferred":[
@@ -41,9 +35,6 @@
         "Petite-Rivi\u00e8re-de-Nippes"
     ],
     "name:ron_x_preferred":[
-        "Petite-Rivi\u00e8re-de-Nippes"
-    ],
-    "name:rum_x_preferred":[
         "Petite-Rivi\u00e8re-de-Nippes"
     ],
     "name:unk_x_variant":[
@@ -96,7 +87,7 @@
         }
     ],
     "wof:id":421199845,
-    "wof:lastmodified":1527716410,
+    "wof:lastmodified":1561749981,
     "wof:name":"Petite Rivi\u00e8re de Nippes",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

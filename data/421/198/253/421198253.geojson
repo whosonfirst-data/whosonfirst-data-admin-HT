@@ -16,22 +16,13 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0633\u0631"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u745e\u65af\u5c14"
-    ],
     "name:dan_x_preferred":[
-        "Gressier"
-    ],
-    "name:dut_x_preferred":[
         "Gressier"
     ],
     "name:eng_x_preferred":[
         "Gressier"
     ],
     "name:fra_x_preferred":[
-        "Gressier"
-    ],
-    "name:fre_x_preferred":[
         "Gressier"
     ],
     "name:hat_x_preferred":[
@@ -53,9 +44,6 @@
         "Gressier"
     ],
     "name:ron_x_preferred":[
-        "Gressier"
-    ],
-    "name:rum_x_preferred":[
         "Gressier"
     ],
     "name:spa_x_preferred":[
@@ -116,7 +104,7 @@
         }
     ],
     "wof:id":421198253,
-    "wof:lastmodified":1527716357,
+    "wof:lastmodified":1561749981,
     "wof:name":"Gressier",
     "wof:parent_id":85671967,
     "wof:placetype":"locality",

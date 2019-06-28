@@ -25,17 +25,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09a8\u09be\u0987\u09ad\u09c7\u09b8"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u7eb3\u4f0a\u592b"
-    ],
     "name:dan_x_preferred":[
         "Gona\u00efves"
     ],
     "name:deu_x_preferred":[
         "Gona\u00efves"
     ],
-    "name:dut_x_preferred":[
-        "Gona\u00efves"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03bd\u03b1\u0390\u03b2\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Gona\u00efves"
@@ -43,20 +40,14 @@
     "name:epo_x_preferred":[
         "Les Gona\u00efves"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0646\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Gona\u00efves"
     ],
     "name:fra_x_preferred":[
         "Les Gona\u00efves"
-    ],
-    "name:fre_x_preferred":[
-        "Les Gona\u00efves"
-    ],
-    "name:ger_x_preferred":[
-        "Gona\u00efves"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03bd\u03b1\u0390\u03b2\u03b5\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0aa8\u0acb\u0a87\u0ab5\u0acd\u0ab8"
@@ -94,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u0917\u0949\u0928\u0935\u094d\u0939\u0940\u090f\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gonaives"
+    ],
+    "name:nld_x_preferred":[
+        "Gona\u00efves"
     ],
     "name:nno_x_preferred":[
         "Gona\u00efves"
@@ -103,16 +97,13 @@
     "name:nob_x_preferred":[
         "Gona\u00efves"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0646\u06cc\u0648"
-    ],
     "name:pol_x_preferred":[
         "Gona\u00efves"
     ],
     "name:por_x_preferred":[
         "Gona\u00efves"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Les Gona\u00efves"
     ],
     "name:rus_x_preferred":[
@@ -157,6 +148,9 @@
     "name:war_x_preferred":[
         "Gonaives"
     ],
+    "name:zho_x_preferred":[
+        "\u6208\u7eb3\u4f0a\u592b"
+    ],
     "qs_pg:aaroncc":"HT",
     "qs_pg:gn_country":"HT",
     "qs_pg:gn_fcode":"PPL",
@@ -196,7 +190,7 @@
         }
     ],
     "wof:id":1125781453,
-    "wof:lastmodified":1553816529,
+    "wof:lastmodified":1561749984,
     "wof:name":"Gona\u00efves",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",
