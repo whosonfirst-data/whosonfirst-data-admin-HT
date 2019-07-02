@@ -16,25 +16,13 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633\u0643\u0627\u0647\u0648\u0628\u0627\u0633"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u5361\u5967\u5df4\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Lascahobas"
-    ],
-    "name:dut_x_preferred":[
         "Lascahobas"
     ],
     "name:eng_x_preferred":[
         "Lascahobas"
     ],
     "name:fra_x_preferred":[
-        "Lascahobas"
-    ],
-    "name:fre_x_preferred":[
-        "Lascahobas"
-    ],
-    "name:ger_x_preferred":[
         "Lascahobas"
     ],
     "name:hat_x_preferred":[
@@ -50,9 +38,6 @@
         "Lascahobas"
     ],
     "name:ron_x_preferred":[
-        "Lascahobas"
-    ],
-    "name:rum_x_preferred":[
         "Lascahobas"
     ],
     "name:spa_x_preferred":[
@@ -120,7 +105,7 @@
         }
     ],
     "wof:id":421175093,
-    "wof:lastmodified":1527716345,
+    "wof:lastmodified":1561749981,
     "wof:name":"Lascahobas",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

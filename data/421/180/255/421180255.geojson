@@ -19,16 +19,10 @@
     "name:cpe_x_preferred":[
         "Rankit"
     ],
-    "name:dut_x_preferred":[
-        "Ranquitte"
-    ],
     "name:eng_x_preferred":[
         "Ranquitte"
     ],
     "name:fra_x_preferred":[
-        "Ranquitte"
-    ],
-    "name:fre_x_preferred":[
         "Ranquitte"
     ],
     "name:hat_x_preferred":[
@@ -44,9 +38,6 @@
         "Ranquitte"
     ],
     "name:ron_x_preferred":[
-        "Ranquitte"
-    ],
-    "name:rum_x_preferred":[
         "Ranquitte"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421180255,
-    "wof:lastmodified":1527716241,
+    "wof:lastmodified":1561749981,
     "wof:name":"Ranquitte",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

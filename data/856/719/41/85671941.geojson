@@ -34,20 +34,23 @@
     "name:cat_x_preferred":[
         "Nord-Ouest"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u5317\u7701"
-    ],
     "name:dan_x_preferred":[
         "Nord-Ouest"
     ],
-    "name:dut_x_preferred":[
-        "Nord-Ouest"
+    "name:deu_x_preferred":[
+        "D\u00e9partement Nord-Ouest"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03bf\u03c1\u03b5\u03b9\u03bf\u03b4\u03c5\u03c4\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nord-Ouest"
     ],
     "name:epo_x_preferred":[
         "Nord-Ouest"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644 \u063a\u0631\u0628\u06cc"
     ],
     "name:fin_x_preferred":[
         "Nord-Ouest"
@@ -57,15 +60,6 @@
     ],
     "name:fra_x_unknown":[
         "NO"
-    ],
-    "name:fre_x_preferred":[
-        "Nord-Ouest"
-    ],
-    "name:ger_x_preferred":[
-        "D\u00e9partement Nord-Ouest"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03bf\u03c1\u03b5\u03b9\u03bf\u03b4\u03c5\u03c4\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa1-\u0a95\u0acd\u0ab5\u0ac7\u0ab8\u0acd\u0a9f"
@@ -106,7 +100,10 @@
     "name:mar_x_preferred":[
         "\u0928\u0949\u0930-\u0906\u0909\u0938\u094d\u091f"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Nord-Ouest"
+    ],
+    "name:nld_x_preferred":[
         "Nord-Ouest"
     ],
     "name:nno_x_preferred":[
@@ -114,9 +111,6 @@
     ],
     "name:nob_x_preferred":[
         "Nord-Ouest"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644 \u063a\u0631\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Departament P\u00f3\u0142nocno-Zachodni"
@@ -159,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Nord-Ouest"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5317\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HTI",
@@ -285,7 +282,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1553550358,
+    "wof:lastmodified":1561749953,
     "wof:name":"Nord-Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

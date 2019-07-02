@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u0633 \u0628\u064a\u062a\u0631\u0633"
     ],
-    "name:dut_x_preferred":[
-        "Anse-\u00e0-Pitre"
-    ],
     "name:eng_x_preferred":[
         "Anse-\u00e0-Pitres"
     ],
@@ -30,9 +27,6 @@
         "Anses \u00e0 Pitre",
         "Anse Pitres",
         "Anses-a-P\u00eetres"
-    ],
-    "name:fre_x_preferred":[
-        "Anse-\u00e0-Pitres"
     ],
     "name:hat_x_preferred":[
         "Ansapit"
@@ -47,9 +41,6 @@
         "Anse-\u00e0-Pitres"
     ],
     "name:ron_x_preferred":[
-        "Anse-\u00e0-Pitres"
-    ],
-    "name:rum_x_preferred":[
         "Anse-\u00e0-Pitres"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +97,7 @@
         }
     ],
     "wof:id":421179613,
-    "wof:lastmodified":1527717710,
+    "wof:lastmodified":1561749982,
     "wof:name":"Anse-\u00c0-Pitres",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

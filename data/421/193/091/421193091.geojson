@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Thomassique"
     ],
-    "name:dut_x_preferred":[
-        "Thomassique"
-    ],
     "name:eng_x_preferred":[
         "Thomassique"
     ],
     "name:fra_x_preferred":[
-        "Thomassique"
-    ],
-    "name:fre_x_preferred":[
-        "Thomassique"
-    ],
-    "name:ger_x_preferred":[
         "Thomassique"
     ],
     "name:hat_x_preferred":[
@@ -47,9 +38,6 @@
         "Thomassique"
     ],
     "name:ron_x_preferred":[
-        "Thomassique"
-    ],
-    "name:rum_x_preferred":[
         "Thomassique"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +91,7 @@
         }
     ],
     "wof:id":421193091,
-    "wof:lastmodified":1527716142,
+    "wof:lastmodified":1561749980,
     "wof:name":"Thomassique",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

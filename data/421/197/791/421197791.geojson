@@ -16,19 +16,10 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a \u063a\u0648\u0627\u0641"
     ],
-    "name:chi_x_preferred":[
-        "\u5c0f\u6208\u963f\u6c83"
-    ],
-    "name:dut_x_preferred":[
-        "Petit-Go\u00e2ve"
-    ],
     "name:eng_x_preferred":[
         "Petit-Go\u00e2ve"
     ],
     "name:fra_x_preferred":[
-        "Petit-Go\u00e2ve"
-    ],
-    "name:fre_x_preferred":[
         "Petit-Go\u00e2ve"
     ],
     "name:hat_x_preferred":[
@@ -58,9 +49,6 @@
     "name:ron_x_preferred":[
         "Petit-Go\u00e2ve"
     ],
-    "name:rum_x_preferred":[
-        "Petit-Go\u00e2ve"
-    ],
     "name:spa_x_preferred":[
         "Petit-Go\u00e2ve"
     ],
@@ -72,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Ville de Petit Go\u00e2ve"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u6208\u963f\u6c83"
     ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -123,7 +114,7 @@
         }
     ],
     "wof:id":421197791,
-    "wof:lastmodified":1527716399,
+    "wof:lastmodified":1561749981,
     "wof:name":"Petit Go\u00e2ve",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

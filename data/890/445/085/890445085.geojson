@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f-\u09ae\u09be\u09b0\u09cd\u0995"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u9a6c\u514b"
-    ],
     "name:dan_x_preferred":[
         "Saint-Marc"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saint-Marc"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039c\u03b1\u03c1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Saint-Marc"
@@ -38,15 +38,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint-Marc"
-    ],
-    "name:fre_x_preferred":[
-        "Saint-Marc"
-    ],
-    "name:ger_x_preferred":[
-        "Saint-Marc"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u039c\u03b1\u03c1\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f-\u0aae\u0abe\u0ab0\u0acd\u0a95"
@@ -81,7 +72,10 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f-\u092e\u093e\u0930\u094d\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Saint-Marc"
+    ],
+    "name:nld_x_preferred":[
         "Saint-Marc"
     ],
     "name:nno_x_preferred":[
@@ -96,7 +90,7 @@
     "name:por_x_preferred":[
         "Saint-Marc"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Saint-Marc"
     ],
     "name:rus_x_preferred":[
@@ -131,6 +125,9 @@
     ],
     "name:vie_x_preferred":[
         "Saint-Marc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u9a6c\u514b"
     ],
     "qs:name":"Saint-Marc",
     "qs:photos_9r":0,
@@ -168,7 +165,7 @@
         }
     ],
     "wof:id":890445085,
-    "wof:lastmodified":1553816401,
+    "wof:lastmodified":1561749983,
     "wof:name":"Saint-Marc",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

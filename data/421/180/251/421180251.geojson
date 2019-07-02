@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Ma\u00efssade"
     ],
-    "name:dut_x_preferred":[
-        "Ma\u00efssade"
-    ],
     "name:eng_x_preferred":[
         "Ma\u00efssade"
     ],
     "name:fra_x_preferred":[
-        "Ma\u00efssade"
-    ],
-    "name:fre_x_preferred":[
-        "Ma\u00efssade"
-    ],
-    "name:ger_x_preferred":[
         "Ma\u00efssade"
     ],
     "name:hat_x_preferred":[
@@ -47,9 +38,6 @@
         "Ma\u00efssade"
     ],
     "name:ron_x_preferred":[
-        "Ma\u00efssade"
-    ],
-    "name:rum_x_preferred":[
         "Ma\u00efssade"
     ],
     "name:swe_x_preferred":[
@@ -103,7 +91,7 @@
         }
     ],
     "wof:id":421180251,
-    "wof:lastmodified":1527716236,
+    "wof:lastmodified":1561749981,
     "wof:name":"Ma\u00efssade",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

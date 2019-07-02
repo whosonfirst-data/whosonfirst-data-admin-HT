@@ -16,16 +16,10 @@
     "name:ara_x_preferred":[
         "\u064a\u0645\u0648\u0646\u0627\u062f"
     ],
-    "name:dut_x_preferred":[
-        "Limonade"
-    ],
     "name:eng_x_preferred":[
         "Limonade"
     ],
     "name:fra_x_preferred":[
-        "Limonade"
-    ],
-    "name:fre_x_preferred":[
         "Limonade"
     ],
     "name:hat_x_preferred":[
@@ -44,9 +38,6 @@
         "Limonade"
     ],
     "name:ron_x_preferred":[
-        "Limonade"
-    ],
-    "name:rum_x_preferred":[
         "Limonade"
     ],
     "name:srd_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421180253,
-    "wof:lastmodified":1527716241,
+    "wof:lastmodified":1561749981,
     "wof:name":"Limonade",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

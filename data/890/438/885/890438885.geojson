@@ -18,13 +18,10 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0648\u0633 \u0645\u0648\u0631\u0646"
     ],
-    "name:dut_x_preferred":[
-        "Gros-Morne"
-    ],
     "name:eng_x_preferred":[
         "Gros-Morne"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gros-Morne"
     ],
     "name:hat_x_preferred":[
@@ -33,10 +30,13 @@
     "name:ita_x_preferred":[
         "Gros-Morne"
     ],
+    "name:nld_x_preferred":[
+        "Gros-Morne"
+    ],
     "name:por_x_preferred":[
         "Gros-Morne"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gros-Morne"
     ],
     "qs:name":"Gros Morne",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890438885,
-    "wof:lastmodified":1527735424,
+    "wof:lastmodified":1561749983,
     "wof:name":"Gros Morne",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

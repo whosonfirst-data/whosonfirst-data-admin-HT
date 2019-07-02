@@ -18,13 +18,10 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631 \u0646\u0648\u0641"
     ],
-    "name:dut_x_preferred":[
-        "Terre-Neuve"
-    ],
     "name:eng_x_preferred":[
         "Terre-Neuve"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Terre-Neuve"
     ],
     "name:hat_x_preferred":[
@@ -33,10 +30,13 @@
     "name:ita_x_preferred":[
         "Terre-Neuve"
     ],
+    "name:nld_x_preferred":[
+        "Terre-Neuve"
+    ],
     "name:por_x_preferred":[
         "Terre-Neuve"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Terre-Neuve"
     ],
     "qs:name":"Terre Neuve",
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890422935,
-    "wof:lastmodified":1527727162,
+    "wof:lastmodified":1561749982,
     "wof:name":"Terre Neuve",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",
