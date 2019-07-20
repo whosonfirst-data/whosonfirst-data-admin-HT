@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628 \u0647\u0627\u064a\u062a\u064a\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09aa-\u09b9\u09be\u0987\u09a4\u09bf\u09af\u09bc\u09c7\u09a8"
     ],
@@ -26,7 +29,13 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043f \u0410\u0438\u0442\u0438\u0435\u043d"
     ],
+    "name:ceb_x_preferred":[
+        "Cap Ha\u00eftien"
+    ],
     "name:ces_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
+    "name:cym_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
     "name:dan_x_preferred":[
@@ -101,6 +110,9 @@
     "name:kor_x_preferred":[
         "\uce74\ud504\uc544\uc774\uc2dc\uc575"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ud504\uc544\uc774\ud2f0\uc5e5"
+    ],
     "name:lav_x_preferred":[
         "Kapaitj\u0113na"
     ],
@@ -149,6 +161,9 @@
     "name:swe_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
+    "name:szl_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0baa\u0bcd-\u0bb9\u0bc8\u0b9f\u0bcd\u0b9f\u0bbf\u0baf\u0bbf\u0ba9\u0bcd"
     ],
@@ -157,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e04\u0e1b\u0e40\u0e2e\u0e40\u0e0a\u0e35\u0e22\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e01\u0e32\u0e1b\u0e32\u0e2d\u0e35\u0e40\u0e0b\u0e35\u0e22\u0e07"
     ],
     "name:tur_x_preferred":[
         "Cap-Haitien"
@@ -323,7 +341,7 @@
         }
     ],
     "wof:id":421169155,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584197,
     "wof:name":"Cap-Ha\u00eftien",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

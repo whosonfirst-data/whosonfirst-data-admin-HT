@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0648\u0646\u062f\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Thomonde"
+    ],
     "name:eng_x_preferred":[
         "Thomonde"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:hat_x_preferred":[
         "Tomond"
+    ],
+    "name:hat_x_variant":[
+        "Tomonn"
     ],
     "name:ita_x_preferred":[
         "Thomonde"
@@ -41,6 +47,9 @@
         "Thomonde"
     ],
     "name:ron_x_preferred":[
+        "Thomonde"
+    ],
+    "name:spa_x_preferred":[
         "Thomonde"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1125940943,
-    "wof:lastmodified":1561749984,
+    "wof:lastmodified":1563584243,
     "wof:name":"Thomonde",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

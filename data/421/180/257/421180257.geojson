@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062a"
     ],
+    "name:ceb_x_preferred":[
+        "Pilate"
+    ],
     "name:eng_x_preferred":[
         "Pilate"
     ],
@@ -35,6 +38,9 @@
         "Pilate"
     ],
     "name:ron_x_preferred":[
+        "Pilate"
+    ],
+    "name:spa_x_preferred":[
         "Pilate"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421180257,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584199,
     "wof:name":"Pilate",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

@@ -18,6 +18,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u0628\u064a\u0644\u0627\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Chambellan"
+    ],
+    "name:deu_x_preferred":[
+        "Chambellan"
+    ],
     "name:eng_x_preferred":[
         "Chambellan"
     ],
@@ -40,6 +46,9 @@
         "Chambellan"
     ],
     "name:ron_x_preferred":[
+        "Chambellan"
+    ],
+    "name:spa_x_preferred":[
         "Chambellan"
     ],
     "name:swe_x_preferred":[
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":890445101,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584239,
     "wof:name":"Chambellan",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

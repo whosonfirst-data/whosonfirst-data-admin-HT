@@ -27,6 +27,9 @@
     "name:hat_x_preferred":[
         "Trou di N\u00f2"
     ],
+    "name:hat_x_variant":[
+        "Twou din\u00f2"
+    ],
     "name:ita_x_preferred":[
         "Trou-du-Nord"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u0440\u0443-\u0434\u044e-\u041d\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Trou-du-Nord"
     ],
     "name:unk_x_variant":[
         "Le Trou"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890445083,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584236,
     "wof:name":"Trou du Nord",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

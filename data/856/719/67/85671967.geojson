@@ -53,6 +53,9 @@
     "name:epo_x_preferred":[
         "Ouest"
     ],
+    "name:epo_x_variant":[
+        "Departemento Okcidento"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u063a\u0631\u0628\u06cc"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a94\u0a8f\u0ab8\u0acd\u0a9f"
+    ],
+    "name:hat_x_preferred":[
+        "Lw\u00e8s"
     ],
     "name:hin_x_preferred":[
         "\u090a\u090f\u0938\u094d\u091f"
@@ -83,11 +89,17 @@
     "name:jpn_x_preferred":[
         "\u30a6\u30a7\u30b9\u30c8"
     ],
+    "name:jpn_x_variant":[
+        "\u897f\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c93\u0caf\u0cc6\u0cb8\u0ccd\u0c9f\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc11c\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc11c\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Rietumi"
@@ -119,6 +131,9 @@
     "name:rus_x_preferred":[
         "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0413\u0430\u0438\u0442\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
+    ],
     "name:sin_x_preferred":[
         "\u0d96\u0d91\u0dc3\u0dca\u0da7\u0dca"
     ],
@@ -136,6 +151,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e04\u0e27\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e27\u0e47\u0e2a\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Ouest"
@@ -279,7 +297,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1561749952,
+    "wof:lastmodified":1563583118,
     "wof:name":"Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

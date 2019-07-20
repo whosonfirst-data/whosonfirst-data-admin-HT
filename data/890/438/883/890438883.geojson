@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0633\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Lazil"
+    ],
     "name:eng_x_preferred":[
         "L'Asile"
     ],
@@ -37,6 +40,9 @@
         "L'Asile"
     ],
     "name:ron_x_preferred":[
+        "L'Asile"
+    ],
+    "name:spa_x_preferred":[
         "L'Asile"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890438883,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584234,
     "wof:name":"L\u2019Asile",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

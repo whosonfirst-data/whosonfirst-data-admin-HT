@@ -27,6 +27,9 @@
     "name:hat_x_preferred":[
         "Grom\u00f2n"
     ],
+    "name:hat_x_variant":[
+        "Gwo M\u00f2n"
+    ],
     "name:ita_x_preferred":[
         "Gros-Morne"
     ],
@@ -37,6 +40,9 @@
         "Gros-Morne"
     ],
     "name:ron_x_preferred":[
+        "Gros-Morne"
+    ],
+    "name:spa_x_preferred":[
         "Gros-Morne"
     ],
     "qs:name":"Gros Morne",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890438885,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584235,
     "wof:name":"Gros Morne",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

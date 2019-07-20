@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09a8\u09be\u09ae\u09bf\u09a8\u09cd\u09a4\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Ouanaminthe"
+    ],
     "name:dan_x_preferred":[
         "Ouanaminthe"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421168267,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584189,
     "wof:name":"Ouanaminthe",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

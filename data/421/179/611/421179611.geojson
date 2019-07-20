@@ -43,6 +43,9 @@
     "name:ron_x_preferred":[
         "Anse-Rouge"
     ],
+    "name:spa_x_preferred":[
+        "Anse-Rouge"
+    ],
     "name:unk_x_variant":[
         "Ville de l\u2019Anse Rouge"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421179611,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584214,
     "wof:name":"Anse Rouge",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

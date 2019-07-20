@@ -39,6 +39,9 @@
     "name:ron_x_preferred":[
         "Terre-Neuve"
     ],
+    "name:spa_x_preferred":[
+        "Terre-Neuve"
+    ],
     "qs:name":"Terre Neuve",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890422935,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584223,
     "wof:name":"Terre Neuve",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

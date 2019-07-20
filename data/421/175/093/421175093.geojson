@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0633\u0643\u0627\u0647\u0648\u0628\u0627\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Lascahobas"
+    ],
     "name:deu_x_preferred":[
         "Lascahobas"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421175093,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584203,
     "wof:name":"Lascahobas",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

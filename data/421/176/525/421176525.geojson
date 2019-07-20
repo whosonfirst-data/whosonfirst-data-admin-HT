@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tiburon"
+    ],
+    "name:eng_x_preferred":[
+        "Tiburon"
+    ],
     "name:fra_x_preferred":[
         "Tiburon"
     ],
@@ -30,6 +36,9 @@
     ],
     "name:ron_x_preferred":[
         "Tiburon"
+    ],
+    "name:spa_x_preferred":[
+        "Tibur\u00f3n"
     ],
     "name:swe_x_preferred":[
         "Tiburon"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":421176525,
-    "wof:lastmodified":1527726479,
+    "wof:lastmodified":1563584222,
     "wof:name":"Tiburon",
     "wof:parent_id":1091686503,
     "wof:placetype":"locality",

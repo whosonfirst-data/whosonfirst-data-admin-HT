@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u064a\u0633\u0627\u0646\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Plaisance"
+    ],
     "name:eng_x_preferred":[
         "Plaisance"
     ],
@@ -35,6 +38,9 @@
         "Plaisance"
     ],
     "name:ron_x_preferred":[
+        "Plaisance"
+    ],
+    "name:spa_x_preferred":[
         "Plaisance"
     ],
     "name:swe_x_preferred":[
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":421168421,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584190,
     "wof:name":"Plaisance",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

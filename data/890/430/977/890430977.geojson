@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0631\u064a\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Ferrier"
+    ],
     "name:deu_x_preferred":[
         "Ferrier"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:hat_x_preferred":[
         "F\u00e8rye"
+    ],
+    "name:hat_x_variant":[
+        "Ferye"
     ],
     "name:ita_x_preferred":[
         "Ferrier"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890430977,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584227,
     "wof:name":"Ferrier",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

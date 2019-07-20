@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u064a\u0631\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Ennery"
+    ],
     "name:eng_x_preferred":[
         "Ennery"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:hat_x_preferred":[
         "Ennri"
+    ],
+    "name:hat_x_variant":[
+        "\u00c8nri"
     ],
     "name:ita_x_preferred":[
         "Ennery"
@@ -40,6 +46,9 @@
         "Ennery"
     ],
     "name:ron_x_preferred":[
+        "Ennery"
+    ],
+    "name:spa_x_preferred":[
         "Ennery"
     ],
     "name:swe_x_preferred":[
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":890430979,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584228,
     "wof:name":"Ennery",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

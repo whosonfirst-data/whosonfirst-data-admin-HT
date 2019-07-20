@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09bf\u099e\u09cd\u099a\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Hinche"
+    ],
     "name:dan_x_preferred":[
         "Hinche"
     ],
@@ -117,6 +120,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e19\u0e0a\u0e2d\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e2d\u0e47\u0e07\u0e0a\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Hinche"
@@ -264,7 +270,7 @@
         }
     ],
     "wof:id":890445093,
-    "wof:lastmodified":1561749984,
+    "wof:lastmodified":1563584241,
     "wof:name":"Hinche",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

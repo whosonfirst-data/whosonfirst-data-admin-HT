@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Nord-Ouest"
     ],
+    "name:ceb_x_preferred":[
+        "Nord-Ouest"
+    ],
     "name:dan_x_preferred":[
         "Nord-Ouest"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:epo_x_preferred":[
         "Nord-Ouest"
+    ],
+    "name:epo_x_variant":[
+        "Departemento Nord-Okcidento"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644 \u063a\u0631\u0628\u06cc"
@@ -127,6 +133,9 @@
     "name:spa_x_preferred":[
         "Departamento Noroeste"
     ],
+    "name:spa_x_variant":[
+        "Noroeste"
+    ],
     "name:swe_x_preferred":[
         "Nord-Ouest"
     ],
@@ -138,6 +147,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e2d\u0e23\u0e4c-\u0e41\u0e27\u0e2a\u0e15\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e2d\u0e23\u0e39\u0e41\u0e2d\u0e47\u0e2a\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Nord-Ouest"
@@ -282,7 +294,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1561749953,
+    "wof:lastmodified":1563583121,
     "wof:name":"Nord-Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

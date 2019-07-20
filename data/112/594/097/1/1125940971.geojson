@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0445\u0438\u043e\u0442\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Thiote"
+    ],
     "name:eng_x_preferred":[
         "Thiotte"
     ],
@@ -44,6 +47,9 @@
         "Thiotte"
     ],
     "name:ron_x_preferred":[
+        "Thiotte"
+    ],
+    "name:spa_x_preferred":[
         "Thiotte"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1125940971,
-    "wof:lastmodified":1561749984,
+    "wof:lastmodified":1563584243,
     "wof:name":"Thiote",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

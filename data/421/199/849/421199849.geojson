@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u062f\u0631\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Barad\u00e8res"
+    ],
+    "name:eng_x_preferred":[
+        "Barad\u00e8res"
+    ],
     "name:fra_x_preferred":[
         "Barrad\u00e8res"
     ],
@@ -33,6 +39,9 @@
     ],
     "name:ron_x_preferred":[
         "Barrad\u00e8res"
+    ],
+    "name:spa_x_preferred":[
+        "Barad\u00e8res"
     ],
     "name:swe_x_preferred":[
         "Barad\u00e8res"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":421199849,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1563584209,
     "wof:name":"Barad\u00e8res",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

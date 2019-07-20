@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b6\u09a8-\u09ad\u09bf\u09b2\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "P\u00e9tionville"
+    ],
     "name:dan_x_preferred":[
         "P\u00e9tionville"
     ],
@@ -100,11 +103,17 @@
     "name:rus_x_preferred":[
         "\u041f\u0435\u0442\u0438\u043e\u043d\u0432\u0438\u043b\u044c"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0435\u0442\u044c\u043e\u043d\u0432\u0438\u043b\u044c"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0dd9\u0da7\u0dd2\u0dba\u0ddd\u0db1\u0dca -\u0dc0\u0dd2\u0dbd\u0dd2"
     ],
     "name:spa_x_preferred":[
         "P\u00e9tionville"
+    ],
+    "name:spa_x_variant":[
+        "P\u00e9tion-Ville"
     ],
     "name:swe_x_preferred":[
         "P\u00e9tionville"
@@ -187,7 +196,7 @@
         }
     ],
     "wof:id":421168265,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584190,
     "wof:name":"P\u00e9tionville",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

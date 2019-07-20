@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Centre"
     ],
+    "name:ceb_x_preferred":[
+        "Centre"
+    ],
     "name:dan_x_preferred":[
         "Centre"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:epo_x_preferred":[
         "Centre"
+    ],
+    "name:epo_x_variant":[
+        "Departemento Centro"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0631\u06a9\u0632\u06cc"
@@ -97,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\uc559 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Centrs"
@@ -145,6 +154,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e23\u0e36\u0e04\u0e25\u0e32\u0e40\u0e23\u0e25\u0e35"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e47\u0e2d\u0e07\u0e17\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Centre"
@@ -289,7 +301,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1561749953,
+    "wof:lastmodified":1563583121,
     "wof:name":"Centre",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

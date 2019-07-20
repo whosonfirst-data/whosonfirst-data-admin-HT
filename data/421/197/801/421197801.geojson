@@ -16,8 +16,26 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0648\u0643\u0633 \u062f\u064a\u0633 \u0628\u0648\u0643\u064a\u062a\u0633"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cd\u09b0\u0987\u0995\u09cd\u09b8-\u09a6\u09c7\u09b8-\u09ac\u09c1\u0995\u09c7\u099f\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "Croix des Bouquets"
+    ],
+    "name:ces_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
     "name:dan_x_preferred":[
         "Croix-des-Bouqets"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03cc\u03b9\u03be-\u03bd\u03c4\u03b5\u03c2-\u039c\u03c0\u03bf\u03c5\u03ba\u03ad\u03c4\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:fin_x_preferred":[
+        "Croix-des-Bouquets"
     ],
     "name:fra_x_preferred":[
         "Croix-des-Bouquets"
@@ -25,8 +43,20 @@
     "name:fra_x_variant":[
         "Croix des Bouquets"
     ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0acb\u0a87\u0a95\u0acd\u0ab8-\u0aa1\u0ac7\u0ab8-\u0aac\u0ac1\u0a95\u0acd\u0ab5\u0ac7\u0a9f\u0acd\u0ab8"
+    ],
     "name:hat_x_preferred":[
         "Kwad\u00e8bouke"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d5\u05d9\u05e7\u05e1 \u05d3\u05d4 \u05d1\u05d5\u05e7\u05d8\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u0942\u0906 \u0926\u093f \u092c\u0942\u0915\u0947"
+    ],
+    "name:ind_x_preferred":[
+        "Croix-des-Bouquets"
     ],
     "name:ita_x_preferred":[
         "Croix-des-Bouquets"
@@ -34,7 +64,28 @@
     "name:jpn_x_preferred":[
         "\u30af\u30ed\u30ef\u30fb\u30c7\u30fb\u30d6\u30fc\u30b1"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0ccb\u0c95\u0ccd\u0cb8\u0ccd-\u0ca1\u0cc6\u0cb8\u0ccd-\u0cac\u0cca\u0c95\u0cc6\u0c9f\u0ccd\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub85c\uc775\uc2a4-\ub370\uc2a4-\ubd80\ucf00"
+    ],
+    "name:lav_x_preferred":[
+        "Kru\u0101debuke"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u0949\u0908\u0915\u094d\u0938-\u0921\u0947\u0938-\u092c\u0941\u0915\u0947\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
     "name:nld_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:nno_x_preferred":[
+        "Croix des Bouquets"
+    ],
+    "name:nob_x_preferred":[
         "Croix-des-Bouquets"
     ],
     "name:nor_x_preferred":[
@@ -49,10 +100,43 @@
     "name:ron_x_preferred":[
         "Croix-des-Bouquets"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0443\u0430-\u0434\u0435-\u0411\u0443\u043a\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u0dbb\u0ddd\u0d89\u0dc3\u0dca\u0d9a\u0dca\u0da9\u0dd9-\u0dc3\u0dca\u0db6\u0ddc-\u0d9a\u0dca\u0dba\u0dd4\u0da7\u0dca\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Croix-des-Bouquets"
     ],
+    "name:spa_x_variant":[
+        "La Croix-des-Bouquets"
+    ],
+    "name:swe_x_preferred":[
+        "Croix des Bouquets"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bca\u0baf\u0bcd\u0bb8\u0bcd-\u0ba4\u0bc7\u0bb8\u0bcd -\u0baa\u0bcb\u0baf\u0bc2\u0b9f\u0bcd\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c30\u0c4a\u0c2f\u0c3f\u0c15\u0c4d\u0c37\u0c4d-\u0c21\u0c46\u0c38\u0c4d-\u0c2c\u0c4a\u0c15\u0c47\u0c1f\u0c4d\u0c38\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32 \u0e04\u0e23\u0e31\u0e27 \u0e40\u0e14 \u0e01\u0e32\u0e23\u0e4c\u0e14"
+    ],
     "name:tur_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0443\u0430-\u0434\u0435-\u0411\u0443\u043a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0648\u06cc\u0632-\u062f\u06cc\u0633-\u0628\u0648\u0648\u0642\u0648\u06cc\u062a\u0633"
+    ],
+    "name:vie_x_preferred":[
         "Croix-des-Bouquets"
     ],
     "qs:gn_country":"HT",
@@ -105,7 +189,7 @@
         }
     ],
     "wof:id":421197801,
-    "wof:lastmodified":1527716407,
+    "wof:lastmodified":1563584208,
     "wof:name":"Croix des Bouquets",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

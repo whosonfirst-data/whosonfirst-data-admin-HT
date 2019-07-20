@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633 \u0625\u0631\u0648\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Les Irois"
+    ],
     "name:eng_x_preferred":[
         "Les Irois"
     ],
@@ -40,6 +43,9 @@
         "Les Irois"
     ],
     "name:ron_x_preferred":[
+        "Les Irois"
+    ],
+    "name:spa_x_preferred":[
         "Les Irois"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890438879,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584234,
     "wof:name":"Les Irois",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

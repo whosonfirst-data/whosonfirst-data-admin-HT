@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u0993\u0997\u09c7\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "L\u00e9og\u00e2ne"
+    ],
     "name:dan_x_preferred":[
         "L\u00e9og\u00e2ne"
     ],
@@ -102,6 +105,9 @@
     "name:spa_x_preferred":[
         "Leog\u00e1ne"
     ],
+    "name:spa_x_variant":[
+        "L\u00e9og\u00e2ne"
+    ],
     "name:swe_x_preferred":[
         "L\u00e9og\u00e2ne"
     ],
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":890438881,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584233,
     "wof:name":"L\u00e9og\u00e2ne",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

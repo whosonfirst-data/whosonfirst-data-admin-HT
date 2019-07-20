@@ -27,6 +27,9 @@
     "name:hat_x_preferred":[
         "Mont\u00f2rganize"
     ],
+    "name:hat_x_variant":[
+        "Mont\u00f2ganize"
+    ],
     "name:ita_x_preferred":[
         "Mont-Organis\u00e9"
     ],
@@ -37,6 +40,9 @@
         "Mont-Organis\u00e9"
     ],
     "name:ron_x_preferred":[
+        "Mont-Organis\u00e9"
+    ],
+    "name:spa_x_preferred":[
         "Mont-Organis\u00e9"
     ],
     "name:unk_x_variant":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890437215,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584231,
     "wof:name":"Mont Organis\u00e9",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

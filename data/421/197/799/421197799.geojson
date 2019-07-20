@@ -16,11 +16,17 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u0633\u0643\u0648\u0641"
     ],
+    "name:ceb_x_preferred":[
+        "Kenscoff"
+    ],
     "name:deu_x_preferred":[
         "Kenscoff"
     ],
     "name:eng_x_preferred":[
         "Kenscoff"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0646\u0632\u06a9\u0627\u0641"
     ],
     "name:fra_x_preferred":[
         "Kenscoff"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421197799,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584206,
     "wof:name":"Kenscoff",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

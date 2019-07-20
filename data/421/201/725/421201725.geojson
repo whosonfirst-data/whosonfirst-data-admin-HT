@@ -40,6 +40,9 @@
     "name:ron_x_preferred":[
         "Port-Margot"
     ],
+    "name:spa_x_preferred":[
+        "Port-Margot"
+    ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3718411,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421201725,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584211,
     "wof:name":"Port Margot",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

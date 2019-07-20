@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u0633 \u0628\u064a\u062a\u0631\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Anse-\u00e0-Pitre"
+    ],
     "name:eng_x_preferred":[
         "Anse-\u00e0-Pitres"
     ],
@@ -34,6 +37,9 @@
     "name:ita_x_preferred":[
         "Anse-\u00e0-Pitres"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b5\u30d4\u30c3\u30c8"
+    ],
     "name:nld_x_preferred":[
         "Anse-\u00e0-Pitre"
     ],
@@ -46,8 +52,14 @@
     "name:rus_x_preferred":[
         "\u0410\u043d\u0441-\u0430-\u041f\u0438\u0442\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Anse-\u00e0-Pitre"
+    ],
     "name:swe_x_preferred":[
         "Anse-\u00e0-Pitre"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0441-\u0430-\u041f\u0456\u0442\u0440"
     ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421179613,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584216,
     "wof:name":"Anse-\u00c0-Pitres",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

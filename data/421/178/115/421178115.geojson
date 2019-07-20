@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u09b0\u09bf\u09bf\u09ab\u09cb\u09b0"
     ],
+    "name:ceb_x_preferred":[
+        "Carrefour"
+    ],
     "name:dan_x_preferred":[
         "Carrefour"
     ],
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421178115,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584218,
     "wof:name":"Carrefour",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

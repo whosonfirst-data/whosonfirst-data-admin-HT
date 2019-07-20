@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Nord"
     ],
+    "name:ceb_x_preferred":[
+        "Nord"
+    ],
     "name:dan_x_preferred":[
         "Nord"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:epo_x_preferred":[
         "Nord"
+    ],
+    "name:epo_x_variant":[
+        "Departemento Nordo"
     ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644\u06cc"
@@ -92,6 +98,9 @@
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubd81\ubd80\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Zieme\u013ci"
     ],
@@ -128,6 +137,9 @@
     "name:spa_x_preferred":[
         "Departamento Norte"
     ],
+    "name:spa_x_variant":[
+        "Norte"
+    ],
     "name:swe_x_preferred":[
         "Nord"
     ],
@@ -139,6 +151,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e2d\u0e23\u0e4c\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Nord"
@@ -281,7 +296,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1561749952,
+    "wof:lastmodified":1563583115,
     "wof:name":"Nord",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

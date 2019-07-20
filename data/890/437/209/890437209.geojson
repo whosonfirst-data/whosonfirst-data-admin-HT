@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u064a\u0648\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Pignon"
+    ],
     "name:eng_x_preferred":[
         "Pignon"
     ],
@@ -40,6 +43,9 @@
         "Pignon"
     ],
     "name:ron_x_preferred":[
+        "Pignon"
+    ],
+    "name:spa_x_preferred":[
         "Pignon"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890437209,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584231,
     "wof:name":"Pignon",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

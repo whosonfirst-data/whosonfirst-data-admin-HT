@@ -17,8 +17,20 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u064a\u0645\u064a"
     ],
+    "name:ast_x_preferred":[
+        "J\u00e9r\u00e9mie"
+    ],
+    "name:aze_x_preferred":[
+        "Jeremi"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c7\u09b0\u09c7\u09ae\u09bf"
+    ],
+    "name:ceb_x_preferred":[
+        "J\u00e9r\u00e9mie"
+    ],
+    "name:cym_x_preferred":[
+        "J\u00e9r\u00e9mie"
     ],
     "name:dan_x_preferred":[
         "J\u00e9r\u00e9mie"
@@ -124,6 +136,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e08\u0e40\u0e23\u0e21\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e0c\u0e40\u0e23\u0e21\u0e35"
     ],
     "name:tur_x_preferred":[
         "Jeremie"
@@ -285,7 +300,7 @@
         }
     ],
     "wof:id":421201191,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584211,
     "wof:name":"J\u00e9r\u00e9mie",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

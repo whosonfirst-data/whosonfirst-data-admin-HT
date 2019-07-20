@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u062a\u0634\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Perches"
+    ],
     "name:eng_x_preferred":[
         "Perches"
     ],
@@ -37,6 +40,9 @@
         "Perches"
     ],
     "name:ron_x_preferred":[
+        "Perches"
+    ],
+    "name:spa_x_preferred":[
         "Perches"
     ],
     "name:swe_x_preferred":[
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890437211,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584230,
     "wof:name":"Perches",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

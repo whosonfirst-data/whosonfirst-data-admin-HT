@@ -50,6 +50,9 @@
     "name:epo_x_preferred":[
         "Nord-Est"
     ],
+    "name:epo_x_variant":[
+        "Departemento Nord-Oriento"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u0627\u0644 \u0634\u0631\u0642\u06cc"
     ],
@@ -125,6 +128,9 @@
     "name:spa_x_preferred":[
         "Departamento Nordeste"
     ],
+    "name:spa_x_variant":[
+        "Noreste"
+    ],
     "name:swe_x_preferred":[
         "Nord-Est"
     ],
@@ -136,6 +142,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e19\u0e2d\u0e23\u0e4c\u0e14\u0e40\u0e2d\u0e2a\u0e17\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e2d\u0e41\u0e23\u0e47\u0e2a\u0e15\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Nord-Est"
@@ -280,7 +289,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1561749952,
+    "wof:lastmodified":1563583116,
     "wof:name":"Nord-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

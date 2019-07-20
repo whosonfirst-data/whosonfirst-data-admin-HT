@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09b2\u09ae\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Delmas"
+    ],
     "name:dan_x_preferred":[
         "Delmas"
     ],
@@ -99,6 +102,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043b\u044c\u043c\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0414\u0435\u043b\u044c\u043c\u0430\u0441"
     ],
     "name:sin_x_preferred":[
         "\u0da9\u0dd9\u0dbd\u0dca\u0db8\u0dcf\u0dc3\u0dca"
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":421179835,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584216,
     "wof:name":"Delmas",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",
