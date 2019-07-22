@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0648\u062a"
     ],
+    "name:ceb_x_preferred":[
+        "Milot"
+    ],
     "name:deu_x_preferred":[
         "Milot"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0438\u043b\u043e\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Milot"
     ],
     "name:swe_x_preferred":[
         "Milot"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421194349,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584194,
     "wof:name":"Milot",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

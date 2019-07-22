@@ -13,17 +13,104 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
     "name:ara_x_preferred":[
         "\u0645\u0648\u0644 \u0633\u0627\u0646\u062a \u0646\u064a\u0643\u0648\u0644\u0627\u0633"
     ],
+    "name:arg_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ast_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:bar_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:bre_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:cat_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ceb_x_preferred":[
+        "M\u00f4le Saint-Nicolas"
+    ],
+    "name:ces_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:cos_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:cym_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:dan_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
     "name:eng_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:epo_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:est_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:eus_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:fin_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
     "name:fra_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
+    "name:frp_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:fur_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:gla_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:glg_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:gsw_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
     "name:hat_x_preferred":[
         "M\u00f2l Sen Nikola"
+    ],
+    "name:hrv_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:hun_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ido_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ile_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ina_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ind_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:isl_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
     ],
     "name:ita_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
@@ -31,13 +118,85 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30fc\u30eb\u30fb\u30b5\u30f3\uff1d\u30cb\u30b3\u30e9"
     ],
+    "name:kon_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:lij_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:lim_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:ltz_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:min_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:mlg_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:msa_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:nap_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:nds_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
     "name:nld_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:nob_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:nrm_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:oci_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:pcd_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:pms_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:pol_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
     "name:por_x_preferred":[
         "M\u00f4le Saint-Nicolas"
     ],
+    "name:roh_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
     "name:ron_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:scn_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:sco_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:slv_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:srd_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:swa_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
     "name:swe_x_preferred":[
@@ -45,6 +204,27 @@
     ],
     "name:unk_x_variant":[
         "Le M\u00f4le"
+    ],
+    "name:vec_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:vie_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:vls_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:vol_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:wln_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:wol_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
+    "name:zul_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
     ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -94,7 +274,7 @@
         }
     ],
     "wof:id":421201303,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584212,
     "wof:name":"M\u00f4le St.-Nicolas",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

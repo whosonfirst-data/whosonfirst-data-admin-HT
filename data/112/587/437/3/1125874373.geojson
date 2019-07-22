@@ -46,6 +46,9 @@
     "name:ron_x_preferred":[
         "Dame-Marie"
     ],
+    "name:spa_x_preferred":[
+        "Dame-Marie"
+    ],
     "name:unk_x_variant":[
         "Ville de Dame Marie"
     ],
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1125874373,
-    "wof:lastmodified":1561749984,
+    "wof:lastmodified":1563584244,
     "wof:name":"Dame-Marie",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

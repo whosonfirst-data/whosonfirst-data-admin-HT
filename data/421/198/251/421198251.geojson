@@ -43,6 +43,9 @@
     "name:ron_x_preferred":[
         "Plaine-du-Nord"
     ],
+    "name:spa_x_preferred":[
+        "Plaine-du-Nord"
+    ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3718707,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421198251,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584204,
     "wof:name":"Plaine du Nord",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

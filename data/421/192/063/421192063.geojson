@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u0646\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Borgne"
+    ],
     "name:eng_x_preferred":[
         "Borgne"
     ],
@@ -38,6 +41,9 @@
         "Borgne"
     ],
     "name:ron_x_preferred":[
+        "Borgne"
+    ],
+    "name:spa_x_preferred":[
         "Borgne"
     ],
     "name:swe_x_preferred":[
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421192063,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584191,
     "wof:name":"Le Borgne",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

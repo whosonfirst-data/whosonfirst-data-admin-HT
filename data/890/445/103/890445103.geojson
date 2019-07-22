@@ -39,6 +39,9 @@
     "name:ron_x_preferred":[
         "Cayes-Jacmel"
     ],
+    "name:spa_x_preferred":[
+        "Cayes-Jacmel"
+    ],
     "name:unk_x_variant":[
         "Cayes de Jacmel"
     ],
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890445103,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584235,
     "wof:name":"Cayes Jacmel",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

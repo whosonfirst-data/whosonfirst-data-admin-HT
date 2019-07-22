@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u064a\u0643\u0648\u062a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Abricots"
+    ],
     "name:eng_x_preferred":[
         "Abricots"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:ron_x_preferred":[
         "Abricots"
+    ],
+    "name:spa_x_preferred":[
+        "Los Albaricoques"
     ],
     "name:swe_x_preferred":[
         "Abricots"
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":890430991,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584227,
     "wof:name":"Abricots",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

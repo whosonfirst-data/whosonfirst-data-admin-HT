@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0633\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Gressier"
+    ],
     "name:dan_x_preferred":[
         "Gressier"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421198253,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584205,
     "wof:name":"Gressier",
     "wof:parent_id":85671967,
     "wof:placetype":"locality",

@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u0628\u064a\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Torbeck"
+    ],
+    "name:eng_x_preferred":[
+        "Torbeck"
+    ],
     "name:fra_x_preferred":[
         "Torbeck"
     ],
@@ -25,6 +31,9 @@
     "name:ita_x_preferred":[
         "Torbeck"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30fc\u30d9\u30c3\u30af"
+    ],
     "name:nld_x_preferred":[
         "Torbeck"
     ],
@@ -32,6 +41,9 @@
         "Torbeck"
     ],
     "name:ron_x_preferred":[
+        "Torbeck"
+    ],
+    "name:spa_x_preferred":[
         "Torbeck"
     ],
     "name:swe_x_preferred":[
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":421204647,
-    "wof:lastmodified":1527716185,
+    "wof:lastmodified":1563584197,
     "wof:name":"Torbeck",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0646\u0643\u0648\u062a"
     ],
+    "name:ceb_x_preferred":[
+        "Ranquitte"
+    ],
     "name:cpe_x_preferred":[
         "Rankit"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421180255,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584201,
     "wof:name":"Ranquitte",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

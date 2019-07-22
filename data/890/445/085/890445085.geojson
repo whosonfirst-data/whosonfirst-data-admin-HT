@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f-\u09ae\u09be\u09b0\u09cd\u0995"
     ],
+    "name:ceb_x_preferred":[
+        "Saint-Marc"
+    ],
     "name:dan_x_preferred":[
         "Saint-Marc"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":890445085,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584236,
     "wof:name":"Saint-Marc",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

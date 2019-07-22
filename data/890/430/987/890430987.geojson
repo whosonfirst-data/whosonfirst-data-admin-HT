@@ -39,6 +39,12 @@
     "name:ron_x_preferred":[
         "Baie-de-Henne"
     ],
+    "name:spa_x_preferred":[
+        "Baie-de-Henne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043d\u043d\u0440\u0456"
+    ],
     "name:unk_x_variant":[
         "Henne"
     ],
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890430987,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584228,
     "wof:name":"Baie de Henne",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

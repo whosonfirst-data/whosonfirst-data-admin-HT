@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0645\u0627\u0633\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Thomassique"
+    ],
     "name:deu_x_preferred":[
         "Thomassique"
     ],
@@ -38,6 +41,9 @@
         "Thomassique"
     ],
     "name:ron_x_preferred":[
+        "Thomassique"
+    ],
+    "name:spa_x_preferred":[
         "Thomassique"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421193091,
-    "wof:lastmodified":1561749980,
+    "wof:lastmodified":1563584195,
     "wof:name":"Thomassique",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

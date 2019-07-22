@@ -27,6 +27,9 @@
     "name:hat_x_preferred":[
         "Kan Peren"
     ],
+    "name:hat_x_variant":[
+        "Kanperen"
+    ],
     "name:ita_x_preferred":[
         "Camp-Perrin"
     ],
@@ -37,6 +40,9 @@
         "Camp-Perrin"
     ],
     "name:ron_x_preferred":[
+        "Camp-Perrin"
+    ],
+    "name:spa_x_preferred":[
         "Camp-Perrin"
     ],
     "qs:name":"Camp Perrin",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890432565,
-    "wof:lastmodified":1561749984,
+    "wof:lastmodified":1563584241,
     "wof:name":"Camp Perrin",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0628\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Lenbe"
+    ],
     "name:eng_x_preferred":[
         "Limb\u00e9"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0431\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Limb\u00e9"
     ],
     "name:swe_x_preferred":[
         "Lenbe"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421197793,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1563584207,
     "wof:name":"Limb\u00e9",
     "wof:parent_id":1091687057,
     "wof:placetype":"locality",

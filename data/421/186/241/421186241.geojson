@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a \u0622\u0646\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Belle-Anse"
+    ],
+    "name:eng_x_preferred":[
+        "Belle-Anse"
+    ],
     "name:fra_x_preferred":[
         "Belle-Anse"
     ],
@@ -35,6 +41,9 @@
         "Belle-Anse"
     ],
     "name:ron_x_preferred":[
+        "Belle-Anse"
+    ],
+    "name:spa_x_preferred":[
         "Belle-Anse"
     ],
     "name:swe_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421186241,
-    "wof:lastmodified":1527716316,
+    "wof:lastmodified":1563584202,
     "wof:name":"Belle-Anse",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

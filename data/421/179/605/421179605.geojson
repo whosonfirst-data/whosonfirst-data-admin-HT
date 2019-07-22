@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0646\u062f\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Dondon"
+    ],
     "name:eng_x_preferred":[
         "Dondon"
     ],
@@ -35,6 +38,9 @@
         "Dondon"
     ],
     "name:ron_x_preferred":[
+        "Dondon"
+    ],
+    "name:spa_x_preferred":[
         "Dondon"
     ],
     "name:swe_x_preferred":[
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421179605,
-    "wof:lastmodified":1561749982,
+    "wof:lastmodified":1563584215,
     "wof:name":"Dondon",
     "wof:parent_id":1091686895,
     "wof:placetype":"locality",

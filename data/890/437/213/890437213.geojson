@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u0648\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Moron"
+    ],
     "name:eng_x_preferred":[
         "Moron"
     ],
@@ -26,6 +29,9 @@
     ],
     "name:hat_x_preferred":[
         "Monwon"
+    ],
+    "name:hat_x_variant":[
+        "Mowon"
     ],
     "name:ita_x_preferred":[
         "Moron"
@@ -40,6 +46,9 @@
         "Moron"
     ],
     "name:ron_x_preferred":[
+        "Moron"
+    ],
+    "name:spa_x_preferred":[
         "Moron"
     ],
     "name:swe_x_preferred":[
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890437213,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584231,
     "wof:name":"Moron",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

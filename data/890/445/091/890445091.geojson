@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09cd\u09af\u09be\u0995\u09ae\u09c7\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Jacmel"
+    ],
     "name:che_x_preferred":[
         "\u0416\u0430\u043a\u043c\u0435\u043b\u044c"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b1\u03ba\u03bc\u03ad\u03bb"
+    ],
+    "name:ell_x_variant":[
+        "\u0396\u03b1\u03ba\u03bc\u03ad\u03bb"
     ],
     "name:eng_x_preferred":[
         "Jacmel"
@@ -54,6 +60,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d6\u05d0\u05e7\u05de\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05d6'\u05d0\u05e7\u05de\u05dc"
     ],
     "name:hin_x_preferred":[
         "\u091c\u0915\u092e\u0947\u0932"
@@ -124,6 +133,9 @@
     "name:spa_x_preferred":[
         "Y\u00e1quimo"
     ],
+    "name:spa_x_variant":[
+        "Jacmel"
+    ],
     "name:swe_x_preferred":[
         "Jacmel"
     ],
@@ -135,6 +147,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e08\u0e04\u0e40\u0e21\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0c\u0e31\u0e01\u0e41\u0e21\u0e25"
     ],
     "name:tur_x_preferred":[
         "Jacmel"
@@ -282,7 +297,7 @@
         }
     ],
     "wof:id":890445091,
-    "wof:lastmodified":1561749983,
+    "wof:lastmodified":1563584237,
     "wof:name":"Jacmel",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",
