@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Julien"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u043b\u044c\u0435\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0443\u043b\u0456\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293866887,
-    "wof:lastmodified":1537626065,
+    "wof:lastmodified":1564156118,
     "wof:name":"Julien",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

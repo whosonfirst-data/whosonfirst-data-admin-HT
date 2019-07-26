@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dalmas"
+    ],
+    "name:fra_x_preferred":[
+        "Dalmas"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30eb\u30de\u30b9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u043b\u044c\u043c\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1293710419,
-    "wof:lastmodified":1536962942,
+    "wof:lastmodified":1564155962,
     "wof:name":"Dalmas",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

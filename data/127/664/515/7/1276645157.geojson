@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Rose"
+    ],
     "name:fra_x_preferred":[
         "La Rose"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276645157,
-    "wof:lastmodified":1537626052,
+    "wof:lastmodified":1564156280,
     "wof:name":"La Rose",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

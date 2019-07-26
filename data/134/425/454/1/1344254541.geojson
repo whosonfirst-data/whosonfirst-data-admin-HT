@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Molette"
+    ],
+    "name:fra_x_preferred":[
+        "Molette"
+    ],
     "name:und_x_variant":[
         "Mozette",
         "Molette"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1344254541,
-    "wof:lastmodified":1537626027,
+    "wof:lastmodified":1564155679,
     "wof:name":"Molette",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

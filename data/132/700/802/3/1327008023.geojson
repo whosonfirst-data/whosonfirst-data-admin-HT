@@ -26,6 +26,87 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Morette"
+    ],
+    "name:ceb_x_preferred":[
+        "Morette"
+    ],
+    "name:deu_x_preferred":[
+        "Morette"
+    ],
+    "name:eus_x_preferred":[
+        "Morette"
+    ],
+    "name:fra_x_preferred":[
+        "Morette"
+    ],
+    "name:hun_x_preferred":[
+        "Morette"
+    ],
+    "name:ita_x_preferred":[
+        "Morette"
+    ],
+    "name:lat_x_preferred":[
+        "Morette"
+    ],
+    "name:lmo_x_preferred":[
+        "Morette"
+    ],
+    "name:mlg_x_preferred":[
+        "Morette"
+    ],
+    "name:msa_x_preferred":[
+        "Morette"
+    ],
+    "name:nld_x_preferred":[
+        "Morette"
+    ],
+    "name:oci_x_preferred":[
+        "Morette"
+    ],
+    "name:pms_x_preferred":[
+        "Morette"
+    ],
+    "name:pol_x_preferred":[
+        "Morette"
+    ],
+    "name:por_x_preferred":[
+        "Morette"
+    ],
+    "name:ron_x_preferred":[
+        "Morette"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Morette"
+    ],
+    "name:spa_x_preferred":[
+        "Morette"
+    ],
+    "name:swe_x_preferred":[
+        "Morette"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u0435\u0442\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Morette"
+    ],
+    "name:vie_x_preferred":[
+        "Morette"
+    ],
+    "name:vol_x_preferred":[
+        "Morette"
+    ],
+    "name:war_x_preferred":[
+        "Morette"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u96f7\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +130,7 @@
         }
     ],
     "wof:id":1327008023,
-    "wof:lastmodified":1536795943,
+    "wof:lastmodified":1564155423,
     "wof:name":"Morette",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

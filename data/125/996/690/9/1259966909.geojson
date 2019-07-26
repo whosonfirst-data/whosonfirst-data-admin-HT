@@ -26,7 +26,34 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Patricie"
+    ],
+    "name:deu_x_preferred":[
+        "Patrice"
+    ],
     "name:fra_x_preferred":[
+        "Patrice"
+    ],
+    "name:hat_x_preferred":[
+        "Patrice"
+    ],
+    "name:hun_x_preferred":[
+        "Patr\u00edcia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c8\u30ea\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ud2b8\ub9ac\uc2a4"
+    ],
+    "name:pol_x_preferred":[
+        "Patrycja"
+    ],
+    "name:slk_x_preferred":[
+        "Patr\u00edcia"
+    ],
+    "name:swe_x_preferred":[
         "Patrice"
     ],
     "src:geom":"geonames",
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1259966909,
-    "wof:lastmodified":1537626008,
+    "wof:lastmodified":1564157345,
     "wof:name":"Patrice",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

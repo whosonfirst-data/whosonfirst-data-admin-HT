@@ -26,8 +26,20 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Marinette"
+    ],
     "name:fra_x_preferred":[
         "Marinette"
+    ],
+    "name:pol_x_preferred":[
+        "Marinette"
+    ],
+    "name:por_x_preferred":[
+        "Marinette"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u043d\u0435\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242865843,
-    "wof:lastmodified":1537626033,
+    "wof:lastmodified":1564157126,
     "wof:name":"Marinette",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

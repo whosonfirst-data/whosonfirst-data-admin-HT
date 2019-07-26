@@ -26,6 +26,117 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ady_x_preferred":[
+        "\u041a\u04c0\u044b\u0449"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0624\u06cc\u0645\u0647"
+    ],
+    "name:aze_x_preferred":[
+        "D\u00f6ym\u0259"
+    ],
+    "name:bre_x_preferred":[
+        "Govel"
+    ],
+    "name:cat_x_preferred":[
+        "Farga"
+    ],
+    "name:ces_x_preferred":[
+        "Kov\u00e1rna"
+    ],
+    "name:chv_x_preferred":[
+        "\u0422\u0438\u043c\u0115\u0440\u00e7\u0115 \u043b\u0430\u00e7\u00e7\u0438"
+    ],
+    "name:dan_x_preferred":[
+        "Smedje"
+    ],
+    "name:deu_x_preferred":[
+        "Schmiede"
+    ],
+    "name:epo_x_preferred":[
+        "For\u011dejo"
+    ],
+    "name:est_x_preferred":[
+        "Sepikoda"
+    ],
+    "name:eus_x_preferred":[
+        "Forjaketa"
+    ],
+    "name:fin_x_preferred":[
+        "Paja"
+    ],
+    "name:fra_x_preferred":[
+        "Forge"
+    ],
+    "name:hrv_x_preferred":[
+        "Kova\u010dka vatra"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0580\u0562\u0576\u0578\u0581"
+    ],
+    "name:ita_x_preferred":[
+        "Fucina"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ed\u10d4\u10d3\u10d5\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub300\uc7a5\uac04"
+    ],
+    "name:lav_x_preferred":[
+        "Kalve"
+    ],
+    "name:lit_x_preferred":[
+        "Kalv\u0117"
+    ],
+    "name:lmo_x_preferred":[
+        "Forgia"
+    ],
+    "name:ltz_x_preferred":[
+        "Schm\u00ebdd"
+    ],
+    "name:nld_x_preferred":[
+        "Smederij"
+    ],
+    "name:nno_x_preferred":[
+        "Smie"
+    ],
+    "name:nor_x_preferred":[
+        "Smie"
+    ],
+    "name:oci_x_preferred":[
+        "Farga"
+    ],
+    "name:pol_x_preferred":[
+        "Ku\u017ania"
+    ],
+    "name:por_x_preferred":[
+        "Forja"
+    ],
+    "name:que_x_preferred":[
+        "Q'illay takay"
+    ],
+    "name:ron_x_preferred":[
+        "Fier\u0103rie"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u0438\u0446\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Fragua"
+    ],
+    "name:swe_x_preferred":[
+        "Smedja"
+    ],
+    "name:tat_x_preferred":[
+        "\u0422\u0438\u043c\u0435\u0440\u043b\u0435\u043a"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0437\u043d\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u7194\u7089"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +160,7 @@
         }
     ],
     "wof:id":1226140615,
-    "wof:lastmodified":1537081981,
+    "wof:lastmodified":1564157615,
     "wof:name":"Forge",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

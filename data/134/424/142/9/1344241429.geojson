@@ -26,7 +26,13 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Joly"
+    ],
     "name:fra_x_preferred":[
+        "Joly"
+    ],
+    "name:pol_x_preferred":[
         "Joly"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1344241429,
-    "wof:lastmodified":1537626065,
+    "wof:lastmodified":1564155702,
     "wof:name":"Joly",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

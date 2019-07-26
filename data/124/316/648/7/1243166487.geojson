@@ -27,6 +27,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u062f\u0644\u0633(\u0628\u0646\u062f\u0631\u0645\u0627\u0647\u0634\u0647\u0631)"
+    ],
     "name:und_x_variant":[
         "Dallas",
         "Dalas"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243166487,
-    "wof:lastmodified":1537626108,
+    "wof:lastmodified":1564157300,
     "wof:name":"Dalas",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

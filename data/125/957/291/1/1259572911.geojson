@@ -26,8 +26,14 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Robillard"
+    ],
     "name:fra_x_preferred":[
         "Robillard"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0431\u0438\u043b\u043b\u0430\u0440\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259572911,
-    "wof:lastmodified":1537625993,
+    "wof:lastmodified":1564157428,
     "wof:name":"Robillard",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

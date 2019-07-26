@@ -30,12 +30,81 @@
     "mps:longitude":-73.830109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0644\u064a\u0633 \u0643\u0627\u064a\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:dan_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:deu_x_preferred":[
+        "Les Cayes"
+    ],
     "name:eng_x_preferred":[
         "les Cayes"
     ],
     "name:eng_x_variant":[
         "Cayes",
         "les Cayes"
+    ],
+    "name:est_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0647 \u06a9\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:hat_x_preferred":[
+        "Okay"
+    ],
+    "name:ita_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30ab\u30a4"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\uce74\uc774"
+    ],
+    "name:lit_x_preferred":[
+        "Le Kajus"
+    ],
+    "name:nld_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:nno_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:nor_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:pol_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:por_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:ron_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435-\u041a\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Los Cayos"
+    ],
+    "name:swe_x_preferred":[
+        "Les Cayes"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435-\u041a\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06d2 \u0633\u0627\u0626\u06cc\u0633"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +141,7 @@
         }
     ],
     "wof:id":1091686479,
-    "wof:lastmodified":1553717897,
+    "wof:lastmodified":1564156981,
     "wof:name":"les Cayes",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

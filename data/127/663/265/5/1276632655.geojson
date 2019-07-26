@@ -26,6 +26,39 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Antoine"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u062a\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Antoine"
+    ],
+    "name:ita_x_preferred":[
+        "Antoine"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30c8\u30ef\u30fc\u30cc"
+    ],
+    "name:nld_x_preferred":[
+        "Antoine"
+    ],
+    "name:pol_x_preferred":[
+        "Antoine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Antoine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0442\u0443\u0430\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6258\u4e07"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1276632655,
-    "wof:lastmodified":1536874034,
+    "wof:lastmodified":1564156292,
     "wof:name":"Antoine",
     "wof:parent_id":1091687329,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Feu"
+    ],
+    "name:wln_x_preferred":[
+        "Mot\u00ee:feu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310680417,
-    "wof:lastmodified":1536664641,
+    "wof:lastmodified":1564156868,
     "wof:name":"Feu",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

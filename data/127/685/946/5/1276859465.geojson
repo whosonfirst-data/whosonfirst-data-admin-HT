@@ -30,6 +30,9 @@
         "Carrefour Lafiteau",
         "Lafiteau"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0641\u06cc\u0679\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1276859465,
-    "wof:lastmodified":1537626059,
+    "wof:lastmodified":1564156250,
     "wof:name":"Lafiteau",
     "wof:parent_id":1091686327,
     "wof:placetype":"locality",

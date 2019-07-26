@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Raymond"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259459939,
-    "wof:lastmodified":1536892353,
+    "wof:lastmodified":1564157481,
     "wof:name":"Raymond",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

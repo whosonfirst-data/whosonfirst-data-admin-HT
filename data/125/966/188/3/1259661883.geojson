@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Belo"
+    ],
+    "name:ita_x_preferred":[
+        "Belo"
+    ],
+    "name:swe_x_preferred":[
+        "Belo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1259661883,
-    "wof:lastmodified":1537094905,
+    "wof:lastmodified":1564157445,
     "wof:name":"Belo",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

@@ -26,8 +26,14 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cormier"
+    ],
     "name:fra_x_preferred":[
         "Cormier"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043c\u044c\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243258475,
-    "wof:lastmodified":1537626111,
+    "wof:lastmodified":1564157205,
     "wof:name":"Cormier",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

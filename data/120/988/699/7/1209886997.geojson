@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Marfranc"
+    ],
+    "name:hat_x_preferred":[
+        "Mafran"
+    ],
+    "name:spa_x_preferred":[
+        "Marfranc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209886997,
-    "wof:lastmodified":1537563332,
+    "wof:lastmodified":1564156553,
     "wof:name":"Marfranc",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Delmas"
+    ],
+    "name:deu_x_preferred":[
+        "Delmas"
+    ],
+    "name:fra_x_preferred":[
+        "Delmas"
+    ],
+    "name:nld_x_preferred":[
+        "Delmas"
+    ],
+    "name:pol_x_preferred":[
+        "Delmas"
+    ],
+    "name:spa_x_preferred":[
+        "Delmas"
+    ],
+    "name:swe_x_preferred":[
+        "Delmas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043b\u044c\u043c\u0430\u0441"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1259456117,
-    "wof:lastmodified":1536898127,
+    "wof:lastmodified":1564157480,
     "wof:name":"Delmas",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

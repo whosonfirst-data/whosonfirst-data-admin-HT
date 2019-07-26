@@ -26,8 +26,116 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Baguette"
+    ],
+    "name:ara_x_preferred":[
+        "\u062e\u0628\u0632 \u0641\u0631\u0646\u0633\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Baget \u00e7\u00f6r\u0259yi"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0456 \u0431\u0430\u0433\u0435\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Baguet"
+    ],
+    "name:ces_x_preferred":[
+        "Bageta"
+    ],
+    "name:chv_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0441 \u0431\u0430\u0433\u0435\u0447\u0115"
+    ],
+    "name:dan_x_preferred":[
+        "Baguette"
+    ],
+    "name:deu_x_preferred":[
+        "Baguette"
+    ],
+    "name:epo_x_preferred":[
+        "Bastonpano"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06af\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Patonki"
+    ],
     "name:fra_x_preferred":[
         "Baguette"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d2\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Baguette"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0580\u0561\u0576\u057d\u056b\u0561\u056f\u0561\u0576 \u0562\u0561\u0563\u0565\u057f"
+    ],
+    "name:ind_x_preferred":[
+        "Baguette"
+    ],
+    "name:ita_x_preferred":[
+        "Baguette"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30e9\u30f3\u30b9\u30d1\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uac8c\ud2b8"
+    ],
+    "name:lfn_x_preferred":[
+        "Bagete"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0433\u0435\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Baguette"
+    ],
+    "name:nld_x_preferred":[
+        "Stokbrood"
+    ],
+    "name:nno_x_preferred":[
+        "Bagett"
+    ],
+    "name:nor_x_preferred":[
+        "Baguette"
+    ],
+    "name:pol_x_preferred":[
+        "Bagietka"
+    ],
+    "name:por_x_preferred":[
+        "Baguete"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439 \u0431\u0430\u0433\u0435\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Bageta"
+    ],
+    "name:spa_x_preferred":[
+        "Baguette"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0446\u0443\u0441\u043a\u0438 \u0445\u043b\u0435\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Baguette"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e41\u0e01\u0e47\u0e15"
+    ],
+    "name:tur_x_preferred":[
+        "Francala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0438\u0439 \u0431\u0430\u0433\u0435\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u5f0f\u957f\u68cd\u9762\u5305"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +160,7 @@
         }
     ],
     "wof:id":1243339925,
-    "wof:lastmodified":1537626156,
+    "wof:lastmodified":1564157240,
     "wof:name":"Baguette",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

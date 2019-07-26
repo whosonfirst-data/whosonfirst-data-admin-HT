@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Diondion"
     ],
+    "name:spa_x_preferred":[
+        "Diondion"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310316743,
-    "wof:lastmodified":1537626098,
+    "wof:lastmodified":1564156784,
     "wof:name":"Diondion",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

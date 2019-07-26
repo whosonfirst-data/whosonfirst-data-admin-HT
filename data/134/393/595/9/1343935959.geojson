@@ -26,6 +26,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ditto"
+    ],
+    "name:fra_x_preferred":[
+        "Ditto"
+    ],
+    "name:ita_x_preferred":[
+        "Ditto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30a3\u30c3\u30c8"
+    ],
+    "name:nor_x_preferred":[
+        "Ditto"
+    ],
+    "name:pol_x_preferred":[
+        "Ditto"
+    ],
+    "name:spa_x_preferred":[
+        "Ditto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1343935959,
-    "wof:lastmodified":1537053134,
+    "wof:lastmodified":1564155790,
     "wof:name":"Ditto",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

@@ -26,7 +26,37 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Margot"
+    ],
+    "name:ces_x_preferred":[
+        "Margot"
+    ],
+    "name:dan_x_preferred":[
+        "Margot"
+    ],
+    "name:deu_x_preferred":[
+        "Margot"
+    ],
     "name:fra_x_preferred":[
+        "Margot"
+    ],
+    "name:isl_x_preferred":[
+        "Margot"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30b4"
+    ],
+    "name:nno_x_preferred":[
+        "Margot"
+    ],
+    "name:nor_x_preferred":[
+        "Margot"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0433\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Margot"
     ],
     "src:geom":"geonames",
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1327124021,
-    "wof:lastmodified":1537626033,
+    "wof:lastmodified":1564155509,
     "wof:name":"Margot",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

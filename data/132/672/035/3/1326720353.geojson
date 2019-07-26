@@ -26,6 +26,96 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0456\u0446\u044b\u0456"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0438\u0446\u0438\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Benefici eclesi\u00e0stic"
+    ],
+    "name:ces_x_preferred":[
+        "Beneficium"
+    ],
+    "name:deu_x_preferred":[
+        "Benefiziat"
+    ],
+    "name:epo_x_preferred":[
+        "Beneficium"
+    ],
+    "name:fra_x_preferred":[
+        "B\u00e9n\u00e9fice eccl\u00e9siastique"
+    ],
+    "name:fry_x_preferred":[
+        "Benefisium"
+    ],
+    "name:glg_x_preferred":[
+        "Beneficio eclesi\u00e1stico"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05e4\u05d9\u05e7\u05d9\u05d5\u05dd"
+    ],
+    "name:hrv_x_preferred":[
+        "Beneficij"
+    ],
+    "name:hun_x_preferred":[
+        "Benef\u00edcium"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0576\u0565\u0586\u056b\u0581\u056b\u0578\u0582\u0574"
+    ],
+    "name:ido_x_preferred":[
+        "Benefico"
+    ],
+    "name:ind_x_preferred":[
+        "Benefice"
+    ],
+    "name:ita_x_preferred":[
+        "Beneficio ecclesiastico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8056\u8077\u7984"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10dc\u10d4\u10e4\u10d8\u10ea\u10d8\u10e3\u10db\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0438\u0446\u0438\u0439"
+    ],
+    "name:lit_x_preferred":[
+        "Beneficija"
+    ],
+    "name:nld_x_preferred":[
+        "Beneficie"
+    ],
+    "name:nor_x_preferred":[
+        "Beneficium"
+    ],
+    "name:pol_x_preferred":[
+        "Beneficjum"
+    ],
+    "name:por_x_preferred":[
+        "Benef\u00edcio eclesi\u00e1stico"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0438\u0446\u0438\u0439"
+    ],
+    "name:slv_x_preferred":[
+        "Beneficij"
+    ],
+    "name:spa_x_preferred":[
+        "Beneficio eclesi\u00e1stico"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0438\u0446\u0438\u0458\u0443\u043c"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0438\u0442\u0441\u0438\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043d\u0435\u0444\u0456\u0446\u0456\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +139,7 @@
         }
     ],
     "wof:id":1326720353,
-    "wof:lastmodified":1536713224,
+    "wof:lastmodified":1564155431,
     "wof:name":"Benefice",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

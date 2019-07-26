@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Raquette"
     ],
+    "name:swe_x_preferred":[
+        "Raquette"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243385003,
-    "wof:lastmodified":1537625995,
+    "wof:lastmodified":1564157080,
     "wof:name":"Raquette",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boutin"
+    ],
     "name:fra_x_preferred":[
         "Boutin"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259764377,
-    "wof:lastmodified":1537626134,
+    "wof:lastmodified":1564157409,
     "wof:name":"Boutin",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

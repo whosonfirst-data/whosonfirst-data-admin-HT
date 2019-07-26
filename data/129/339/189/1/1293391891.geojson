@@ -26,6 +26,33 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Jeanne"
+    ],
+    "name:deu_x_preferred":[
+        "Jeanne"
+    ],
+    "name:fra_x_preferred":[
+        "Jeanne"
+    ],
+    "name:nld_x_preferred":[
+        "Jeanne"
+    ],
+    "name:por_x_preferred":[
+        "Jeanne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Jeanne"
+    ],
+    "name:swe_x_preferred":[
+        "Jeanne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043d\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1293391891,
-    "wof:lastmodified":1536925534,
+    "wof:lastmodified":1564155925,
     "wof:name":"Jeanne",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

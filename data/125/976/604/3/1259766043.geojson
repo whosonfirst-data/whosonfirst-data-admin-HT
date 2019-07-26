@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Duverger"
+    ],
+    "name:deu_x_preferred":[
+        "Duverger"
+    ],
+    "name:fra_x_preferred":[
+        "Duverger"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u044e\u0432\u0435\u0440\u0436\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1259766043,
-    "wof:lastmodified":1536948624,
+    "wof:lastmodified":1564157410,
     "wof:name":"Duverger",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

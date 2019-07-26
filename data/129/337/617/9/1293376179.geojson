@@ -26,7 +26,13 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rica"
+    ],
     "name:fra_x_preferred":[
+        "Rica"
+    ],
+    "name:ita_x_preferred":[
         "Rica"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293376179,
-    "wof:lastmodified":1537625994,
+    "wof:lastmodified":1564155909,
     "wof:name":"Rica",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

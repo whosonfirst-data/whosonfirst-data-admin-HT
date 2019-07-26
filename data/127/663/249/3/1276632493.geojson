@@ -26,8 +26,101 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "M\u0259rh\u0259m\u0259t"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u043e\u0441\u044a\u0440\u0434\u0438\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Miseric\u00f2rdia"
+    ],
+    "name:ces_x_preferred":[
+        "Milosrdenstv\u00ed"
+    ],
+    "name:dan_x_preferred":[
+        "Misericordie"
+    ],
+    "name:deu_x_preferred":[
+        "Barmherzigkeit"
+    ],
+    "name:epo_x_preferred":[
+        "Mizerikordo"
+    ],
+    "name:est_x_preferred":[
+        "Halastus"
+    ],
+    "name:eus_x_preferred":[
+        "Erruki"
+    ],
+    "name:fin_x_preferred":[
+        "Armo"
+    ],
     "name:fra_x_preferred":[
         "Mercy"
+    ],
+    "name:fra_x_variant":[
+        "Mis\u00e9ricorde"
+    ],
+    "name:glg_x_preferred":[
+        "Misericordia"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d7\u05de\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u092f\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Milosr\u0111e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0572\u0578\u0580\u0574\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Misericordia"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca6\u0caf\u0cc6"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u092f\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Barmhartigheid"
+    ],
+    "name:pms_x_preferred":[
+        "Mercy"
+    ],
+    "name:pol_x_preferred":[
+        "Mi\u0142osierdzie"
+    ],
+    "name:por_x_preferred":[
+        "Miseric\u00f3rdia"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043b\u043e\u0441\u0435\u0440\u0434\u0438\u0435"
+    ],
+    "name:slk_x_preferred":[
+        "Milosrdenstvo"
+    ],
+    "name:spa_x_preferred":[
+        "Misericordia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u043b\u043e\u0441\u0440\u0452\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Huruma"
+    ],
+    "name:swe_x_preferred":[
+        "Barmh\u00e4rtighet"
+    ],
+    "name:tur_x_preferred":[
+        "Merhamet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0438\u043b\u043e\u0441\u0435\u0440\u0434\u044f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +145,7 @@
         }
     ],
     "wof:id":1276632493,
-    "wof:lastmodified":1537626029,
+    "wof:lastmodified":1564156291,
     "wof:name":"Mercy",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

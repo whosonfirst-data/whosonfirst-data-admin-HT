@@ -26,6 +26,87 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Can\u00f2va"
+    ],
+    "name:ceb_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:deu_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:eus_x_preferred":[
+        "Can\u00f2va"
+    ],
+    "name:fra_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:hun_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:ita_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:lat_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:lmo_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:mlg_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:msa_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:nld_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:oci_x_preferred":[
+        "Can\u00f2va"
+    ],
+    "name:pms_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:pol_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:por_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:ron_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0437\u043d\u0451\u0432"
+    ],
+    "name:slk_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:spa_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0441\u043d\u0435\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0437\u043d\u0435\u0432"
+    ],
+    "name:vie_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:vol_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:war_x_preferred":[
+        "Caseneuve"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u745f\u7eb3\u6c83"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +130,7 @@
         }
     ],
     "wof:id":1343553027,
-    "wof:lastmodified":1536610045,
+    "wof:lastmodified":1564155659,
     "wof:name":"Caseneuve",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

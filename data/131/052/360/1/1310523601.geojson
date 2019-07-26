@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Foug\u00e8re"
     ],
+    "name:nld_x_preferred":[
+        "Fougere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310523601,
-    "wof:lastmodified":1537626084,
+    "wof:lastmodified":1564156786,
     "wof:name":"Fougere",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

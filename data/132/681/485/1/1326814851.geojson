@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Jean Laurent"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u043e\u0440\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326814851,
-    "wof:lastmodified":1537626066,
+    "wof:lastmodified":1564155435,
     "wof:name":"Jean Laurent",
     "wof:parent_id":1091686895,
     "wof:placetype":"locality",

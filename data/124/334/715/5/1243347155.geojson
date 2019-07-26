@@ -26,6 +26,33 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Courtois"
+    ],
+    "name:fra_x_preferred":[
+        "Courtois"
+    ],
+    "name:ita_x_preferred":[
+        "Courtois"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30eb\u30c8\u30a5\u30ef"
+    ],
+    "name:nds_x_preferred":[
+        "Courtois"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u0443\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Courtois"
+    ],
+    "name:tur_x_preferred":[
+        "Courtois"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0440\u0442\u0443\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +76,7 @@
         }
     ],
     "wof:id":1243347155,
-    "wof:lastmodified":1536949057,
+    "wof:lastmodified":1564157234,
     "wof:name":"Courtois",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

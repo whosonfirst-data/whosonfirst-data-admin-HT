@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mar_x_preferred":[
+        "\u092c\u0932\u093e\u0908"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1243060399,
-    "wof:lastmodified":1536863722,
+    "wof:lastmodified":1564157101,
     "wof:name":"Balai",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

@@ -26,7 +26,16 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barrois"
+    ],
+    "name:eus_x_preferred":[
+        "Barrois"
+    ],
     "name:fra_x_preferred":[
+        "Barrois"
+    ],
+    "name:por_x_preferred":[
         "Barrois"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327252375,
-    "wof:lastmodified":1537626153,
+    "wof:lastmodified":1564155498,
     "wof:name":"Barrois",
     "wof:parent_id":1091686273,
     "wof:placetype":"locality",

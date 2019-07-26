@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Felipe"
+    ],
+    "name:nld_x_preferred":[
+        "Felipe"
+    ],
     "name:und_x_variant":[
         "Rodio F\u00e9lip\u00e9",
         "F\u00e9lip\u00e9"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1259504887,
-    "wof:lastmodified":1537626089,
+    "wof:lastmodified":1564157417,
     "wof:name":"Felipe",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

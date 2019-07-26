@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Normand"
     ],
+    "name:pol_x_preferred":[
+        "Normand"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209636727,
-    "wof:lastmodified":1537626012,
+    "wof:lastmodified":1564156376,
     "wof:name":"Normand",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

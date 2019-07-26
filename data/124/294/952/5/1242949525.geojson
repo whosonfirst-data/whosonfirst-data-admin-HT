@@ -26,6 +26,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "N\u00e9ron"
+    ],
+    "name:fra_x_preferred":[
+        "N\u00e9ron"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0580\u0578\u0576"
+    ],
+    "name:oci_x_preferred":[
+        "N\u00e9ron"
+    ],
+    "name:ron_x_preferred":[
+        "Neron"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0440\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ner\u00f3n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1242949525,
-    "wof:lastmodified":1537023994,
+    "wof:lastmodified":1564157158,
     "wof:name":"Neron",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

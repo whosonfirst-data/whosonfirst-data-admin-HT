@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ratier-Figeac"
+    ],
+    "name:fra_x_preferred":[
+        "Ratier"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +49,7 @@
         }
     ],
     "wof:id":1209695315,
-    "wof:lastmodified":1536279096,
+    "wof:lastmodified":1564156483,
     "wof:name":"Ratier",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

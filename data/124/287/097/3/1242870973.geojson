@@ -27,6 +27,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guibert"
+    ],
+    "name:fra_x_preferred":[
+        "Guibert"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u0431\u0435\u0440"
+    ],
     "name:und_x_variant":[
         "Guilbert",
         "Guibert"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1242870973,
-    "wof:lastmodified":1537626071,
+    "wof:lastmodified":1564157111,
     "wof:name":"Guibert",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

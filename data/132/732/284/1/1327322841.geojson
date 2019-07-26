@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sylvestre"
+    ],
+    "name:fra_x_preferred":[
+        "Sylvestre"
+    ],
+    "name:ita_x_preferred":[
+        "Sylvestre"
+    ],
+    "name:nds_x_preferred":[
+        "Sylvestre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1327322841,
-    "wof:lastmodified":1536838063,
+    "wof:lastmodified":1564155533,
     "wof:name":"Sylvestre",
     "wof:parent_id":1091687119,
     "wof:placetype":"locality",

@@ -26,6 +26,51 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Romain"
+    ],
+    "name:deu_x_preferred":[
+        "Romain"
+    ],
+    "name:fra_x_preferred":[
+        "Romain"
+    ],
+    "name:ita_x_preferred":[
+        "Romain"
+    ],
+    "name:nds_x_preferred":[
+        "Romain"
+    ],
+    "name:nld_x_preferred":[
+        "Romain"
+    ],
+    "name:oci_x_preferred":[
+        "Romain"
+    ],
+    "name:pms_x_preferred":[
+        "Romain"
+    ],
+    "name:pol_x_preferred":[
+        "Romain"
+    ],
+    "name:por_x_preferred":[
+        "Romain"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u043c\u0435\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Romain"
+    ],
+    "name:spa_x_preferred":[
+        "Romain"
+    ],
+    "name:swe_x_preferred":[
+        "Romain"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u043c\u0435\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1309800601,
-    "wof:lastmodified":1536939318,
+    "wof:lastmodified":1564157054,
     "wof:name":"Romain",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Duro"
+    ],
+    "name:deu_x_preferred":[
+        "Duro"
+    ],
+    "name:fra_x_preferred":[
+        "Duro"
+    ],
+    "name:ita_x_preferred":[
+        "Duro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0443\u0440\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Duro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1276865771,
-    "wof:lastmodified":1537057531,
+    "wof:lastmodified":1564156148,
     "wof:name":"Duro",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Zanglais"
     ],
+    "name:spa_x_preferred":[
+        "Zanglais"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209502173,
-    "wof:lastmodified":1537625968,
+    "wof:lastmodified":1564156449,
     "wof:name":"Zanglais",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

@@ -26,7 +26,22 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Cordier"
+    ],
     "name:fra_x_preferred":[
+        "Cordier"
+    ],
+    "name:ita_x_preferred":[
+        "Cordier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30eb\u30c7\u30a3\u30a8"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0434\u044c\u0435"
+    ],
+    "name:swe_x_preferred":[
         "Cordier"
     ],
     "src:geom":"geonames",
@@ -46,7 +61,7 @@
         }
     ],
     "wof:id":1209426663,
-    "wof:lastmodified":1537626111,
+    "wof:lastmodified":1564156535,
     "wof:name":"Cordier",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

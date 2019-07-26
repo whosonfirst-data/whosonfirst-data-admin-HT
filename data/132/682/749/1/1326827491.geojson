@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ire"
+    ],
+    "name:swe_x_preferred":[
+        "Ire"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326827491,
-    "wof:lastmodified":1537053349,
+    "wof:lastmodified":1564155542,
     "wof:name":"Ire",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Raymond"
     ],
+    "name:swe_x_preferred":[
+        "Raymond"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226244497,
-    "wof:lastmodified":1537625995,
+    "wof:lastmodified":1564157651,
     "wof:name":"Raymond",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

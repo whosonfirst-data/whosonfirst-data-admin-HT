@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Baille"
     ],
+    "name:nld_x_preferred":[
+        "Baille"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310102981,
-    "wof:lastmodified":1537626156,
+    "wof:lastmodified":1564156844,
     "wof:name":"Baille",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

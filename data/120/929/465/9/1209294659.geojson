@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Carpentier"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043f\u0430\u043d\u0442\u044c\u0435"
+    ],
+    "name:slv_x_preferred":[
+        "Carpentier"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209294659,
-    "wof:lastmodified":1537626123,
+    "wof:lastmodified":1564156506,
     "wof:name":"Carpentier",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

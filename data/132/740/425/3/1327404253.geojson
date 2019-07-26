@@ -26,8 +26,17 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Charlier"
+    ],
     "name:fra_x_preferred":[
         "Charlier"
+    ],
+    "name:ita_x_preferred":[
+        "Charlier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043b\u044c\u0435"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327404253,
-    "wof:lastmodified":1537626118,
+    "wof:lastmodified":1564155502,
     "wof:name":"Charlier",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

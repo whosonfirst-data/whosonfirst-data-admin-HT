@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Didot"
+    ],
+    "name:fra_x_preferred":[
+        "Didot"
+    ],
+    "name:ita_x_preferred":[
+        "Didot"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0434\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1226036725,
-    "wof:lastmodified":1536738134,
+    "wof:lastmodified":1564157590,
     "wof:name":"Didot",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

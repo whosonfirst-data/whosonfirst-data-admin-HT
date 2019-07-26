@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Caporal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343947825,
-    "wof:lastmodified":1537036699,
+    "wof:lastmodified":1564155802,
     "wof:name":"Caporal",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

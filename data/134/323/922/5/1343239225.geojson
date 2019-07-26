@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Doca"
+    ],
+    "name:deu_x_preferred":[
+        "Doca"
+    ],
+    "name:por_x_preferred":[
+        "Doca"
+    ],
+    "name:swe_x_preferred":[
+        "Doca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343239225,
-    "wof:lastmodified":1537062877,
+    "wof:lastmodified":1564155752,
     "wof:name":"Doca",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

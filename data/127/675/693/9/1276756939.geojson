@@ -26,7 +26,22 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Desjardins"
+    ],
+    "name:deu_x_preferred":[
+        "Desjardins"
+    ],
     "name:fra_x_preferred":[
+        "Desjardins"
+    ],
+    "name:nds_x_preferred":[
+        "Desjardins"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0436\u0430\u0440\u0434\u0435\u043d"
+    ],
+    "name:swe_x_preferred":[
         "Desjardins"
     ],
     "src:geom":"geonames",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276756939,
-    "wof:lastmodified":1537626101,
+    "wof:lastmodified":1564156151,
     "wof:name":"Desjardins",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

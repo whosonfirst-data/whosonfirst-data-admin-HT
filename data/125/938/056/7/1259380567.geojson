@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Opet"
     ],
+    "name:tur_x_preferred":[
+        "Opet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259380567,
-    "wof:lastmodified":1537626011,
+    "wof:lastmodified":1564157334,
     "wof:name":"Opet",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

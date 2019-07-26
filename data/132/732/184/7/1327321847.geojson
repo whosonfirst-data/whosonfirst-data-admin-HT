@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Roches Noires"
+    ],
+    "name:fra_x_preferred":[
+        "Roches Noires"
+    ],
+    "name:swe_x_preferred":[
+        "Roches Noires"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1327321847,
-    "wof:lastmodified":1536839499,
+    "wof:lastmodified":1564155537,
     "wof:name":"Roches Noires",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

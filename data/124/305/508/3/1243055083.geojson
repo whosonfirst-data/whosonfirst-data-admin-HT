@@ -26,6 +26,84 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chapelon"
+    ],
+    "name:ceb_x_preferred":[
+        "Chapelon"
+    ],
+    "name:ces_x_preferred":[
+        "Chapelon"
+    ],
+    "name:deu_x_preferred":[
+        "Chapelon"
+    ],
+    "name:eus_x_preferred":[
+        "Chapelon"
+    ],
+    "name:fra_x_preferred":[
+        "Chapelon"
+    ],
+    "name:hun_x_preferred":[
+        "Chapelon"
+    ],
+    "name:ita_x_preferred":[
+        "Chapelon"
+    ],
+    "name:lat_x_preferred":[
+        "Chapelon"
+    ],
+    "name:msa_x_preferred":[
+        "Chapelon"
+    ],
+    "name:nld_x_preferred":[
+        "Chapelon"
+    ],
+    "name:oci_x_preferred":[
+        "Chapelon"
+    ],
+    "name:pms_x_preferred":[
+        "Chapelon"
+    ],
+    "name:pol_x_preferred":[
+        "Chapelon"
+    ],
+    "name:por_x_preferred":[
+        "Chapelon"
+    ],
+    "name:ron_x_preferred":[
+        "Chapelon"
+    ],
+    "name:slk_x_preferred":[
+        "Chapelon"
+    ],
+    "name:spa_x_preferred":[
+        "Chapelon"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043f\u0435\u043b\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Chapelon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043f\u043b\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Chapelon"
+    ],
+    "name:vie_x_preferred":[
+        "Chapelon"
+    ],
+    "name:vol_x_preferred":[
+        "Chapelon"
+    ],
+    "name:war_x_preferred":[
+        "Chapelon"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u4f69\u9686"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +127,7 @@
         }
     ],
     "wof:id":1243055083,
-    "wof:lastmodified":1536871683,
+    "wof:lastmodified":1564157246,
     "wof:name":"Chapelon",
     "wof:parent_id":1091686503,
     "wof:placetype":"locality",

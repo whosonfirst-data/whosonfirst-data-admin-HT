@@ -26,6 +26,21 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gerard"
+    ],
+    "name:deu_x_preferred":[
+        "Gerard"
+    ],
+    "name:nld_x_preferred":[
+        "Gerard"
+    ],
+    "name:pol_x_preferred":[
+        "Gerard"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0440\u0430\u0440\u0434"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1225940881,
-    "wof:lastmodified":1536875508,
+    "wof:lastmodified":1564157498,
     "wof:name":"Gerard",
     "wof:parent_id":1091686895,
     "wof:placetype":"locality",

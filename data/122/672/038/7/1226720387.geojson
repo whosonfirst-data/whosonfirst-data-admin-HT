@@ -25,8 +25,35 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Biduze"
+    ],
+    "name:ceb_x_preferred":[
+        "Bidouze"
+    ],
+    "name:deu_x_preferred":[
+        "Bidouze"
+    ],
+    "name:eus_x_preferred":[
+        "Biduze"
+    ],
     "name:fra_x_preferred":[
         "Bidouze"
+    ],
+    "name:hun_x_preferred":[
+        "Bidouze"
+    ],
+    "name:ind_x_preferred":[
+        "Bidouze"
+    ],
+    "name:pol_x_preferred":[
+        "Bidouze"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u0434\u0443\u0437"
+    ],
+    "name:zho_x_preferred":[
+        "\u6bd4\u675c\u8332\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1226720387,
-    "wof:lastmodified":1537626146,
+    "wof:lastmodified":1564157516,
     "wof:name":"Bidouze",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

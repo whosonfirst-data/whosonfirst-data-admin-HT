@@ -26,6 +26,24 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Savary"
+    ],
+    "name:fra_x_preferred":[
+        "Savary"
+    ],
+    "name:ita_x_preferred":[
+        "Savary"
+    ],
+    "name:nds_x_preferred":[
+        "Savary"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0430\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Savary"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310098209,
-    "wof:lastmodified":1537006294,
+    "wof:lastmodified":1564156777,
     "wof:name":"Savary",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

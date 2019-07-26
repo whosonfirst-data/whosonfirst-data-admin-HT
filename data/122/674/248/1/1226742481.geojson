@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Lagon"
     ],
+    "name:ita_x_preferred":[
+        "Lagon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226742481,
-    "wof:lastmodified":1537626057,
+    "wof:lastmodified":1564157550,
     "wof:name":"Lagon",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

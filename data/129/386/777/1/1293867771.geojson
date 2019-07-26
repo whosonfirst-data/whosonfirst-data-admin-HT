@@ -26,8 +26,20 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Philibert"
+    ],
+    "name:deu_x_preferred":[
+        "Philibert"
+    ],
     "name:fra_x_preferred":[
         "Philibert"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a3\u30ea\u30d9\u30fc\u30eb"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0438\u043b\u0438\u0431\u0435\u0440\u0442"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293867771,
-    "wof:lastmodified":1537626004,
+    "wof:lastmodified":1564156119,
     "wof:name":"Philibert",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

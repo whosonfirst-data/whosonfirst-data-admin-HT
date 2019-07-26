@@ -26,6 +26,30 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boule"
+    ],
+    "name:deu_x_preferred":[
+        "Boule"
+    ],
+    "name:fra_x_preferred":[
+        "Boule"
+    ],
+    "name:ita_x_preferred":[
+        "Boule"
+    ],
+    "name:nld_x_preferred":[
+        "Boule"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Boule"
+    ],
+    "name:swe_x_preferred":[
+        "Boule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1276310035,
-    "wof:lastmodified":1536809533,
+    "wof:lastmodified":1564156332,
     "wof:name":"Boule",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

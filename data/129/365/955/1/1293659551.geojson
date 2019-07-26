@@ -26,6 +26,30 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mame"
+    ],
+    "name:deu_x_preferred":[
+        "Mame"
+    ],
+    "name:fra_x_preferred":[
+        "Mame"
+    ],
+    "name:ita_x_preferred":[
+        "Mame"
+    ],
+    "name:por_x_preferred":[
+        "Mame"
+    ],
+    "name:spa_x_preferred":[
+        "Mame"
+    ],
+    "name:swe_x_preferred":[
+        "Mame"
+    ],
+    "name:wln_x_preferred":[
+        "Mame"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1293659551,
-    "wof:lastmodified":1537034785,
+    "wof:lastmodified":1564155907,
     "wof:name":"Mame",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "La Cr\u00eate"
     ],
+    "name:fra_x_variant":[
+        "La Crete"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0631\u06cc\u0679\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1243442417,
-    "wof:lastmodified":1537626060,
+    "wof:lastmodified":1564157316,
     "wof:name":"La Crete",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

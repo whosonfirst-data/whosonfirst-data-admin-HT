@@ -25,6 +25,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Donis"
+    ],
+    "name:lit_x_preferred":[
+        "Donis"
+    ],
+    "name:pol_x_preferred":[
+        "Donis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327019531,
-    "wof:lastmodified":1536779575,
+    "wof:lastmodified":1564155402,
     "wof:name":"Donis",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

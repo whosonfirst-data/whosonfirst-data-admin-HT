@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Cataline"
     ],
+    "name:fra_x_variant":[
+        "Jean-Jacques Caux"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226536771,
-    "wof:lastmodified":1537626121,
+    "wof:lastmodified":1564157709,
     "wof:name":"Cataline",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

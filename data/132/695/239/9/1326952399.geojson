@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a \u062c\u0648\u0632\u064a\u0641"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326952399,
-    "wof:lastmodified":1536874860,
+    "wof:lastmodified":1564155480,
     "wof:name":"Marie Joseph",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

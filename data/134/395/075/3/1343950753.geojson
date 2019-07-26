@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Poup\u00e9es Jumeau"
+    ],
+    "name:spa_x_preferred":[
+        "Jumeau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343950753,
-    "wof:lastmodified":1537032650,
+    "wof:lastmodified":1564155774,
     "wof:name":"Jumeau",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

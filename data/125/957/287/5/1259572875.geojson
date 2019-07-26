@@ -26,7 +26,19 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vaudreuil"
+    ],
     "name:fra_x_preferred":[
+        "Vaudreuil"
+    ],
+    "name:ron_x_preferred":[
+        "Vaudreuil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u0440\u0451\u0439"
+    ],
+    "name:spa_x_preferred":[
         "Vaudreuil"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1259572875,
-    "wof:lastmodified":1537625971,
+    "wof:lastmodified":1564157421,
     "wof:name":"Vaudreuil",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

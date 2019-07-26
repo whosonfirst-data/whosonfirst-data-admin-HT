@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mischen"
+    ],
+    "name:fra_x_preferred":[
+        "Merge"
+    ],
+    "name:ita_x_preferred":[
+        "Merge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242573901,
-    "wof:lastmodified":1537066103,
+    "wof:lastmodified":1564157132,
     "wof:name":"Merge",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

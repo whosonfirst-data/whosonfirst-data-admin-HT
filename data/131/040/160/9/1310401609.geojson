@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bado"
+    ],
+    "name:deu_x_preferred":[
+        "Bado"
+    ],
+    "name:swe_x_preferred":[
+        "Bado"
+    ],
     "name:und_x_variant":[
         "Badot",
         "Bado"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1310401609,
-    "wof:lastmodified":1537626156,
+    "wof:lastmodified":1564156742,
     "wof:name":"Bado",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

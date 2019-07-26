@@ -26,6 +26,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Theron"
+    ],
+    "name:ceb_x_preferred":[
+        "Theron"
+    ],
+    "name:deu_x_preferred":[
+        "Theron"
+    ],
+    "name:fra_x_preferred":[
+        "Theron"
+    ],
+    "name:nds_x_preferred":[
+        "Theron"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Theron"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1293181995,
-    "wof:lastmodified":1536730916,
+    "wof:lastmodified":1564156064,
     "wof:name":"Theron",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

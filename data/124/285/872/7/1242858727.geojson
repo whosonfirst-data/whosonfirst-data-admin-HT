@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Moustique"
     ],
+    "name:swe_x_preferred":[
+        "Moustique"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242858727,
-    "wof:lastmodified":1537626024,
+    "wof:lastmodified":1564157272,
     "wof:name":"Moustique",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

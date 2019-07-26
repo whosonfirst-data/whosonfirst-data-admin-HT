@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Elois"
+    ],
+    "name:pol_x_preferred":[
+        "Elojowie"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u043e\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293878171,
-    "wof:lastmodified":1536721387,
+    "wof:lastmodified":1564156079,
     "wof:name":"Eloi",
     "wof:parent_id":1091687057,
     "wof:placetype":"locality",

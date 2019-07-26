@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saut d'Eau"
+    ],
+    "name:hun_x_preferred":[
+        "Saut d\u2019Eau"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Saut d'Eau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242755929,
-    "wof:lastmodified":1536806626,
+    "wof:lastmodified":1564157127,
     "wof:name":"Saut d'Eau",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

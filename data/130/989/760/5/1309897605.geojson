@@ -29,6 +29,18 @@
     "name:fra_x_preferred":[
         "Los Cacaos"
     ],
+    "name:ita_x_preferred":[
+        "Los Cacaos"
+    ],
+    "name:por_x_preferred":[
+        "Los Cacaos"
+    ],
+    "name:spa_x_preferred":[
+        "Los Cacaos"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1b\u65af\u5361\u8003\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1309897605,
-    "wof:lastmodified":1537626042,
+    "wof:lastmodified":1564157060,
     "wof:name":"Los Cacaos",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

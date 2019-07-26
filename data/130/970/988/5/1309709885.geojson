@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Bassin"
     ],
+    "name:nld_x_preferred":[
+        "Bassin"
+    ],
+    "name:spa_x_preferred":[
+        "Bassin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1309709885,
-    "wof:lastmodified":1537626152,
+    "wof:lastmodified":1564157017,
     "wof:name":"Bassin",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

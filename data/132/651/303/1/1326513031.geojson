@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Javel"
+    ],
+    "name:fra_x_preferred":[
+        "Javel"
+    ],
     "name:und_x_variant":[
         "Davel",
         "Javel"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1326513031,
-    "wof:lastmodified":1537626067,
+    "wof:lastmodified":1564155453,
     "wof:name":"Javel",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

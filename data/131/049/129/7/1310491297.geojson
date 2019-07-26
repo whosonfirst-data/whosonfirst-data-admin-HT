@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Dupl\u00e9ssis"
     ],
+    "name:fra_x_variant":[
+        "Duplessis"
+    ],
     "name:und_x_variant":[
         "Duplette",
         "Duplessis"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310491297,
-    "wof:lastmodified":1537626092,
+    "wof:lastmodified":1564156738,
     "wof:name":"Duplessis",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

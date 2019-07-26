@@ -26,6 +26,30 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Maquis"
+    ],
+    "name:deu_x_preferred":[
+        "Maquis"
+    ],
+    "name:epo_x_preferred":[
+        "Makiso"
+    ],
+    "name:fra_x_preferred":[
+        "Maquis"
+    ],
+    "name:glg_x_preferred":[
+        "Maquis"
+    ],
+    "name:hun_x_preferred":[
+        "Maquis"
+    ],
+    "name:nld_x_preferred":[
+        "Maquis"
+    ],
+    "name:spa_x_preferred":[
+        "Maquis"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +67,7 @@
         }
     ],
     "wof:id":1209103465,
-    "wof:lastmodified":1536297656,
+    "wof:lastmodified":1564156549,
     "wof:name":"Maquis",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

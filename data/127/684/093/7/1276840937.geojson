@@ -29,6 +29,15 @@
     "name:fra_x_preferred":[
         "Boucan"
     ],
+    "name:ita_x_preferred":[
+        "Baccano"
+    ],
+    "name:por_x_preferred":[
+        "Boucan"
+    ],
+    "name:spa_x_preferred":[
+        "Boucan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1276840937,
-    "wof:lastmodified":1537626138,
+    "wof:lastmodified":1564156266,
     "wof:name":"Boucan",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

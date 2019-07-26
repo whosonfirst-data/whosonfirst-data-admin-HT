@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "O\u2019Gorman"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u2019\u0413\u043e\u0440\u043c\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1260261049,
-    "wof:lastmodified":1537626011,
+    "wof:lastmodified":1564156710,
     "wof:name":"O'Gorman",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

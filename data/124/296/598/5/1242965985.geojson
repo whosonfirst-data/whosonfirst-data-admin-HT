@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Deschamps"
+    ],
+    "name:ita_x_preferred":[
+        "Deschamps"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0448\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Deschamps"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1242965985,
-    "wof:lastmodified":1537000534,
+    "wof:lastmodified":1564157278,
     "wof:name":"Deschamps",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

@@ -26,6 +26,84 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0631\u0648\u06cc"
+    ],
+    "name:bre_x_preferred":[
+        "Montreuil"
+    ],
+    "name:cat_x_preferred":[
+        "Montreuil"
+    ],
+    "name:ceb_x_preferred":[
+        "Montreuil"
+    ],
+    "name:ces_x_preferred":[
+        "Montreuil"
+    ],
+    "name:dan_x_preferred":[
+        "Montreuil"
+    ],
+    "name:deu_x_preferred":[
+        "Montreuil"
+    ],
+    "name:epo_x_preferred":[
+        "Montreuil"
+    ],
+    "name:fra_x_preferred":[
+        "Montreuil"
+    ],
+    "name:ita_x_preferred":[
+        "Montreuil"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30f3\u30c8\u30eb\u30a4\u30e6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubabd\ud2b8\ub8b0\uc720"
+    ],
+    "name:nds_x_preferred":[
+        "Montreuil"
+    ],
+    "name:nld_x_preferred":[
+        "Montreuil"
+    ],
+    "name:nor_x_preferred":[
+        "Montreuil"
+    ],
+    "name:pms_x_preferred":[
+        "Montreuil"
+    ],
+    "name:pol_x_preferred":[
+        "Montreuil"
+    ],
+    "name:por_x_preferred":[
+        "Montreuil"
+    ],
+    "name:ron_x_preferred":[
+        "Montreuil"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0440\u0451\u0439"
+    ],
+    "name:sco_x_preferred":[
+        "Montreuil"
+    ],
+    "name:slk_x_preferred":[
+        "Montreuil"
+    ],
+    "name:slv_x_preferred":[
+        "Montreuil"
+    ],
+    "name:spa_x_preferred":[
+        "Montreuil"
+    ],
+    "name:swe_x_preferred":[
+        "Montreuil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043d\u0442\u0440\u0435\u0439"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +121,7 @@
         }
     ],
     "wof:id":1209504957,
-    "wof:lastmodified":1536285063,
+    "wof:lastmodified":1564156452,
     "wof:name":"Montreuil",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

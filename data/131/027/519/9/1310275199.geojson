@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Chanterelle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310275199,
-    "wof:lastmodified":1536751643,
+    "wof:lastmodified":1564156811,
     "wof:name":"Chanterelle",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

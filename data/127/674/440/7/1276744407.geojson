@@ -26,8 +26,107 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Cassis"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u0438\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Cass\u00eds"
+    ],
+    "name:ceb_x_preferred":[
+        "Cassis"
+    ],
+    "name:ces_x_preferred":[
+        "Cassis"
+    ],
+    "name:deu_x_preferred":[
+        "Cassis"
+    ],
+    "name:epo_x_preferred":[
+        "Cassis"
+    ],
+    "name:eus_x_preferred":[
+        "Cassis"
+    ],
     "name:fra_x_preferred":[
         "Cassis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Cassis"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u057d\u056b\u057d"
+    ],
+    "name:ilo_x_preferred":[
+        "Cassis"
+    ],
+    "name:ita_x_preferred":[
+        "Cassis"
+    ],
+    "name:lat_x_preferred":[
+        "Cassis"
+    ],
+    "name:lit_x_preferred":[
+        "Kasis"
+    ],
+    "name:ltz_x_preferred":[
+        "Cassis"
+    ],
+    "name:mlg_x_preferred":[
+        "Cassis"
+    ],
+    "name:msa_x_preferred":[
+        "Cassis"
+    ],
+    "name:nld_x_preferred":[
+        "Cassis"
+    ],
+    "name:nor_x_preferred":[
+        "Cassis"
+    ],
+    "name:oci_x_preferred":[
+        "Cass\u00eds"
+    ],
+    "name:pam_x_preferred":[
+        "Cassis"
+    ],
+    "name:pol_x_preferred":[
+        "Cassis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u0438\u0441"
+    ],
+    "name:slk_x_preferred":[
+        "Cassis"
+    ],
+    "name:spa_x_preferred":[
+        "Cassis"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0441\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Cassis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Cassis"
+    ],
+    "name:vol_x_preferred":[
+        "Cassis"
+    ],
+    "name:war_x_preferred":[
+        "Cassis"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u897f\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +151,7 @@
         }
     ],
     "wof:id":1276744407,
-    "wof:lastmodified":1537626121,
+    "wof:lastmodified":1564156181,
     "wof:name":"Cassis",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

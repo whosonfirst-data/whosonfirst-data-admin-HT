@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Cass\u00e9us"
     ],
+    "name:fra_x_variant":[
+        "Casseus"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276573619,
-    "wof:lastmodified":1537626121,
+    "wof:lastmodified":1564156221,
     "wof:name":"Casseus",
     "wof:parent_id":1091686583,
     "wof:placetype":"locality",

@@ -25,6 +25,81 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Charmant"
+    ],
+    "name:ceb_x_preferred":[
+        "Charmant"
+    ],
+    "name:deu_x_preferred":[
+        "Charmant"
+    ],
+    "name:eus_x_preferred":[
+        "Charmant"
+    ],
+    "name:fra_x_preferred":[
+        "Charmant"
+    ],
+    "name:hun_x_preferred":[
+        "Charmant"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0580\u0574\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Charmant"
+    ],
+    "name:lat_x_preferred":[
+        "Charmant"
+    ],
+    "name:msa_x_preferred":[
+        "Charmant"
+    ],
+    "name:nld_x_preferred":[
+        "Charmant"
+    ],
+    "name:oci_x_preferred":[
+        "Charmant"
+    ],
+    "name:pol_x_preferred":[
+        "Charmant"
+    ],
+    "name:por_x_preferred":[
+        "Charmant"
+    ],
+    "name:ron_x_preferred":[
+        "Charmant"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0440\u043c\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Charmant"
+    ],
+    "name:spa_x_preferred":[
+        "Charmant"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u0440\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Charmant"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u0440\u043c\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Charmant"
+    ],
+    "name:vol_x_preferred":[
+        "Charmant"
+    ],
+    "name:war_x_preferred":[
+        "Charmant"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u5c14\u8292"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1326617193,
-    "wof:lastmodified":1536860190,
+    "wof:lastmodified":1564155476,
     "wof:name":"Charmant",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

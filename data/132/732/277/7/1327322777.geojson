@@ -27,6 +27,30 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Charles"
+    ],
+    "name:ces_x_preferred":[
+        "Karel"
+    ],
+    "name:deu_x_preferred":[
+        "Charles"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30eb\u30eb"
+    ],
+    "name:nno_x_preferred":[
+        "Charles"
+    ],
+    "name:nor_x_preferred":[
+        "Charles"
+    ],
+    "name:swe_x_preferred":[
+        "Charles"
+    ],
+    "name:tur_x_preferred":[
+        "Charles"
+    ],
     "name:und_x_variant":[
         "Charles Sec",
         "Charles"
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1327322777,
-    "wof:lastmodified":1537626118,
+    "wof:lastmodified":1564155536,
     "wof:name":"Charles",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

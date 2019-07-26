@@ -26,6 +26,21 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Charrette-Verfahren"
+    ],
+    "name:fin_x_preferred":[
+        "Charrette"
+    ],
+    "name:fra_x_preferred":[
+        "Charrette"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30ec\u30c3\u30c8"
+    ],
+    "name:nor_x_preferred":[
+        "Plansmie"
+    ],
     "name:und_x_variant":[
         "Charette",
         "Charrette"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1276759979,
-    "wof:lastmodified":1537626117,
+    "wof:lastmodified":1564156149,
     "wof:name":"Charrette",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

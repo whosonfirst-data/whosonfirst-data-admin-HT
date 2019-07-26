@@ -26,8 +26,149 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0644\u064a\u0647"
+    ],
+    "name:azb_x_preferred":[
+        "\u0634\u0648\u0644\u0647"
+    ],
+    "name:bre_x_preferred":[
+        "Cholet"
+    ],
+    "name:cat_x_preferred":[
+        "Cholet"
+    ],
+    "name:ceb_x_preferred":[
+        "Cholet"
+    ],
+    "name:ces_x_preferred":[
+        "Cholet"
+    ],
+    "name:cym_x_preferred":[
+        "Cholet"
+    ],
+    "name:dan_x_preferred":[
+        "Cholet"
+    ],
+    "name:deu_x_preferred":[
+        "Cholet"
+    ],
+    "name:epo_x_preferred":[
+        "Cholet"
+    ],
+    "name:eus_x_preferred":[
+        "Cholet"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u0644\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Cholet"
+    ],
+    "name:fra_x_preferred":[
+        "Cholet"
+    ],
+    "name:glg_x_preferred":[
+        "Cholet"
+    ],
+    "name:hun_x_preferred":[
+        "Cholet"
+    ],
+    "name:ind_x_preferred":[
+        "Cholet"
+    ],
+    "name:ita_x_preferred":[
+        "Cholet"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e7\u30ec"
+    ],
+    "name:lat_x_preferred":[
+        "Cauletum"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ol\u0117"
+    ],
+    "name:ltz_x_preferred":[
+        "Cholet"
+    ],
+    "name:mlg_x_preferred":[
+        "Cholet"
+    ],
+    "name:msa_x_preferred":[
+        "Cholet"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0634\u0648\u0644\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Cholet"
+    ],
+    "name:nno_x_preferred":[
+        "Cholet"
+    ],
+    "name:nor_x_preferred":[
+        "Cholet"
+    ],
+    "name:oci_x_preferred":[
+        "Cholet"
+    ],
+    "name:pms_x_preferred":[
+        "Cholet"
+    ],
+    "name:pol_x_preferred":[
+        "Cholet"
+    ],
+    "name:por_x_preferred":[
+        "Cholet"
+    ],
+    "name:ron_x_preferred":[
+        "Cholet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u043e\u043b\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "Cholet"
+    ],
+    "name:slk_x_preferred":[
+        "Cholet"
+    ],
+    "name:slv_x_preferred":[
+        "Cholet"
+    ],
+    "name:spa_x_preferred":[
+        "Cholet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u043e\u043b\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Cholet"
+    ],
+    "name:swe_x_preferred":[
+        "Cholet"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u043e\u043b\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Cholet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u043e\u043b\u0435"
+    ],
     "name:und_x_variant":[
         "Cholette",
+        "Cholet"
+    ],
+    "name:vie_x_preferred":[
+        "Cholet"
+    ],
+    "name:vol_x_preferred":[
+        "Cholet"
+    ],
+    "name:war_x_preferred":[
         "Cholet"
     ],
     "src:geom":"geonames",
@@ -53,7 +194,7 @@
         }
     ],
     "wof:id":1209698745,
-    "wof:lastmodified":1537626115,
+    "wof:lastmodified":1564156480,
     "wof:name":"Cholet",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Paulette"
     ],
+    "name:ita_x_preferred":[
+        "Paulette"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343450021,
-    "wof:lastmodified":1537626008,
+    "wof:lastmodified":1564155846,
     "wof:name":"Paulette",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

@@ -26,6 +26,36 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Leroux"
+    ],
+    "name:fra_x_preferred":[
+        "Leroux"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e8\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Leroux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30eb\u30fc"
+    ],
+    "name:nds_x_preferred":[
+        "Leroux"
+    ],
+    "name:pol_x_preferred":[
+        "Leroux"
+    ],
+    "name:por_x_preferred":[
+        "Leroux"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0440\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Leroux"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1276535611,
-    "wof:lastmodified":1537004183,
+    "wof:lastmodified":1564156314,
     "wof:name":"Leroux",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

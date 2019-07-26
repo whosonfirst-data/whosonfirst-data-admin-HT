@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fingo"
+    ],
+    "name:swe_x_preferred":[
+        "Fingo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1327311113,
-    "wof:lastmodified":1536854868,
+    "wof:lastmodified":1564155414,
     "wof:name":"Fingo",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

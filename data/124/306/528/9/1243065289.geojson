@@ -26,8 +26,32 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Toman"
+    ],
+    "name:deu_x_preferred":[
+        "Toman"
+    ],
     "name:fra_x_preferred":[
         "Toman"
+    ],
+    "name:nds_x_preferred":[
+        "Toman"
+    ],
+    "name:nld_x_preferred":[
+        "Toman"
+    ],
+    "name:pol_x_preferred":[
+        "Toman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "Toman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1243065289,
-    "wof:lastmodified":1537625975,
+    "wof:lastmodified":1564157101,
     "wof:name":"Toman",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",
