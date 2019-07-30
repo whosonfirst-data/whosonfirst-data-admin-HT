@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Calema"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226125903,
-    "wof:lastmodified":1536606613,
+    "wof:lastmodified":1564157657,
     "wof:name":"Calema",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Juliette"
+    ],
+    "name:epo_x_preferred":[
+        "Juliette"
+    ],
+    "name:fra_x_preferred":[
+        "Juliette"
+    ],
+    "name:ita_x_preferred":[
+        "Juliette"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1310076491,
-    "wof:lastmodified":1537036864,
+    "wof:lastmodified":1564156774,
     "wof:name":"Juliette",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

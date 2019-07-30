@@ -25,6 +25,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Briers"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30e9\u30a4\u30a2\u30fc\u30ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1293867543,
-    "wof:lastmodified":1536736394,
+    "wof:lastmodified":1564156117,
     "wof:name":"Briers",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

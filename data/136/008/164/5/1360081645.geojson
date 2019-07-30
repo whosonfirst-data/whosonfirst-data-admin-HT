@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Larry"
     ],
+    "name:nor_x_preferred":[
+        "Larry"
+    ],
+    "name:swe_x_preferred":[
+        "Larry"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360081645,
-    "wof:lastmodified":1537626052,
+    "wof:lastmodified":1564156915,
     "wof:name":"Larry",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

@@ -26,7 +26,13 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pavillon"
+    ],
     "name:fra_x_preferred":[
+        "Pavillon"
+    ],
+    "name:ltz_x_preferred":[
         "Pavillon"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276844001,
-    "wof:lastmodified":1537626007,
+    "wof:lastmodified":1564156264,
     "wof:name":"Pavillon",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

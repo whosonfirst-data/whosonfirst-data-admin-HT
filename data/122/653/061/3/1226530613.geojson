@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Passe"
+    ],
+    "name:msa_x_preferred":[
+        "Passe"
+    ],
+    "name:por_x_preferred":[
+        "Passe"
+    ],
     "name:und_x_variant":[
         "Posse",
         "Passe"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1226530613,
-    "wof:lastmodified":1537626008,
+    "wof:lastmodified":1564157709,
     "wof:name":"Passe",
     "wof:parent_id":1091686327,
     "wof:placetype":"locality",

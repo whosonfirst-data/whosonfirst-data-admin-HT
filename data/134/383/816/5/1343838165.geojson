@@ -26,6 +26,21 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Briant"
+    ],
+    "name:deu_x_preferred":[
+        "Briant"
+    ],
+    "name:epo_x_preferred":[
+        "Briant"
+    ],
+    "name:fra_x_preferred":[
+        "Briant"
+    ],
+    "name:oci_x_preferred":[
+        "Briant"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1343838165,
-    "wof:lastmodified":1536699069,
+    "wof:lastmodified":1564155723,
     "wof:name":"Briant",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

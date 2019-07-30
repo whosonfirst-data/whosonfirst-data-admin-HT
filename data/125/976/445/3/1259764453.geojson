@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Marchand"
     ],
+    "name:por_x_preferred":[
+        "Marchand"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0448\u0430\u043d\u0434"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259764453,
-    "wof:lastmodified":1537626035,
+    "wof:lastmodified":1564157413,
     "wof:name":"Marchand",
     "wof:parent_id":1091686327,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0442\u0443\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Destouches"
+    ],
     "name:und_x_variant":[
         "Dessouches",
         "Destouches"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1343351131,
-    "wof:lastmodified":1537626100,
+    "wof:lastmodified":1564155786,
     "wof:name":"Destouches",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

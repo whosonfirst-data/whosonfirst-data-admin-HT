@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Chameau"
     ],
+    "name:spa_x_preferred":[
+        "Chameau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259754053,
-    "wof:lastmodified":1537626119,
+    "wof:lastmodified":1564157485,
     "wof:name":"Chameau",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

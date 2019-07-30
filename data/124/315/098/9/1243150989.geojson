@@ -26,7 +26,25 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Baptiste"
+    ],
+    "name:deu_x_preferred":[
+        "Baptiste"
+    ],
+    "name:epo_x_preferred":[
+        "Baptisto"
+    ],
     "name:fra_x_preferred":[
+        "Baptiste"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30c6\u30a3\u30b9\u30c8"
+    ],
+    "name:pol_x_preferred":[
+        "Baptysta"
+    ],
+    "name:por_x_preferred":[
         "Baptiste"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1243150989,
-    "wof:lastmodified":1537626154,
+    "wof:lastmodified":1564157189,
     "wof:name":"Baptiste",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

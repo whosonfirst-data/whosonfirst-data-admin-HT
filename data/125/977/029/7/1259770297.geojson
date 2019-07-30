@@ -27,6 +27,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Regnier"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9gnier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30cb\u30a8"
+    ],
+    "name:nds_x_preferred":[
+        "Regnier"
+    ],
+    "name:por_x_preferred":[
+        "Regnier"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0435\u043d\u044c\u0435"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u043d\u044c\u0454"
+    ],
     "name:und_x_variant":[
         "R\u00e9gner",
         "R\u00e9gnier"
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1259770297,
-    "wof:lastmodified":1537625994,
+    "wof:lastmodified":1564157374,
     "wof:name":"Regnier",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

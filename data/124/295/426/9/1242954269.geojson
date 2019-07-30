@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0435\u043c\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Aleman"
+    ],
+    "name:tgl_x_preferred":[
+        "Aleman"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1242954269,
-    "wof:lastmodified":1537017483,
+    "wof:lastmodified":1564157155,
     "wof:name":"Aleman",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

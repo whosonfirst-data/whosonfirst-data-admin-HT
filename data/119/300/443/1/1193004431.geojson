@@ -27,6 +27,33 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Anne"
+    ],
+    "name:deu_x_preferred":[
+        "Anne"
+    ],
+    "name:est_x_preferred":[
+        "Anne"
+    ],
+    "name:fin_x_preferred":[
+        "Anne"
+    ],
+    "name:fra_x_preferred":[
+        "Anne"
+    ],
+    "name:isl_x_preferred":[
+        "Anne"
+    ],
+    "name:nno_x_preferred":[
+        "Anne"
+    ],
+    "name:nor_x_preferred":[
+        "Anne"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d\u043d"
+    ],
     "name:und_x_variant":[
         "Corail Anna",
         "Anne"
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1193004431,
-    "wof:lastmodified":1537626159,
+    "wof:lastmodified":1564156582,
     "wof:name":"Anne",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Morne"
+    ],
+    "name:eus_x_preferred":[
+        "Morne"
+    ],
+    "name:fra_x_preferred":[
+        "Morne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1226529285,
-    "wof:lastmodified":1537020886,
+    "wof:lastmodified":1564157680,
     "wof:name":"Morne",
     "wof:parent_id":1091687329,
     "wof:placetype":"locality",

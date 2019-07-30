@@ -26,6 +26,39 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Vatin"
+    ],
+    "name:deu_x_preferred":[
+        "Vatin"
+    ],
+    "name:epo_x_preferred":[
+        "Vatin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u062a\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Vatin"
+    ],
+    "name:hun_x_preferred":[
+        "Versecv\u00e1t"
+    ],
+    "name:msa_x_preferred":[
+        "Vatin"
+    ],
+    "name:ron_x_preferred":[
+        "Vatin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Vatin"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0442\u0438\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1327218221,
-    "wof:lastmodified":1536989296,
+    "wof:lastmodified":1564155602,
     "wof:name":"Vatin",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

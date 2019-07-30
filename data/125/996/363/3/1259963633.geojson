@@ -26,6 +26,51 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lamothe"
+    ],
+    "name:deu_x_preferred":[
+        "Lamothe"
+    ],
+    "name:fra_x_preferred":[
+        "Lamothe"
+    ],
+    "name:ita_x_preferred":[
+        "Lamothe"
+    ],
+    "name:nds_x_preferred":[
+        "Lamothe"
+    ],
+    "name:nld_x_preferred":[
+        "Lamothe"
+    ],
+    "name:oci_x_preferred":[
+        "La Mota"
+    ],
+    "name:pms_x_preferred":[
+        "Lamothe"
+    ],
+    "name:pol_x_preferred":[
+        "Lamothe"
+    ],
+    "name:por_x_preferred":[
+        "Lamothe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u043e\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Lamothe"
+    ],
+    "name:spa_x_preferred":[
+        "Lamothe"
+    ],
+    "name:swe_x_preferred":[
+        "Lamothe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043c\u043e\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1259963633,
-    "wof:lastmodified":1536663780,
+    "wof:lastmodified":1564157340,
     "wof:name":"Lamothe",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

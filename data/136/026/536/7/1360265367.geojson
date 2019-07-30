@@ -26,6 +26,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rigaud"
+    ],
+    "name:fra_x_preferred":[
+        "Rigaud"
+    ],
+    "name:ita_x_preferred":[
+        "Rigaud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30b4\u30fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Rigaud"
+    ],
+    "name:swe_x_preferred":[
+        "Rigaud"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1360265367,
-    "wof:lastmodified":1536685623,
+    "wof:lastmodified":1564156960,
     "wof:name":"Rigaud",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

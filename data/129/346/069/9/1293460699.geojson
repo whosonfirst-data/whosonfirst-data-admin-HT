@@ -26,6 +26,75 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Edred\u00f3"
+    ],
+    "name:ces_x_preferred":[
+        "Pe\u0159ina"
+    ],
+    "name:cym_x_preferred":[
+        "Dwfe"
+    ],
+    "name:dan_x_preferred":[
+        "Dyne"
+    ],
+    "name:deu_x_preferred":[
+        "Plumeau"
+    ],
+    "name:epo_x_preferred":[
+        "Peplomo"
+    ],
+    "name:est_x_preferred":[
+        "Vatitekk"
+    ],
+    "name:eus_x_preferred":[
+        "Edredoi"
+    ],
+    "name:fra_x_preferred":[
+        "Couette"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05d9\u05db\u05ea \u05e4\u05d5\u05da"
+    ],
+    "name:ita_x_preferred":[
+        "Piumino"
+    ],
+    "name:nld_x_preferred":[
+        "Dekbed"
+    ],
+    "name:nno_x_preferred":[
+        "Dyne"
+    ],
+    "name:nor_x_preferred":[
+        "Dyne"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a30\u0a1c\u0a3e\u0a08"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0142dra"
+    ],
+    "name:por_x_preferred":[
+        "Edredom"
+    ],
+    "name:ron_x_preferred":[
+        "Plapum\u0103"
+    ],
+    "name:spa_x_preferred":[
+        "Edred\u00f3n"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u043e\u0440\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00e4cke"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u7fbd\u7ed2\u88ab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -50,7 +119,7 @@
         }
     ],
     "wof:id":1293460699,
-    "wof:lastmodified":1537563338,
+    "wof:lastmodified":1564155941,
     "wof:name":"Duvet",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

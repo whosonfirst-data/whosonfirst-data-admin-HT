@@ -26,8 +26,17 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Conseil"
+    ],
+    "name:fin_x_preferred":[
+        "Konselji"
+    ],
     "name:fra_x_preferred":[
         "Conseil"
+    ],
+    "name:swe_x_preferred":[
+        "Konselj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1293281337,
-    "wof:lastmodified":1537626113,
+    "wof:lastmodified":1564156087,
     "wof:name":"Conseil",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

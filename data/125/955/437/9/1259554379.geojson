@@ -26,6 +26,84 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0646\u0648 \u0633\u064a\u0634\u0627\u0646"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u0646\u0648"
+    ],
+    "name:bre_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:cat_x_preferred":[
+        "Renaud"
+    ],
+    "name:ces_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:cym_x_preferred":[
+        "Renaud"
+    ],
+    "name:deu_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:epo_x_preferred":[
+        "Renaud"
+    ],
+    "name:eus_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0646\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Renaud"
+    ],
+    "name:glg_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:ita_x_preferred":[
+        "Renaud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30ce\u30fc\u30fb\u30bb\u30b7\u30e3\u30f3"
+    ],
+    "name:lat_x_preferred":[
+        "Renaud"
+    ],
+    "name:lmo_x_preferred":[
+        "Renaud"
+    ],
+    "name:ltz_x_preferred":[
+        "Renaud"
+    ],
+    "name:nld_x_preferred":[
+        "Renaud"
+    ],
+    "name:oci_x_preferred":[
+        "Renaud"
+    ],
+    "name:pcd_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:pol_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:por_x_preferred":[
+        "Renaud"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0448\u0430\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:tur_x_preferred":[
+        "Renaud S\u00e9chan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u8bfa\u00b7\u585e\u5c1a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +127,7 @@
         }
     ],
     "wof:id":1259554379,
-    "wof:lastmodified":1536757003,
+    "wof:lastmodified":1564157367,
     "wof:name":"Renaud",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

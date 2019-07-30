@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Bonnal"
     ],
+    "name:nld_x_preferred":[
+        "Bonnal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259805767,
-    "wof:lastmodified":1537626139,
+    "wof:lastmodified":1564157479,
     "wof:name":"Bonnal",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

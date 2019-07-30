@@ -27,6 +27,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Boyer"
+    ],
     "name:und_x_variant":[
         "Morne Boyer",
         "Boyer"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326608141,
-    "wof:lastmodified":1537626134,
+    "wof:lastmodified":1564155459,
     "wof:name":"Boyer",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

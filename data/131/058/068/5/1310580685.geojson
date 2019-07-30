@@ -26,7 +26,28 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Limba"
+    ],
+    "name:deu_x_preferred":[
+        "Limba"
+    ],
     "name:fra_x_preferred":[
+        "Limba"
+    ],
+    "name:ita_x_preferred":[
+        "Limba"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092c\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Limba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043c\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Limba"
     ],
     "src:geom":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1310580685,
-    "wof:lastmodified":1537626044,
+    "wof:lastmodified":1564156897,
     "wof:name":"Limba",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

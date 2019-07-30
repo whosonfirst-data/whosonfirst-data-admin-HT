@@ -26,7 +26,13 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Palan"
+    ],
     "name:fra_x_preferred":[
+        "Palan"
+    ],
+    "name:swe_x_preferred":[
         "Palan"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260184177,
-    "wof:lastmodified":1537626010,
+    "wof:lastmodified":1564156693,
     "wof:name":"Palan",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

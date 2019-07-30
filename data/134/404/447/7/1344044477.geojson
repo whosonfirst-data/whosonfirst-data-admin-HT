@@ -26,8 +26,74 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0633\u0644\u064a\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u0440\u0430\u0441\u043b\u0435\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Praslin Island"
+    ],
+    "name:deu_x_preferred":[
+        "Praslin"
+    ],
+    "name:epo_x_preferred":[
+        "Praslin"
+    ],
+    "name:est_x_preferred":[
+        "Praslin"
+    ],
     "name:fra_x_preferred":[
         "Praslin"
+    ],
+    "name:glg_x_preferred":[
+        "Praslin"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0580\u0561\u057d\u056c\u0565\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Praslin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30e9\u30e9\u30f3\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10e0\u10d0\u10e1\u10da\u10d8\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub77c\uc2ac\ub7ad\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Praslenas"
+    ],
+    "name:nld_x_preferred":[
+        "Praslin"
+    ],
+    "name:nor_x_preferred":[
+        "Praslin"
+    ],
+    "name:pol_x_preferred":[
+        "Praslin"
+    ],
+    "name:por_x_preferred":[
+        "Praslin"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0441\u043b\u0435\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Praslin"
+    ],
+    "name:swe_x_preferred":[
+        "Praslin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u0430\u0441\u043b\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u5170\u5c9b"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +118,7 @@
         }
     ],
     "wof:id":1344044477,
-    "wof:lastmodified":1537625997,
+    "wof:lastmodified":1564155834,
     "wof:name":"Praslin",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

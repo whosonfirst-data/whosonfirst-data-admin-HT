@@ -29,6 +29,15 @@
     "name:fra_x_preferred":[
         "Mayomb\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Mayombe"
+    ],
+    "name:lin_x_preferred":[
+        "Mayombe"
+    ],
+    "name:por_x_preferred":[
+        "Mayombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343649629,
-    "wof:lastmodified":1537626030,
+    "wof:lastmodified":1564155667,
     "wof:name":"Mayombe",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

@@ -26,8 +26,56 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bailly"
+    ],
+    "name:deu_x_preferred":[
+        "Bailly"
+    ],
     "name:fra_x_preferred":[
         "Bailly"
+    ],
+    "name:ita_x_preferred":[
+        "Bailly"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30a4"
+    ],
+    "name:ltz_x_preferred":[
+        "Bailly"
+    ],
+    "name:nds_x_preferred":[
+        "Bailly"
+    ],
+    "name:nld_x_preferred":[
+        "Bailly"
+    ],
+    "name:oci_x_preferred":[
+        "Bailly"
+    ],
+    "name:pol_x_preferred":[
+        "Bailly"
+    ],
+    "name:por_x_preferred":[
+        "Bailly"
+    ],
+    "name:scn_x_preferred":[
+        "Bailly"
+    ],
+    "name:slk_x_preferred":[
+        "Bailly"
+    ],
+    "name:slv_x_preferred":[
+        "Bailly"
+    ],
+    "name:spa_x_preferred":[
+        "Bailly"
+    ],
+    "name:swe_x_preferred":[
+        "Bailly"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0457"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1226263871,
-    "wof:lastmodified":1537626156,
+    "wof:lastmodified":1564157540,
     "wof:name":"Bailly",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

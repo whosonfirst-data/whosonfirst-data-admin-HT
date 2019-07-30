@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0442\u0443\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Destouches"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276139969,
-    "wof:lastmodified":1537036253,
+    "wof:lastmodified":1564156242,
     "wof:name":"Destouches",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

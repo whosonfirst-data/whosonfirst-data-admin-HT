@@ -25,6 +25,75 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lacour"
+    ],
+    "name:deu_x_preferred":[
+        "Lacour"
+    ],
+    "name:eus_x_preferred":[
+        "Lacour"
+    ],
+    "name:fra_x_preferred":[
+        "Lacour"
+    ],
+    "name:hun_x_preferred":[
+        "Lacour"
+    ],
+    "name:ita_x_preferred":[
+        "Lacour"
+    ],
+    "name:lat_x_preferred":[
+        "Lacour"
+    ],
+    "name:mlg_x_preferred":[
+        "Lacour"
+    ],
+    "name:msa_x_preferred":[
+        "Lacour"
+    ],
+    "name:nld_x_preferred":[
+        "Lacour"
+    ],
+    "name:oci_x_preferred":[
+        "La Cort"
+    ],
+    "name:pms_x_preferred":[
+        "Lacour"
+    ],
+    "name:pol_x_preferred":[
+        "Lacour"
+    ],
+    "name:por_x_preferred":[
+        "Lacour"
+    ],
+    "name:ron_x_preferred":[
+        "Lacour"
+    ],
+    "name:slk_x_preferred":[
+        "Lacour"
+    ],
+    "name:spa_x_preferred":[
+        "Lacour"
+    ],
+    "name:swe_x_preferred":[
+        "Lacour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u043a\u0443\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06a9\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Lacour"
+    ],
+    "name:vol_x_preferred":[
+        "Lacour"
+    ],
+    "name:war_x_preferred":[
+        "Lacour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +114,7 @@
         }
     ],
     "wof:id":1226429619,
-    "wof:lastmodified":1536668741,
+    "wof:lastmodified":1564157545,
     "wof:name":"Lacour",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

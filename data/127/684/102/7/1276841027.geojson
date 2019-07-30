@@ -25,6 +25,24 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Yvon"
+    ],
+    "name:deu_x_preferred":[
+        "Yvon"
+    ],
+    "name:fra_x_preferred":[
+        "Yvon"
+    ],
+    "name:ita_x_preferred":[
+        "Yvon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30f4\u30a9\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0432\u043e\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276841027,
-    "wof:lastmodified":1537090014,
+    "wof:lastmodified":1564156263,
     "wof:name":"Yvon",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

@@ -26,7 +26,13 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mandrin"
+    ],
     "name:fra_x_preferred":[
+        "Mandrin"
+    ],
+    "name:ita_x_preferred":[
         "Mandrin"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1310297727,
-    "wof:lastmodified":1537626037,
+    "wof:lastmodified":1564156830,
     "wof:name":"Mandrin",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

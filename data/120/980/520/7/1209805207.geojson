@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Z\u00e9phir"
     ],
+    "name:rus_x_preferred":[
+        "Zephyr"
+    ],
+    "name:uzb_x_preferred":[
+        "Zefir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209805207,
-    "wof:lastmodified":1537625968,
+    "wof:lastmodified":1564156525,
     "wof:name":"Zephir",
     "wof:parent_id":1091686273,
     "wof:placetype":"locality",

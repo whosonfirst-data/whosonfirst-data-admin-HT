@@ -26,6 +26,81 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Eihbrenn"
+    ],
+    "name:cat_x_preferred":[
+        "Roux"
+    ],
+    "name:ces_x_preferred":[
+        "J\u00ed\u0161ka"
+    ],
+    "name:dan_x_preferred":[
+        "Roux"
+    ],
+    "name:deu_x_preferred":[
+        "Mehlschwitze"
+    ],
+    "name:eus_x_preferred":[
+        "Roux"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Roux"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d1\u05d9\u05db\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Zapr\u0161ka"
+    ],
+    "name:isl_x_preferred":[
+        "Smj\u00f6rbolla"
+    ],
+    "name:ita_x_preferred":[
+        "Roux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8e8"
+    ],
+    "name:ltz_x_preferred":[
+        "Roux"
+    ],
+    "name:nld_x_preferred":[
+        "Roux"
+    ],
+    "name:nor_x_preferred":[
+        "Jevning"
+    ],
+    "name:pol_x_preferred":[
+        "Zasma\u017cka"
+    ],
+    "name:por_x_preferred":[
+        "Roux"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Roux"
+    ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043f\u0440\u0448\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Redning"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u5976\u6cb9\u7092\u9eb5\u7cca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +124,7 @@
         }
     ],
     "wof:id":1293361337,
-    "wof:lastmodified":1536968721,
+    "wof:lastmodified":1564155896,
     "wof:name":"Roux",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

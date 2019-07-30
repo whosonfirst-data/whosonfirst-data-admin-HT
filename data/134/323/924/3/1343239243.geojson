@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Aidon"
+    ],
+    "name:fin_x_preferred":[
+        "Aidon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1343239243,
-    "wof:lastmodified":1537062850,
+    "wof:lastmodified":1564155752,
     "wof:name":"Aidon",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

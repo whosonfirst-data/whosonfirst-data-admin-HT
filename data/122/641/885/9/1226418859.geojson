@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Cour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226418859,
-    "wof:lastmodified":1536684252,
+    "wof:lastmodified":1564157664,
     "wof:name":"La Cour",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

@@ -25,6 +25,51 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Tour"
+    ],
+    "name:deu_x_preferred":[
+        "La Tour"
+    ],
+    "name:fra_x_preferred":[
+        "La Tour"
+    ],
+    "name:ita_x_preferred":[
+        "La Tour"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c8\u30a5\u30fc\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "La Tour"
+    ],
+    "name:nld_x_preferred":[
+        "La Tour"
+    ],
+    "name:pol_x_preferred":[
+        "La Tour"
+    ],
+    "name:por_x_preferred":[
+        "La Tour"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u0443\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "La Tour"
+    ],
+    "name:spa_x_preferred":[
+        "La Tour"
+    ],
+    "name:swe_x_preferred":[
+        "La Tour"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0422\u0443\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5716\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1226642199,
-    "wof:lastmodified":1536863183,
+    "wof:lastmodified":1564157682,
     "wof:name":"La Tour",
     "wof:parent_id":1091686583,
     "wof:placetype":"locality",

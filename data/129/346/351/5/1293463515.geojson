@@ -27,6 +27,81 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:cat_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:ces_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646-\u0698\u0648\u0633\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:hun_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\uff1d\u30b8\u30e5\u30b9\u30c8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\uc950\uc2a4\ud2b8"
+    ],
+    "name:lmo_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:nds_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:oci_x_preferred":[
+        "Sent Just"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:ron_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u0416\u044e\u0441\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:slv_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Just"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u0416\u0443\u0441\u0442"
+    ],
     "name:und_x_variant":[
         "Saint Juste",
         "Saint-Just"
@@ -54,7 +129,7 @@
         }
     ],
     "wof:id":1293463515,
-    "wof:lastmodified":1537625989,
+    "wof:lastmodified":1564155939,
     "wof:name":"Saint-Just",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:fra_x_preferred":[
         "Briand"
     ],
+    "name:nor_x_preferred":[
+        "Briand"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276420835,
-    "wof:lastmodified":1537626134,
+    "wof:lastmodified":1564156174,
     "wof:name":"Briand",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

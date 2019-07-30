@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Destouches"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0442\u0443\u0448"
+    ],
+    "name:swe_x_preferred":[
+        "Destouches"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293373815,
-    "wof:lastmodified":1537626100,
+    "wof:lastmodified":1564155918,
     "wof:name":"Destouches",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

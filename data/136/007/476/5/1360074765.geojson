@@ -26,7 +26,43 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Roger"
+    ],
+    "name:cat_x_preferred":[
+        "Roger"
+    ],
+    "name:dan_x_preferred":[
+        "Roger"
+    ],
+    "name:deu_x_preferred":[
+        "Roger"
+    ],
+    "name:epo_x_preferred":[
+        "Ro\u011dero"
+    ],
+    "name:fin_x_preferred":[
+        "Roger"
+    ],
     "name:fra_x_preferred":[
+        "Roger"
+    ],
+    "name:nno_x_preferred":[
+        "Roger"
+    ],
+    "name:nor_x_preferred":[
+        "Roger"
+    ],
+    "name:pol_x_preferred":[
+        "Roger"
+    ],
+    "name:ron_x_preferred":[
+        "Roger"
+    ],
+    "name:spa_x_preferred":[
+        "Roger"
+    ],
+    "name:swe_x_preferred":[
         "Roger"
     ],
     "src:geom":"geonames",
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1360074765,
-    "wof:lastmodified":1537625992,
+    "wof:lastmodified":1564156904,
     "wof:name":"Roger",
     "wof:parent_id":1091687057,
     "wof:placetype":"locality",

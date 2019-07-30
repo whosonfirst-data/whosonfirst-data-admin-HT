@@ -26,6 +26,45 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lastic"
+    ],
+    "name:deu_x_preferred":[
+        "Lastic"
+    ],
+    "name:fra_x_preferred":[
+        "Lastic"
+    ],
+    "name:ita_x_preferred":[
+        "Lastic"
+    ],
+    "name:nds_x_preferred":[
+        "Lastic"
+    ],
+    "name:nld_x_preferred":[
+        "Lastic"
+    ],
+    "name:pms_x_preferred":[
+        "Lastic"
+    ],
+    "name:pol_x_preferred":[
+        "Lastic"
+    ],
+    "name:por_x_preferred":[
+        "Lastic"
+    ],
+    "name:slk_x_preferred":[
+        "Lastic"
+    ],
+    "name:spa_x_preferred":[
+        "Lastic"
+    ],
+    "name:swe_x_preferred":[
+        "Lastic"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441\u0442\u0456\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1209697001,
-    "wof:lastmodified":1536396695,
+    "wof:lastmodified":1564156479,
     "wof:name":"Lastic",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

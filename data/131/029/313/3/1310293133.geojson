@@ -26,6 +26,102 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u062f\u064a \u062c\u0631\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:cym_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:deu_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:eus_x_preferred":[
+        "Astearte inautea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u062f\u06cc \u06af\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:fra_x_preferred":[
+        "Mardi gras"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00e1irt na hInide"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d3\u05d9 \u05d2\u05e8\u05d0"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u0926\u0940 \u0917\u094d\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00fashagy\u00f3kedd"
+    ],
+    "name:ind_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:isl_x_preferred":[
+        "Sprengidagur"
+    ],
+    "name:ita_x_preferred":[
+        "Marted\u00ec grasso"
+    ],
+    "name:jav_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c7\u30a3\u30b0\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cb0\u0ccd\u0ca1\u0cbf \u0c97\u0ccd\u0cb0\u0cbe\u0cb8\u0ccd\u200c\u200c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10e0\u10d3\u10d8 \u10d2\u10e0\u10d0"
+    ],
+    "name:nap_x_preferred":[
+        "Urdemo juorno 'e Carnevale"
+    ],
+    "name:nld_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:nrm_x_preferred":[
+        "Mardi-gras"
+    ],
+    "name:oci_x_preferred":[
+        "Dimars gras"
+    ],
+    "name:pol_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0438 \u0413\u0440\u0430"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bbf \u0b95\u0bbf\u0bb1\u0bbe\u0bb8\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0456 \u0413\u0440\u0430"
+    ],
+    "name:vec_x_preferred":[
+        "Marti graso"
+    ],
+    "name:vie_x_preferred":[
+        "Mardi Gras"
+    ],
+    "name:wln_x_preferred":[
+        "Cr\u00e5s m\u00e5rdi"
+    ],
+    "name:zho_x_preferred":[
+        "\u61fa\u6094\u661f\u671f\u4e8c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +145,7 @@
         }
     ],
     "wof:id":1310293133,
-    "wof:lastmodified":1536726177,
+    "wof:lastmodified":1564156825,
     "wof:name":"Mardi Gras",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

@@ -26,8 +26,17 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bellon"
+    ],
     "name:fra_x_preferred":[
         "Bellon"
+    ],
+    "name:pol_x_preferred":[
+        "Bellon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043b\u043b\u043e\u043d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226535017,
-    "wof:lastmodified":1537626148,
+    "wof:lastmodified":1564157707,
     "wof:name":"Bellon",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

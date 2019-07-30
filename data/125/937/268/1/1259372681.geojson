@@ -26,6 +26,21 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bourget"
+    ],
+    "name:fra_x_preferred":[
+        "Bourget"
+    ],
+    "name:ita_x_preferred":[
+        "Bourget"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u0436\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Bourget"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1259372681,
-    "wof:lastmodified":1537017113,
+    "wof:lastmodified":1564157350,
     "wof:name":"Bourget",
     "wof:parent_id":1091686895,
     "wof:placetype":"locality",

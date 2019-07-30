@@ -29,6 +29,12 @@
     "name:fra_x_preferred":[
         "Lampr\u00e9"
     ],
+    "name:fra_x_variant":[
+        "Lampre"
+    ],
+    "name:ita_x_preferred":[
+        "Lampre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1276544509,
-    "wof:lastmodified":1537626055,
+    "wof:lastmodified":1564156325,
     "wof:name":"Lampre",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Roche Ronde"
+    ],
+    "name:pol_x_preferred":[
+        "Roche Ronde"
+    ],
+    "name:swe_x_preferred":[
+        "Roche Ronde"
+    ],
     "name:und_x_variant":[
         "Roche Rond",
         "Roche Ronde"
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310498257,
-    "wof:lastmodified":1537625992,
+    "wof:lastmodified":1564156739,
     "wof:name":"Roche Ronde",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

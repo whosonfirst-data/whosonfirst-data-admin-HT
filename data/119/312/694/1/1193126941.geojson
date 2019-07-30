@@ -26,6 +26,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Robinet"
+    ],
+    "name:fra_x_preferred":[
+        "Robinet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0431\u0438\u043d\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Robinet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1193126941,
-    "wof:lastmodified":1536379914,
+    "wof:lastmodified":1564156599,
     "wof:name":"Robinet",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

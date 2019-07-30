@@ -25,6 +25,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Armand"
+    ],
+    "name:est_x_preferred":[
+        "Armand"
+    ],
+    "name:fra_x_preferred":[
+        "Armand"
+    ],
+    "name:ita_x_preferred":[
+        "Armand"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30de\u30f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043c\u0430\u043d\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Armand"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1327014395,
-    "wof:lastmodified":1536786988,
+    "wof:lastmodified":1564155404,
     "wof:name":"Armand",
     "wof:parent_id":1091686583,
     "wof:placetype":"locality",

@@ -27,9 +27,87 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Cassanha"
+    ],
+    "name:bug_x_preferred":[
+        "Cassagne"
+    ],
+    "name:cat_x_preferred":[
+        "Cassanha"
+    ],
+    "name:ceb_x_preferred":[
+        "Cassagne"
+    ],
+    "name:deu_x_preferred":[
+        "Cassagne"
+    ],
+    "name:eus_x_preferred":[
+        "Cassanha"
+    ],
+    "name:fra_x_preferred":[
+        "Cassagne"
+    ],
+    "name:hun_x_preferred":[
+        "Cassagne"
+    ],
+    "name:ind_x_preferred":[
+        "Cassagne"
+    ],
+    "name:ita_x_preferred":[
+        "Cassagne"
+    ],
+    "name:lat_x_preferred":[
+        "Cassagne"
+    ],
+    "name:msa_x_preferred":[
+        "Cassagne"
+    ],
+    "name:nld_x_preferred":[
+        "Cassagne"
+    ],
+    "name:oci_x_preferred":[
+        "Cassanha"
+    ],
+    "name:pol_x_preferred":[
+        "Cassagne"
+    ],
+    "name:ron_x_preferred":[
+        "Cassagne"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u043d\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Cassagne"
+    ],
+    "name:spa_x_preferred":[
+        "Cassagne"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0430\u0441\u0430\u045a"
+    ],
+    "name:swe_x_preferred":[
+        "Cassagne"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0441\u0441\u0430\u043d\u044c"
+    ],
     "name:und_x_variant":[
         "Cassague",
         "Cassagne"
+    ],
+    "name:vie_x_preferred":[
+        "Cassagne"
+    ],
+    "name:vol_x_preferred":[
+        "Cassagne"
+    ],
+    "name:war_x_preferred":[
+        "Cassagne"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8428\u5c3c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +132,7 @@
         }
     ],
     "wof:id":1293082241,
-    "wof:lastmodified":1537626121,
+    "wof:lastmodified":1564155922,
     "wof:name":"Cassagne",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

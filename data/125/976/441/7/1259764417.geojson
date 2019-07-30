@@ -26,6 +26,51 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Pietat"
+    ],
+    "name:fin_x_preferred":[
+        "S\u00e4\u00e4li"
+    ],
+    "name:fra_x_preferred":[
+        "Piti\u00e9"
+    ],
+    "name:glg_x_preferred":[
+        "Piedade"
+    ],
+    "name:hun_x_preferred":[
+        "Sajn\u00e1lat"
+    ],
+    "name:ita_x_preferred":[
+        "Piet\u00e0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ca8\u0cbf\u0c95\u0cb0"
+    ],
+    "name:por_x_preferred":[
+        "D\u00f3"
+    ],
+    "name:rus_x_preferred":[
+        "\u0416\u0430\u043b\u043e\u0441\u0442\u044c"
+    ],
+    "name:scn_x_preferred":[
+        "Piatati"
+    ],
+    "name:spa_x_preferred":[
+        "Piedad"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b87\u0bb0\u0b95\u0bcd\u0b95\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1c\u0c3e\u0c32\u0c3f"
+    ],
+    "name:tur_x_preferred":[
+        "Ac\u0131ma"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0430\u043b\u0456\u0441\u0442\u044c"
+    ],
     "name:und_x_variant":[
         "Piti",
         "Pity"
@@ -53,7 +98,7 @@
         }
     ],
     "wof:id":1259764417,
-    "wof:lastmodified":1537626002,
+    "wof:lastmodified":1564157409,
     "wof:name":"Pity",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

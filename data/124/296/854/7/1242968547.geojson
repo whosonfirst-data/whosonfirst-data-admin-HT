@@ -26,6 +26,51 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0410\u043f\u0430\u043b\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Apollon"
+    ],
+    "name:fra_x_preferred":[
+        "Apollon"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u0578\u056c\u056c\u0578\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Apollon"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u043b\u043e\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Apollon"
+    ],
+    "name:nor_x_preferred":[
+        "Apollon"
+    ],
+    "name:pol_x_preferred":[
+        "Apollon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u043b\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Apolon"
+    ],
+    "name:spa_x_preferred":[
+        "Apollon"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043f\u043e\u043b\u043b\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Apollon"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1242968547,
-    "wof:lastmodified":1536996822,
+    "wof:lastmodified":1564157280,
     "wof:name":"Apollon",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

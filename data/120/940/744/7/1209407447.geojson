@@ -26,6 +26,87 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bug_x_preferred":[
+        "Challet"
+    ],
+    "name:cat_x_preferred":[
+        "Challet"
+    ],
+    "name:ceb_x_preferred":[
+        "Challet"
+    ],
+    "name:deu_x_preferred":[
+        "Challet"
+    ],
+    "name:eus_x_preferred":[
+        "Challet"
+    ],
+    "name:fra_x_preferred":[
+        "Challet"
+    ],
+    "name:hun_x_preferred":[
+        "Challet"
+    ],
+    "name:ita_x_preferred":[
+        "Challet"
+    ],
+    "name:lat_x_preferred":[
+        "Challet"
+    ],
+    "name:mlg_x_preferred":[
+        "Challet"
+    ],
+    "name:msa_x_preferred":[
+        "Challet"
+    ],
+    "name:nld_x_preferred":[
+        "Challet"
+    ],
+    "name:oci_x_preferred":[
+        "Challet"
+    ],
+    "name:pms_x_preferred":[
+        "Challet"
+    ],
+    "name:pol_x_preferred":[
+        "Challet"
+    ],
+    "name:por_x_preferred":[
+        "Challet"
+    ],
+    "name:ron_x_preferred":[
+        "Challet"
+    ],
+    "name:slk_x_preferred":[
+        "Challet"
+    ],
+    "name:spa_x_preferred":[
+        "Challet"
+    ],
+    "name:srp_x_preferred":[
+        "\u0428\u0430\u043b\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Challet"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0430\u043b\u043b\u0435"
+    ],
+    "name:uzb_x_preferred":[
+        "Challet"
+    ],
+    "name:vie_x_preferred":[
+        "Challet"
+    ],
+    "name:vol_x_preferred":[
+        "Challet"
+    ],
+    "name:war_x_preferred":[
+        "Challet"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c99\u83b1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +124,7 @@
         }
     ],
     "wof:id":1209407447,
-    "wof:lastmodified":1536287949,
+    "wof:lastmodified":1564156430,
     "wof:name":"Challet",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

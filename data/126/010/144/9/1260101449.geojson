@@ -26,6 +26,15 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Cange"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30b8\u30e5"
+    ],
+    "name:ron_x_preferred":[
+        "Cange"
+    ],
     "name:und_x_variant":[
         "Cang\u00e9"
     ],
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1260101449,
-    "wof:lastmodified":1537626126,
+    "wof:lastmodified":1564156708,
     "wof:name":"Cange",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

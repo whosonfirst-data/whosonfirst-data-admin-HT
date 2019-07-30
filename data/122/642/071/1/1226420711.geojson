@@ -27,6 +27,48 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0412\u0430\u043b\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Vali"
+    ],
+    "name:deu_x_preferred":[
+        "V\u00e4li"
+    ],
+    "name:fra_x_preferred":[
+        "Vali"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d0\u05dc\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Vali"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f4\u30a1\u30fc\u30ea"
+    ],
+    "name:pol_x_preferred":[
+        "Wali"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Vali"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Vali"
+    ],
+    "name:tur_x_preferred":[
+        "Vali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043b\u0456"
+    ],
     "name:und_x_variant":[
         "Vally",
         "Vali"
@@ -54,7 +96,7 @@
         }
     ],
     "wof:id":1226420711,
-    "wof:lastmodified":1537625972,
+    "wof:lastmodified":1564157542,
     "wof:name":"Vali",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

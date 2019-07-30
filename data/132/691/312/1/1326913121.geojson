@@ -26,6 +26,33 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Vivant"
+    ],
+    "name:deu_x_preferred":[
+        "Vivant"
+    ],
+    "name:epo_x_preferred":[
+        "Vivant"
+    ],
+    "name:fra_x_preferred":[
+        "Vivant"
+    ],
+    "name:ita_x_preferred":[
+        "Vivant"
+    ],
+    "name:kor_x_preferred":[
+        "\ube44\ubc18\ud2b8"
+    ],
+    "name:lmo_x_preferred":[
+        "Vivant"
+    ],
+    "name:nld_x_preferred":[
+        "Vivant"
+    ],
+    "name:swe_x_preferred":[
+        "Vivant"
+    ],
     "name:und_x_variant":[
         "Virant",
         "Vivant"
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1326913121,
-    "wof:lastmodified":1537625969,
+    "wof:lastmodified":1564155587,
     "wof:name":"Vivant",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

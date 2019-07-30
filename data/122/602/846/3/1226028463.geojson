@@ -26,6 +26,39 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0645\u0628\u064a\u0644\u0627\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Chambellan"
+    ],
+    "name:fra_x_preferred":[
+        "Chambellan"
+    ],
+    "name:hat_x_preferred":[
+        "Chanb\u00e8lan"
+    ],
+    "name:ita_x_preferred":[
+        "Chambellan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30f3\u30d9\u30e9\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Chambellan"
+    ],
+    "name:por_x_preferred":[
+        "Chambellan"
+    ],
+    "name:ron_x_preferred":[
+        "Chambellan"
+    ],
+    "name:spa_x_preferred":[
+        "Chambellan"
+    ],
+    "name:swe_x_preferred":[
+        "Chambellan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1226028463,
-    "wof:lastmodified":1536749978,
+    "wof:lastmodified":1564157577,
     "wof:name":"Chambellan",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

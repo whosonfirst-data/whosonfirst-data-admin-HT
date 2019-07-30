@@ -26,6 +26,36 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:deu_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:fra_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:ita_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:por_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:ron_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u0448\u0435\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:swe_x_preferred":[
+        "Pierre Michel"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u57c3\u5c14\u00b7\u7c73\u6b47\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +79,7 @@
         }
     ],
     "wof:id":1276963449,
-    "wof:lastmodified":1536930063,
+    "wof:lastmodified":1564156306,
     "wof:name":"Pierre Michel",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

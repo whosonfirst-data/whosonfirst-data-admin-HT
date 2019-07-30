@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Ignace"
     ],
+    "name:pol_x_preferred":[
+        "Ignace"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327008047,
-    "wof:lastmodified":1537626068,
+    "wof:lastmodified":1564155422,
     "wof:name":"Ignace",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

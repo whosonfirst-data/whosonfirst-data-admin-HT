@@ -26,8 +26,41 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0628\u0627\u0631\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Tabarre"
+    ],
+    "name:fra_x_preferred":[
+        "Tabarre"
+    ],
     "name:hat_x_preferred":[
         "Taba"
+    ],
+    "name:ita_x_preferred":[
+        "Tabarre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d0\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Tabarre"
+    ],
+    "name:pol_x_preferred":[
+        "Tabarre"
+    ],
+    "name:por_x_preferred":[
+        "Tabarre"
+    ],
+    "name:ron_x_preferred":[
+        "Tabarre"
+    ],
+    "name:spa_x_preferred":[
+        "Tabarre"
+    ],
+    "name:swe_x_preferred":[
+        "Tabarre"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1276529127,
-    "wof:lastmodified":1537625982,
+    "wof:lastmodified":1564156270,
     "wof:name":"Tabarre",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

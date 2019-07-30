@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Caporal"
     ],
+    "name:spa_x_preferred":[
+        "Caporal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259359413,
-    "wof:lastmodified":1537626125,
+    "wof:lastmodified":1564157453,
     "wof:name":"Caporal",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

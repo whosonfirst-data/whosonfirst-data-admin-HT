@@ -26,6 +26,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Roussel"
+    ],
+    "name:fra_x_preferred":[
+        "Roussel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc\u30bb\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Roussel"
+    ],
+    "name:ron_x_preferred":[
+        "Roussel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0441\u0435\u043b\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Roussel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1292905383,
-    "wof:lastmodified":1536630526,
+    "wof:lastmodified":1564156045,
     "wof:name":"Roussel",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

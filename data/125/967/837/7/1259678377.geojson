@@ -25,6 +25,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Claudine"
+    ],
+    "name:fin_x_preferred":[
+        "Claudine"
+    ],
+    "name:fra_x_preferred":[
+        "Claudine"
+    ],
+    "name:pol_x_preferred":[
+        "Klaudyna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259678377,
-    "wof:lastmodified":1537071323,
+    "wof:lastmodified":1564157458,
     "wof:name":"Claudine",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

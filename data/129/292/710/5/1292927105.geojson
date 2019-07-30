@@ -26,6 +26,45 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Will"
+    ],
+    "name:dan_x_preferred":[
+        "Will"
+    ],
+    "name:deu_x_preferred":[
+        "Will"
+    ],
+    "name:fin_x_preferred":[
+        "Will"
+    ],
+    "name:fra_x_preferred":[
+        "Will"
+    ],
+    "name:hsb_x_preferred":[
+        "Will"
+    ],
+    "name:ita_x_preferred":[
+        "Will"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a3\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "Will"
+    ],
+    "name:pol_x_preferred":[
+        "Will"
+    ],
+    "name:por_x_preferred":[
+        "Will"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043b\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Will"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +88,7 @@
         }
     ],
     "wof:id":1292927105,
-    "wof:lastmodified":1537094828,
+    "wof:lastmodified":1564155934,
     "wof:name":"Will",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

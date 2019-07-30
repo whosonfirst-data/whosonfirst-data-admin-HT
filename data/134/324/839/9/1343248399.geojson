@@ -25,6 +25,84 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a \u0643\u0644\u064a\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:deu_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:ell_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u06cc \u06a9\u0644\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:fra_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:hun_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0565\u0580\u056b \u0554\u056c\u0565\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:ita_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:jpn_x_preferred":[
+        "Marie claire"
+    ],
+    "name:kaz_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub9ac\ub04c\ub808\ub974"
+    ],
+    "name:msa_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:nld_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:nor_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:por_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:ron_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:rus_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:spa_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:swe_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e23\u0e35 \u0e41\u0e04\u0e25\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:ukr_x_preferred":[
+        "Marie Claire"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u9e97\u4f73\u4eba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1343248399,
-    "wof:lastmodified":1537050276,
+    "wof:lastmodified":1564155749,
     "wof:name":"Marie Claire",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

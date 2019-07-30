@@ -26,6 +26,78 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Riville"
+    ],
+    "name:ceb_x_preferred":[
+        "Riville"
+    ],
+    "name:deu_x_preferred":[
+        "Riville"
+    ],
+    "name:eus_x_preferred":[
+        "Riville"
+    ],
+    "name:fra_x_preferred":[
+        "Riville"
+    ],
+    "name:hun_x_preferred":[
+        "Riville"
+    ],
+    "name:ita_x_preferred":[
+        "Riville"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u0432\u0438\u043b\u044c"
+    ],
+    "name:lat_x_preferred":[
+        "Riville"
+    ],
+    "name:mlg_x_preferred":[
+        "Riville"
+    ],
+    "name:msa_x_preferred":[
+        "Riville"
+    ],
+    "name:nld_x_preferred":[
+        "Riville"
+    ],
+    "name:oci_x_preferred":[
+        "Riville"
+    ],
+    "name:pms_x_preferred":[
+        "Riville"
+    ],
+    "name:pol_x_preferred":[
+        "Riville"
+    ],
+    "name:por_x_preferred":[
+        "Riville"
+    ],
+    "name:ron_x_preferred":[
+        "Riville"
+    ],
+    "name:slk_x_preferred":[
+        "Riville"
+    ],
+    "name:spa_x_preferred":[
+        "Riville"
+    ],
+    "name:swe_x_preferred":[
+        "Riville"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u0432\u0456\u043b\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Riville"
+    ],
+    "name:vol_x_preferred":[
+        "Riville"
+    ],
+    "name:war_x_preferred":[
+        "Riville"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +121,7 @@
         }
     ],
     "wof:id":1310622139,
-    "wof:lastmodified":1536748562,
+    "wof:lastmodified":1564156758,
     "wof:name":"Riville",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

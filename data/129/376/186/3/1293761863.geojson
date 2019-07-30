@@ -27,6 +27,18 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dube"
+    ],
+    "name:deu_x_preferred":[
+        "Dube"
+    ],
+    "name:fra_x_preferred":[
+        "Dub\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Dube"
+    ],
     "name:und_x_variant":[
         "Turb\u00e9",
         "Dube"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293761863,
-    "wof:lastmodified":1537626095,
+    "wof:lastmodified":1564155968,
     "wof:name":"Dube",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

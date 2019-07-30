@@ -27,6 +27,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Domon"
+    ],
     "name:und_x_variant":[
         "Domond",
         "Domon"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1326727171,
-    "wof:lastmodified":1537626097,
+    "wof:lastmodified":1564155433,
     "wof:name":"Domon",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

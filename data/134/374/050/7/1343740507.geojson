@@ -26,6 +26,27 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Minerve"
+    ],
+    "name:deu_x_preferred":[
+        "Minerve"
+    ],
+    "name:fra_x_preferred":[
+        "Minerve"
+    ],
+    "name:ltz_x_preferred":[
+        "Minerve"
+    ],
+    "name:oci_x_preferred":[
+        "Men\u00e8rba"
+    ],
+    "name:pol_x_preferred":[
+        "Minerve"
+    ],
+    "name:swe_x_preferred":[
+        "Minerve"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1343740507,
-    "wof:lastmodified":1536838678,
+    "wof:lastmodified":1564155857,
     "wof:name":"Minerve",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

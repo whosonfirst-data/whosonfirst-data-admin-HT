@@ -26,6 +26,24 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bazou"
+    ],
+    "name:fra_x_preferred":[
+        "Bazou"
+    ],
+    "name:msa_x_preferred":[
+        "Bazou"
+    ],
+    "name:pol_x_preferred":[
+        "Bazou"
+    ],
+    "name:spa_x_preferred":[
+        "Bazou"
+    ],
+    "name:swe_x_preferred":[
+        "Bazou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1343254519,
-    "wof:lastmodified":1537041747,
+    "wof:lastmodified":1564155768,
     "wof:name":"Bazou",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

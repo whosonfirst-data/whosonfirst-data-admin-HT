@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Zephyr"
+    ],
+    "name:uzb_x_preferred":[
+        "Zefir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310522755,
-    "wof:lastmodified":1536891715,
+    "wof:lastmodified":1564156784,
     "wof:name":"Zephir",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

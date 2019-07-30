@@ -26,8 +26,20 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gascon"
+    ],
+    "name:eus_x_preferred":[
+        "Gaskoi"
+    ],
     "name:fra_x_preferred":[
         "Gascon"
+    ],
+    "name:ita_x_preferred":[
+        "Guascone"
+    ],
+    "name:spa_x_preferred":[
+        "Gasc\u00f3n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1209902633,
-    "wof:lastmodified":1537626081,
+    "wof:lastmodified":1564156384,
     "wof:name":"Gascon",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

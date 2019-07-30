@@ -26,8 +26,92 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Brieux"
+    ],
+    "name:ceb_x_preferred":[
+        "Brieux"
+    ],
+    "name:deu_x_preferred":[
+        "Brieux"
+    ],
+    "name:eus_x_preferred":[
+        "Brieux"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u06cc\u06a9\u0633"
+    ],
     "name:fra_x_preferred":[
         "Brieux"
+    ],
+    "name:hun_x_preferred":[
+        "Brieux"
+    ],
+    "name:ind_x_preferred":[
+        "Brieux"
+    ],
+    "name:ita_x_preferred":[
+        "Brieux"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0438\u0435"
+    ],
+    "name:lat_x_preferred":[
+        "Brieux"
+    ],
+    "name:mlg_x_preferred":[
+        "Brieux"
+    ],
+    "name:msa_x_preferred":[
+        "Brieux"
+    ],
+    "name:nld_x_preferred":[
+        "Brieux"
+    ],
+    "name:oci_x_preferred":[
+        "Brieux"
+    ],
+    "name:pms_x_preferred":[
+        "Brieux"
+    ],
+    "name:pol_x_preferred":[
+        "Brieux"
+    ],
+    "name:por_x_preferred":[
+        "Brieux"
+    ],
+    "name:ron_x_preferred":[
+        "Brieux"
+    ],
+    "name:slk_x_preferred":[
+        "Brieux"
+    ],
+    "name:spa_x_preferred":[
+        "Brieux"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0438\u0458\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Brieux"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0456\u0454"
+    ],
+    "name:uzb_x_preferred":[
+        "Brieux"
+    ],
+    "name:vie_x_preferred":[
+        "Brieux"
+    ],
+    "name:vol_x_preferred":[
+        "Brieux"
+    ],
+    "name:war_x_preferred":[
+        "Brieux"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u91cc\u5384"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +136,7 @@
         }
     ],
     "wof:id":1277164531,
-    "wof:lastmodified":1537626134,
+    "wof:lastmodified":1564156338,
     "wof:name":"Brieux",
     "wof:parent_id":1091687329,
     "wof:placetype":"locality",

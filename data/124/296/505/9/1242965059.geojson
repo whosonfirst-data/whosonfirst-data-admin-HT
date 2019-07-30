@@ -26,7 +26,19 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Laurence"
+    ],
     "name:fra_x_preferred":[
+        "Laurence"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0578\u0580\u0565\u0576\u057d"
+    ],
+    "name:nor_x_preferred":[
+        "Laurence"
+    ],
+    "name:swe_x_preferred":[
         "Laurence"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242965059,
-    "wof:lastmodified":1537626050,
+    "wof:lastmodified":1564157276,
     "wof:name":"Laurence",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

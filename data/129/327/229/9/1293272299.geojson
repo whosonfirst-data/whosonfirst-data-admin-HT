@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jean-Antoine d'Anglerais"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043a\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293272299,
-    "wof:lastmodified":1537094073,
+    "wof:lastmodified":1564156068,
     "wof:name":"Chicot",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

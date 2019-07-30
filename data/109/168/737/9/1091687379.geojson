@@ -30,11 +30,47 @@
     "mps:longitude":-72.045869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:dan_x_preferred":[
+        "Croix-des-Bouqets"
+    ],
     "name:eng_x_preferred":[
         "Croix-des-Bouquets"
     ],
     "name:eng_x_variant":[
         "Croix-Des-Bouquets",
+        "Croix-des-Bouquets"
+    ],
+    "name:fra_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:hat_x_preferred":[
+        "Kwad\u00e8bouke"
+    ],
+    "name:ita_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30ed\u30ef\u30fb\u30c7\u30fb\u30d6\u30fc\u30b1"
+    ],
+    "name:nld_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:nor_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:pol_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:por_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:ron_x_preferred":[
+        "Croix-des-Bouquets"
+    ],
+    "name:spa_x_preferred":[
+        "La Croix-des-Bouquets"
+    ],
+    "name:tur_x_preferred":[
         "Croix-des-Bouquets"
     ],
     "src:geom":"meso",
@@ -72,7 +108,7 @@
         }
     ],
     "wof:id":1091687379,
-    "wof:lastmodified":1553717900,
+    "wof:lastmodified":1564156969,
     "wof:name":"Croix-des-Bouquets",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

@@ -26,6 +26,9 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Lucienne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1310584699,
-    "wof:lastmodified":1536802702,
+    "wof:lastmodified":1564156897,
     "wof:name":"Lucienne",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

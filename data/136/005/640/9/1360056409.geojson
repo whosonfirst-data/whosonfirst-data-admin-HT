@@ -26,6 +26,51 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:nds_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u0412\u0438\u043a\u0442\u043e\u0440"
+    ],
+    "name:slk_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Victor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u0412\u0456\u043a\u0442\u043e\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +94,7 @@
         }
     ],
     "wof:id":1360056409,
-    "wof:lastmodified":1536986378,
+    "wof:lastmodified":1564156967,
     "wof:name":"Saint-Victor",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -26,6 +26,33 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0447\u0430\u0442"
+    ],
+    "name:deu_x_preferred":[
+        "Print"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u067e"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0430\u0441\u043f\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub9b0\ud2b8"
+    ],
+    "name:nld_x_preferred":[
+        "Print"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0447\u0430\u0442\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Tla\u010d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0440\u0443\u043c\u0435\u043d\u0435\u0432\u0438\u0439 \u0434\u0440\u0443\u043a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +70,7 @@
         }
     ],
     "wof:id":1209188015,
-    "wof:lastmodified":1536295033,
+    "wof:lastmodified":1564156519,
     "wof:name":"Print",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

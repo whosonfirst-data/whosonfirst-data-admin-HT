@@ -26,6 +26,54 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09b0\u09bf\u09af\u09bc\u09c7"
+    ],
+    "name:deu_x_preferred":[
+        "Perrier"
+    ],
+    "name:eus_x_preferred":[
+        "Perrier"
+    ],
+    "name:fra_x_preferred":[
+        "Perrier"
+    ],
+    "name:ita_x_preferred":[
+        "Perrier"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ea\u30a8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud398\ub9ac\uc5d0"
+    ],
+    "name:nld_x_preferred":[
+        "Perrier"
+    ],
+    "name:nor_x_preferred":[
+        "Perrier"
+    ],
+    "name:oci_x_preferred":[
+        "Perrier"
+    ],
+    "name:pol_x_preferred":[
+        "Perrier"
+    ],
+    "name:por_x_preferred":[
+        "Perrier"
+    ],
+    "name:rus_x_preferred":[
+        "Perrier"
+    ],
+    "name:spa_x_preferred":[
+        "Perrier"
+    ],
+    "name:swe_x_preferred":[
+        "Perrier"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c9b\u7da0\u96c5"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +91,7 @@
         }
     ],
     "wof:id":1209603203,
-    "wof:lastmodified":1536282098,
+    "wof:lastmodified":1564156477,
     "wof:name":"Perrier",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

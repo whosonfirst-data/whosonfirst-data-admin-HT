@@ -26,8 +26,116 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u0631\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Makaron \u015firniyyat\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Macar\u00f3"
+    ],
+    "name:ces_x_preferred":[
+        "Makr\u00f3nky"
+    ],
+    "name:dan_x_preferred":[
+        "Makron"
+    ],
+    "name:deu_x_preferred":[
+        "Macaron"
+    ],
+    "name:epo_x_preferred":[
+        "Makarono"
+    ],
+    "name:est_x_preferred":[
+        "Makroon"
+    ],
+    "name:eus_x_preferred":[
+        "Makarroi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0631\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Macaron"
+    ],
     "name:fra_x_preferred":[
         "Macaron"
+    ],
+    "name:glg_x_preferred":[
+        "Macaron"
+    ],
+    "name:hrv_x_preferred":[
+        "Makroni"
+    ],
+    "name:hun_x_preferred":[
+        "Macaron"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056f\u0561\u0580\u0578\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Makarono"
+    ],
+    "name:ind_x_preferred":[
+        "Macarons"
+    ],
+    "name:ita_x_preferred":[
+        "Macaron"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ab\u30ed\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uce74\ub871"
+    ],
+    "name:lao_x_preferred":[
+        "\u0ea1\u0eb2\u0e81\u0eb2\u0ea3\u0ebb\u0e87"
+    ],
+    "name:lav_x_preferred":[
+        "Mande\u013cu bez\u0113"
+    ],
+    "name:msa_x_preferred":[
+        "Makaron"
+    ],
+    "name:nld_x_preferred":[
+        "Macaron"
+    ],
+    "name:nor_x_preferred":[
+        "Makroner"
+    ],
+    "name:por_x_preferred":[
+        "Macaron"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u043e\u043d"
+    ],
+    "name:slv_x_preferred":[
+        "Makron"
+    ],
+    "name:spa_x_preferred":[
+        "Macarr\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Makron"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e01\u0e32\u0e23\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "F\u0131nd\u0131kl\u0131 makaron"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u0440\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Macaron"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5361\u9f8d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +160,7 @@
         }
     ],
     "wof:id":1327220149,
-    "wof:lastmodified":1537626040,
+    "wof:lastmodified":1564155488,
     "wof:name":"Macaron",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:fra_x_preferred":[
         "Chaber"
     ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d1\u05e8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343954051,
-    "wof:lastmodified":1537626119,
+    "wof:lastmodified":1564155775,
     "wof:name":"Chaber",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

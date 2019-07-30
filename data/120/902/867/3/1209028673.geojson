@@ -26,9 +26,123 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0633\u0646\u0648\u0622"
+    ],
+    "name:aze_x_preferred":[
+        "Sannua"
+    ],
+    "name:cat_x_preferred":[
+        "Sannois"
+    ],
+    "name:ceb_x_preferred":[
+        "Sannois"
+    ],
+    "name:deu_x_preferred":[
+        "Sannois"
+    ],
+    "name:epo_x_preferred":[
+        "Sannois"
+    ],
+    "name:eus_x_preferred":[
+        "Sannois"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u0648\u0622"
+    ],
+    "name:fin_x_preferred":[
+        "Sannois"
+    ],
+    "name:fra_x_preferred":[
+        "Sannois"
+    ],
+    "name:hun_x_preferred":[
+        "Sannois"
+    ],
+    "name:ind_x_preferred":[
+        "Sannois"
+    ],
+    "name:ita_x_preferred":[
+        "Sannois"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30ce\u30ef"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0443\u0430"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub204\uc544"
+    ],
+    "name:lat_x_preferred":[
+        "Sannois"
+    ],
+    "name:msa_x_preferred":[
+        "Sannois"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0633\u0646\u0648\u0622"
+    ],
+    "name:nld_x_preferred":[
+        "Sannois"
+    ],
+    "name:nor_x_preferred":[
+        "Sannois"
+    ],
+    "name:oci_x_preferred":[
+        "Sannois"
+    ],
+    "name:pol_x_preferred":[
+        "Sannois"
+    ],
+    "name:por_x_preferred":[
+        "Sannois"
+    ],
+    "name:ron_x_preferred":[
+        "Sannois"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0443\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Sannois"
+    ],
+    "name:slv_x_preferred":[
+        "Sannois"
+    ],
+    "name:spa_x_preferred":[
+        "Sannois"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u043e\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Sannois"
+    ],
+    "name:swe_x_preferred":[
+        "Sannois"
+    ],
+    "name:tur_x_preferred":[
+        "Sannois"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u043d\u0443\u0430"
+    ],
     "name:und_x_variant":[
         "Sanois",
         "Sannois"
+    ],
+    "name:vie_x_preferred":[
+        "Sannois"
+    ],
+    "name:vol_x_preferred":[
+        "Sannois"
+    ],
+    "name:war_x_preferred":[
+        "Sannois"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u52aa\u74e6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +161,7 @@
         }
     ],
     "wof:id":1209028673,
-    "wof:lastmodified":1537625988,
+    "wof:lastmodified":1564156491,
     "wof:name":"Sannois",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

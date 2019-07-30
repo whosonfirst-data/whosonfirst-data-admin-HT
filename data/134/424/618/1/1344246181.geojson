@@ -26,6 +26,12 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Garenne"
+    ],
+    "name:swe_x_preferred":[
+        "La Garenne"
+    ],
     "name:und_x_variant":[
         "Garene",
         "La Gar\u00e8ne",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344246181,
-    "wof:lastmodified":1537626058,
+    "wof:lastmodified":1564155701,
     "wof:name":"La Garenne",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

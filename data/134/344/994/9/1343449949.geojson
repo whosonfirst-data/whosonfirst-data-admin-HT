@@ -26,8 +26,71 @@
     "iso:country":"HT",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u062f"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u0434"
+    ],
+    "name:cat_x_preferred":[
+        "El Cid"
+    ],
+    "name:ces_x_preferred":[
+        "Le Cid"
+    ],
+    "name:cym_x_preferred":[
+        "Le Cid"
+    ],
+    "name:deu_x_preferred":[
+        "Le Cid"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062f"
+    ],
     "name:fra_x_preferred":[
         "La Cid"
+    ],
+    "name:fra_x_variant":[
+        "Le Cid"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0564"
+    ],
+    "name:ita_x_preferred":[
+        "Il Cid"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fb\u30b7\u30c3\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ub974 \uc2dc\ub4dc"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0434"
+    ],
+    "name:nor_x_preferred":[
+        "Le Cid"
+    ],
+    "name:oci_x_preferred":[
+        "Lo Cid"
+    ],
+    "name:pol_x_preferred":[
+        "Cyd"
+    ],
+    "name:ron_x_preferred":[
+        "Cidul"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0434"
+    ],
+    "name:slv_x_preferred":[
+        "Cid"
+    ],
+    "name:spa_x_preferred":[
+        "El Cid"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0434"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +115,7 @@
         }
     ],
     "wof:id":1343449949,
-    "wof:lastmodified":1537626047,
+    "wof:lastmodified":1564155873,
     "wof:name":"Le Cid",
     "wof:parent_id":1091687119,
     "wof:placetype":"locality",
