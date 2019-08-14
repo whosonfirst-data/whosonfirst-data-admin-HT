@@ -15,6 +15,9 @@
     "itu:country_code":[
         "509"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HT"
+    ],
     "lbl:latitude":19.251299,
     "lbl:longitude":-72.294701,
     "mps:latitude":19.251299,
@@ -967,9 +970,6 @@
         }
     ],
     "wof:id":85632433,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -978,7 +978,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583114,
+    "wof:lastmodified":1565714595,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

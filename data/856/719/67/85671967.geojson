@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OU"
+    ],
     "lbl:latitude":18.526108,
     "lbl:longitude":-72.16818,
     "meso:name_local":"Ouest",
@@ -286,9 +289,6 @@
         }
     ],
     "wof:id":85671967,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -297,7 +297,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583118,
+    "wof:lastmodified":1565714597,
     "wof:name":"Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

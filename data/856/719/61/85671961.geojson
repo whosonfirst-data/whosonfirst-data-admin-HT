@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ND"
+    ],
     "lbl:latitude":19.626722,
     "lbl:longitude":-72.232916,
     "meso:name_local":"Nord",
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85671961,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -296,7 +296,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583115,
+    "wof:lastmodified":1565714596,
     "wof:name":"Nord",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

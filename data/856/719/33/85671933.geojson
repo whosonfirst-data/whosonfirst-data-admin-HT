@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":18.536662,
     "lbl:longitude":-74.198653,
     "meso:name_local":"Grand'Anse",
@@ -297,9 +300,6 @@
         }
     ],
     "wof:id":85671933,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -308,7 +308,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583119,
+    "wof:lastmodified":1565714598,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

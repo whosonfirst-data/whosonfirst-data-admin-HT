@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":19.284977,
     "lbl:longitude":-72.481992,
     "meso:name_local":"L'Artibonite",
@@ -283,9 +286,6 @@
         }
     ],
     "wof:id":85671949,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -294,7 +294,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583122,
+    "wof:lastmodified":1565714599,
     "wof:name":"L'Artibonite",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

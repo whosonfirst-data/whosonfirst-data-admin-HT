@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":18.43028,
     "lbl:longitude":-73.391549,
     "meso:name_local":"Nippes",
@@ -288,7 +291,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583120,
+    "wof:lastmodified":1565714598,
     "wof:name":"Nippes",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

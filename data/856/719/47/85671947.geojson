@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SD"
+    ],
     "lbl:latitude":18.278506,
     "lbl:longitude":-73.82652,
     "meso:name_local":"Sud",
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85671947,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -296,7 +296,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583123,
+    "wof:lastmodified":1565714599,
     "wof:name":"Sud",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

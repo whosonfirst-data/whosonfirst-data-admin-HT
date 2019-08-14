@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SE"
+    ],
     "lbl:latitude":18.310541,
     "lbl:longitude":-72.473745,
     "meso:name_local":"Sud-Est",
@@ -287,9 +290,6 @@
         }
     ],
     "wof:id":85671969,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -298,7 +298,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583117,
+    "wof:lastmodified":1565714597,
     "wof:name":"Sud-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

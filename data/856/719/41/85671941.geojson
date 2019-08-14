@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":19.815239,
     "lbl:longitude":-73.141288,
     "meso:name_local":"Nord-Ouest",
@@ -283,9 +286,6 @@
         }
     ],
     "wof:id":85671941,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -294,7 +294,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583121,
+    "wof:lastmodified":1565714599,
     "wof:name":"Nord-Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

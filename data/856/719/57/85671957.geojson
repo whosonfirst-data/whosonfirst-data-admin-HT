@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NE"
+    ],
     "lbl:latitude":19.508401,
     "lbl:longitude":-71.88539,
     "meso:name_local":"Nord-Est",
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85671957,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -289,7 +289,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583116,
+    "wof:lastmodified":1565714597,
     "wof:name":"Nord-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

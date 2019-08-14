@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":19.030462,
     "lbl:longitude":-72.051236,
     "meso:name_local":"Centre",
@@ -290,9 +293,6 @@
         }
     ],
     "wof:id":85671955,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "hat",
         "fra"
@@ -301,7 +301,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1563583121,
+    "wof:lastmodified":1565714599,
     "wof:name":"Centre",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
