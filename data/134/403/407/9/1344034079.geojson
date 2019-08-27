@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.725,18.16278,-72.685,18.20278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Corail"
     ],
@@ -46,8 +50,7 @@
         "Corail"
     ],
     "name:und_x_variant":[
-        "Corail Soult",
-        "Corail"
+        "Corail Soult"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1344034079,
-    "wof:lastmodified":1564155827,
+    "wof:lastmodified":1566648124,
     "wof:name":"Corail",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

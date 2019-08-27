@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.50333,19.46333,-72.46333,19.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Beaumont"
     ],
@@ -157,7 +161,7 @@
         }
     ],
     "wof:id":1242965827,
-    "wof:lastmodified":1564157281,
+    "wof:lastmodified":1566649034,
     "wof:name":"Beaumont",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

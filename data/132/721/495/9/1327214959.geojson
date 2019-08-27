@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.85697,18.70222,-72.81697,18.74222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Park Bay",
         "Baie du Parc",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327214959,
-    "wof:lastmodified":1537626157,
+    "wof:lastmodified":1566647991,
     "wof:name":"Au Parc",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

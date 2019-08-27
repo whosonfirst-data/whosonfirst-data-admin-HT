@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.3275,19.65836,-73.2875,19.69836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nan Marron"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259585133,
-    "wof:lastmodified":1537626017,
+    "wof:lastmodified":1566649154,
     "wof:name":"Nan Marron",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

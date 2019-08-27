@@ -10,8 +10,12 @@
     "geom:latitude":18.48333,
     "geom:longitude":-72.3,
     "iso:country":"HT",
+    "lbl:bbox":"-72.32,18.46333,-72.28,18.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Le P\u00e8lerin"
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":3719134,
         "gp:id":95625,
-        "qs:id":1341063,
+        "qs_pg:id":1341063,
         "wd:id":"Q3226097"
     },
     "wof:country":"HT",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421177501,
-    "wof:lastmodified":1563584214,
+    "wof:lastmodified":1566648898,
     "wof:name":"P\u00e9lerin",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

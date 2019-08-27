@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.57445,19.18995,-72.53445,19.22995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "La Couture"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1293482553,
-    "wof:lastmodified":1564155957,
+    "wof:lastmodified":1566648209,
     "wof:name":"La Couture",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-71.98002,18.83543,-71.94002,18.87543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Passe Cayemittes",
         "Passe Ca\u00efmittes"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243285181,
-    "wof:lastmodified":1537626008,
+    "wof:lastmodified":1566649052,
     "wof:name":"Passe Caimittes",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.95619,19.68923,-72.91619,19.72923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nan Fran\u00e7ois"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310128135,
-    "wof:lastmodified":1537626019,
+    "wof:lastmodified":1566648686,
     "wof:name":"Nan Francois",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

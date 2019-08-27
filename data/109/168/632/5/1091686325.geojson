@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.642814,
     "lbl:longitude":-72.290342,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North",
     "meso:gadm_admin":"l'Acul-du-Nord",
     "meso:gadm_hasc2":"HT.ND.AN",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.290342,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "l'Acul-du-Nord"
     ],
@@ -38,9 +41,9 @@
         "l'Acul-du-Nord"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"359.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"l'Acul-du-Nord",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091686325,
-    "wof:lastmodified":1553717895,
+    "wof:lastmodified":1566648834,
     "wof:name":"l'Acul-du-Nord",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

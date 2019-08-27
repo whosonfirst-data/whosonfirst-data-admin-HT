@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.92,18.39667,-72.88,18.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Acul",
         "L\u2019Acul",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327215067,
-    "wof:lastmodified":1537626082,
+    "wof:lastmodified":1566647989,
     "wof:name":"Garde l'Acul",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

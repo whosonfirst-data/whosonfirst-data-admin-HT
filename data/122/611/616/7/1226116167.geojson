@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.43667,18.41333,-74.39667,18.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1226116167,
-    "wof:lastmodified":1536621483,
+    "wof:lastmodified":1566649215,
     "wof:name":"Jogue",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-72.53472,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":137966,
+    "gn:population":137966,
     "iso:country":"HT",
+    "lbl:bbox":"-72.55472,18.21417,-72.51472,18.25417",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -279,10 +282,12 @@
     "wof:concordances":{
         "gn:id":3723779,
         "gp:id":92220,
-        "qs:id":1046660,
-        "qs_pg:id":1074067,
+        "qs_pg:id":1046660,
         "wd:id":"Q923362",
         "wk:page":"Jacmel"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074067
     },
     "wof:country":"HT",
     "wof:created":1469052496,
@@ -297,7 +302,7 @@
         }
     ],
     "wof:id":890445091,
-    "wof:lastmodified":1563584237,
+    "wof:lastmodified":1566648905,
     "wof:name":"Jacmel",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

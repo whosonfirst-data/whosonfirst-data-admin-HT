@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.72768,19.90448,-72.68768,19.94448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Desgranges"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259987181,
-    "wof:lastmodified":1537626102,
+    "wof:lastmodified":1566649074,
     "wof:name":"Desgranges",
     "wof:parent_id":1091686807,
     "wof:placetype":"locality",

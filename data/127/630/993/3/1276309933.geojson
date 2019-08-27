@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.064,18.2184,-74.024,18.2584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Hatte"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276309933,
-    "wof:lastmodified":1537626057,
+    "wof:lastmodified":1566648420,
     "wof:name":"La Hatte",
     "wof:parent_id":1091686543,
     "wof:placetype":"locality",

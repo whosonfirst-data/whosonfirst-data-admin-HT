@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.50333,18.41333,-72.46333,18.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dubreuil"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1344235063,
-    "wof:lastmodified":1564155710,
+    "wof:lastmodified":1566648057,
     "wof:name":"Dubreuil",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

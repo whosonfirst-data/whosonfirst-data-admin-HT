@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.07,18.93,-72.03,18.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Derisseau",
         "Desruisseau"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293610391,
-    "wof:lastmodified":1537626101,
+    "wof:lastmodified":1566648228,
     "wof:name":"Desruisseau",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

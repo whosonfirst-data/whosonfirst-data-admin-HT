@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-71.95333,18.76333,-71.91333,18.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326727225,
-    "wof:lastmodified":1536703314,
+    "wof:lastmodified":1566647876,
     "wof:name":"Morne Pierre",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

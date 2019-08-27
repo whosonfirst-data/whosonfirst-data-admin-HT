@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.616082,
     "lbl:longitude":-71.993327,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North East",
     "meso:gadm_admin":"le Trou-du-Nord",
     "meso:gadm_hasc2":"HT.NE.TN",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.993327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "le Trou-du-Nord"
     ],
@@ -38,9 +41,9 @@
         "le Trou-du-Nord"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"505.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"le Trou-du-Nord",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091687099,
-    "wof:lastmodified":1553717899,
+    "wof:lastmodified":1566648830,
     "wof:name":"le Trou-du-Nord",
     "wof:parent_id":85671957,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.50619,19.44642,-72.46619,19.48642",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Pascal"
     ],
@@ -190,7 +194,7 @@
         }
     ],
     "wof:id":1259877361,
-    "wof:lastmodified":1564157472,
+    "wof:lastmodified":1566649163,
     "wof:name":"Pascal",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

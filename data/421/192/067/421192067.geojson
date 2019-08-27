@@ -10,8 +10,12 @@
     "geom:latitude":18.53646,
     "geom:longitude":-72.40138,
     "iso:country":"HT",
+    "lbl:bbox":"-72.42138,18.51646,-72.38138,18.55646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ang_x_preferred":[
         "\u00deunor"
@@ -292,7 +296,7 @@
     "wof:concordances":{
         "gn:id":3716661,
         "gp:id":97218,
-        "qs:id":1165110,
+        "qs_pg:id":1165110,
         "wd:id":"Q42952"
     },
     "wof:country":"HT",
@@ -308,7 +312,7 @@
         }
     ],
     "wof:id":421192067,
-    "wof:lastmodified":1563584193,
+    "wof:lastmodified":1566648892,
     "wof:name":"Thor",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

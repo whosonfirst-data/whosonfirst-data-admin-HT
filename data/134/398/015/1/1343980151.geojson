@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.57676,19.22064,-72.53676,19.26064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Brunet"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343980151,
-    "wof:lastmodified":1564155648,
+    "wof:lastmodified":1566648019,
     "wof:name":"Brunet",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

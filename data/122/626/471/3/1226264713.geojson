@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.62974,19.18405,-72.58974,19.22405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Chevreau des Cloches"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226264713,
-    "wof:lastmodified":1537626102,
+    "wof:lastmodified":1566649200,
     "wof:name":"Chevreau des Cloches",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

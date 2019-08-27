@@ -11,10 +11,14 @@
     "geom:longitude":-72.69379,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":66226,
+    "gn:population":66226,
     "iso:country":"HT",
+    "lbl:bbox":"-72.71379,19.08819,-72.67379,19.12819",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u0643"
     ],
@@ -151,7 +155,7 @@
     "wof:concordances":{
         "gn:id":3717588,
         "gp:id":96986,
-        "qs:id":1046640,
+        "qs_pg:id":1046640,
         "wd:id":"Q132189",
         "wk:page":"Saint-Marc"
     },
@@ -168,7 +172,7 @@
         }
     ],
     "wof:id":890445085,
-    "wof:lastmodified":1563584236,
+    "wof:lastmodified":1566648905,
     "wof:name":"Saint-Marc",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

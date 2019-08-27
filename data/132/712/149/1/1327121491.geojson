@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.05332,18.20704,-73.01332,18.24704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Corail Jolibois",
         "Corail Lh\u00e9rison",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327121491,
-    "wof:lastmodified":1537626112,
+    "wof:lastmodified":1566647934,
     "wof:name":"Corail Lherisson",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

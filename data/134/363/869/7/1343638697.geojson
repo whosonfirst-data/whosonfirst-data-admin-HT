@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.99312,18.1449,-73.95312,18.1849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Table au Diable"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343638697,
-    "wof:lastmodified":1537626160,
+    "wof:lastmodified":1566648030,
     "wof:name":"Table au Diable",
     "wof:parent_id":1091686543,
     "wof:placetype":"locality",

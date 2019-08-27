@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.214827,
     "lbl:longitude":-72.817464,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South East",
     "meso:gadm_admin":"Bainet",
     "meso:gadm_hasc2":"HT.SE.BT",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.817464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0646\u064a\u062a"
     ],
@@ -73,9 +76,9 @@
         "Bainet"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"462.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"Bainet",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1091686057,
-    "wof:lastmodified":1564156973,
+    "wof:lastmodified":1566648833,
     "wof:name":"Bainet",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

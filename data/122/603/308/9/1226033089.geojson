@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.88866,18.7856,-72.84866,18.8256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "P\u00e9t\u00e9 Fiel"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226033089,
-    "wof:lastmodified":1537626006,
+    "wof:lastmodified":1566649233,
     "wof:name":"Pete Fiel",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.45,
     "geom:longitude":-72.3,
     "iso:country":"HT",
+    "lbl:bbox":"-72.32,18.43,-72.28,18.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3725529,
         "gp:id":91037,
-        "qs:id":53507
+        "qs_pg:id":53507
     },
     "wof:country":"HT",
     "wof:created":1459010136,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421202973,
-    "wof:lastmodified":1499978512,
+    "wof:lastmodified":1566648893,
     "wof:name":"Fermathe",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

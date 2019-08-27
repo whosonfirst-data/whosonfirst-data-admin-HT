@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.536662,
     "lbl:longitude":-74.198653,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Grand'Anse",
     "mps:latitude":18.530177,
     "mps:longitude":-74.202099,
@@ -176,7 +177,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0413\u0440\u0430\u043d\u0434-\u0410\u043d\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grand\u02bcAnse"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"1,912",
     "statoids:area_mi":"738",
     "statoids:as_of_date":"2003-08-07",
@@ -287,7 +288,7 @@
         "gp:id":2345617,
         "hasc:id":"HT.GR",
         "iso:id":"HT-GA",
-        "qs:id":1135069,
+        "qs_pg:id":1135069,
         "wd:id":"Q913231"
     },
     "wof:country":"HT",
@@ -308,11 +309,10 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1565714598,
+    "wof:lastmodified":1566648161,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":337516,
     "wof:population_rank":10,

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.48511,
     "lbl:longitude":-73.970689,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Grande-Anse",
     "meso:gadm_admin":"Corail",
     "meso:gadm_hasc2":"HT.GR.CL",
@@ -30,6 +32,7 @@
     "mps:longitude":-73.970689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Corail"
     ],
@@ -55,9 +58,9 @@
         "Corail"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"767.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"Corail",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1091686181,
-    "wof:lastmodified":1564156973,
+    "wof:lastmodified":1566648832,
     "wof:name":"Corail",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

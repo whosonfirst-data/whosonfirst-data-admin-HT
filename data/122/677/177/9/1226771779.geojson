@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.64529,19.04841,-72.60529,19.08841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0646\u0631\u064a"
     ],
@@ -142,7 +146,7 @@
         }
     ],
     "wof:id":1226771779,
-    "wof:lastmodified":1564157671,
+    "wof:lastmodified":1566649280,
     "wof:name":"Henry",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

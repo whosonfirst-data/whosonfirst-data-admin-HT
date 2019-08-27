@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.30938,18.75163,-72.26938,18.79163",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Noailles"
     ],
@@ -81,8 +85,7 @@
         "\u041d\u043e\u0430\u0439"
     ],
     "name:und_x_variant":[
-        "Noailles la Vigue",
-        "Noailles"
+        "Noailles la Vigue"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1259957969,
-    "wof:lastmodified":1564157435,
+    "wof:lastmodified":1566649138,
     "wof:name":"Noailles",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

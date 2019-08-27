@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.24861,19.69306,-72.20861,19.73306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Baber",
         "Bauber"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260069917,
-    "wof:lastmodified":1537626151,
+    "wof:lastmodified":1566648653,
     "wof:name":"Bauber",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

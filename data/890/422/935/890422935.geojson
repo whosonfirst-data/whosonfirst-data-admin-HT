@@ -11,10 +11,14 @@
     "geom:longitude":-72.78111,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":911,
+    "gn:population":911,
     "iso:country":"HT",
+    "lbl:bbox":"-72.80111,19.57944,-72.76111,19.61944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062a\u064a\u0631 \u0646\u0648\u0641"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3716785,
         "gp:id":97130,
-        "qs:id":585303,
+        "qs_pg:id":585303,
         "wd:id":"Q2637871",
         "wk:page":"Terra Nova"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890422935,
-    "wof:lastmodified":1563584223,
+    "wof:lastmodified":1566648901,
     "wof:name":"Terre Neuve",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

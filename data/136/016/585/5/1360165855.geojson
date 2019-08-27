@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.90333,18.73,-72.86333,18.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u2019autre Bord D\u2019l\u2019eau",
         "L\u2019Autre Bord de l\u2019Eau"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360165855,
-    "wof:lastmodified":1537626049,
+    "wof:lastmodified":1566648815,
     "wof:name":"L'Autre Bord de l'Eau",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

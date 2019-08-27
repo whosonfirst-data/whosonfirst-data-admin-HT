@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.12468,18.30971,-72.08468,18.34971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mare Blanche"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193257747,
-    "wof:lastmodified":1537626035,
+    "wof:lastmodified":1566648607,
     "wof:name":"Mare Blanche",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

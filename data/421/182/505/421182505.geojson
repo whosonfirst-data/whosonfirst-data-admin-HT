@@ -10,8 +10,12 @@
     "geom:latitude":18.83333,
     "geom:longitude":-72.10528,
     "iso:country":"HT",
+    "lbl:bbox":"-72.12528,18.81333,-72.08528,18.85333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0628\u0627\u0644\u064a\u0647"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Mirebalais"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bourg Saint Louis"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3720811,
         "gp:id":94388,
-        "qs:id":1341060,
+        "qs_pg:id":1341060,
         "wd:id":"Q1707505",
         "wk:page":"Mirebalais"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421182505,
-    "wof:lastmodified":1563584218,
+    "wof:lastmodified":1566648900,
     "wof:name":"Mirebalais",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.51427,19.34507,-72.47427,19.38507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Derri\u00e8re Zorde"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193159279,
-    "wof:lastmodified":1537626103,
+    "wof:lastmodified":1566648597,
     "wof:name":"Derriere Zorde",
     "wof:parent_id":1091686583,
     "wof:placetype":"locality",

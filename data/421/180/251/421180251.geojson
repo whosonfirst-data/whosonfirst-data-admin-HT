@@ -10,8 +10,12 @@
     "geom:latitude":19.16667,
     "geom:longitude":-72.13333,
     "iso:country":"HT",
+    "lbl:bbox":"-72.15333,19.14667,-72.11333,19.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0633\u0627\u062f"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3721711,
         "gp:id":93762,
-        "qs:id":1201185,
+        "qs_pg:id":1201185,
         "wd:id":"Q1914855",
         "wk:page":"Ma\u00efssade"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421180251,
-    "wof:lastmodified":1563584199,
+    "wof:lastmodified":1566648893,
     "wof:name":"Ma\u00efssade",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

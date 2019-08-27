@@ -10,10 +10,14 @@
     "geom:latitude":18.49333,
     "geom:longitude":-72.31306,
     "iso:country":"HT",
+    "lbl:bbox":"-72.33306,18.47333,-72.29306,18.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pla Boule"
     ],
     "qs:gn_country":"HT",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":3723343,
         "gp:id":92562,
-        "qs:id":898457
+        "qs_pg:id":898457
     },
     "wof:country":"HT",
     "wof:created":1459010044,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421200861,
-    "wof:lastmodified":1501268802,
+    "wof:lastmodified":1566648897,
     "wof:name":"La Boule",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

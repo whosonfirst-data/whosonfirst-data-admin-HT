@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.14222,18.85222,-72.10222,18.89222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360179249,
-    "wof:lastmodified":1536809444,
+    "wof:lastmodified":1566648818,
     "wof:name":"Mont Bayard",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

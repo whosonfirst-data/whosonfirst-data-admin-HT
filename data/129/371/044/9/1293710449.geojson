@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.16744,18.73397,-72.12744,18.77397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Trianon"
     ],
@@ -78,8 +82,7 @@
         "Trianon"
     ],
     "name:und_x_variant":[
-        "Triano",
-        "Trianon"
+        "Triano"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1293710449,
-    "wof:lastmodified":1564155963,
+    "wof:lastmodified":1566648213,
     "wof:name":"Trianon",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

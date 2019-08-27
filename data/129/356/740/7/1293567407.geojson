@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.14624,18.3611,-72.10624,18.4011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nan Carrotte",
         "Nan Carrottee",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293567407,
-    "wof:lastmodified":1537626022,
+    "wof:lastmodified":1566648242,
     "wof:name":"Nan Carotte",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

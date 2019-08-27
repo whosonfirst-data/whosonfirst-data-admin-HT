@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.84142,18.31427,-73.80142,18.35427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Boucher"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1276524913,
-    "wof:lastmodified":1564156270,
+    "wof:lastmodified":1566648403,
     "wof:name":"Boucher",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

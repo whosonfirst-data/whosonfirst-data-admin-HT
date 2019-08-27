@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.07665,18.43657,-74.03665,18.47657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boise Sec",
         "Bois Sec"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226321705,
-    "wof:lastmodified":1537626140,
+    "wof:lastmodified":1566649241,
     "wof:name":"Bois Sec",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

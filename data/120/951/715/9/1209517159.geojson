@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.26198,19.83432,-73.22198,19.87432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Marie No\u00ebl"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209517159,
-    "wof:lastmodified":1537626033,
+    "wof:lastmodified":1566648535,
     "wof:name":"Marie Noel",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

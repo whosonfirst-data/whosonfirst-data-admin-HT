@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.537719,
     "lbl:longitude":-74.209666,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Grande-Anse",
     "meso:gadm_admin":"J\u00e9r\u00e9mie",
     "meso:gadm_hasc2":"HT.GR.JR",
@@ -30,6 +32,7 @@
     "mps:longitude":-74.209666,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0631\u064a\u0645\u064a"
     ],
@@ -113,9 +116,9 @@
         "\u71b1\u96f7\u7c73"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"818.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"J\u00e9r\u00e9mie",
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":1091686323,
-    "wof:lastmodified":1564156976,
+    "wof:lastmodified":1566648834,
     "wof:name":"J\u00e9r\u00e9mie",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

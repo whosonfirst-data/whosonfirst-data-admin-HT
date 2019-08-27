@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.6696,19.27895,-72.6296,19.31895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Descareaux"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226745163,
-    "wof:lastmodified":1537626102,
+    "wof:lastmodified":1566649208,
     "wof:name":"Descareaux",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

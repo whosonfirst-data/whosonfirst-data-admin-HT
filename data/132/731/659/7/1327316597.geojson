@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.30642,18.38156,-73.26642,18.42156",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cocoyer"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327316597,
-    "wof:lastmodified":1537626114,
+    "wof:lastmodified":1566647867,
     "wof:name":"Cocoyer Duchene",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

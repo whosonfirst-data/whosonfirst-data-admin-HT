@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":19.815239,
     "lbl:longitude":-73.141288,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Nord-Ouest",
     "mps:latitude":19.809132,
     "mps:longitude":-73.144952,
@@ -160,7 +161,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e-\u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u0440\u0435\u0433\u0456\u043e\u043d \u0413\u0430\u0457\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Department of the Northwest"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"2,103",
     "statoids:area_mi":"812",
     "statoids:as_of_date":"2003-08-07",
@@ -271,7 +272,7 @@
         "gp:id":2345614,
         "hasc:id":"HT.NO",
         "iso:id":"HT-NO",
-        "qs:id":219560,
+        "qs_pg:id":219560,
         "unlc:id":"HT-NO",
         "wd:id":"Q608361",
         "wk:page":"Nord-Ouest (department)"
@@ -294,11 +295,10 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1565714599,
+    "wof:lastmodified":1566648163,
     "wof:name":"Nord-Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":445080,
     "wof:population_rank":10,

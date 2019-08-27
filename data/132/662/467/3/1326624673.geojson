@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-71.95732,18.9988,-71.91732,19.0388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Salmad\u00e8re"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326624673,
-    "wof:lastmodified":1537625988,
+    "wof:lastmodified":1566647978,
     "wof:name":"Salmadere",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

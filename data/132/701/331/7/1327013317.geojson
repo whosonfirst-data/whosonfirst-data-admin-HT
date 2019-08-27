@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.90837,18.39346,-73.86837,18.43346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Plaine Matin",
         "Plaine Martin"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327013317,
-    "wof:lastmodified":1537626002,
+    "wof:lastmodified":1566647860,
     "wof:name":"Plaine Martin",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

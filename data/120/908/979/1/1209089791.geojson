@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.40333,18.59667,-74.36333,18.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -35,7 +39,7 @@
         "gn:id":3730888
     },
     "wof:country":"HT",
-    "wof:geomhash":"a89bf5814dc465aae49c1a85d1bfe6e5",
+    "wof:geomhash":"4ff0bb4b0bb1a95e137e73c01e797f2e",
     "wof:hierarchy":[
         {
             "country_id":85632433,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209089791,
-    "wof:lastmodified":1536298071,
+    "wof:lastmodified":1566648468,
     "wof:name":"Balandier",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -74.38333,
-    18.616670000000006,
+    18.61667000000001,
     -74.38333,
-    18.616670000000006
+    18.61667000000001
 ],
   "geometry": {"coordinates":[-74.38333,18.61667000000001],"type":"Point"}
 }

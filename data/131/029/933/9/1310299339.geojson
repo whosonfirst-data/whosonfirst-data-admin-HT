@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.1136,19.53992,-72.0736,19.57992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boute",
         "Broute"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310299339,
-    "wof:lastmodified":1537626133,
+    "wof:lastmodified":1566648746,
     "wof:name":"Broute",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

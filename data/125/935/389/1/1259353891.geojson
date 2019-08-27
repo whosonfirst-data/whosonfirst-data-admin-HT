@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.42823,18.5294,-74.38823,18.5694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259353891,
-    "wof:lastmodified":1537043158,
+    "wof:lastmodified":1566649149,
     "wof:name":"Passe Barbe",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

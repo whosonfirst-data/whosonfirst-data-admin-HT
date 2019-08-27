@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.30661,18.60965,-72.26661,18.64965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morpeau"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260169369,
-    "wof:lastmodified":1537626024,
+    "wof:lastmodified":1566648664,
     "wof:name":"Morpeau",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

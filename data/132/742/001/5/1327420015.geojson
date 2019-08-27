@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.97473,18.2431,-72.93473,18.2831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Boucan B\u00e9lier"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327420015,
-    "wof:lastmodified":1537626138,
+    "wof:lastmodified":1566647995,
     "wof:name":"Boucan Belier",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

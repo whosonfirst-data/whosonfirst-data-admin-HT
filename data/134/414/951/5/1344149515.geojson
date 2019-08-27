@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.71537,19.55993,-72.67537,19.59993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Morin"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1344149515,
-    "wof:lastmodified":1564155695,
+    "wof:lastmodified":1566648047,
     "wof:name":"Morin",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

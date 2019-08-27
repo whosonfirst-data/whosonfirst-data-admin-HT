@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.62,19.68,-72.58,19.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327328045,
-    "wof:lastmodified":1536830550,
+    "wof:lastmodified":1566647948,
     "wof:name":"Modieu",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

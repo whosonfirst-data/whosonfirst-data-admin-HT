@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.1398,18.61674,-74.0998,18.65674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sainte-H\u00e9l\u00e8ne"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209185139,
-    "wof:lastmodified":1537625990,
+    "wof:lastmodified":1566648550,
     "wof:name":"Sainte-Helene",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

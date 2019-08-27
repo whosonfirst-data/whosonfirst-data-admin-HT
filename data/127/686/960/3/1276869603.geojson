@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.56218,19.46124,-72.52218,19.50124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Cilo"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276869603,
-    "wof:lastmodified":1564156146,
+    "wof:lastmodified":1566648320,
     "wof:name":"Cilo",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.10333,18.78,-72.06333,18.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bug_x_preferred":[
         "Lavelanet"
     ],
@@ -148,7 +152,7 @@
         }
     ],
     "wof:id":1259403953,
-    "wof:lastmodified":1564157388,
+    "wof:lastmodified":1566649111,
     "wof:name":"Lavelanet",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

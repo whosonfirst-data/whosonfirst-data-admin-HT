@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.00295,18.81773,-72.96295,18.85773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nan Lavaud"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293270391,
-    "wof:lastmodified":1537626018,
+    "wof:lastmodified":1566648276,
     "wof:name":"Nan Lavaud",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-71.88333,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":765,
+    "gn:population":765,
     "iso:country":"HT",
+    "lbl:bbox":"-71.90333,19.49667,-71.86333,19.53667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "La Visite"
     ],
     "qs:name":"Acul Samedi",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3731230,
         "gp:id":91291,
-        "qs:id":96572
+        "qs_pg:id":96572
     },
     "wof:country":"HT",
     "wof:created":1469052253,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890439873,
-    "wof:lastmodified":1505343573,
+    "wof:lastmodified":1566648902,
     "wof:name":"Acul Samedi",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

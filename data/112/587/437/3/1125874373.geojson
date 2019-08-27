@@ -9,15 +9,18 @@
     "geom:bbox":"-74.41667,18.56667,-74.41667,18.56667",
     "geom:latitude":18.56667,
     "geom:longitude":-74.41667,
-    "gn:gn_country":"HT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":6036,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
     "gn:population":6036,
     "iso:country":"HT",
+    "lbl:bbox":"-74.43667,18.54667,-74.39667,18.58667",
     "lbl:latitude":18.56667,
     "lbl:longitude":-74.41667,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0645 \u0645\u0627\u0631\u064a"
@@ -49,7 +52,7 @@
     "name:spa_x_preferred":[
         "Dame-Marie"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ville de Dame Marie"
     ],
     "qs_pg:aaroncc":"HT",
@@ -64,7 +67,7 @@
     "qs_pg:qs_id":150270,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125874373,
-    "wof:lastmodified":1563584244,
+    "wof:lastmodified":1566648907,
     "wof:name":"Dame-Marie",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

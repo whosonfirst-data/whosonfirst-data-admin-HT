@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.33166,18.44734,-73.29166,18.48734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0645\u0648\u0646"
     ],
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":1209989667,
-    "wof:lastmodified":1564156356,
+    "wof:lastmodified":1566648457,
     "wof:name":"Simon",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

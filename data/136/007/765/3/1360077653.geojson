@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.57623,19.58549,-72.53623,19.62549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bodin"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360077653,
-    "wof:lastmodified":1564156903,
+    "wof:lastmodified":1566648790,
     "wof:name":"Bodin",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

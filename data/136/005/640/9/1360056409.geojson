@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.37204,18.61173,-74.33204,18.65173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Saint-Victor"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1360056409,
-    "wof:lastmodified":1564156967,
+    "wof:lastmodified":1566648829,
     "wof:name":"Saint-Victor",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

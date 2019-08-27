@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.47673,18.5224,-72.43673,18.5624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Mer Frapp\u00e9e"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343936127,
-    "wof:lastmodified":1537626029,
+    "wof:lastmodified":1566648104,
     "wof:name":"Mer Frappee",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

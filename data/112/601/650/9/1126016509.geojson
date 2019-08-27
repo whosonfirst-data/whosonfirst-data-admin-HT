@@ -9,15 +9,18 @@
     "geom:bbox":"-73.3449,18.5011,-73.3449,18.5011",
     "geom:latitude":18.5011,
     "geom:longitude":-73.3449,
-    "gn:gn_country":"HT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1731,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
     "gn:population":1731,
     "iso:country":"HT",
+    "lbl:bbox":"-73.3649,18.4811,-73.3249,18.5211",
     "lbl:latitude":18.5011,
     "lbl:longitude":-73.3449,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0622\u0646\u0633 \u0641\u064a\u0648\u064a"
@@ -58,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0441-\u0430-\u0412\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ville de Anse \u00e0 Veau"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +79,7 @@
     "qs_pg:qs_id":585430,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1126016509,
-    "wof:lastmodified":1563584245,
+    "wof:lastmodified":1566648907,
     "wof:name":"Anse-\u00e0-Veau",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

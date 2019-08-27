@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.54471,18.35258,-73.50471,18.39258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Changeux",
         "Changier",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310287803,
-    "wof:lastmodified":1537626118,
+    "wof:lastmodified":1566648754,
     "wof:name":"Changieux",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

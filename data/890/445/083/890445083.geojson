@@ -11,10 +11,14 @@
     "geom:longitude":-72.01667,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":10569,
+    "gn:population":10569,
     "iso:country":"HT",
+    "lbl:bbox":"-72.03667,19.61333,-71.99667,19.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062a\u0631\u0648 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
@@ -51,7 +55,7 @@
     "name:spa_x_preferred":[
         "Trou-du-Nord"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Le Trou"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3716224,
         "gp:id":97510,
-        "qs:id":1046634,
+        "qs_pg:id":1046634,
         "wd:id":"Q2399286",
         "wk:page":"Trou-du-Nord"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890445083,
-    "wof:lastmodified":1563584236,
+    "wof:lastmodified":1566648904,
     "wof:name":"Trou du Nord",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

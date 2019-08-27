@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.26048,18.84107,-72.22048,18.88107",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Davillier"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310301821,
-    "wof:lastmodified":1537626107,
+    "wof:lastmodified":1566648722,
     "wof:name":"Davillier",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

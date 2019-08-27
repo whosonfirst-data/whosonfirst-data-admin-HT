@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.34384,18.59824,-72.30384,18.63824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mol\u00e9are",
         "Mal\u00e9are"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243056027,
-    "wof:lastmodified":1537626037,
+    "wof:lastmodified":1566649012,
     "wof:name":"Maleare",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

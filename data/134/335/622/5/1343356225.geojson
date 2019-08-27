@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-71.91074,18.88042,-71.87074,18.92042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tombacal\u00e8ne",
         "Tombacal\u00e8me"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343356225,
-    "wof:lastmodified":1537625975,
+    "wof:lastmodified":1566648097,
     "wof:name":"Tombacaleme",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

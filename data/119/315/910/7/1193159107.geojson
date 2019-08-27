@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.00443,19.58396,-72.96443,19.62396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Petit Port Piment",
         "Petit Port-\u00e0-Piment"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193159107,
-    "wof:lastmodified":1537626005,
+    "wof:lastmodified":1566648597,
     "wof:name":"Petit Port-a-Piment",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.86694,
     "geom:longitude":-71.76306,
     "iso:country":"HT",
+    "lbl:bbox":"-71.78306,18.84694,-71.74306,18.88694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u0627\u062f\u064a\u0631\u064a"
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u043b\u0430\u0434\u0435\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Veladero"
     ],
     "qs:gn_country":"HT",
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3730374,
         "gp:id":87567,
-        "qs:id":1165098,
+        "qs_pg:id":1165098,
         "wd:id":"Q2221815",
         "wk:page":"Bellad\u00e8re"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421192059,
-    "wof:lastmodified":1563584192,
+    "wof:lastmodified":1566648892,
     "wof:name":"Bellad\u00e8re",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

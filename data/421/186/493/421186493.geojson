@@ -10,8 +10,12 @@
     "geom:latitude":18.417974,
     "geom:longitude":-73.072814,
     "iso:country":"HT",
+    "lbl:bbox":"-73.092814,18.397974,-73.052814,18.437974",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0627\u063a\u0648\u0627\u0646"
@@ -122,9 +126,11 @@
     "wof:concordances":{
         "gn:id":3720824,
         "gp:id":94381,
-        "qs:id":1072141,
         "qs_pg:id":1046659,
         "wd:id":"Q1017073"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1072141
     },
     "wof:country":"HT",
     "wof:created":1459009482,
@@ -139,7 +145,7 @@
         }
     ],
     "wof:id":421186493,
-    "wof:lastmodified":1563584202,
+    "wof:lastmodified":1566648895,
     "wof:name":"Mirago\u00e2ne",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

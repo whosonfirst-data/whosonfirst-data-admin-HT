@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.02328,19.24973,-71.98328,19.28973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Laboc"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276653643,
-    "wof:lastmodified":1537626063,
+    "wof:lastmodified":1566648428,
     "wof:name":"Laboc",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

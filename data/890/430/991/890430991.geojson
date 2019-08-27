@@ -11,10 +11,14 @@
     "geom:longitude":-74.3,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":1245,
+    "gn:population":1245,
     "iso:country":"HT",
+    "lbl:bbox":"-74.32,18.61333,-74.28,18.65333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u064a\u0643\u0648\u062a\u0633"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Abricots"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Les Abricots"
     ],
     "qs:name":"Abricots",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3731257,
         "gp:id":86940,
-        "qs:id":150281,
+        "qs_pg:id":150281,
         "wd:id":"Q946128",
         "wk:page":"Abricots"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890430991,
-    "wof:lastmodified":1563584227,
+    "wof:lastmodified":1566648902,
     "wof:name":"Abricots",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.74177,19.90227,-72.70177,19.94227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "De Rouvray",
         "Dehouvray"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242685403,
-    "wof:lastmodified":1537626106,
+    "wof:lastmodified":1566648944,
     "wof:name":"Dehouvray",
     "wof:parent_id":1091686807,
     "wof:placetype":"locality",

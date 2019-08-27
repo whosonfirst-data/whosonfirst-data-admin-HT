@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.21173,18.46699,-73.17173,18.50699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Charlier"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327404253,
-    "wof:lastmodified":1564155502,
+    "wof:lastmodified":1566647927,
     "wof:name":"Charlier",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

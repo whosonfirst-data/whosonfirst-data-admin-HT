@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.71922,18.17256,-72.67922,18.21256",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Limba"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1310580685,
-    "wof:lastmodified":1564156897,
+    "wof:lastmodified":1566648787,
     "wof:name":"Limba",
     "wof:parent_id":1091686057,
     "wof:placetype":"locality",

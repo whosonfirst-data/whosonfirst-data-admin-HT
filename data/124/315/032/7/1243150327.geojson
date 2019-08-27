@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.21715,18.40756,-72.17715,18.44756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Voute"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243150327,
-    "wof:lastmodified":1537626048,
+    "wof:lastmodified":1566648974,
     "wof:name":"La Voute",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

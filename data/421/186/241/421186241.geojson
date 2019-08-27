@@ -10,8 +10,12 @@
     "geom:latitude":18.23722,
     "geom:longitude":-72.06556,
     "iso:country":"HT",
+    "lbl:bbox":"-72.08556,18.21722,-72.04556,18.25722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a \u0622\u0646\u0633"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Belle-Anse"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saltrou"
     ],
     "qs:gn_country":"HT",
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3730363,
         "gp:id":87598,
-        "qs:id":1062287,
+        "qs_pg:id":1062287,
         "wd:id":"Q1888075",
         "wk:page":"Belle-Anse"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421186241,
-    "wof:lastmodified":1563584202,
+    "wof:lastmodified":1566648894,
     "wof:name":"Belle-Anse",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

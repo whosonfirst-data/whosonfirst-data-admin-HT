@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.49161,18.25991,-72.45161,18.29991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fond Pierre"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259359477,
-    "wof:lastmodified":1537626085,
+    "wof:lastmodified":1566649149,
     "wof:name":"Fond Pierre",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

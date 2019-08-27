@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.85333,18.74667,-72.81333,18.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fond L\u2019Aurore",
         "Platon l\u2019Aurore"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276956715,
-    "wof:lastmodified":1537626000,
+    "wof:lastmodified":1566648365,
     "wof:name":"Platon l'Aurore",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

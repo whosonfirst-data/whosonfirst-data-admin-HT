@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.51267,19.65581,-72.47267,19.69581",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mart\u00edn"
     ],
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":1226029205,
-    "wof:lastmodified":1564157578,
+    "wof:lastmodified":1566649227,
     "wof:name":"Martin",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

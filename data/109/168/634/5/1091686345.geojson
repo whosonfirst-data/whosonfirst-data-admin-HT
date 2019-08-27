@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.830609,
     "lbl:longitude":-73.025314,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"West",
     "meso:gadm_admin":"La Gon\u00e2ve",
     "meso:gadm_hasc2":"HT.OU.LG",
@@ -30,6 +32,7 @@
     "mps:longitude":-73.025314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "La Gon\u00e2ve"
     ],
@@ -38,9 +41,9 @@
         "La Gon\u00e2ve"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"690.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"Anse-\u00e0-Galets",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091686345,
-    "wof:lastmodified":1553717897,
+    "wof:lastmodified":1566648832,
     "wof:name":"La Gon\u00e2ve",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

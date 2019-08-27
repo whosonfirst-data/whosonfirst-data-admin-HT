@@ -24,14 +24,17 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.30673,18.46392,-74.26673,18.50392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Sources Chaudes"
     ],
     "name:und_x_variant":[
-        "Sources Chaudes des Irois",
-        "Sources Chaudes"
+        "Sources Chaudes des Irois"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1343733257,
-    "wof:lastmodified":1564155848,
+    "wof:lastmodified":1566648137,
     "wof:name":"Sources Chaudes",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.08667,19.56333,-72.04667,19.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Charles"
     ],
@@ -52,8 +56,7 @@
         "Charles"
     ],
     "name:und_x_variant":[
-        "Charles Sec",
-        "Charles"
+        "Charles Sec"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1327322777,
-    "wof:lastmodified":1564155536,
+    "wof:lastmodified":1566647949,
     "wof:name":"Charles",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.18667,18.79667,-72.14667,18.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0438\u043d"
     ],
@@ -745,7 +749,7 @@
         }
     ],
     "wof:id":1209127433,
-    "wof:lastmodified":1564156421,
+    "wof:lastmodified":1566648497,
     "wof:name":"Berlin",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",
