@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.39935,19.74789,-72.35935,19.78789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tutoie",
         "Tutoi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327218353,
-    "wof:lastmodified":1537625972,
+    "wof:lastmodified":1566647989,
     "wof:name":"Tutoi",
     "wof:parent_id":1091687057,
     "wof:placetype":"locality",

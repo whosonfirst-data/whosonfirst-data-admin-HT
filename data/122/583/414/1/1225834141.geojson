@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-71.87726,19.55728,-71.83726,19.59728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pied d\u2019Or"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225834141,
-    "wof:lastmodified":1537626004,
+    "wof:lastmodified":1566649320,
     "wof:name":"Pied d'Or",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

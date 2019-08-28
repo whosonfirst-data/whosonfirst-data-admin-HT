@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.55558,18.26754,-72.51558,18.30754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Victor"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1225816815,
-    "wof:lastmodified":1564157608,
+    "wof:lastmodified":1566649243,
     "wof:name":"Victor",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

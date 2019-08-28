@@ -10,8 +10,12 @@
     "geom:latitude":19.55,
     "geom:longitude":-71.73333,
     "iso:country":"HT",
+    "lbl:bbox":"-71.75333,19.53,-71.71333,19.57",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0648\u0627\u0646\u0627\u0645\u064a\u0646\u062a"
@@ -121,7 +125,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d\u0430\u043c\u0456\u043d\u0442\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Juana Mendez"
     ],
     "name:urd_x_preferred":[
@@ -161,7 +165,7 @@
     "wof:concordances":{
         "gn:id":3719436,
         "gp:id":95422,
-        "qs:id":1046655,
+        "qs_pg:id":1046655,
         "wd:id":"Q1013066",
         "wk:page":"Ouanaminthe"
     },
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":421168267,
-    "wof:lastmodified":1563584189,
+    "wof:lastmodified":1566648891,
     "wof:name":"Ouanaminthe",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",

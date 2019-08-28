@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.23819,18.56247,-74.19819,18.60247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Marfranc"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209886997,
-    "wof:lastmodified":1564156553,
+    "wof:lastmodified":1566648575,
     "wof:name":"Marfranc",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

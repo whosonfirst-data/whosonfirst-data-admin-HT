@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.68667,19.74667,-72.64667,19.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Verneuil"
     ],
@@ -73,8 +77,7 @@
         "\u0412\u0435\u0440\u043d\u0435\u0439"
     ],
     "name:und_x_variant":[
-        "Verneull",
-        "Verneuil"
+        "Verneull"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1309898307,
-    "wof:lastmodified":1564157064,
+    "wof:lastmodified":1566648884,
     "wof:name":"Verneuil",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",

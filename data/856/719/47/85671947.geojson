@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.278506,
     "lbl:longitude":-73.82652,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Sud",
     "mps:latitude":18.293376,
     "mps:longitude":-73.795712,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement du Sud"
     ],
     "name:urd_x_preferred":[
@@ -248,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"2,653",
     "statoids:area_mi":"1,024",
     "statoids:as_of_date":"2003-08-07",
@@ -274,7 +275,7 @@
         "gp:id":2345621,
         "hasc:id":"HT.SD",
         "iso:id":"HT-SD",
-        "qs:id":191347,
+        "qs_pg:id":191347,
         "wd:id":"Q936704",
         "wk:page":"Sud (department)"
     },
@@ -296,11 +297,10 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1565714599,
+    "wof:lastmodified":1566648164,
     "wof:name":"Sud",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":627311,
     "wof:population_rank":11,

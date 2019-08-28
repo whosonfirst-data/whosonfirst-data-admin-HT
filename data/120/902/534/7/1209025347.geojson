@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.37127,19.70427,-72.33127,19.74427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Patricie"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209025347,
-    "wof:lastmodified":1564156490,
+    "wof:lastmodified":1566648537,
     "wof:name":"Patrice",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

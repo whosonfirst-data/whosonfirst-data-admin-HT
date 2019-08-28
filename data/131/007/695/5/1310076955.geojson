@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.44445,18.20722,-72.40445,18.24722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Raymond les Bains"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310076955,
-    "wof:lastmodified":1537625995,
+    "wof:lastmodified":1566648711,
     "wof:name":"Raymond les Bains",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

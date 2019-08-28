@@ -10,8 +10,12 @@
     "geom:latitude":19.68333,
     "geom:longitude":-72.31667,
     "iso:country":"HT",
+    "lbl:bbox":"-72.33667,19.66333,-72.29667,19.70333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0622\u0643\u0644 \u062f\u0648 \u0646\u0648\u0631\u062f"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3731233,
         "gp:id":86954,
-        "qs:id":500557,
+        "qs_pg:id":500557,
         "wd:id":"Q2710854"
     },
     "wof:country":"HT",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421173331,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1566648894,
     "wof:name":"Acul du Nord",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

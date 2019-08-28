@@ -11,10 +11,14 @@
     "geom:longitude":-73.89222,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":2782,
+    "gn:population":2782,
     "iso:country":"HT",
+    "lbl:bbox":"-73.91222,18.54722,-73.87222,18.58722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u064a\u0644"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":3727398,
         "gp:id":89704,
-        "qs:id":1046676,
+        "qs_pg:id":1046676,
         "wd:id":"Q2633410",
         "wk:page":"Corail"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890445099,
-    "wof:lastmodified":1563584237,
+    "wof:lastmodified":1566648905,
     "wof:name":"Corail",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

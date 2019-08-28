@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.79111,18.48889,-73.75111,18.52889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Rosa"
     ],
@@ -151,7 +155,7 @@
         }
     ],
     "wof:id":1310084535,
-    "wof:lastmodified":1564156793,
+    "wof:lastmodified":1566648724,
     "wof:name":"Rosa",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

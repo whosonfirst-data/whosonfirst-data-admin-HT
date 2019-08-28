@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.58923,19.09795,-72.54923,19.13795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Marou"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276864319,
-    "wof:lastmodified":1564156144,
+    "wof:lastmodified":1566648319,
     "wof:name":"Marou",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

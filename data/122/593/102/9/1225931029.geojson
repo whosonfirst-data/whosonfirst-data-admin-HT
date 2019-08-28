@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.59586,18.38028,-73.55586,18.42028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "S\u00e9nac"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225931029,
-    "wof:lastmodified":1537625984,
+    "wof:lastmodified":1566649178,
     "wof:name":"Senac",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

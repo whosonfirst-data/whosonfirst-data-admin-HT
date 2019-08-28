@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.75333,18.29667,-72.71333,18.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u06af\u0631\u0646\u062f \u0641\u0648\u0646\u062f"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343539637,
-    "wof:lastmodified":1564155649,
+    "wof:lastmodified":1566648020,
     "wof:name":"Grand Fond",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

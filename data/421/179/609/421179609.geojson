@@ -10,10 +10,14 @@
     "geom:latitude":19.65,
     "geom:longitude":-71.81667,
     "iso:country":"HT",
+    "lbl:bbox":"-71.83667,19.63,-71.79667,19.67",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lagnon"
     ],
     "qs:gn_country":"HT",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3726728,
         "gp:id":90175,
-        "qs:id":150268
+        "qs_pg:id":150268
     },
     "wof:country":"HT",
     "wof:created":1459009227,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421179609,
-    "wof:lastmodified":1505340643,
+    "wof:lastmodified":1566648899,
     "wof:name":"D\u00e9rac",
     "wof:parent_id":1091686227,
     "wof:placetype":"locality",

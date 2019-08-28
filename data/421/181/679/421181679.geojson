@@ -10,8 +10,12 @@
     "geom:latitude":18.53806,
     "geom:longitude":-72.61,
     "iso:country":"HT",
+    "lbl:bbox":"-72.63,18.51806,-72.59,18.55806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Mariani"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3721341,
         "gp:id":94027,
-        "qs:id":500551
+        "qs_pg:id":500551
     },
     "wof:country":"HT",
     "wof:created":1459009303,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421181679,
-    "wof:lastmodified":1564157075,
+    "wof:lastmodified":1566648895,
     "wof:name":"Mariani",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

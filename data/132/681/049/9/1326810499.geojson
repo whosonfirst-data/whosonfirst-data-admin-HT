@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.80333,18.33,-73.76333,18.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Marken"
     ],
@@ -343,7 +347,7 @@
         }
     ],
     "wof:id":1326810499,
-    "wof:lastmodified":1564155437,
+    "wof:lastmodified":1566647882,
     "wof:name":"Marche",
     "wof:parent_id":1091686479,
     "wof:placetype":"locality",

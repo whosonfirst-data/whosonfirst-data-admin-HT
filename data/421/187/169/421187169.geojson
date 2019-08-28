@@ -10,8 +10,12 @@
     "geom:latitude":18.51583,
     "geom:longitude":-72.27111,
     "iso:country":"HT",
+    "lbl:bbox":"-72.29111,18.49583,-72.25111,18.53583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3719146,
         "gp:id":95620,
-        "qs:id":1082198
+        "qs_pg:id":1082198
     },
     "wof:country":"HT",
     "wof:created":1459009504,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421187169,
-    "wof:lastmodified":1499978510,
+    "wof:lastmodified":1566648894,
     "wof:name":"Peguy Ville",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

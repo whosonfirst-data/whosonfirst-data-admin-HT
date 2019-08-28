@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.30091,19.25093,-72.26091,19.29093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nan Carros",
         "Nan Cotros"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226435045,
-    "wof:lastmodified":1537626020,
+    "wof:lastmodified":1566649192,
     "wof:name":"Nan Cotros",
     "wof:parent_id":1091686583,
     "wof:placetype":"locality",

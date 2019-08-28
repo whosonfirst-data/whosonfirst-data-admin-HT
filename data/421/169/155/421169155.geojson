@@ -10,6 +10,9 @@
     "geom:latitude":19.75778,
     "geom:longitude":-72.20417,
     "iso:country":"HT",
+    "lbl:bbox":"-72.22417,19.73778,-72.18417,19.77778",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -182,7 +185,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u043f-\u0410\u0457\u0442\u044c\u0454\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Le Cap"
     ],
     "name:urd_x_preferred":[
@@ -324,7 +327,7 @@
     "wof:concordances":{
         "gn:id":3728474,
         "gp:id":88960,
-        "qs:id":274515,
+        "qs_pg:id":274515,
         "wd:id":"Q216835",
         "wk:page":"Cap-Ha\u00eftien"
     },
@@ -341,7 +344,7 @@
         }
     ],
     "wof:id":421169155,
-    "wof:lastmodified":1563584197,
+    "wof:lastmodified":1566648893,
     "wof:name":"Cap-Ha\u00eftien",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

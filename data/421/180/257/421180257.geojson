@@ -10,8 +10,12 @@
     "geom:latitude":19.66667,
     "geom:longitude":-72.55,
     "iso:country":"HT",
+    "lbl:bbox":"-72.57,19.64667,-72.53,19.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a\u062a"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3718826,
         "gp:id":95823,
-        "qs:id":1201194,
+        "qs_pg:id":1201194,
         "wd:id":"Q2430177",
         "wk:page":"Pilate, Nord"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421180257,
-    "wof:lastmodified":1563584199,
+    "wof:lastmodified":1566648893,
     "wof:name":"Pilate",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

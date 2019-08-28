@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.34766,19.68429,-72.30766,19.72429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pignate"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293678793,
-    "wof:lastmodified":1537626004,
+    "wof:lastmodified":1566648251,
     "wof:name":"Pignate",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

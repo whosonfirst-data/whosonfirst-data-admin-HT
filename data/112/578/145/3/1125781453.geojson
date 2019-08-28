@@ -9,15 +9,18 @@
     "geom:bbox":"-72.68333,19.45,-72.68333,19.45",
     "geom:latitude":19.45,
     "geom:longitude":-72.68333,
-    "gn:gn_country":"HT",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":84961,
+    "gn:country":"HT",
+    "gn:fcode":"PPL",
     "gn:population":84961,
     "iso:country":"HT",
+    "lbl:bbox":"-72.70333,19.43,-72.66333,19.47",
     "lbl:latitude":19.45,
     "lbl:longitude":-72.68333,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u0627\u064a\u064a\u0641"
@@ -134,7 +137,7 @@
         "\u0b95\u0bcb\u0ba3\u0bc8\u0bb5\u0bc7\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
-        "\u0c17\u0c41\u0c23\u0c48\u0c35\u0c4d  \u0c38\u0c4d"
+        "\u0c17\u0c41\u0c23\u0c48\u0c35\u0c4d \u0c38\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e2d\u0e19\u0e32\u0e2d\u0e35\u0e1f\u0e27\u0e4c"
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u043e\u043d\u0430\u0457\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ville des Gona\u00efves"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +175,7 @@
     "qs_pg:qs_id":1046662,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":1125781453,
-    "wof:lastmodified":1563584246,
+    "wof:lastmodified":1566648907,
     "wof:name":"Gona\u00efves",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

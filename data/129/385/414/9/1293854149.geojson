@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.19121,18.43567,-73.15121,18.47567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bizarre"
     ],
@@ -36,8 +40,7 @@
         "Bizarre"
     ],
     "name:und_x_variant":[
-        "Bezia",
-        "Bizarre"
+        "Bezia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1293854149,
-    "wof:lastmodified":1564155961,
+    "wof:lastmodified":1566648212,
     "wof:name":"Bizarre",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

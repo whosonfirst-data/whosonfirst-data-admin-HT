@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":19.874826,
     "lbl:longitude":-72.688616,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"North West",
     "meso:gadm_admin":"Saint-Louis du Nord",
     "meso:gadm_hasc2":"HT.NO.SL",
@@ -30,6 +32,7 @@
     "mps:longitude":-72.688616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Saint-Louis du Nord"
     ],
@@ -38,9 +41,9 @@
         "Saint-Louis du Nord"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"188.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"Saint-Louis du Nord",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091686807,
-    "wof:lastmodified":1553717897,
+    "wof:lastmodified":1566648831,
     "wof:name":"Saint-Louis du Nord",
     "wof:parent_id":85671941,
     "wof:placetype":"county",

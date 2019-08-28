@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.07,18.69667,-72.03,18.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Troutine",
         "Toutine"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293775761,
-    "wof:lastmodified":1537625974,
+    "wof:lastmodified":1566648206,
     "wof:name":"Toutine",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":18.47611,
     "geom:longitude":-73.23495,
     "iso:country":"HT",
+    "lbl:bbox":"-73.25495,18.45611,-73.21495,18.49611",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a\u064a \u0631\u064a\u0641\u064a\u0631\u064a \u062f\u064a \u0646\u064a\u0628\u064a\u0633"
@@ -37,7 +41,7 @@
     "name:ron_x_preferred":[
         "Petite-Rivi\u00e8re-de-Nippes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ville de Petite Rivi\u00e8re"
     ],
     "qs:gn_country":"HT",
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3718975,
         "gp:id":95744,
-        "qs:id":500555,
+        "qs_pg:id":500555,
         "wd:id":"Q2008231"
     },
     "wof:country":"HT",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421199845,
-    "wof:lastmodified":1561749981,
+    "wof:lastmodified":1566648896,
     "wof:name":"Petite Rivi\u00e8re de Nippes",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

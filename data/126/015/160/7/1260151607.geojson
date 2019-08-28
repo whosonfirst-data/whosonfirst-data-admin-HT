@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.18667,18.53,-74.14667,18.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gond"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260151607,
-    "wof:lastmodified":1564156640,
+    "wof:lastmodified":1566648628,
     "wof:name":"Gond",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

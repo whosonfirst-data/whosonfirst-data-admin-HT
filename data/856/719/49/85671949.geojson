@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":19.284977,
     "lbl:longitude":-72.481992,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"L'Artibonite",
     "mps:latitude":19.291426,
     "mps:longitude":-72.484473,
@@ -160,7 +161,7 @@
     "name:ukr_x_variant":[
         "\u0410\u0440\u0442\u0438\u0431\u043e\u043d\u0456\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement de Central L'Artibonite"
     ],
     "name:urd_x_preferred":[
@@ -244,9 +245,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"4,887",
     "statoids:area_mi":"1,887",
     "statoids:as_of_date":"2003-08-07",
@@ -271,7 +272,7 @@
         "gp:id":2345615,
         "hasc:id":"HT.AR",
         "iso:id":"HT-AR",
-        "qs:id":1083836,
+        "qs_pg:id":1083836,
         "unlc:id":"HT-AR",
         "wd:id":"Q844024",
         "wk:page":"Artibonite (department)"
@@ -294,11 +295,10 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1565714599,
+    "wof:lastmodified":1566648163,
     "wof:name":"L'Artibonite",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":1070397,
     "wof:population_rank":12,

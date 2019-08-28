@@ -11,10 +11,14 @@
     "geom:longitude":-72.48333,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":1511,
+    "gn:population":1511,
     "iso:country":"HT",
+    "lbl:bbox":"-72.50333,19.46333,-72.46333,19.50333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0625\u0646\u064a\u0631\u064a"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3725663,
         "gp:id":90955,
-        "qs:id":150264,
+        "qs_pg:id":150264,
         "wd:id":"Q2637933",
         "wk:page":"Ennery"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890430979,
-    "wof:lastmodified":1563584228,
+    "wof:lastmodified":1566648902,
     "wof:name":"Ennery",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

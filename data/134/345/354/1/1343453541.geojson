@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.65051,19.54566,-72.61051,19.58566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dub\u00e9dou"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343453541,
-    "wof:lastmodified":1537626095,
+    "wof:lastmodified":1566648132,
     "wof:name":"Dubedou",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

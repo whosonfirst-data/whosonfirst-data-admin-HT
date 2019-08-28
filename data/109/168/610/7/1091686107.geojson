@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.250258,
     "lbl:longitude":-71.937093,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"South East",
     "meso:gadm_admin":"Belle-Anse",
     "meso:gadm_hasc2":"HT.SE.BA",
@@ -30,6 +32,7 @@
     "mps:longitude":-71.937093,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a \u0622\u0646\u0633"
     ],
@@ -68,9 +71,9 @@
         "Belle-Anse"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"777.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"Belle-Anse",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1091686107,
-    "wof:lastmodified":1564156970,
+    "wof:lastmodified":1566648831,
     "wof:name":"Belle-Anse",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

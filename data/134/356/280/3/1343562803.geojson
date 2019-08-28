@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.82,19.79667,-72.78,19.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0633\u064a\u062c\u0648\u0631"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1343562803,
-    "wof:lastmodified":1564155786,
+    "wof:lastmodified":1566648099,
     "wof:name":"Beausejour",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

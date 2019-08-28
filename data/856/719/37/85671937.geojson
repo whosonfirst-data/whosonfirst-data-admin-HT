@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":18.43028,
     "lbl:longitude":-73.391549,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Nippes",
     "mps:latitude":18.429813,
     "mps:longitude":-73.393731,
@@ -242,9 +243,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"1,267",
     "statoids:area_mi":"489",
     "statoids:as_of_date":"2003-08-07",
@@ -291,11 +292,10 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1565714598,
+    "wof:lastmodified":1566648162,
     "wof:name":"Nippes",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":266379,
     "wof:population_rank":10,

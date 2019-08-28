@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.04004,19.65098,-72.00004,19.69098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lombard"
     ],
@@ -84,8 +88,7 @@
         "\u041b\u043e\u043c\u0431\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Lombart",
-        "Lombard"
+        "Lombart"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1344046407,
-    "wof:lastmodified":1564155837,
+    "wof:lastmodified":1566648129,
     "wof:name":"Lombard",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

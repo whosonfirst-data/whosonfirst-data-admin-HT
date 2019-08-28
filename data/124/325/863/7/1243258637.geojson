@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.2025,19.71944,-72.1625,19.75944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Petite Anse",
         "La Petite Anse"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243258637,
-    "wof:lastmodified":1537626054,
+    "wof:lastmodified":1566648986,
     "wof:name":"La Petite Anse",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

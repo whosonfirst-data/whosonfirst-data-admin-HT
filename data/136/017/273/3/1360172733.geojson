@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.62,18.44667,-72.58,18.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tamarin",
         "Tomarin"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360172733,
-    "wof:lastmodified":1537625975,
+    "wof:lastmodified":1566648817,
     "wof:name":"Tomarin",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

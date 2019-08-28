@@ -11,10 +11,14 @@
     "geom:longitude":-72.77056,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":49288,
+    "gn:population":49288,
     "iso:country":"HT",
+    "lbl:bbox":"-72.79056,18.40889,-72.75056,18.44889",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0646\u062f \u063a\u0648\u0627\u0641"
     ],
@@ -57,7 +61,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0440\u0430\u043d-\u0413\u043e\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grande Goave"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3724337,
         "gp:id":91745,
-        "qs:id":1046671,
+        "qs_pg:id":1046671,
         "wd:id":"Q2536972",
         "wk:page":"Grand-Go\u00e2ve"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890438887,
-    "wof:lastmodified":1563584232,
+    "wof:lastmodified":1566648903,
     "wof:name":"Grand Go\u00e2ve",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.60414,19.33609,-72.56414,19.37609",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "La Croix"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1292993363,
-    "wof:lastmodified":1564156054,
+    "wof:lastmodified":1566648266,
     "wof:name":"La Croix",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

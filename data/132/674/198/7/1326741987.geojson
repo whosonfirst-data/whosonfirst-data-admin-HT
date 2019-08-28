@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.20972,19.81889,-73.16972,19.85889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326741987,
-    "wof:lastmodified":1536681568,
+    "wof:lastmodified":1566647891,
     "wof:name":"En Bas",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

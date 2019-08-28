@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.63667,18.54667,-73.59667,18.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1264\u1274\u120d"
     ],
@@ -139,7 +143,7 @@
         }
     ],
     "wof:id":1292974103,
-    "wof:lastmodified":1564156052,
+    "wof:lastmodified":1566648265,
     "wof:name":"Bethel",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

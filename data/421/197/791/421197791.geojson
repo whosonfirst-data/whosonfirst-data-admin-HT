@@ -10,8 +10,12 @@
     "geom:latitude":18.43139,
     "geom:longitude":-72.86694,
     "iso:country":"HT",
+    "lbl:bbox":"-72.88694,18.41139,-72.84694,18.45139",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a \u063a\u0648\u0627\u0641"
@@ -61,7 +65,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u0456-\u0413\u043e\u0430\u0432"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ville de Petit Go\u00e2ve"
     ],
     "name:zho_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":3718962,
         "gp:id":95706,
-        "qs:id":150255,
+        "qs_pg:id":150255,
         "wd:id":"Q2009853",
         "wk:page":"Petit-Go\u00e2ve"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421197791,
-    "wof:lastmodified":1563584207,
+    "wof:lastmodified":1566648896,
     "wof:name":"Petit Go\u00e2ve",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

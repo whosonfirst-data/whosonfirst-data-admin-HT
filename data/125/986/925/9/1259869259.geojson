@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.30283,19.69336,-72.26283,19.73336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nan Banque"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259869259,
-    "wof:lastmodified":1537626023,
+    "wof:lastmodified":1566649172,
     "wof:name":"Nan Banque",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

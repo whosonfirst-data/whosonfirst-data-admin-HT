@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.40333,18.41333,-74.36333,18.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Poisson"
     ],
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":1310671781,
-    "wof:lastmodified":1564156889,
+    "wof:lastmodified":1566648782,
     "wof:name":"Poisson",
     "wof:parent_id":1091686011,
     "wof:placetype":"locality",

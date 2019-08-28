@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.20223,18.97434,-72.16223,19.01434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Belle \u00c9p\u00e9e"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226771059,
-    "wof:lastmodified":1537626149,
+    "wof:lastmodified":1566649279,
     "wof:name":"Belle Epee",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

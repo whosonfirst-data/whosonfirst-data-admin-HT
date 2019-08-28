@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.57,18.36333,-73.53,18.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326909301,
-    "wof:lastmodified":1537563346,
+    "wof:lastmodified":1566647970,
     "wof:name":"Balou",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.22839,18.99247,-72.18839,19.03247",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Bouli"
     ],
@@ -36,8 +40,7 @@
         "Bouli"
     ],
     "name:und_x_variant":[
-        "Bouly",
-        "Bouli"
+        "Bouly"
     ],
     "name:wuu_x_preferred":[
         "\u96ea\u4eba\u6ce2\u5229"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1259874255,
-    "wof:lastmodified":1564157473,
+    "wof:lastmodified":1566649163,
     "wof:name":"Bouli",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

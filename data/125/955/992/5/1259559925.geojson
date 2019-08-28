@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.64083,18.27222,-72.60083,18.31222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Boucicaut"
     ],
@@ -43,8 +47,7 @@
         "Boucicaut"
     ],
     "name:und_x_variant":[
-        "Boucicaur",
-        "Boucicaut"
+        "Boucicaur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1259559925,
-    "wof:lastmodified":1564157368,
+    "wof:lastmodified":1566649094,
     "wof:name":"Boucicaut",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

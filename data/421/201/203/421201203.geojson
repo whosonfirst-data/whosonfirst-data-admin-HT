@@ -10,13 +10,17 @@
     "geom:latitude":18.08333,
     "geom:longitude":-73.81667,
     "iso:country":"HT",
+    "lbl:bbox":"-73.83667,18.06333,-73.79667,18.10333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:hat_x_preferred":[
         "Sen Jan di Sid"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Etronc-de-Porc"
     ],
     "qs:gn_country":"HT",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3717617,
         "gp:id":96975,
-        "qs:id":210484
+        "qs_pg:id":210484
     },
     "wof:country":"HT",
     "wof:created":1459010065,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421201203,
-    "wof:lastmodified":1505340772,
+    "wof:lastmodified":1566648897,
     "wof:name":"St.-Jean du Sud",
     "wof:parent_id":1091687329,
     "wof:placetype":"locality",

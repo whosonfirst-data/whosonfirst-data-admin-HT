@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.13671,18.35321,-73.09671,18.39321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Saint-Michel du Sud"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343735331,
-    "wof:lastmodified":1537625989,
+    "wof:lastmodified":1566648135,
     "wof:name":"Saint-Michel du Sud",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

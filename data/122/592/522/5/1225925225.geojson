@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.12,18.31333,-72.08,18.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Michel"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1225925225,
-    "wof:lastmodified":1564157514,
+    "wof:lastmodified":1566649188,
     "wof:name":"Michel",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

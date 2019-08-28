@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.60724,18.88552,-72.56724,18.92552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nicolas"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1209904309,
-    "wof:lastmodified":1564156379,
+    "wof:lastmodified":1566648473,
     "wof:name":"Nicolas",
     "wof:parent_id":1091686327,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":19.69667,
     "geom:longitude":-72.15694,
     "iso:country":"HT",
+    "lbl:bbox":"-72.17694,19.67667,-72.13694,19.71667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0648\u0627\u0631\u062a\u0631 \u0645\u0648\u0631\u064a\u0646"
@@ -55,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0430\u0440\u0442\u044c\u0454\u0440-\u041c\u043e\u0440\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qartier-Morin"
     ],
     "qs:gn_country":"HT",
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3718278,
         "gp:id":96212,
-        "qs:id":1046648,
+        "qs_pg:id":1046648,
         "wd:id":"Q2151487"
     },
     "wof:country":"HT",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421185847,
-    "wof:lastmodified":1563584223,
+    "wof:lastmodified":1566648901,
     "wof:name":"Quartier Morin",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

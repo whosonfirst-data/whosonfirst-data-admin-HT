@@ -10,8 +10,12 @@
     "geom:latitude":19.68333,
     "geom:longitude":-72.26667,
     "iso:country":"HT",
+    "lbl:bbox":"-72.28667,19.66333,-72.24667,19.70333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3718707,
         "gp:id":95902,
-        "qs:id":1116157,
+        "qs_pg:id":1116157,
         "wd:id":"Q2397761"
     },
     "wof:country":"HT",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421198251,
-    "wof:lastmodified":1563584204,
+    "wof:lastmodified":1566648895,
     "wof:name":"Plaine du Nord",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

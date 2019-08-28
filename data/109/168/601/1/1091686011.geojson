@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":18.425673,
     "lbl:longitude":-74.398804,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Grande-Anse",
     "meso:gadm_admin":"Anse d'Hainault",
     "meso:gadm_hasc2":"HT.GR.AH",
@@ -30,6 +32,7 @@
     "mps:longitude":-74.398804,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Anse d'Hainault"
     ],
@@ -38,9 +41,9 @@
         "Anse d'Hainault"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"327.0",
     "statoids:as_of_date":"2003-08-07",
     "statoids:capital":"Anse d'Hainault",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091686011,
-    "wof:lastmodified":1553717896,
+    "wof:lastmodified":1566648838,
     "wof:name":"Anse d'Hainault",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.310541,
     "lbl:longitude":-72.473745,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Sud-Est",
     "mps:latitude":18.309684,
     "mps:longitude":-72.467558,
@@ -164,7 +165,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0421\u0445\u0456\u0434\u043d\u0438\u0439 \u0434\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0413\u0430\u0457\u0442\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u00e9partement du Sud-Est"
     ],
     "name:urd_x_preferred":[
@@ -248,9 +249,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2003-08-07",
+    "src:population_date":"2003-08-07",
     "statoids:area_km":"2,034",
     "statoids:area_mi":"785",
     "statoids:as_of_date":"2003-08-07",
@@ -275,7 +276,7 @@
         "gp:id":2345622,
         "hasc:id":"HT.SE",
         "iso:id":"HT-SE",
-        "qs:id":453303,
+        "qs_pg:id":453303,
         "unlc:id":"HT-SE",
         "wd:id":"Q936717",
         "wk:page":"Sud-Est (department)"
@@ -298,11 +299,10 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1565714597,
+    "wof:lastmodified":1566648160,
     "wof:name":"Sud-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":449585,
     "wof:population_rank":10,

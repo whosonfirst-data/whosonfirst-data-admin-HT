@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.97,18.49667,-73.93,18.53667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209197937,
-    "wof:lastmodified":1536294708,
+    "wof:lastmodified":1566648566,
     "wof:name":"Roche Pierre",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",

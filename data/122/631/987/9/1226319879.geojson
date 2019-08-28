@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.55472,18.35833,-73.51472,18.39833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bellevue"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1226319879,
-    "wof:lastmodified":1564157714,
+    "wof:lastmodified":1566649310,
     "wof:name":"Bellevue",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

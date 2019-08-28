@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-71.92,18.91333,-71.88,18.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pilon"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1343555725,
-    "wof:lastmodified":1564155657,
+    "wof:lastmodified":1566648025,
     "wof:name":"Pilon",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

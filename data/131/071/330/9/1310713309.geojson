@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.79135,20.03186,-72.75135,20.07186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Monder"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310713309,
-    "wof:lastmodified":1537626026,
+    "wof:lastmodified":1566648692,
     "wof:name":"Monder",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

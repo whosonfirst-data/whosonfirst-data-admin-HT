@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.46869,18.36399,-73.42869,18.40399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Saint-Germain"
     ],
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":1225917383,
-    "wof:lastmodified":1564157613,
+    "wof:lastmodified":1566649247,
     "wof:name":"Saint-Germain",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

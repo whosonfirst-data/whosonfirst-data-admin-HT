@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.2308,19.75359,-72.1908,19.79359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poirier",
         "Poirrier"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259572825,
-    "wof:lastmodified":1537625999,
+    "wof:lastmodified":1566649134,
     "wof:name":"Poirrier",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

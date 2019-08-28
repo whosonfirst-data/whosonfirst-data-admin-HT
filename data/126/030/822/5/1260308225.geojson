@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.2806,18.87808,-72.2406,18.91808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "L\u00e9pinard"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1260308225,
-    "wof:lastmodified":1537626047,
+    "wof:lastmodified":1566648646,
     "wof:name":"Lepinard",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

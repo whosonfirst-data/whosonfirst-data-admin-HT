@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.03667,19.63,-71.99667,19.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0434\u0440\u0435\u043d"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310685781,
-    "wof:lastmodified":1564156873,
+    "wof:lastmodified":1566648774,
     "wof:name":"Modren",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

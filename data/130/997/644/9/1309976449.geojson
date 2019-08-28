@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.31044,18.46273,-73.27044,18.50273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Grande Rivi\u00e8re de Nippes"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309976449,
-    "wof:lastmodified":1537626076,
+    "wof:lastmodified":1566648846,
     "wof:name":"Grande Riviere de Nippes",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

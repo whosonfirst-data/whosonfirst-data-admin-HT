@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.37171,18.42073,-72.33171,18.46073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bongat",
         "Bongas",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226130883,
-    "wof:lastmodified":1537626139,
+    "wof:lastmodified":1566649252,
     "wof:name":"Bongars",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.50333,18.34667,-73.46333,18.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632433
@@ -35,7 +39,7 @@
         "gn:id":3728300
     },
     "wof:country":"HT",
-    "wof:geomhash":"79795861075ce7b1b5b51541fda3cbfa",
+    "wof:geomhash":"1870a8599733204e23646e9f3b790690",
     "wof:hierarchy":[
         {
             "country_id":85632433,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209588709,
-    "wof:lastmodified":1536282548,
+    "wof:lastmodified":1566648527,
     "wof:name":"Carrefour Fleurant",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     -73.48333000000002,
-    18.366670000000006,
+    18.36667000000001,
     -73.48333000000002,
-    18.366670000000006
+    18.36667000000001
 ],
   "geometry": {"coordinates":[-73.48333000000002,18.36667000000001],"type":"Point"}
 }

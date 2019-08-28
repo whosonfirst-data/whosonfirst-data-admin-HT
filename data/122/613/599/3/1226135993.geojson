@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.61109,19.13696,-72.57109,19.17696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Raynal"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226135993,
-    "wof:lastmodified":1537625994,
+    "wof:lastmodified":1566649251,
     "wof:name":"Raynal",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

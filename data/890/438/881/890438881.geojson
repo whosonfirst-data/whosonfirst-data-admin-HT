@@ -11,10 +11,14 @@
     "geom:longitude":-72.63389,
     "gn:country":"HT",
     "gn:fcode":"PPL",
-    "gn:pop":134190,
+    "gn:population":134190,
     "iso:country":"HT",
+    "lbl:bbox":"-72.65389,18.49083,-72.61389,18.53083",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u063a\u0627\u0646"
     ],
@@ -126,7 +130,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043e\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yaguana"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":3722286,
         "gp:id":93380,
-        "qs:id":1046668,
+        "qs_pg:id":1046668,
         "wd:id":"Q583445",
         "wk:page":"L\u00e9og\u00e2ne"
     },
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":890438881,
-    "wof:lastmodified":1563584233,
+    "wof:lastmodified":1566648903,
     "wof:name":"L\u00e9og\u00e2ne",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

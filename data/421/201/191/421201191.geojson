@@ -10,6 +10,9 @@
     "geom:latitude":18.65,
     "geom:longitude":-74.11667,
     "iso:country":"HT",
+    "lbl:bbox":"-74.13667,18.63,-74.09667,18.67",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -146,9 +149,6 @@
     "name:ukr_x_preferred":[
         "\u0416\u0435\u0440\u0435\u043c\u0456"
     ],
-    "name:unk_x_variant":[
-        "Jeremi"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0631\u06cc\u0645\u06cc"
     ],
@@ -283,7 +283,7 @@
     "wof:concordances":{
         "gn:id":3723593,
         "gp:id":92343,
-        "qs:id":1341057,
+        "qs_pg:id":1341057,
         "wd:id":"Q986301",
         "wk:page":"J\u00e9r\u00e9mie"
     },
@@ -300,7 +300,7 @@
         }
     ],
     "wof:id":421201191,
-    "wof:lastmodified":1563584211,
+    "wof:lastmodified":1566648898,
     "wof:name":"J\u00e9r\u00e9mie",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

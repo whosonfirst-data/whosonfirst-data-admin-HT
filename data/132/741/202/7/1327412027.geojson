@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.23667,18.83,-73.19667,18.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Parc C\u00e9loin",
         "Parc Celan"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327412027,
-    "wof:lastmodified":1537626009,
+    "wof:lastmodified":1566647937,
     "wof:name":"Parc Celan",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

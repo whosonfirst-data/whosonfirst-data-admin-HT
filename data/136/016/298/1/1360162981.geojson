@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.26278,18.40083,-72.22278,18.44083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1360162981,
-    "wof:lastmodified":1536832340,
+    "wof:lastmodified":1566648815,
     "wof:name":"Despiseau",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

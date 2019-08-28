@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.38667,18.51333,-74.34667,18.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Eihbrenn"
     ],
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":1293361337,
-    "wof:lastmodified":1564155896,
+    "wof:lastmodified":1566648171,
     "wof:name":"Roux",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.29032,18.52014,-72.25032,18.56014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dosmornes",
         "Dos Morne"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327212031,
-    "wof:lastmodified":1537626096,
+    "wof:lastmodified":1566647989,
     "wof:name":"Dos Morne",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

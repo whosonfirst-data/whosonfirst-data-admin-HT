@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.8003,20.05472,-72.7603,20.09472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Anse du Tr\u00e9sor"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326531817,
-    "wof:lastmodified":1537626161,
+    "wof:lastmodified":1566647985,
     "wof:name":"Anse du Tresor",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

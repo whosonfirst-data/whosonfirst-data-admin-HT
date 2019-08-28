@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.06777,18.28217,-73.02777,18.32217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Baudouin"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293171063,
-    "wof:lastmodified":1537626151,
+    "wof:lastmodified":1566648292,
     "wof:name":"Baudouin",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",

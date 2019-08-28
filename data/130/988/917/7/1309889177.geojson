@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-74.00385,18.48834,-73.96385,18.52834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Flandre"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309889177,
-    "wof:lastmodified":1537626088,
+    "wof:lastmodified":1566648889,
     "wof:name":"Flandre",
     "wof:parent_id":1091686181,
     "wof:placetype":"locality",

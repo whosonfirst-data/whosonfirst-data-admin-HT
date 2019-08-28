@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.47187,19.40114,-72.43187,19.44114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Duvoisin"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310103059,
-    "wof:lastmodified":1537626090,
+    "wof:lastmodified":1566648755,
     "wof:name":"Duvoisin",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

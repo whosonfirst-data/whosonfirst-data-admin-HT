@@ -10,8 +10,12 @@
     "geom:latitude":19.28333,
     "geom:longitude":-72.5,
     "iso:country":"HT",
+    "lbl:bbox":"-72.52,19.26333,-72.48,19.30333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062f\u064a\u0633\u0627\u0644\u064a\u0646"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Dessalines"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marchand"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3726540,
         "gp:id":90313,
-        "qs:id":150266,
+        "qs_pg:id":150266,
         "wd:id":"Q1200898"
     },
     "wof:country":"HT",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421179607,
-    "wof:lastmodified":1563584217,
+    "wof:lastmodified":1566648899,
     "wof:name":"Dessalines",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

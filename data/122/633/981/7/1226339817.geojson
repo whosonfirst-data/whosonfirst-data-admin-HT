@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.40184,18.93033,-72.36184,18.97033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dos Paque",
         "Dos P\u00e2ques"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226339817,
-    "wof:lastmodified":1537626096,
+    "wof:lastmodified":1566649222,
     "wof:name":"Dos Paques",
     "wof:parent_id":1091686855,
     "wof:placetype":"locality",

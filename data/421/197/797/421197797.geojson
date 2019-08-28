@@ -10,8 +10,12 @@
     "geom:latitude":18.3054,
     "geom:longitude":-74.21968,
     "iso:country":"HT",
+    "lbl:bbox":"-74.23968,18.2854,-74.19968,18.3254",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633 \u0623\u0646\u062c\u0644\u064a\u0633"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "Les Anglais"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anglais"
     ],
     "name:zho_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3722253,
         "gp:id":93394,
-        "qs:id":150257,
+        "qs_pg:id":150257,
         "wd:id":"Q2637961"
     },
     "wof:country":"HT",
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421197797,
-    "wof:lastmodified":1563584206,
+    "wof:lastmodified":1566648896,
     "wof:name":"Les Anglais",
     "wof:parent_id":1091686503,
     "wof:placetype":"locality",

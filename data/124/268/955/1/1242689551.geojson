@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-73.00458,19.7454,-72.96458,19.7854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Grand Fond Ti No\u00ebl"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242689551,
-    "wof:lastmodified":1537626075,
+    "wof:lastmodified":1566648943,
     "wof:name":"Grand Fond Ti Noel",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

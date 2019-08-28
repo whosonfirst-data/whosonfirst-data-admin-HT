@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Port-au-Prince",
     "iso:country":"HT",
+    "lbl:bbox":"-72.22,18.94667,-72.18,18.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hat_x_preferred":[
         "Boukan Kare"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343849659,
-    "wof:lastmodified":1537626138,
+    "wof:lastmodified":1566648067,
     "wof:name":"Boukan Kare",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",
