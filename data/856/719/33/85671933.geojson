@@ -292,6 +292,9 @@
         "wd:id":"Q913231"
     },
     "wof:country":"HT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d986e537197e3f5a0b9bfe0b950e63e",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648161,
+    "wof:lastmodified":1582318444,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

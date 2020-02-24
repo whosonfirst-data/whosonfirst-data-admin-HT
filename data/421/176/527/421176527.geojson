@@ -524,6 +524,9 @@
     },
     "wof:country":"HT",
     "wof:created":1459009111,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"362767a575c3c8cc6ea3979320cb5655",
     "wof:hierarchy":[
         {
@@ -535,7 +538,7 @@
         }
     ],
     "wof:id":421176527,
-    "wof:lastmodified":1566648900,
+    "wof:lastmodified":1582318455,
     "wof:name":"Port-au-Prince",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

@@ -63,6 +63,9 @@
     },
     "wof:country":"HT",
     "wof:created":1469051533,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"04e4d4296342be1dbf9db638efdbc6a4",
     "wof:hierarchy":[
         {
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":890424175,
-    "wof:lastmodified":1566648901,
+    "wof:lastmodified":1582318455,
     "wof:name":"Gethsemane Scholarship Inst. of Fond Des Blancs",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

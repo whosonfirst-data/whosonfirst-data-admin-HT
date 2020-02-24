@@ -291,6 +291,9 @@
     },
     "wof:country":"HT",
     "wof:created":1469052496,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d616cb652d4a3bacea4a28c66dcf16fd",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         }
     ],
     "wof:id":890445091,
-    "wof:lastmodified":1566648905,
+    "wof:lastmodified":1582318455,
     "wof:name":"Jacmel",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

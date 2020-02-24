@@ -134,6 +134,9 @@
     },
     "wof:country":"HT",
     "wof:created":1459009482,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d34c5d8012618408a3e2a1228ecd194d",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421186493,
-    "wof:lastmodified":1566648895,
+    "wof:lastmodified":1582318455,
     "wof:name":"Mirago\u00e2ne",
     "wof:parent_id":1091686629,
     "wof:placetype":"locality",
