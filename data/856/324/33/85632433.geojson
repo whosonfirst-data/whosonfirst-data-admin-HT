@@ -909,8 +909,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "meso",
-        "naturalearth"
+        "meso"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -986,7 +985,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1582318442,
+    "wof:lastmodified":1583205078,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
