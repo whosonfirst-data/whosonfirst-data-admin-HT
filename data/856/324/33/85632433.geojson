@@ -964,6 +964,11 @@
     },
     "wof:country":"HT",
     "wof:country_alpha3":"HTI",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"6ca3066290b88dbba8c96e2a5298ddfd",
     "wof:hierarchy":[
         {
@@ -980,7 +985,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648158,
+    "wof:lastmodified":1583205078,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

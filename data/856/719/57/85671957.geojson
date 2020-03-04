@@ -273,6 +273,9 @@
         "wk:page":"Nord-Est (department)"
     },
     "wof:country":"HT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8585b9bbe8c422ae16e716f7e33822d5",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648160,
+    "wof:lastmodified":1582318443,
     "wof:name":"Nord-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

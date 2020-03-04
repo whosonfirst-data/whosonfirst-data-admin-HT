@@ -278,6 +278,9 @@
         "wk:page":"Artibonite (department)"
     },
     "wof:country":"HT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39f2c684782d4a0f141771588f9efb7a",
     "wof:hierarchy":[
         {
@@ -295,7 +298,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648163,
+    "wof:lastmodified":1582318444,
     "wof:name":"L'Artibonite",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

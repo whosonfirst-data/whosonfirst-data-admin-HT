@@ -282,6 +282,9 @@
         "wk:page":"Sud-Est (department)"
     },
     "wof:country":"HT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"62203499fd218449c049cb681eda5790",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648160,
+    "wof:lastmodified":1582318443,
     "wof:name":"Sud-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

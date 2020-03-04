@@ -285,6 +285,9 @@
         "wk:page":"Centre (department)"
     },
     "wof:country":"HT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"01fe8a9e93e4b579e616a6caf347ef62",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648162,
+    "wof:lastmodified":1582318444,
     "wof:name":"Centre",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

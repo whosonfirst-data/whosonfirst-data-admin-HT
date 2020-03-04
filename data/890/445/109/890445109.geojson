@@ -136,6 +136,9 @@
     },
     "wof:country":"HT",
     "wof:created":1469052497,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e851f98a8bf8a72c7fa8a6bb10bf6fa6",
     "wof:hierarchy":[
         {
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890445109,
-    "wof:lastmodified":1566648905,
+    "wof:lastmodified":1582318455,
     "wof:name":"Ti Port-de-Paix",
     "wof:parent_id":1091686781,
     "wof:placetype":"locality",

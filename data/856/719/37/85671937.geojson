@@ -275,6 +275,9 @@
         "wd:id":"Q125232"
     },
     "wof:country":"HT",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"31352c7f1b5dd2e02b951af4ec97f6ad",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1566648162,
+    "wof:lastmodified":1582318444,
     "wof:name":"Nippes",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

@@ -264,6 +264,9 @@
     },
     "wof:country":"HT",
     "wof:created":1469052496,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"11d7a9815ed757e8c302252491dc88b0",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         }
     ],
     "wof:id":890445093,
-    "wof:lastmodified":1566648905,
+    "wof:lastmodified":1582318455,
     "wof:name":"Hinche",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",
