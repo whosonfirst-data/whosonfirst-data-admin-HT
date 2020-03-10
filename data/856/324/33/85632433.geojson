@@ -940,9 +940,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Haiti",
-        "digitalenvoy:country_code":[
-            332
-        ],
+        "digitalenvoy:country_code":332,
         "fb:id":"en.haiti",
         "fifa:id":"HAI",
         "fips:code":"HA",
@@ -988,7 +986,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1583529144,
+    "wof:lastmodified":1583797350,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
