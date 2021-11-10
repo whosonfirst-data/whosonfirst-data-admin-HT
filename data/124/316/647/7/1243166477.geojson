@@ -75,6 +75,12 @@
     "name:fra_x_preferred":[
         "Za\u00efre"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05d9\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Zaire"
+    ],
     "name:ind_x_preferred":[
         "Zaire"
     ],
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1243166477,
-    "wof:lastmodified":1566649047,
+    "wof:lastmodified":1636495614,
     "wof:name":"Zaire",
     "wof:parent_id":1091686895,
     "wof:placetype":"locality",

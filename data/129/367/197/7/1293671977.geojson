@@ -31,10 +31,22 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
+        "\u0623\u0631\u0646\u0648"
+    ],
+    "name:ara_x_variant":[
         "\u0623\u0631\u0646\u0648\u062f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09a8\u09be\u0989\u09a6"
     ],
     "name:ceb_x_preferred":[
         "Arnaud"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bd\u03cc"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u0646\u0627\u0626\u0648\u062f"
     ],
     "name:fra_x_preferred":[
         "Arnaud"
@@ -42,8 +54,26 @@
     "name:hat_x_preferred":[
         "Ano"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05d0\u05d5\u05d3"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u0928\u0949\u0921"
+    ],
+    "name:hun_x_preferred":[
+        "Arnaud"
+    ],
+    "name:ind_x_preferred":[
+        "Arnaud"
+    ],
     "name:ita_x_preferred":[
         "Arnaud"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30ce\u30fc\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub974\ub178"
     ],
     "name:nld_x_preferred":[
         "Arnaud"
@@ -57,8 +87,27 @@
     "name:spa_x_preferred":[
         "Arnaud"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Arnaud"
+    ],
+    "name:tur_x_preferred":[
+        "Arnaud"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043d\u0430\u0443\u0434"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0645\u0648\u062f"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Arnaud"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u963f\u8bfa\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u963f\u7459\u5fb7\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +122,7 @@
         "wk:page":"Arnaud%2C_Nippes"
     },
     "wof:country":"HT",
-    "wof:geomhash":"db527e5c0b6e1f8d90aea942cbf406da",
+    "wof:geomhash":"8966aab534e4e89c1217b546fe2235c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -84,7 +133,7 @@
         }
     ],
     "wof:id":1293671977,
-    "wof:lastmodified":1566648251,
+    "wof:lastmodified":1636495602,
     "wof:name":"Arnaud",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",
@@ -94,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.38703000000002,
+    -73.38703,
     18.44812,
-    -73.38703000000002,
+    -73.38703,
     18.44812
 ],
-  "geometry": {"coordinates":[-73.38703000000002,18.44812],"type":"Point"}
+  "geometry": {"coordinates":[-73.38703,18.44812],"type":"Point"}
 }

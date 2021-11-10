@@ -33,6 +33,12 @@
     "name:fra_x_preferred":[
         "Bahoruco"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d4\u05d5\u05e8\u05d5\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Bahoruco"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1276628183,
-    "wof:lastmodified":1566648422,
+    "wof:lastmodified":1636495605,
     "wof:name":"Bahoruco",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

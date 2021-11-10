@@ -391,6 +391,9 @@
         "Must muju"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Black"
+    ],
+    "name:vie_x_variant":[
         "\u0110en"
     ],
     "name:war_x_preferred":[
@@ -407,6 +410,12 @@
     ],
     "name:zha_x_preferred":[
         "Saekndaem"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e03\u83b1\u514b\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9ed1\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -431,7 +440,7 @@
         }
     ],
     "wof:id":1344236973,
-    "wof:lastmodified":1566648058,
+    "wof:lastmodified":1636495596,
     "wof:name":"Black",
     "wof:parent_id":1091687293,
     "wof:placetype":"locality",

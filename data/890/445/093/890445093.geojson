@@ -55,8 +55,14 @@
     "name:hat_x_preferred":[
         "Ench"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05e0\u05e6'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u093f\u0902\u091a"
+    ],
+    "name:hun_x_preferred":[
+        "Hinche"
     ],
     "name:ind_x_preferred":[
         "Hinche"
@@ -278,7 +284,7 @@
         }
     ],
     "wof:id":890445093,
-    "wof:lastmodified":1582318455,
+    "wof:lastmodified":1636495612,
     "wof:name":"Hinche",
     "wof:parent_id":1091686313,
     "wof:placetype":"locality",

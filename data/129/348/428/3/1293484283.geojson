@@ -42,6 +42,12 @@
     "name:hat_x_preferred":[
         "Sodo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Sodo"
+    ],
     "name:ita_x_preferred":[
         "Saut-d'Eau"
     ],
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1293484283,
-    "wof:lastmodified":1566648208,
+    "wof:lastmodified":1636495601,
     "wof:name":"Sodo",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

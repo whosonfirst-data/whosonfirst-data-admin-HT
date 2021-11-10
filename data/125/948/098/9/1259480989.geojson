@@ -256,6 +256,9 @@
         "\u0e14\u0e32\u0e27\u0e34\u0e14"
     ],
     "name:tur_x_preferred":[
+        "David"
+    ],
+    "name:tur_x_variant":[
         "Davud"
     ],
     "name:ukr_x_preferred":[
@@ -294,7 +297,7 @@
         "gn:id":3726978
     },
     "wof:country":"HT",
-    "wof:geomhash":"27f26e6124f0165521117c14f8f5b5b6",
+    "wof:geomhash":"022b613a27c9be7f7bc440b798a05df6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":1259480989,
-    "wof:lastmodified":1566649095,
+    "wof:lastmodified":1636495615,
     "wof:name":"David",
     "wof:parent_id":1091686981,
     "wof:placetype":"locality",
@@ -315,10 +318,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.74779000000002,
+    -72.74779,
     19.70225,
-    -72.74779000000002,
+    -72.74779,
     19.70225
 ],
-  "geometry": {"coordinates":[-72.74779000000002,19.70225],"type":"Point"}
+  "geometry": {"coordinates":[-72.74778999999999,19.70225],"type":"Point"}
 }

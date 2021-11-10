@@ -33,6 +33,9 @@
     "name:ast_x_preferred":[
         "Gary"
     ],
+    "name:ben_x_preferred":[
+        "\u0997\u09cd\u09af\u09be\u09b0\u09bf"
+    ],
     "name:bre_x_preferred":[
         "Gary"
     ],
@@ -114,7 +117,7 @@
         "gn:id":3724905
     },
     "wof:country":"HT",
-    "wof:geomhash":"e266545d62da40b6dfcd3c3f91c4dc71",
+    "wof:geomhash":"0e6f71740d5afb44ba52bd451b031fcc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1276331059,
-    "wof:lastmodified":1566648351,
+    "wof:lastmodified":1636495604,
     "wof:name":"Gary",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",
@@ -135,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.26666999999998,
+    -72.26667,
     18.8,
-    -72.26666999999998,
+    -72.26667,
     18.8
 ],
-  "geometry": {"coordinates":[-72.26666999999998,18.8],"type":"Point"}
+  "geometry": {"coordinates":[-72.26667,18.8],"type":"Point"}
 }

@@ -123,6 +123,9 @@
         "Visoravan"
     ],
     "name:hun_x_preferred":[
+        "Plateau"
+    ],
+    "name:hun_x_variant":[
         "Fenns\u00edk"
     ],
     "name:hye_x_preferred":[
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":1259680607,
-    "wof:lastmodified":1566649137,
+    "wof:lastmodified":1636495615,
     "wof:name":"Plateau",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",

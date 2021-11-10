@@ -33,13 +33,22 @@
     "name:deu_x_preferred":[
         "Gode"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
         "God\u00e9"
     ],
     "name:fra_x_variant":[
         "Gode"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d3\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Gode"
+    ],
+    "name:hun_x_preferred":[
         "Gode"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +58,9 @@
         "Gode"
     ],
     "name:pol_x_preferred":[
+        "Gode"
+    ],
+    "name:por_x_preferred":[
         "Gode"
     ],
     "name:ron_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1326537457,
-    "wof:lastmodified":1566647986,
+    "wof:lastmodified":1636495595,
     "wof:name":"Gode",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

@@ -42,6 +42,9 @@
     "name:fra_x_preferred":[
         "Ponce"
     ],
+    "name:hun_x_preferred":[
+        "Ponce"
+    ],
     "name:ita_x_preferred":[
         "Ponce"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1243151033,
-    "wof:lastmodified":1566648970,
+    "wof:lastmodified":1636495613,
     "wof:name":"Ponce",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

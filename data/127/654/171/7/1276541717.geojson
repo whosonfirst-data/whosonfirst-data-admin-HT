@@ -64,6 +64,9 @@
         "Mary"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d9\u05dc\u05e0\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05e8\u05d9"
     ],
     "name:hun_x_preferred":[
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1276541717,
-    "wof:lastmodified":1566648440,
+    "wof:lastmodified":1636495605,
     "wof:name":"Mary",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

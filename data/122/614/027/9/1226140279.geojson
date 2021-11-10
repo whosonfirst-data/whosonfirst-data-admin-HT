@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09bf\u0989\u09ab\u09cb\u09b0\u09cd\u099f"
+    ],
     "name:bre_x_preferred":[
         "Beaufort"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:deu_x_preferred":[
         "Beaufort"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c6\u03cc\u03c1"
     ],
     "name:epo_x_preferred":[
         "Beaufort"
@@ -65,6 +71,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e4\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0940\u092f\u0941\u095e\u094b\u0930\u094d\u091f"
+    ],
+    "name:ind_x_preferred":[
+        "Beaufort"
     ],
     "name:ita_x_preferred":[
         "Beaufort"
@@ -144,7 +156,7 @@
         "gn:id":3730485
     },
     "wof:country":"HT",
-    "wof:geomhash":"a8d51f796a997aa8be5df88cada4c2ec",
+    "wof:geomhash":"7bb698dac3705f41ffae45ab7c587359",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +167,7 @@
         }
     ],
     "wof:id":1226140279,
-    "wof:lastmodified":1566649248,
+    "wof:lastmodified":1636495617,
     "wof:name":"Beaufort",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",
@@ -165,10 +177,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.56721999999998,
+    -72.56722,
     19.19529,
-    -72.56721999999998,
+    -72.56722,
     19.19529
 ],
-  "geometry": {"coordinates":[-72.56721999999998,19.19529],"type":"Point"}
+  "geometry": {"coordinates":[-72.56722000000001,19.19529],"type":"Point"}
 }

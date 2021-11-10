@@ -38,11 +38,20 @@
     "name:deu_x_preferred":[
         "Plaisance"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0633\u0627\u0646\u0633"
+    ],
     "name:fra_x_preferred":[
         "Plaisance"
     ],
     "name:hat_x_preferred":[
         "Plezans"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d0\u05d9\u05e1\u05d0\u05e0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Plaisance"
     ],
     "name:ita_x_preferred":[
         "Plaisance"
@@ -90,7 +99,7 @@
         "gn:id":3718670
     },
     "wof:country":"HT",
-    "wof:geomhash":"cfed3c6738383c0b3d7c59a785c6a288",
+    "wof:geomhash":"8101d76c61b0dabcbfce0a75d9c6fdd3",
     "wof:hierarchy":[
         {
             "country_id":85632433,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1209187337,
-    "wof:lastmodified":1566648550,
+    "wof:lastmodified":1636495606,
     "wof:name":"Plaisance",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",
@@ -108,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.61428000000002,
+    -73.61428,
     18.42888,
-    -73.61428000000002,
+    -73.61428,
     18.42888
 ],
-  "geometry": {"coordinates":[-73.61428000000002,18.42888],"type":"Point"}
+  "geometry": {"coordinates":[-73.61427999999999,18.42888],"type":"Point"}
 }

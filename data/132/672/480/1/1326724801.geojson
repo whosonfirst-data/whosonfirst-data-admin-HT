@@ -43,6 +43,9 @@
         "Cascade"
     ],
     "name:hun_x_preferred":[
+        "Cascade"
+    ],
+    "name:hun_x_variant":[
         "Kaszk\u00e1d"
     ],
     "name:ita_x_preferred":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1326724801,
-    "wof:lastmodified":1566647878,
+    "wof:lastmodified":1636495593,
     "wof:name":"Cascade",
     "wof:parent_id":1091686137,
     "wof:placetype":"locality",

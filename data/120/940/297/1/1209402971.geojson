@@ -33,10 +33,19 @@
     "name:deu_x_preferred":[
         "Gode"
     ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
         "Gode"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d3\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Gode"
+    ],
+    "name:hun_x_preferred":[
         "Gode"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +55,9 @@
         "Gode"
     ],
     "name:pol_x_preferred":[
+        "Gode"
+    ],
+    "name:por_x_preferred":[
         "Gode"
     ],
     "name:ron_x_preferred":[
@@ -72,7 +84,7 @@
         "gn:id":3724724
     },
     "wof:country":"HT",
-    "wof:geomhash":"62a7c75912304bc3f2953f4cb8400477",
+    "wof:geomhash":"d33e62f435cdf78fe9acc0ddb2342eeb",
     "wof:hierarchy":[
         {
             "country_id":85632433,
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":1209402971,
-    "wof:lastmodified":1566648503,
+    "wof:lastmodified":1636495606,
     "wof:name":"Gode",
     "wof:parent_id":85632433,
     "wof:placetype":"locality",
@@ -90,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.50941999999998,
+    -72.50942,
     18.51268,
-    -72.50941999999998,
+    -72.50942,
     18.51268
 ],
-  "geometry": {"coordinates":[-72.50941999999998,18.51268],"type":"Point"}
+  "geometry": {"coordinates":[-72.50942000000001,18.51268],"type":"Point"}
 }

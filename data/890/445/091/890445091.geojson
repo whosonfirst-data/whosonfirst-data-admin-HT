@@ -70,6 +70,9 @@
     "name:hin_x_preferred":[
         "\u091c\u0915\u092e\u0947\u0932"
     ],
+    "name:hun_x_preferred":[
+        "Jacmel"
+    ],
     "name:ind_x_preferred":[
         "Jacmel"
     ],
@@ -305,7 +308,7 @@
         }
     ],
     "wof:id":890445091,
-    "wof:lastmodified":1582318455,
+    "wof:lastmodified":1636495612,
     "wof:name":"Jacmel",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

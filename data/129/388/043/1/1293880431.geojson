@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f-\u09ae\u09be\u09b0\u09cd\u099f\u09bf\u09a8"
+    ],
     "name:und_x_variant":[
         "Chapelle Saint-Martin",
         "Saint-Martin"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293880431,
-    "wof:lastmodified":1566648306,
+    "wof:lastmodified":1636495603,
     "wof:name":"Saint-Martin",
     "wof:parent_id":1091686673,
     "wof:placetype":"locality",
