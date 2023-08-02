@@ -56,6 +56,9 @@
     "name:deu_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03bb-\u03a3\u03b1\u03b9\u03bd-\u039d\u03b9\u03ba\u03bf\u03bb\u03ac"
+    ],
     "name:eng_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
@@ -143,6 +146,9 @@
     "name:msa_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
+    "name:nan_x_preferred":[
+        "M\u00f4le-Saint-Nicolas"
+    ],
     "name:nap_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
@@ -227,6 +233,9 @@
     "name:wol_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
+    "name:zho_x_preferred":[
+        "\u6469\u5c14\u00b7\u5723\u00b7\u5c3c\u53e4\u62c9\u65af"
+    ],
     "name:zul_x_preferred":[
         "M\u00f4le-Saint-Nicolas"
     ],
@@ -278,7 +287,7 @@
         }
     ],
     "wof:id":421201303,
-    "wof:lastmodified":1566648898,
+    "wof:lastmodified":1690930606,
     "wof:name":"M\u00f4le St.-Nicolas",
     "wof:parent_id":1091686921,
     "wof:placetype":"locality",

@@ -60,6 +60,9 @@
     "name:ell_x_preferred":[
         "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u0391\u03bd\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4'\u0391\u03bd\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Grand' Anse"
     ],
@@ -89,6 +92,9 @@
         "Grand\u2019Anse",
         "D\u00e9partement de la Grand\u2019Anse",
         "Grand Anse"
+    ],
+    "name:frr_x_preferred":[
+        "Grand\u2019Anse"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0abe\u0aa8\u0acd\u0aa1'\u0a8f\u0a82\u0ab8"
@@ -126,6 +132,9 @@
     "name:kor_x_preferred":[
         "\uadf8\ub791\ub2f9\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uadf8\ub791\ub2f9\uc2a4\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Granansa"
     ],
@@ -137,6 +146,9 @@
     ],
     "name:msa_x_preferred":[
         "Grand'Anse"
+    ],
+    "name:nan_x_preferred":[
+        "Grand'Anse Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Grand'Anse"
@@ -194,6 +206,9 @@
     ],
     "name:vie_x_preferred":[
         "Grand'Anse"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d2\u10e0\u10d0\u10dc\u10d3-\u10d0\u10dc\u10e1\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5927\u7063\u7701"
@@ -321,7 +336,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1636495599,
+    "wof:lastmodified":1690930592,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

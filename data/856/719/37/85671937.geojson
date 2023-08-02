@@ -50,6 +50,9 @@
     "name:ell_x_preferred":[
         "\u039d\u03b9\u03c0\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03b9\u03c0"
+    ],
     "name:eng_x_preferred":[
         "Nippes"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:fra_x_variant":[
         "Grand 'Anse"
+    ],
+    "name:frr_x_preferred":[
+        "Nippes"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0aaa\u0acd\u0aaa\u0acd\u0ab8"
@@ -107,6 +113,9 @@
     "name:kor_x_preferred":[
         "\ub2c8\ud504 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\ud504\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Nipesa"
     ],
@@ -118,6 +127,9 @@
     ],
     "name:msa_x_preferred":[
         "Nippes"
+    ],
+    "name:nan_x_preferred":[
+        "Nippes Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Nippes"
@@ -172,6 +184,9 @@
     ],
     "name:vie_x_preferred":[
         "Nippes"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d8\u10de\u10d8\u10e8 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u666e\u65af\u7701"
@@ -301,7 +316,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1636495599,
+    "wof:lastmodified":1690930592,
     "wof:name":"Nippes",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

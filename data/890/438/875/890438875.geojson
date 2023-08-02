@@ -28,6 +28,9 @@
     "name:deu_x_preferred":[
         "Marigot"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c1\u03b9\u03b3\u03ba\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Marigot"
     ],
@@ -38,6 +41,12 @@
         "Marigo"
     ],
     "name:ita_x_preferred":[
+        "Marigot"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30e9\u30b4\u30fc"
+    ],
+    "name:nan_x_preferred":[
         "Marigot"
     ],
     "name:nld_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:swe_x_preferred":[
         "Marigot"
+    ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u91cc\u6208\u7279"
     ],
     "qs:name":"Marigot",
     "qs:photos_9r":0,
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":890438875,
-    "wof:lastmodified":1566648904,
+    "wof:lastmodified":1690930614,
     "wof:name":"Marigot",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",

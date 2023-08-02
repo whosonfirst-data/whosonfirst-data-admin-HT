@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0628 \u0647\u0627\u064a\u062a\u064a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0628 \u0647\u0627\u064a\u062a\u064a\u0627\u0646"
+    ],
     "name:ast_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
@@ -32,8 +35,14 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043f \u0410\u0438\u0442\u0438\u0435\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
     "name:ceb_x_preferred":[
         "Cap Ha\u00eftien"
+    ],
+    "name:ceb_x_variant":[
+        "Okap"
     ],
     "name:ces_x_preferred":[
         "Cap-Ha\u00eftien"
@@ -56,6 +65,9 @@
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c0-\u0391\u03ca\u03c4\u03b9\u03ad\u03bd"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c0-\u0391\u03ca\u03c3\u03b9\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
@@ -65,6 +77,9 @@
     "name:est_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
+    "name:eus_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u067e-\u0647\u0627\u0626\u06cc\u062a\u06cc\u0646"
     ],
@@ -72,6 +87,9 @@
         "Cap-Ha\u00eftien"
     ],
     "name:fra_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
+    "name:gle_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
     "name:guj_x_preferred":[
@@ -85,6 +103,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05e4-\u05d4\u05d0\u05d9\u05d8\u05d9\u05d9\u05df"
+    ],
+    "name:heb_x_variant":[
+        "\u05e7\u05d0\u05e4-\u05d4\u05d0\u05d9\u05e1\u05d9\u05d9\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u092a-\u0939\u0948\u0924\u093f\u092f\u0947\u0928"
@@ -128,6 +149,12 @@
     "name:msa_x_preferred":[
         "Cape Haitian"
     ],
+    "name:nan_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
+    "name:nau_x_preferred":[
+        "Cap-Haitien"
+    ],
     "name:nld_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
@@ -164,6 +191,9 @@
     "name:swe_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
+    "name:swe_x_variant":[
+        "Okap"
+    ],
     "name:szl_x_preferred":[
         "Cap-Ha\u00eftien"
     ],
@@ -191,11 +221,20 @@
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u067e \u06c1\u06cc\u0679\u06cc\u0627\u0646"
     ],
+    "name:uzb_x_preferred":[
+        "Kap-aityen"
+    ],
+    "name:vec_x_preferred":[
+        "Cap-Ha\u00eftien"
+    ],
     "name:vie_x_preferred":[
         "Cap-Haitien"
     ],
     "name:war_x_preferred":[
         "Cap-Ha\u00eftien"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d9\u10d0\u10de-\u10d0\u10d8\u10e2\u10d4\u10dc\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u6d77\u5730\u89d2"
@@ -344,7 +383,7 @@
         }
     ],
     "wof:id":421169155,
-    "wof:lastmodified":1566648893,
+    "wof:lastmodified":1690930600,
     "wof:name":"Cap-Ha\u00eftien",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

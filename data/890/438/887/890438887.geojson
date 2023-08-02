@@ -25,6 +25,12 @@
     "name:ceb_x_preferred":[
         "Grangwav"
     ],
+    "name:deu_x_preferred":[
+        "Grand-Go\u00e2ve"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd-\u0393\u03ba\u03bf\u03ac\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Grand-Go\u00e2ve"
     ],
@@ -36,6 +42,12 @@
     ],
     "name:ita_x_preferred":[
         "Grand-G\u00f4ave"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30e9\u30f3\u30b4\u30a2\u30fc\u30f4"
+    ],
+    "name:nan_x_preferred":[
+        "Grand-Go\u00e2ve"
     ],
     "name:nld_x_preferred":[
         "Grand-Go\u00e2ve"
@@ -51,6 +63,9 @@
     ],
     "name:ron_x_preferred":[
         "Grand-Go\u00e2ve"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0440\u0430\u043d-\u0413\u043e\u0430\u0432"
     ],
     "name:spa_x_preferred":[
         "Grand-Go\u00e2ve"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":890438887,
-    "wof:lastmodified":1566648903,
+    "wof:lastmodified":1690930614,
     "wof:name":"Grand Go\u00e2ve",
     "wof:parent_id":1091687199,
     "wof:placetype":"locality",

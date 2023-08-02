@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0644\u064a \u0622\u0646\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Belle Anse"
+    ],
     "name:ceb_x_preferred":[
         "Belle-Anse"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb-\u0391\u03bd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Belle-Anse"
@@ -36,6 +42,12 @@
         "Belans"
     ],
     "name:ita_x_preferred":[
+        "Belle-Anse"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30e9\u30f3\u30b9"
+    ],
+    "name:nan_x_preferred":[
         "Belle-Anse"
     ],
     "name:nld_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421186241,
-    "wof:lastmodified":1566648894,
+    "wof:lastmodified":1690930602,
     "wof:name":"Belle-Anse",
     "wof:parent_id":1091686107,
     "wof:placetype":"locality",

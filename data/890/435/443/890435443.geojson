@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u062a \u062a\u0631\u0648 \u062f\u064a \u0646\u064a\u0628\u064a\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u062a\u064a \u062a\u0631\u0648 \u062f\u0648 \u0646\u064a\u0628"
+    ],
     "name:cym_x_preferred":[
         "Petit-Trou-de-Nippes"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890435443,
-    "wof:lastmodified":1566648906,
+    "wof:lastmodified":1690930618,
     "wof:name":"Petit Trou de Nippes",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

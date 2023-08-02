@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Lascahobas"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c3\u03ba\u03b1\u03bf\u03bc\u03c0\u03ac"
+    ],
     "name:eng_x_preferred":[
         "Lascahobas"
     ],
@@ -36,6 +39,9 @@
         "Laskawobas"
     ],
     "name:ita_x_preferred":[
+        "Lascahobas"
+    ],
+    "name:nan_x_preferred":[
         "Lascahobas"
     ],
     "name:nld_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421175093,
-    "wof:lastmodified":1566648895,
+    "wof:lastmodified":1690930602,
     "wof:name":"Lascahobas",
     "wof:parent_id":1091686393,
     "wof:placetype":"locality",

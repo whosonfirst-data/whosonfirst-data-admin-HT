@@ -23,6 +23,12 @@
     "name:ceb_x_preferred":[
         "Cerca la Source"
     ],
+    "name:ceb_x_variant":[
+        "Cerca La Source"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03c1\u03ba\u03ac-\u03bb\u03b1-\u03a3\u03bf\u03c5\u03c1\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Cerca-la-Source"
     ],
@@ -33,6 +39,9 @@
         "S\u00e8ka Lasous"
     ],
     "name:ita_x_preferred":[
+        "Cerca-la-Source"
+    ],
+    "name:nan_x_preferred":[
         "Cerca-la-Source"
     ],
     "name:nld_x_preferred":[
@@ -52,6 +61,9 @@
     ],
     "name:swe_x_preferred":[
         "Cerca la Source"
+    ],
+    "name:swe_x_variant":[
+        "Cerca La Source"
     ],
     "name:und_x_variant":[
         "La Source"
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421177561,
-    "wof:lastmodified":1566648898,
+    "wof:lastmodified":1690930606,
     "wof:name":"Cerca la Source",
     "wof:parent_id":1091687123,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Caracol"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03b1\u03ba\u03cc\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Caracol"
     ],
@@ -35,6 +38,12 @@
         "Karak\u00f2l"
     ],
     "name:ita_x_preferred":[
+        "Caracol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30b3\u30eb"
+    ],
+    "name:nan_x_preferred":[
         "Caracol"
     ],
     "name:nld_x_preferred":[
@@ -51,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "Caracol"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u79d1\u723e"
     ],
     "qs:name":"Caracol",
     "qs:photos_9r":0,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":890441967,
-    "wof:lastmodified":1566648901,
+    "wof:lastmodified":1690930610,
     "wof:name":"Caracol",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

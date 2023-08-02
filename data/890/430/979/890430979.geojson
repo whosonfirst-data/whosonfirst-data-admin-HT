@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0646\u064a\u0631\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Ennery"
+    ],
     "name:ceb_x_preferred":[
         "Ennery"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bd\u03b5\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Ennery"
@@ -42,6 +48,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a8\u30cd\u30ea\u30fc"
+    ],
+    "name:nan_x_preferred":[
+        "Ennery"
     ],
     "name:nld_x_preferred":[
         "Ennery"
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890430979,
-    "wof:lastmodified":1566648902,
+    "wof:lastmodified":1690930612,
     "wof:name":"Ennery",
     "wof:parent_id":1091687025,
     "wof:placetype":"locality",

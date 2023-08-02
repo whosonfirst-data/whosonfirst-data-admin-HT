@@ -48,6 +48,9 @@
     "name:ell_x_preferred":[
         "\u0392\u03bf\u03c1\u03b5\u03b9\u03bf\u03b1\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03cc \u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03bf\u03c1-\u0395\u03c3\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Nord-Est"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:fra_x_unknown":[
         "NE"
+    ],
+    "name:frr_x_preferred":[
+        "Nord-Est"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acb\u0ab0\u0acd\u0aa1-\u0a88\u0ab8\u0acd\u0a9f"
@@ -102,6 +108,9 @@
     "name:kor_x_preferred":[
         "\ubd81\ub3d9\ubd80 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubd81\ub3d9\ubd80\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Zieme\u013caustrumi"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:msa_x_preferred":[
         "Nord-Est"
+    ],
+    "name:nan_x_preferred":[
+        "Nord-Est Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Nord-Est"
@@ -299,7 +311,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1636495598,
+    "wof:lastmodified":1690930591,
     "wof:name":"Nord-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

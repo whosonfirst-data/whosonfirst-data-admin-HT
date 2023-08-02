@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Quartier-Morin"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03c4\u03b9\u03ad-\u039c\u03bf\u03c1\u03ad\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Quartier-Morin"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30eb\u30c6\u30a3\u30a8\uff1d\u30e2\u30e9\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Quartier-Morin"
     ],
     "name:nld_x_preferred":[
         "Quartier-Morin"
@@ -61,6 +67,9 @@
     ],
     "name:und_x_variant":[
         "Qartier-Morin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5938\u63d0\u4e9e\u83ab\u6797"
     ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421185847,
-    "wof:lastmodified":1566648901,
+    "wof:lastmodified":1690930610,
     "wof:name":"Quartier Morin",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

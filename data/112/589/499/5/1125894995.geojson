@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Phaeton"
+    ],
     "name:eng_x_preferred":[
         "Phaeton"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1125894995,
-    "wof:lastmodified":1566648906,
+    "wof:lastmodified":1690930619,
     "wof:name":"Pha\u00e9ton",
     "wof:parent_id":1091687099,
     "wof:placetype":"locality",

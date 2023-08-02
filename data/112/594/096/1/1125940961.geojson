@@ -28,6 +28,12 @@
     "name:ceb_x_preferred":[
         "Thomazeau"
     ],
+    "name:deu_x_preferred":[
+        "Thomazeau"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03bc\u03b1\u03b6\u03ce"
+    ],
     "name:eng_x_preferred":[
         "Thomazeau"
     ],
@@ -38,6 +44,12 @@
         "Tomazo"
     ],
     "name:ita_x_preferred":[
+        "Thomazeau"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30de\u30be\u30fc"
+    ],
+    "name:nan_x_preferred":[
         "Thomazeau"
     ],
     "name:nld_x_preferred":[
@@ -51,6 +63,9 @@
     ],
     "name:ron_x_preferred":[
         "Thomazeau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043c\u0430\u0437\u043e"
     ],
     "name:spa_x_preferred":[
         "Thomazeau"
@@ -100,7 +115,7 @@
         }
     ],
     "wof:id":1125940961,
-    "wof:lastmodified":1566648906,
+    "wof:lastmodified":1690930618,
     "wof:name":"Thomazeau",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

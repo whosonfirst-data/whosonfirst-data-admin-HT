@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0622\u0646\u0633 \u062c\u064a\u0644\u064a\u062a\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Anse a Galets"
+    ],
+    "name:ceb_x_preferred":[
+        "Anse \u00e0 Galets"
+    ],
     "name:deu_x_preferred":[
         "Anse-\u00e0-Galets"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03c2-\u03b1-\u0393\u03ba\u03b1\u03bb\u03ad"
     ],
     "name:eng_x_preferred":[
         "Anse-\u00e0-Galets"
@@ -41,7 +50,13 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30f3\u30b9\uff1d\u30a2\uff1d\u30ac\u30ec"
     ],
+    "name:nan_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
     "name:nld_x_preferred":[
+        "Anse-\u00e0-Galets"
+    ],
+    "name:pol_x_preferred":[
         "Anse-\u00e0-Galets"
     ],
     "name:por_x_preferred":[
@@ -52,6 +67,9 @@
     ],
     "name:spa_x_preferred":[
         "Anse-\u00e0-Galets"
+    ],
+    "name:swe_x_preferred":[
+        "Anse \u00e0 Galets"
     ],
     "name:und_x_variant":[
         "Anse Galets"
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421179617,
-    "wof:lastmodified":1566648898,
+    "wof:lastmodified":1690930607,
     "wof:name":"Anse \u00c0 Galets",
     "wof:parent_id":1091686345,
     "wof:placetype":"locality",

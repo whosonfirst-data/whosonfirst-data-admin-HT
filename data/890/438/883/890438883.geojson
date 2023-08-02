@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Lazil"
     ],
+    "name:ell_x_preferred":[
+        "\u039b'\u0391\u03b6\u03af\u03bb"
+    ],
     "name:eng_x_preferred":[
         "L'Asile"
     ],
@@ -35,6 +38,9 @@
         "Lazil"
     ],
     "name:ita_x_preferred":[
+        "L'Asile"
+    ],
+    "name:nan_x_preferred":[
         "L'Asile"
     ],
     "name:nld_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890438883,
-    "wof:lastmodified":1566648904,
+    "wof:lastmodified":1690930615,
     "wof:name":"L\u2019Asile",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

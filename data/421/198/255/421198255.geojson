@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Grande Saline"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03c1\u03b1\u03bd\u03c4 \u03a3\u03b1\u03bb\u03af\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Grande Saline"
     ],
@@ -33,6 +36,9 @@
         "Grann Salin"
     ],
     "name:ita_x_preferred":[
+        "Grande-Saline"
+    ],
+    "name:nan_x_preferred":[
         "Grande-Saline"
     ],
     "name:nld_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421198255,
-    "wof:lastmodified":1566648895,
+    "wof:lastmodified":1690930603,
     "wof:name":"Grande Saline",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

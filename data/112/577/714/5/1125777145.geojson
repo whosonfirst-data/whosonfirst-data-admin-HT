@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Fond Verrettes"
     ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03bf\u03bd-\u0392\u03b5\u03c1\u03ad\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Fonds-Verrettes"
     ],
@@ -44,6 +47,12 @@
         "Fonv\u00e8r\u00e8t"
     ],
     "name:ita_x_preferred":[
+        "Fonds-Verrettes"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30f3\u30f4\u30a7\u30ec\u30c3\u30c8"
+    ],
+    "name:nan_x_preferred":[
         "Fonds-Verrettes"
     ],
     "name:nld_x_preferred":[
@@ -66,6 +75,9 @@
     ],
     "name:und_x_variant":[
         "Fonds Verettes"
+    ],
+    "name:zho_x_preferred":[
+        "\u51af\u65af-\u7ef4\u96f7\u7279"
     ],
     "qs_pg:aaroncc":"HT",
     "qs_pg:gn_country":"HT",
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":1125777145,
-    "wof:lastmodified":1566648907,
+    "wof:lastmodified":1690930620,
     "wof:name":"Fond Verrettes",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",

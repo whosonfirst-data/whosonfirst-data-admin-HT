@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u064a\u0633 \u062c\u0627\u0643\u0645\u064a\u0644"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b9\u03b3-\u0396\u03b1\u03ba\u03bc\u03ad\u03bb"
+    ],
     "name:eng_x_preferred":[
         "Cayes-Jacmel"
     ],
@@ -32,6 +35,12 @@
         "Kay Jakm\u00e8l"
     ],
     "name:ita_x_preferred":[
+        "Cayes-Jacmel"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30a4\u30fb\u30b8\u30e3\u30af\u30e1\u30eb"
+    ],
+    "name:nan_x_preferred":[
         "Cayes-Jacmel"
     ],
     "name:nld_x_preferred":[
@@ -45,6 +54,9 @@
     ],
     "name:spa_x_preferred":[
         "Cayes-Jacmel"
+    ],
+    "name:swe_x_preferred":[
+        "Cayes Jacmel"
     ],
     "name:und_x_variant":[
         "Cayes de Jacmel"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":890445103,
-    "wof:lastmodified":1566648904,
+    "wof:lastmodified":1690930615,
     "wof:name":"Cayes Jacmel",
     "wof:parent_id":1091687171,
     "wof:placetype":"locality",
