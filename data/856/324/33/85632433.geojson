@@ -28,11 +28,17 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u0413\u0430\u0438\u0442\u0438"
+    ],
     "name:afr_x_preferred":[
         "Ha\u00efti"
     ],
     "name:aka_x_preferred":[
         "Heiti"
+    ],
+    "name:aka_x_variant":[
+        "Haiti"
     ],
     "name:als_x_preferred":[
         "Haiti"
@@ -43,8 +49,14 @@
     "name:amh_x_variant":[
         "\u1200\u12ed\u1272"
     ],
+    "name:ami_x_preferred":[
+        "Haiti"
+    ],
     "name:ang_x_preferred":[
         "Hait\u012beg"
+    ],
+    "name:anp_x_preferred":[
+        "\u0939\u0948\u0924\u0940"
     ],
     "name:ara_x_preferred":[
         "\u0647\u0627\u064a\u062a\u064a"
@@ -64,6 +76,12 @@
     "name:ast_x_preferred":[
         "Hait\u00ed"
     ],
+    "name:atj_x_preferred":[
+        "Haiti"
+    ],
+    "name:avk_x_preferred":[
+        "Ayitia"
+    ],
     "name:aym_x_preferred":[
         "Ayti"
     ],
@@ -78,6 +96,9 @@
     ],
     "name:bam_x_preferred":[
         "Ayiti"
+    ],
+    "name:ban_x_preferred":[
+        "Haiti"
     ],
     "name:bar_x_preferred":[
         "Haiti"
@@ -96,6 +117,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0939\u0948\u0924\u0940"
+    ],
+    "name:bis_x_preferred":[
+        "Haiti"
     ],
     "name:bjn_x_preferred":[
         "Haiti"
@@ -161,6 +185,9 @@
         "Haiti"
     ],
     "name:cym_x_preferred":[
+        "Haiti"
+    ],
+    "name:dag_x_preferred":[
         "Haiti"
     ],
     "name:dan_x_preferred":[
@@ -260,6 +287,12 @@
     "name:ful_x_preferred":[
         "Haytii"
     ],
+    "name:ful_x_variant":[
+        "Hayti"
+    ],
+    "name:fur_x_preferred":[
+        "Haiti"
+    ],
     "name:gag_x_preferred":[
         "Haiti"
     ],
@@ -289,6 +322,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0939\u0948\u0924\u0940"
+    ],
+    "name:gpe_x_preferred":[
+        "Haiti"
     ],
     "name:grn_x_preferred":[
         "Haiti"
@@ -389,6 +425,9 @@
     "name:kaa_x_preferred":[
         "Gaiti"
     ],
+    "name:kab_x_preferred":[
+        "Hayti"
+    ],
     "name:kal_x_preferred":[
         "Haiti"
     ],
@@ -429,6 +468,9 @@
         "\uc544\ub2c8\ud2f0",
         "\ud558\uc774\ud2f0"
     ],
+    "name:krj_x_preferred":[
+        "Ayti"
+    ],
     "name:kur_x_preferred":[
         "Ha\u00eet\u00ee"
     ],
@@ -462,6 +504,9 @@
     "name:lit_x_preferred":[
         "Haitis"
     ],
+    "name:lld_x_preferred":[
+        "Haiti"
+    ],
     "name:lmo_x_preferred":[
         "Haiti"
     ],
@@ -480,6 +525,9 @@
     "name:lzh_x_preferred":[
         "\u6d77\u5730"
     ],
+    "name:mad_x_preferred":[
+        "Haiti"
+    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d46\u0d2f\u0d4d\u0d31\u0d4d\u0d31\u0d3f"
     ],
@@ -489,8 +537,14 @@
     "name:mar_x_preferred":[
         "\u0939\u0948\u0924\u0940"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u0430\u0438\u0442\u0438"
+    ],
     "name:mhr_x_preferred":[
         "\u0413\u0430\u0438\u0442\u0438"
+    ],
+    "name:min_x_preferred":[
+        "Haiti"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0438\u0442\u0438"
@@ -501,11 +555,20 @@
     "name:mlt_x_preferred":[
         "\u0126aiti"
     ],
+    "name:mlt_x_variant":[
+        "Haiti"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcd\uabe5\uabe2\uabc7\uabe4"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u0430\u0438\u0442\u0438"
     ],
     "name:mon_x_variant":[
         "\u0413\u0430\u0439\u0442\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Haiti"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u0430\u0438\u0442\u0438"
@@ -518,6 +581,9 @@
     ],
     "name:mya_x_variant":[
         "\u101f\u1031\u1010\u102e"
+    ],
+    "name:myv_x_preferred":[
+        "\u0413\u0430\u0438\u0442\u0438 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044c"
     ],
     "name:mzn_x_preferred":[
         "\u0647\u0627\u0626\u06cc\u062a\u06cc"
@@ -598,6 +664,9 @@
     "name:pap_x_preferred":[
         "Haiti"
     ],
+    "name:pcd_x_preferred":[
+        "Ha\u00efti"
+    ],
     "name:pih_x_preferred":[
         "Haiti"
     ],
@@ -627,6 +696,9 @@
     ],
     "name:que_x_variant":[
         "Ayti"
+    ],
+    "name:rmy_x_preferred":[
+        "Haiti"
     ],
     "name:roh_x_preferred":[
         "Haiti"
@@ -673,6 +745,12 @@
     "name:sgs_x_preferred":[
         "Hait\u0117s"
     ],
+    "name:sgs_x_variant":[
+        "Ha\u0117tis"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1081\u1031\u1038\u1010\u102e\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc4\u0dd9\u0dba\u0dd2\u0da7\u0dd2"
     ],
@@ -691,7 +769,13 @@
     "name:sme_x_preferred":[
         "Haiti"
     ],
+    "name:smn_x_preferred":[
+        "Haiti"
+    ],
     "name:smo_x_preferred":[
+        "Haiti"
+    ],
+    "name:sms_x_preferred":[
         "Haiti"
     ],
     "name:sna_x_preferred":[
@@ -782,7 +866,13 @@
     "name:tir_x_preferred":[
         "\u1200\u12ed\u1272"
     ],
+    "name:tok_x_preferred":[
+        "ma Awisi"
+    ],
     "name:ton_x_preferred":[
+        "Haiti"
+    ],
+    "name:trv_x_preferred":[
         "Haiti"
     ],
     "name:tuk_x_preferred":[
@@ -842,6 +932,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6d77\u5730"
+    ],
+    "name:xho_x_preferred":[
+        "I-Haiti"
     ],
     "name:xmf_x_preferred":[
         "\u10f0\u10d0\u10d8\u10e2\u10d8"
@@ -1093,7 +1186,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1617827402,
+    "wof:lastmodified":1690930590,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

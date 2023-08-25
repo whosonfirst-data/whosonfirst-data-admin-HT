@@ -17,11 +17,17 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Thor"
+    ],
     "name:ang_x_preferred":[
         "\u00deunor"
     ],
     "name:ara_x_preferred":[
         "\u062b\u0648\u0631"
+    ],
+    "name:arg_x_preferred":[
+        "Thor"
     ],
     "name:arz_x_preferred":[
         "\u062b\u0648\u0631"
@@ -35,8 +41,14 @@
     "name:aze_x_preferred":[
         "Tor"
     ],
+    "name:ban_x_preferred":[
+        "Thor"
+    ],
     "name:bar_x_preferred":[
         "Donar"
+    ],
+    "name:bcl_x_preferred":[
+        "Thor"
     ],
     "name:bel_x_preferred":[
         "\u0422\u043e\u0440"
@@ -58,6 +70,9 @@
     ],
     "name:ces_x_preferred":[
         "Th\u00f3r"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062a\u06c6\u0631"
     ],
     "name:dan_x_preferred":[
         "Thor"
@@ -101,6 +116,9 @@
     "name:glg_x_preferred":[
         "Thor"
     ],
+    "name:glv_x_preferred":[
+        "Thor"
+    ],
     "name:got_x_preferred":[
         "\ud800\udf38\ud800\udf3f\ud800\udf3d\ud800\udf30\ud800\udf42/\u00deunar"
     ],
@@ -140,6 +158,12 @@
     "name:kor_x_preferred":[
         "\ud1a0\ub974"
     ],
+    "name:ksh_x_preferred":[
+        "Thor"
+    ],
+    "name:kur_x_preferred":[
+        "Tor"
+    ],
     "name:lat_x_preferred":[
         "Thorus"
     ],
@@ -164,8 +188,14 @@
     "name:mkd_x_preferred":[
         "\u0422\u043e\u0440"
     ],
+    "name:mni_x_preferred":[
+        "\uabca\uabe3\uabd4"
+    ],
     "name:msa_x_preferred":[
         "Thor"
+    ],
+    "name:mya_x_preferred":[
+        "\u101e\u1031\u102c\u103a"
     ],
     "name:nan_x_preferred":[
         "Thor"
@@ -187,6 +217,9 @@
     ],
     "name:oss_x_preferred":[
         "\u0422\u043e\u0440"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a25\u0a4c\u0a30"
     ],
     "name:pol_x_preferred":[
         "Thor"
@@ -214,6 +247,9 @@
     ],
     "name:spa_x_preferred":[
         "Thor"
+    ],
+    "name:sqi_x_preferred":[
+        "Thori"
     ],
     "name:srp_x_preferred":[
         "\u0422\u043e\u0440"
@@ -312,7 +348,7 @@
         }
     ],
     "wof:id":421192067,
-    "wof:lastmodified":1566648892,
+    "wof:lastmodified":1690930599,
     "wof:name":"Thor",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

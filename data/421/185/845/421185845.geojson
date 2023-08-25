@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Roche-\u00e0-Bateau"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03c2-\u03b1-\u039c\u03c0\u03b1\u03c4\u03ce"
+    ],
     "name:eng_x_preferred":[
         "Roche-\u00e0-Bateaux"
     ],
@@ -33,6 +36,12 @@
         "W\u00f2chabato"
     ],
     "name:ita_x_preferred":[
+        "Roche-\u00e0-Bateaux"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30b7\u30e3\u30d0\u30c8\u30fc"
+    ],
+    "name:nan_x_preferred":[
         "Roche-\u00e0-Bateaux"
     ],
     "name:nld_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421185845,
-    "wof:lastmodified":1566648901,
+    "wof:lastmodified":1690930610,
     "wof:name":"Roche-\u00c0-Bateau",
     "wof:parent_id":1091686543,
     "wof:placetype":"locality",

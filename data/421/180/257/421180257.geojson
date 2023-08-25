@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Pilate"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03bb\u03ac\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Pilate"
     ],
@@ -33,6 +36,12 @@
         "Pilat"
     ],
     "name:ita_x_preferred":[
+        "Pilate"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30e9\u30c8"
+    ],
+    "name:nan_x_preferred":[
         "Pilate"
     ],
     "name:nld_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421180257,
-    "wof:lastmodified":1566648893,
+    "wof:lastmodified":1690930600,
     "wof:name":"Pilate",
     "wof:parent_id":1091686691,
     "wof:placetype":"locality",

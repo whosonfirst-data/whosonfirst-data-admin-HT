@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Plaine du Nord"
+    ],
+    "name:dan_x_preferred":[
+        "Plaine-du-Nord"
+    ],
     "name:deu_x_preferred":[
         "Pl\u00e8n din\u00f2"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03b9\u03bd-\u03bd\u03c4\u03c5-\u039d\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Plaine-du-Nord"
@@ -29,13 +38,23 @@
     "name:fra_x_preferred":[
         "Plaine-du-Nord"
     ],
+    "name:gle_x_preferred":[
+        "Plaine-du-Nord"
+    ],
     "name:hat_x_preferred":[
         "Pl\u00e8n din\u00f2"
     ],
     "name:hat_x_variant":[
-        "Pl\u00e8n di N\u00f2"
+        "Pl\u00e8n di N\u00f2",
+        "Pl\u00e8n Din\u00f2"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0565\u0575\u0576 \u0564\u0578\u0582 \u0546\u0578\u0580\u0564"
     ],
     "name:ita_x_preferred":[
+        "Plaine-du-Nord"
+    ],
+    "name:nan_x_preferred":[
         "Plaine-du-Nord"
     ],
     "name:nld_x_preferred":[
@@ -49,6 +68,9 @@
     ],
     "name:spa_x_preferred":[
         "Plaine-du-Nord"
+    ],
+    "name:swe_x_preferred":[
+        "Plaine du Nord"
     ],
     "qs:gn_country":"HT",
     "qs:gn_fcode":"PPL",
@@ -97,7 +119,7 @@
         }
     ],
     "wof:id":421198251,
-    "wof:lastmodified":1566648895,
+    "wof:lastmodified":1690930602,
     "wof:name":"Plaine du Nord",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",

@@ -20,11 +20,26 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a\u064a\u0648\u0646\u0641\u064a\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u062a\u064a\u0648\u0646\u0641\u064a\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "P\u00e9tion-Ville"
+    ],
+    "name:aze_x_preferred":[
+        "Petyonvil"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b6\u09a8-\u09ad\u09bf\u09b2\u09bf"
     ],
+    "name:cat_x_preferred":[
+        "P\u00e9tion-Ville"
+    ],
     "name:ceb_x_preferred":[
         "P\u00e9tionville"
+    ],
+    "name:ceb_x_variant":[
+        "Petyon-Vil"
     ],
     "name:dan_x_preferred":[
         "P\u00e9tionville"
@@ -34,6 +49,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03ad\u03c4\u03b9\u03bf\u03bd-\u0392\u03af\u03bb\u03bb\u03b5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03b9\u03cc\u03bd-\u0392\u03b9\u03bb"
     ],
     "name:eng_x_preferred":[
         "P\u00e9tion-Ville"
@@ -45,6 +63,9 @@
         "P\u00e9tionville"
     ],
     "name:fra_x_variant":[
+        "P\u00e9tion-Ville"
+    ],
+    "name:gle_x_preferred":[
         "P\u00e9tion-Ville"
     ],
     "name:guj_x_preferred":[
@@ -86,6 +107,12 @@
     "name:msa_x_preferred":[
         "Petion-Ville"
     ],
+    "name:nan_x_preferred":[
+        "P\u00e9tion-Ville"
+    ],
+    "name:nau_x_preferred":[
+        "P\u00e9tionville"
+    ],
     "name:nld_x_preferred":[
         "P\u00e9tionville"
     ],
@@ -122,14 +149,26 @@
     "name:swe_x_preferred":[
         "P\u00e9tionville"
     ],
+    "name:swe_x_variant":[
+        "Petyon-Vil"
+    ],
+    "name:szl_x_preferred":[
+        "P\u00e9tion-Ville"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b9f\u0bbf\u0baf\u0ba9\u0bcd -\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc7"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c1f\u0c3f\u0c2f\u0c3e\u0c28\u0c4d-\u0c35\u0c3f\u0c32\u0c4d\u0c32\u0c47"
     ],
+    "name:tgk_x_preferred":[
+        "\u041f\u0435\u0442\u0438\u043e\u043d\u0432\u0438\u043b"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e0a\u0e34\u0e22\u0e07\u0e27\u0e35\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e1b\u0e15\u0e35\u0e22\u0e07-\u0e27\u0e35\u0e25"
     ],
     "name:tur_x_preferred":[
         "Petion-Ville"
@@ -137,14 +176,23 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u0442\u044c\u043e\u043d\u0432\u0456\u043b\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0435\u0442\u044c\u043e\u043d-\u0412\u0456\u043b\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Ville de P\u00e9tion-Ville"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0634\u0646-\u0648\u06cc\u0644\u06cc"
     ],
+    "name:vec_x_preferred":[
+        "P\u00e9tionville"
+    ],
     "name:vie_x_preferred":[
         "Petion-Ville"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10d4\u10e2\u10d8\u10dd\u10dc\u10d5\u10d8\u10da\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u4f69\u8482\u7fc1\u7dad\u723e"
@@ -200,7 +248,7 @@
         }
     ],
     "wof:id":421168265,
-    "wof:lastmodified":1566648891,
+    "wof:lastmodified":1690930598,
     "wof:name":"P\u00e9tionville",
     "wof:parent_id":1091686735,
     "wof:placetype":"locality",

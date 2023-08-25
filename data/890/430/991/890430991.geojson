@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Abricots"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03c0\u03c1\u03b9\u03ba\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Abricots"
     ],
@@ -43,6 +46,9 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30d6\u30ea\u30b3"
     ],
+    "name:nan_x_preferred":[
+        "Abricots"
+    ],
     "name:nld_x_preferred":[
         "Abricots"
     ],
@@ -56,6 +62,9 @@
         "Los Albaricoques"
     ],
     "name:swe_x_preferred":[
+        "Abricots"
+    ],
+    "name:tur_x_preferred":[
         "Abricots"
     ],
     "name:und_x_variant":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":890430991,
-    "wof:lastmodified":1566648902,
+    "wof:lastmodified":1690930611,
     "wof:name":"Abricots",
     "wof:parent_id":1091686323,
     "wof:placetype":"locality",

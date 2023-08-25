@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u062f\u0631\u064a\u0633"
     ],
+    "name:cat_x_preferred":[
+        "Barad\u00e9res"
+    ],
     "name:ceb_x_preferred":[
         "Barad\u00e8res"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03b1\u03bd\u03c4\u03ad\u03c1"
     ],
     "name:eng_x_preferred":[
         "Barad\u00e8res"
@@ -33,6 +39,9 @@
         "Barad\u00e8"
     ],
     "name:ita_x_preferred":[
+        "Barad\u00e8res"
+    ],
+    "name:nan_x_preferred":[
         "Barad\u00e8res"
     ],
     "name:nld_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421199849,
-    "wof:lastmodified":1566648897,
+    "wof:lastmodified":1690930604,
     "wof:name":"Barad\u00e8res",
     "wof:parent_id":1091687241,
     "wof:placetype":"locality",

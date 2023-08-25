@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Limonade"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03bc\u03bf\u03bd\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Limonade"
     ],
@@ -38,7 +41,13 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30e2\u30ca\u30fc\u30c7"
     ],
+    "name:nan_x_preferred":[
+        "Limonade"
+    ],
     "name:nld_x_preferred":[
+        "Limonade"
+    ],
+    "name:pol_x_preferred":[
         "Limonade"
     ],
     "name:por_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421180253,
-    "wof:lastmodified":1566648894,
+    "wof:lastmodified":1690930601,
     "wof:name":"Limonade",
     "wof:parent_id":1091686431,
     "wof:placetype":"locality",

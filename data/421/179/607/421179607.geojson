@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Dessalines"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03c3\u03b1\u03bb\u03af\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Dessalines"
     ],
@@ -36,6 +39,9 @@
         "Desalin"
     ],
     "name:ita_x_preferred":[
+        "Dessalines"
+    ],
+    "name:nan_x_preferred":[
         "Dessalines"
     ],
     "name:nld_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421179607,
-    "wof:lastmodified":1566648899,
+    "wof:lastmodified":1690930608,
     "wof:name":"Dessalines",
     "wof:parent_id":1091687127,
     "wof:placetype":"locality",

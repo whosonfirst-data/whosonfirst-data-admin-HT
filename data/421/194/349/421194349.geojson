@@ -26,6 +26,9 @@
     "name:deu_x_preferred":[
         "Milot"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03bb\u03cc"
+    ],
     "name:eng_x_preferred":[
         "Milot"
     ],
@@ -35,11 +38,17 @@
     "name:hat_x_preferred":[
         "Milo"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05dc\u05d5"
+    ],
     "name:ita_x_preferred":[
         "Milot"
     ],
     "name:jpn_x_preferred":[
         "\u30df\u30ed"
+    ],
+    "name:nan_x_preferred":[
+        "Milot"
     ],
     "name:nld_x_preferred":[
         "Milot"
@@ -109,7 +118,7 @@
         }
     ],
     "wof:id":421194349,
-    "wof:lastmodified":1566648892,
+    "wof:lastmodified":1690930599,
     "wof:name":"Milot",
     "wof:parent_id":1091686325,
     "wof:placetype":"locality",
