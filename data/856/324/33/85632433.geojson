@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.328067,
-    "geom:area_square_m":27227809547.380165,
+    "geom:area_square_m":27227809547.383404,
     "geom:bbox":"-74.482941,18.020416,-71.62181,20.088388",
     "geom:latitude":18.936379,
     "geom:longitude":-72.688703,
@@ -14,6 +14,9 @@
     "iso:country":"HT",
     "itu:country_code":[
         "509"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "HT"
@@ -1111,7 +1114,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"509",
     "statoids:ds":"RH",
     "statoids:fifa":"HAI",
@@ -1170,7 +1174,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"481c582db21ab9d7be63756afebc65c4",
+    "wof:geomhash":"6063b26d4dde2268d26efd5b34382418",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1186,12 +1190,12 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930590,
+    "wof:lastmodified":1694492054,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":10317461,
-    "wof:population_rank":14,
+    "wof:population":11263077,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ht",
     "wof:shortcode":"HT",
     "wof:superseded_by":[],
