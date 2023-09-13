@@ -1115,7 +1115,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"509",
     "statoids:ds":"RH",
     "statoids:fifa":"HAI",
@@ -1190,7 +1190,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1694492054,
+    "wof:lastmodified":1694639508,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
