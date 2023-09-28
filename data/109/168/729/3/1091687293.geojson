@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08968,
-    "geom:area_square_m":1052853850.21833,
+    "geom:area_square_m":1052853850.21861,
     "geom:bbox":"-73.6989420056,18.181608872,-73.0062644166,18.4320749149",
     "geom:latitude":18.294881,
     "geom:longitude":-73.362588,
@@ -86,9 +86,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SD.AQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879213,
-    "wof:geomhash":"8ad95316de2138afff0145c7fa249bd7",
+    "wof:geomhash":"0315d11ed552040f1cf811412bba5fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -98,7 +99,7 @@
         }
     ],
     "wof:id":1091687293,
-    "wof:lastmodified":1566648840,
+    "wof:lastmodified":1695886422,
     "wof:name":"Aquin",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

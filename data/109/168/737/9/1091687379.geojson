@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166085,
-    "geom:area_square_m":1947134250.674346,
+    "geom:area_square_m":1947134250.674258,
     "geom:bbox":"-72.3562345587,18.274190489,-71.695262477,18.8177870861",
     "geom:latitude":18.535826,
     "geom:longitude":-72.050874,
@@ -99,9 +99,10 @@
     "wof:concordances":{
         "hasc:id":"HT.OU.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879217,
-    "wof:geomhash":"72d1dc6cb2040018a99b8a3f3f837a1b",
+    "wof:geomhash":"758b87ea5af7eb500732c5a50369748b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":1091687379,
-    "wof:lastmodified":1566648830,
+    "wof:lastmodified":1695886418,
     "wof:name":"Croix-des-Bouquets",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

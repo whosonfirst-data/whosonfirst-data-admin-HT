@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029806,
-    "geom:area_square_m":347247152.512159,
+    "geom:area_square_m":347247152.512113,
     "geom:bbox":"-71.9763190557,19.4226090721,-71.732458651,19.714466842",
     "geom:latitude":19.579599,
     "geom:longitude":-71.847054,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NE.FL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879163,
-    "wof:geomhash":"5e2d268741d1aa99fbffee51789d6f80",
+    "wof:geomhash":"5997800dcb4a202d9cfe9682ab32e1b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1091686227,
-    "wof:lastmodified":1566648836,
+    "wof:lastmodified":1695886420,
     "wof:name":"Fort-Libert\u00e9",
     "wof:parent_id":85671957,
     "wof:placetype":"county",

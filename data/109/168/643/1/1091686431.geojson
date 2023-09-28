@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02101,
-    "geom:area_square_m":244597344.899684,
+    "geom:area_square_m":244597322.063982,
     "geom:bbox":"-72.259854,19.587564,-72.036129,19.7889",
     "geom:latitude":19.690998,
     "geom:longitude":-72.147237,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.ND.CH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879175,
-    "wof:geomhash":"129719dad4a9ed01ac3c80e13cd139f2",
+    "wof:geomhash":"f5a75c761a77d2e3e569ce47091677f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686431,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"le Cap-Ha\u00eftien",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

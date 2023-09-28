@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073182,
-    "geom:area_square_m":856306534.365887,
+    "geom:area_square_m":856306534.36593,
     "geom:bbox":"-72.363693351,18.6958689414,-71.9453139808,19.0817723663",
     "geom:latitude":18.86415,
     "geom:longitude":-72.142488,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"HT.CE.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879184,
-    "wof:geomhash":"63d18001107e4175dd8ecf66aa51901c",
+    "wof:geomhash":"9194b511abbd62b3f8ec524a4c3f083e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091686673,
-    "wof:lastmodified":1566648834,
+    "wof:lastmodified":1695886420,
     "wof:name":"Mirebalais",
     "wof:parent_id":85671955,
     "wof:placetype":"county",

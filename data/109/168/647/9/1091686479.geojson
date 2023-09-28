@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073785,
-    "geom:area_square_m":866320687.704031,
+    "geom:area_square_m":866320687.703698,
     "geom:bbox":"-74.0475487432,18.056131757,-73.571320139,18.4245161778",
     "geom:latitude":18.281166,
     "geom:longitude":-73.831629,
@@ -132,9 +132,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SD.CY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879176,
-    "wof:geomhash":"f7531634fa101c3a63407a623a18ae56",
+    "wof:geomhash":"ac11ff5d579811a39c3e888da3405133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1091686479,
-    "wof:lastmodified":1566648837,
+    "wof:lastmodified":1695886421,
     "wof:name":"les Cayes",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

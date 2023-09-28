@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052624,
-    "geom:area_square_m":615820929.527556,
+    "geom:area_square_m":615821010.854879,
     "geom:bbox":"-72.709106,18.682361,-72.317108,18.975382",
     "geom:latitude":18.847488,
     "geom:longitude":-72.484224,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.OU.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879170,
-    "wof:geomhash":"f721516384877ef30ecee438cbe5941d",
+    "wof:geomhash":"0f1f0915a09add0948ac7189e16c9d19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686327,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"l'Arcahaie",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

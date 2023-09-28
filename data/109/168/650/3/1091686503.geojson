@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032539,
-    "geom:area_square_m":381911867.718409,
+    "geom:area_square_m":381911916.491185,
     "geom:bbox":"-74.450458,18.25171,-74.037254,18.407375",
     "geom:latitude":18.339786,
     "geom:longitude":-74.209317,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SD.CR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879178,
-    "wof:geomhash":"dcddc1d480069abedbb01e28e4a3a8b6",
+    "wof:geomhash":"8351595fba07a9b9e672935402a3bb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686503,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"les Chardonni\u00e8res",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

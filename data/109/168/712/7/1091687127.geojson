@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096764,
-    "geom:area_square_m":1130206092.382069,
+    "geom:area_square_m":1130206092.381961,
     "geom:bbox":"-72.775032454,18.9159604565,-72.2207216086,19.375984102",
     "geom:latitude":19.162026,
     "geom:longitude":-72.444938,
@@ -101,9 +101,10 @@
     "wof:concordances":{
         "hasc:id":"HT.AR.DS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879207,
-    "wof:geomhash":"9e745b16d38fe5e9b77635b7e232b1d7",
+    "wof:geomhash":"cc1c592fd6fec758fa36abb98eee7711",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1091687127,
-    "wof:lastmodified":1566648835,
+    "wof:lastmodified":1695886420,
     "wof:name":"Dessalines",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

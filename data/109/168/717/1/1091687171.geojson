@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060969,
-    "geom:area_square_m":715808737.164435,
+    "geom:area_square_m":715808693.293646,
     "geom:bbox":"-72.652689,18.171361,-72.22147,18.405605",
     "geom:latitude":18.290952,
     "geom:longitude":-72.448365,
@@ -149,9 +149,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SE.JC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879209,
-    "wof:geomhash":"f5a1bbe9d58be266cfb0aefdd39aa583",
+    "wof:geomhash":"63de2e26f72edb1b9816cc8e863aa7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":1091687171,
-    "wof:lastmodified":1636495610,
+    "wof:lastmodified":1695886659,
     "wof:name":"Jacmel",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

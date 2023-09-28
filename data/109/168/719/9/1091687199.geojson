@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085928,
-    "geom:area_square_m":1008217032.300252,
+    "geom:area_square_m":1008217032.300208,
     "geom:bbox":"-73.0545118963,18.2594587633,-72.4497912045,18.565303412",
     "geom:latitude":18.395734,
     "geom:longitude":-72.758205,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"HT.OU.LN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879210,
-    "wof:geomhash":"1aaaae7cb30e941cc5ca051e2a1d7d1c",
+    "wof:geomhash":"46cd59c9e3d6d0344e09c4d764519d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1091687199,
-    "wof:lastmodified":1566648839,
+    "wof:lastmodified":1695886421,
     "wof:name":"L\u00e9og\u00e2ne",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

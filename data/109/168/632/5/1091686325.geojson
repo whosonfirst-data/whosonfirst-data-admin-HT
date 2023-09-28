@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030882,
-    "geom:area_square_m":359608327.961305,
+    "geom:area_square_m":359608371.791347,
     "geom:bbox":"-72.407883,19.558177,-72.186023,19.783577",
     "geom:latitude":19.656412,
     "geom:longitude":-72.292466,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.ND.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879169,
-    "wof:geomhash":"afd4396b16daf5373ead37ef77d38010",
+    "wof:geomhash":"b79660d277f17ac596b3015bc63e4471",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686325,
-    "wof:lastmodified":1627522189,
+    "wof:lastmodified":1695886668,
     "wof:name":"l'Acul-du-Nord",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

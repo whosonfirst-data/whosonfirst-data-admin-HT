@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069278,
-    "geom:area_square_m":812201947.532508,
+    "geom:area_square_m":812201947.532583,
     "geom:bbox":"-74.3872164883,18.3741522075,-74.0711131811,18.675682925",
     "geom:latitude":18.534133,
     "geom:longitude":-74.222392,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"HT.GR.JR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879167,
-    "wof:geomhash":"5b3ede9939e6fb4235580cb163f16481",
+    "wof:geomhash":"62b3791dfdea5ccde5c36d7f2c450f7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1091686323,
-    "wof:lastmodified":1566648834,
+    "wof:lastmodified":1695886420,
     "wof:name":"J\u00e9r\u00e9mie",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

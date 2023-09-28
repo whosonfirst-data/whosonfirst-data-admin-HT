@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027829,
-    "geom:area_square_m":326391796.707879,
+    "geom:area_square_m":326391696.69764,
     "geom:bbox":"-74.4804,18.356304,-74.293419,18.642911",
     "geom:latitude":18.466287,
     "geom:longitude":-74.391,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.GR.AH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879155,
-    "wof:geomhash":"21afb733a33be7298f62435678102451",
+    "wof:geomhash":"fe4548a1d974d70e8c37e9479ee44c6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686011,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"Anse d'Hainault",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

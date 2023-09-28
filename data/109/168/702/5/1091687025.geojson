@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082048,
-    "geom:area_square_m":956533542.153771,
+    "geom:area_square_m":956533443.423596,
     "geom:bbox":"-72.805397,19.298938,-72.371398,19.648657",
     "geom:latitude":19.467723,
     "geom:longitude":-72.59331,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.AR.GV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879198,
-    "wof:geomhash":"125f2e79088d03d27762004822aa5b1b",
+    "wof:geomhash":"e61c0f85cd05e29940317dafc5e512ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091687025,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"les Gona\u00efves",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

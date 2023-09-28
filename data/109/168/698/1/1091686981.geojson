@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086985,
-    "geom:area_square_m":1012886002.681243,
+    "geom:area_square_m":1012885877.758407,
     "geom:bbox":"-73.135469,19.50146,-72.572687,19.81523",
     "geom:latitude":19.660366,
     "geom:longitude":-72.830888,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.AR.GM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879197,
-    "wof:geomhash":"4f248577ebc03265e898600689ef1472",
+    "wof:geomhash":"4d211a8aa4330a1bbbbbb94deb406060",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686981,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"Gros-Morne",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04778,
-    "geom:area_square_m":561150184.523267,
+    "geom:area_square_m":561150184.523474,
     "geom:bbox":"-73.0155786329,18.141887237,-72.629268365,18.3293846272",
     "geom:latitude":18.230376,
     "geom:longitude":-72.821109,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SE.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879157,
-    "wof:geomhash":"0d1243714277ff73e487e33dbd019831",
+    "wof:geomhash":"4c5fae94464d8f713c34728320a28a6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091686057,
-    "wof:lastmodified":1566648833,
+    "wof:lastmodified":1695886419,
     "wof:name":"Bainet",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

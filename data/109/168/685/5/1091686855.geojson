@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090215,
-    "geom:area_square_m":1054443766.783363,
+    "geom:area_square_m":1054443766.782831,
     "geom:bbox":"-72.823678228,18.8579718431,-72.2424869992,19.2558601672",
     "geom:latitude":19.047951,
     "geom:longitude":-72.570634,
@@ -125,9 +125,10 @@
     "wof:concordances":{
         "hasc:id":"HT.AR.SM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879192,
-    "wof:geomhash":"eb7979f2a4e57bf7753c7ce36a2a7b9a",
+    "wof:geomhash":"6beaf4a5ac78b6b4b6a39b640324e853",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1091686855,
-    "wof:lastmodified":1566648837,
+    "wof:lastmodified":1695886421,
     "wof:name":"Saint-Marc",
     "wof:parent_id":85671949,
     "wof:placetype":"county",
