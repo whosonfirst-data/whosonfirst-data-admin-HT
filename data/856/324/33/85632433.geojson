@@ -1153,6 +1153,7 @@
         "hasc:id":"HT",
         "icao:code":"HH",
         "ioc:id":"HAI",
+        "iso:code":"HT",
         "itu:id":"HTI",
         "loc:id":"n79053108",
         "m49:code":"332",
@@ -1167,6 +1168,7 @@
         "wk:page":"Haiti",
         "wmo:id":"HA"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:country_alpha3":"HTI",
     "wof:geom_alt":[
@@ -1190,7 +1192,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1694639508,
+    "wof:lastmodified":1695881163,
     "wof:name":"Haiti",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
