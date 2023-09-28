@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163818,
-    "geom:area_square_m":1920882763.013866,
+    "geom:area_square_m":1920882597.516289,
     "geom:bbox":"-74.4804,18.356304,-73.698681,18.675683",
     "geom:latitude":18.50671,
     "geom:longitude":-74.13176,
@@ -311,15 +311,17 @@
         "gn:id":3724613,
         "gp:id":2345617,
         "hasc:id":"HT.GR",
+        "iso:code":"HT-GA",
         "iso:id":"HT-GA",
         "qs_pg:id":1135069,
         "wd:id":"Q913231"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d463242bb2c4a2ddd39734ddb8aeafa",
+    "wof:geomhash":"5e475064f3b9c71694a9dd60b5fdfeaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -336,7 +338,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930592,
+    "wof:lastmodified":1695884801,
     "wof:name":"Grand'Anse",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

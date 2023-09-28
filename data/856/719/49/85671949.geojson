@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.417505,
-    "geom:area_square_m":4871398381.664413,
+    "geom:area_square_m":4871398256.043204,
     "geom:bbox":"-73.135469,18.857972,-72.201263,19.81523",
     "geom:latitude":19.332057,
     "geom:longitude":-72.566887,
@@ -289,17 +289,19 @@
         "gn:id":3731053,
         "gp:id":2345615,
         "hasc:id":"HT.AR",
+        "iso:code":"HT-AR",
         "iso:id":"HT-AR",
         "qs_pg:id":1083836,
         "unlc:id":"HT-AR",
         "wd:id":"Q844024",
         "wk:page":"Artibonite (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9e1c9b371b4378cff96164852e6031d",
+    "wof:geomhash":"36a075d4fb04099eed64fd7dbca04763",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,7 +318,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930593,
+    "wof:lastmodified":1695884802,
     "wof:name":"L'Artibonite",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

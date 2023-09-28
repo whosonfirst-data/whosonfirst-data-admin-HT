@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139957,
-    "geom:area_square_m":1631244494.467325,
+    "geom:area_square_m":1631244636.928134,
     "geom:bbox":"-72.121824,19.260646,-71.678484,19.734837",
     "geom:latitude":19.508404,
     "geom:longitude":-71.889499,
@@ -284,17 +284,19 @@
         "gn:id":3719540,
         "gp:id":2345619,
         "hasc:id":"HT.NE",
+        "iso:code":"HT-NE",
         "iso:id":"HT-NE",
         "qs_pg:id":1046741,
         "unlc:id":"HT-NE",
         "wd:id":"Q928694",
         "wk:page":"Nord-Est (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"65d189bc068a3969e870c4aba6570842",
+    "wof:geomhash":"d92fec435e9262cf94772ec5b28560ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -311,7 +313,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930591,
+    "wof:lastmodified":1695884800,
     "wof:name":"Nord-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

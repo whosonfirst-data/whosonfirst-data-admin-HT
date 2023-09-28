@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180416,
-    "geom:area_square_m":2098716442.219029,
+    "geom:area_square_m":2098716464.705548,
     "geom:bbox":"-73.45576,19.622552,-72.564154,20.089227",
     "geom:latitude":19.820819,
     "geom:longitude":-73.03702,
@@ -289,17 +289,19 @@
         "gn:id":3719536,
         "gp:id":2345614,
         "hasc:id":"HT.NO",
+        "iso:code":"HT-NO",
         "iso:id":"HT-NO",
         "qs_pg:id":219560,
         "unlc:id":"HT-NO",
         "wd:id":"Q608361",
         "wk:page":"Nord-Ouest (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5685a140ef94939873cf7d6bac4778c4",
+    "wof:geomhash":"6d15370ea4f158ba33781f3def633c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,7 +318,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930593,
+    "wof:lastmodified":1695884801,
     "wof:name":"Nord-Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",
