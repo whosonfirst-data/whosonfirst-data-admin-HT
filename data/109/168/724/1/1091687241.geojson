@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069789,
-    "geom:area_square_m":818589454.430339,
+    "geom:area_square_m":818589627.882932,
     "geom:bbox":"-73.780711,18.335768,-73.25557,18.589305",
     "geom:latitude":18.451425,
     "geom:longitude":-73.51342,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NI.AV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879212,
-    "wof:geomhash":"7680c9e77a35b40da5c0366b8f2633d4",
+    "wof:geomhash":"aa2c6456d91b50a40a8e5ba7260b507d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091687241,
-    "wof:lastmodified":1627522189,
+    "wof:lastmodified":1695886669,
     "wof:name":"l'Anse-\u00e0-Veau",
     "wof:parent_id":85671937,
     "wof:placetype":"county",

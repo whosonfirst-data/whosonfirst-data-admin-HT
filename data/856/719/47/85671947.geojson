@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22615,
-    "geom:area_square_m":2655266096.417336,
+    "geom:area_square_m":2655266188.005579,
     "geom:bbox":"-74.450458,18.02214,-73.006264,18.432075",
     "geom:latitude":18.280071,
     "geom:longitude":-73.715987,
@@ -301,16 +301,18 @@
         "gn:id":3716952,
         "gp:id":2345621,
         "hasc:id":"HT.SD",
+        "iso:code":"HT-SD",
         "iso:id":"HT-SD",
         "qs_pg:id":191347,
         "wd:id":"Q936704",
         "wk:page":"Sud (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"57d00ee52f07059ec0a539bb49322dbc",
+    "wof:geomhash":"3bdbe008a8f4b7763126a8e23b1a6d38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -327,7 +329,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930594,
+    "wof:lastmodified":1695884801,
     "wof:name":"Sud",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

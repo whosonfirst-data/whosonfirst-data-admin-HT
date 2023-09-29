@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065447,
-    "geom:area_square_m":768612251.241904,
+    "geom:area_square_m":768612251.241492,
     "geom:bbox":"-72.247597271,18.031697572,-71.7269325367,18.3536983888",
     "geom:latitude":18.237354,
     "geom:longitude":-71.958908,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SE.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879158,
-    "wof:geomhash":"c9c06c8fac5e9777dfd61e7aafead326",
+    "wof:geomhash":"61a0f05642c3f43a9bbebd91013809c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091686107,
-    "wof:lastmodified":1566648831,
+    "wof:lastmodified":1695886419,
     "wof:name":"Belle-Anse",
     "wof:parent_id":85671969,
     "wof:placetype":"county",

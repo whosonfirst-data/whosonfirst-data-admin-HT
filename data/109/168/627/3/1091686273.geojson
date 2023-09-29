@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017815,
-    "geom:area_square_m":207632082.947146,
+    "geom:area_square_m":207632129.627293,
     "geom:bbox":"-72.223677,19.387769,-72.063617,19.624846",
     "geom:latitude":19.518019,
     "geom:longitude":-72.147314,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.ND.GR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879164,
-    "wof:geomhash":"84f2aa58603763d69c0ce5ea249339bb",
+    "wof:geomhash":"d31c263bbd2c9b66ead7c6612bde0f85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686273,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"Grande-Rivi\u00e8re du Nord",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

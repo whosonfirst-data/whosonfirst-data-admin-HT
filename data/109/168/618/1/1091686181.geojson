@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066711,
-    "geom:area_square_m":782289008.554142,
+    "geom:area_square_m":782289008.554024,
     "geom:bbox":"-74.1160963115,18.3624962147,-73.698680678,18.644422345",
     "geom:latitude":18.495094,
     "geom:longitude":-73.929498,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"HT.GR.CL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879161,
-    "wof:geomhash":"9a1efba95b060273ab5b78b2fb3d7a5d",
+    "wof:geomhash":"8d316df9d2865bd209ac96ea125b4ecf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1091686181,
-    "wof:lastmodified":1566648832,
+    "wof:lastmodified":1695886419,
     "wof:name":"Corail",
     "wof:parent_id":85671933,
     "wof:placetype":"county",

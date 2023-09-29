@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059221,
-    "geom:area_square_m":693036513.020006,
+    "geom:area_square_m":693036283.74064,
     "geom:bbox":"-73.303816,18.692173,-72.793041,18.970324",
     "geom:latitude":18.841988,
     "geom:longitude":-73.046618,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.OU.LG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879172,
-    "wof:geomhash":"10394deae8e7e4ac69252ac54892b1db",
+    "wof:geomhash":"fb7f06211cf9bd3df64a2b830b0521ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686345,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"La Gon\u00e2ve",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

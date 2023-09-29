@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.181255,
-    "geom:area_square_m":2111382122.328958,
+    "geom:area_square_m":2111381791.57078,
     "geom:bbox":"-72.682635,19.255451,-71.973762,19.881682",
     "geom:latitude":19.599879,
     "geom:longitude":-72.297218,
@@ -298,16 +298,18 @@
         "gn:id":3719543,
         "gp:id":2345618,
         "hasc:id":"HT.ND",
+        "iso:code":"HT-ND",
         "iso:id":"HT-ND",
         "qs_pg:id":235598,
         "wd:id":"Q943932",
         "wk:page":"Nord (Haitian department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af3e9b1e207085c5f72e3b3760b9edc2",
+    "wof:geomhash":"67a02cb48396e7cdb6824fd8957db6ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -324,7 +326,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930590,
+    "wof:lastmodified":1695884800,
     "wof:name":"Nord",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

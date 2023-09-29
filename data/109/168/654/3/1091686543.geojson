@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015054,
-    "geom:area_square_m":176786373.229391,
+    "geom:area_square_m":176786441.342388,
     "geom:bbox":"-74.107199,18.13157,-73.941892,18.331633",
     "geom:latitude":18.24254,
     "geom:longitude":-74.024414,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SD.CX"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879179,
-    "wof:geomhash":"f30d053027648e327483309272bb67b0",
+    "wof:geomhash":"5aa4af3fba26682aacab7bc08ec4ccbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686543,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886669,
     "wof:name":"les C\u00f4teaux",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061493,
-    "geom:area_square_m":717328700.477285,
+    "geom:area_square_m":717328700.477193,
     "geom:bbox":"-72.4976105702,19.2059122012,-72.2012634203,19.5905272897",
     "geom:latitude":19.370991,
     "geom:longitude":-72.344586,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"HT.AR.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879181,
-    "wof:geomhash":"0e793df5d01348c1b5b209be4bc0c041",
+    "wof:geomhash":"875f7beef9d7adb500953496218c8c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1091686583,
-    "wof:lastmodified":1566648833,
+    "wof:lastmodified":1695886420,
     "wof:name":"Marmelade",
     "wof:parent_id":85671949,
     "wof:placetype":"county",

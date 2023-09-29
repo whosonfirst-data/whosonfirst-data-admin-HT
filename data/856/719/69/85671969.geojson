@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174196,
-    "geom:area_square_m":2045571173.501418,
+    "geom:area_square_m":2045571038.929863,
     "geom:bbox":"-73.015579,18.031698,-71.726933,18.405605",
     "geom:latitude":18.254199,
     "geom:longitude":-72.366711,
@@ -296,17 +296,19 @@
         "gn:id":3716950,
         "gp:id":2345622,
         "hasc:id":"HT.SE",
+        "iso:code":"HT-SE",
         "iso:id":"HT-SE",
         "qs_pg:id":453303,
         "unlc:id":"HT-SE",
         "wd:id":"Q936717",
         "wk:page":"Sud-Est (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f9bd01263e45062203e667f79c859f79",
+    "wof:geomhash":"8e4d9f31f8385a31a81251bb1eee327e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -323,7 +325,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930591,
+    "wof:lastmodified":1695884801,
     "wof:name":"Sud-Est",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

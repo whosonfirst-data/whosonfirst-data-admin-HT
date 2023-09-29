@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.425788,
-    "geom:area_square_m":4990535208.221437,
+    "geom:area_square_m":4990535064.034204,
     "geom:bbox":"-73.303816,18.259459,-71.695262,18.975382",
     "geom:latitude":18.579257,
     "geom:longitude":-72.42775,
@@ -311,16 +311,18 @@
         "gn:id":3719432,
         "gp:id":2345620,
         "hasc:id":"HT.OU",
+        "iso:code":"HT-OU",
         "iso:id":"HT-OU",
         "qs_pg:id":1168660,
         "wd:id":"Q1434621",
         "wk:page":"Ouest (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dc0e49dc16a005bc7abfc06eb8d981e0",
+    "wof:geomhash":"33f2af519082a54188e20ab252d31de0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -337,7 +339,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930591,
+    "wof:lastmodified":1695884801,
     "wof:name":"Ouest",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

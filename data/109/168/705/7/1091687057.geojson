@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014814,
-    "geom:area_square_m":172463258.877319,
+    "geom:area_square_m":172463264.839225,
     "geom:bbox":"-72.464705,19.566598,-72.342024,19.817262",
     "geom:latitude":19.68931,
     "geom:longitude":-72.405196,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.ND.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879200,
-    "wof:geomhash":"d45b54b5c2270cc368bfc216262237f8",
+    "wof:geomhash":"1d06035c5a335eb942596ce82b933b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091687057,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886670,
     "wof:name":"le Limb\u00e9",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

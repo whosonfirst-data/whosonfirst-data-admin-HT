@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.297118,
-    "geom:area_square_m":3473544912.242562,
+    "geom:area_square_m":3473544856.092705,
     "geom:bbox":"-72.363693,18.685143,-71.622151,19.333956",
     "geom:latitude":19.00961,
     "geom:longitude":-71.984528,
@@ -296,17 +296,19 @@
         "gn:id":3728069,
         "gp:id":2345616,
         "hasc:id":"HT.CE",
+        "iso:code":"HT-CE",
         "iso:id":"HT-CE",
         "qs_pg:id":318499,
         "unlc:id":"HT-CE",
         "wd:id":"Q844528",
         "wk:page":"Centre (department)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8de2bc8a1d70073f399c59f22b0b984c",
+    "wof:geomhash":"b42f7c9d36c4c5cd5026e2e7c7ad569d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -323,7 +325,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930593,
+    "wof:lastmodified":1695884801,
     "wof:name":"Centre",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

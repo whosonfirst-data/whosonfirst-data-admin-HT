@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022114,
-    "geom:area_square_m":257524741.533002,
+    "geom:area_square_m":257524674.133571,
     "geom:bbox":"-72.64849,19.520278,-72.41602,19.771855",
     "geom:latitude":19.64589,
     "geom:longitude":-72.517724,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"HT.ND.PL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879186,
-    "wof:geomhash":"fb3e2136732d9d251f7250d69f4b9b5f",
+    "wof:geomhash":"3e71b4d2c01b93bb98eea4514721f8c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1091686691,
-    "wof:lastmodified":1636495610,
+    "wof:lastmodified":1695886659,
     "wof:name":"Plaisance",
     "wof:parent_id":85671961,
     "wof:placetype":"county",

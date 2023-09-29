@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069288,
-    "geom:area_square_m":805710007.352836,
+    "geom:area_square_m":805710007.352932,
     "geom:bbox":"-73.0332438757,19.7089639263,-72.620123003,20.089226782",
     "geom:latitude":19.877901,
     "geom:longitude":-72.862129,
@@ -126,9 +126,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NO.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879189,
-    "wof:geomhash":"c128035325bdae7d2b34e13953edd445",
+    "wof:geomhash":"5510db0ef5c33fa61af136802e8bce00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":1091686781,
-    "wof:lastmodified":1566648838,
+    "wof:lastmodified":1695886421,
     "wof:name":"Port-de-Paix",
     "wof:parent_id":85671941,
     "wof:placetype":"county",

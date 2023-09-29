@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015855,
-    "geom:area_square_m":184379237.119131,
+    "geom:area_square_m":184379233.686321,
     "geom:bbox":"-72.770789,19.807487,-72.564154,19.943703",
     "geom:latitude":19.873294,
     "geom:longitude":-72.678469,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NO.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879190,
-    "wof:geomhash":"527269f2bba3659730e1b3e981ad6cd1",
+    "wof:geomhash":"7221d2b37e541f19994e4bb331eb8074",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091686807,
-    "wof:lastmodified":1627522191,
+    "wof:lastmodified":1695886670,
     "wof:name":"Saint-Louis du Nord",
     "wof:parent_id":85671941,
     "wof:placetype":"county",

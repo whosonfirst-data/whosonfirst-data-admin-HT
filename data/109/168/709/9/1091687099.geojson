@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04321,
-    "geom:area_square_m":503331458.270037,
+    "geom:area_square_m":503331548.552838,
     "geom:bbox":"-72.121824,19.429326,-71.845697,19.734837",
     "geom:latitude":19.601768,
     "geom:longitude":-71.995421,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NE.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879201,
-    "wof:geomhash":"dc78957c95893bca9dd4488ef09bf379",
+    "wof:geomhash":"941077b0f9079b76beda890c9d1f89fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091687099,
-    "wof:lastmodified":1627522191,
+    "wof:lastmodified":1695886670,
     "wof:name":"le Trou-du-Nord",
     "wof:parent_id":85671957,
     "wof:placetype":"county",

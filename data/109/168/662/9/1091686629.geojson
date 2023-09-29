@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034932,
-    "geom:area_square_m":409869783.408161,
+    "geom:area_square_m":409869783.408095,
     "geom:bbox":"-73.3381779094,18.2320742037,-72.9912561422,18.489703751",
     "geom:latitude":18.394568,
     "geom:longitude":-73.148928,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NI.MG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879183,
-    "wof:geomhash":"f38cfe87d775052b2098ce282b2b4a1f",
+    "wof:geomhash":"aae37045e4bfb42fd63b6bbca83f3eec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1091686629,
-    "wof:lastmodified":1566648838,
+    "wof:lastmodified":1695886421,
     "wof:name":"Mirago\u00e2ne",
     "wof:parent_id":85671937,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06193,
-    "geom:area_square_m":726326418.949775,
+    "geom:area_square_m":726326418.949702,
     "geom:bbox":"-72.569360017,18.3404142847,-72.1592115412,18.630376773",
     "geom:latitude":18.471207,
     "geom:longitude":-72.340172,
@@ -366,9 +366,10 @@
     "wof:concordances":{
         "hasc:id":"HT.OU.PP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879187,
-    "wof:geomhash":"1ea7a466862d2d43701f52f4f372d3b5",
+    "wof:geomhash":"6de602592b048326c8ab972b35a4f2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -378,7 +379,7 @@
         }
     ],
     "wof:id":1091686735,
-    "wof:lastmodified":1566648832,
+    "wof:lastmodified":1695886419,
     "wof:name":"Port-au-Prince",
     "wof:parent_id":85671967,
     "wof:placetype":"county",

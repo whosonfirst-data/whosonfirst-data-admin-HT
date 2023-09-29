@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110486,
-    "geom:area_square_m":1290654489.948846,
+    "geom:area_square_m":1290654833.850078,
     "geom:bbox":"-72.264104,18.934315,-71.8522,19.333956",
     "geom:latitude":19.140464,
     "geom:longitude":-72.041068,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"HT.CE.HI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879166,
-    "wof:geomhash":"37581a2dd9aec1b44561f0b9c421b1b5",
+    "wof:geomhash":"14de6abd76f4d769519b524e9ac763b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1091686313,
-    "wof:lastmodified":1636495610,
+    "wof:lastmodified":1695886659,
     "wof:name":"Hinche",
     "wof:parent_id":85671955,
     "wof:placetype":"county",

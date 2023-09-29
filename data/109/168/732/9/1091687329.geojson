@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015093,
-    "geom:area_square_m":177393317.54666,
+    "geom:area_square_m":177393317.546733,
     "geom:bbox":"-73.9498365839,18.022139955,-73.782878082,18.195028339",
     "geom:latitude":18.095406,
     "geom:longitude":-73.879294,
@@ -110,9 +110,10 @@
     "wof:concordances":{
         "hasc:id":"HT.SD.PS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879215,
-    "wof:geomhash":"d4fe6520b93f10fb4779ff89f6af2bda",
+    "wof:geomhash":"2d51e31dc8e82283b7efa09a4e152515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1091687329,
-    "wof:lastmodified":1566648836,
+    "wof:lastmodified":1695886421,
     "wof:name":"Port-Salut",
     "wof:parent_id":85671947,
     "wof:placetype":"county",

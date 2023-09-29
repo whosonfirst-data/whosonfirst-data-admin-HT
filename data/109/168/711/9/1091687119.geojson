@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035391,
-    "geom:area_square_m":412833318.231107,
+    "geom:area_square_m":412833318.231024,
     "geom:bbox":"-72.0359490374,19.2606462132,-71.753264584,19.5239381613",
     "geom:latitude":19.377031,
     "geom:longitude":-71.905831,
@@ -105,9 +105,10 @@
     "wof:concordances":{
         "hasc:id":"HT.NE.VR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879204,
-    "wof:geomhash":"0558ea720697497af829132509280b51",
+    "wof:geomhash":"7fcbc4d3a97ee514028ae67f66c98415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":1091687119,
-    "wof:lastmodified":1566648840,
+    "wof:lastmodified":1695886422,
     "wof:name":"Valli\u00e8res",
     "wof:parent_id":85671957,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104721,
-    "geom:area_square_m":1228459420.435437,
+    "geom:area_square_m":1228459971.999656,
     "geom:bbox":"-73.780711,18.232074,-72.991256,18.589305",
     "geom:latitude":18.432459,
     "geom:longitude":-73.391835,
@@ -291,15 +291,17 @@
         "gn:id":7115999,
         "gp:id":-2345617,
         "hasc:id":"HT.NI",
+        "iso:code":"HT-NI",
         "iso:id":"HT-NI",
         "unlc:id":"HT-NI",
         "wd:id":"Q125232"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HT",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"731ddce968669b72642b8bdddd36aa72",
+    "wof:geomhash":"abcf610b124e32fb72c72d54f4eb68d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -316,7 +318,7 @@
         "hat",
         "fra"
     ],
-    "wof:lastmodified":1690930592,
+    "wof:lastmodified":1695884801,
     "wof:name":"Nippes",
     "wof:parent_id":85632433,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051414,
-    "geom:area_square_m":600587927.317789,
+    "geom:area_square_m":600587874.850462,
     "geom:bbox":"-71.918125,18.976567,-71.622151,19.279755",
     "geom:latitude":19.143231,
     "geom:longitude":-71.779131,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"HT.CE.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879206,
-    "wof:geomhash":"4dcd6d1ae8e57d650ffa57f3fa8db8d1",
+    "wof:geomhash":"30cc3ea5c81f76450c4821f1d52bf611",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091687123,
-    "wof:lastmodified":1627522190,
+    "wof:lastmodified":1695886670,
     "wof:name":"Cerca la Source",
     "wof:parent_id":85671955,
     "wof:placetype":"county",

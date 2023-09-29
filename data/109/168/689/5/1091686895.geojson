@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026202,
-    "geom:area_square_m":305503433.42537,
+    "geom:area_square_m":305503433.425383,
     "geom:bbox":"-72.329852713,19.2815705169,-72.1310979274,19.5803830381",
     "geom:latitude":19.449748,
     "geom:longitude":-72.22425,
@@ -111,9 +111,10 @@
     "wof:concordances":{
         "hasc:id":"HT.ND.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HT",
     "wof:created":1473879193,
-    "wof:geomhash":"b3f43da085045d365849029e5cb28f01",
+    "wof:geomhash":"e58819efd7b9d5627032ea3fcb91e9e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1091686895,
-    "wof:lastmodified":1566648831,
+    "wof:lastmodified":1695886419,
     "wof:name":"Saint-Rapha\u00ebl",
     "wof:parent_id":85671961,
     "wof:placetype":"county",
