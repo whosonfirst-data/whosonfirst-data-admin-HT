@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":3726186
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3716583
+        ]
+    },
     "wof:country":"HT",
     "wof:geomhash":"2dc5793af039649da9c8af89bb9ea013",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1293379067,
-    "wof:lastmodified":1566648180,
+    "wof:lastmodified":1706239763,
     "wof:name":"Dosmont",
     "wof:parent_id":1091687117,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ht",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343853323
+    ],
     "wof:tags":[]
 },
   "bbox": [
