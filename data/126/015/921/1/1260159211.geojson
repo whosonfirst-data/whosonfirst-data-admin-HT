@@ -30,6 +30,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fra_x_preferred":[
+        "Lahoux"
+    ],
+    "name:und_x_variant":[
+        "Laroux"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -41,8 +47,13 @@
     "wof:concordances":{
         "gn:id":3722928
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3722606
+        ]
+    },
     "wof:country":"HT",
-    "wof:geomhash":"96716235bdd1f1608856a883e708421b",
+    "wof:geomhash":"f7c264d2b02971352aa729a72079a8d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,20 +64,22 @@
         }
     ],
     "wof:id":1260159211,
-    "wof:lastmodified":1566648631,
+    "wof:lastmodified":1706239763,
     "wof:name":"Lahoux",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ht",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310286121
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -72.20971999999998,
+    -72.20972,
     18.61194,
-    -72.20971999999998,
+    -72.20972,
     18.61194
 ],
-  "geometry": {"coordinates":[-72.20971999999998,18.61194],"type":"Point"}
+  "geometry": {"coordinates":[-72.20972,18.61194],"type":"Point"}
 }

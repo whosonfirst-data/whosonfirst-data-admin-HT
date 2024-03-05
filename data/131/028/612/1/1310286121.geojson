@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-72.20964,18.61295,-72.20964,18.61295",
@@ -28,7 +30,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Lahoux"
@@ -48,7 +50,7 @@
         "gn:id":3722606
     },
     "wof:country":"HT",
-    "wof:geomhash":"d1d6d772a64a6de078f0d949768be7b5",
+    "wof:geomhash":"15fc079378d32d74995e8f36e01f98c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,20 +61,22 @@
         }
     ],
     "wof:id":1310286121,
-    "wof:lastmodified":1566648752,
+    "wof:lastmodified":1706239763,
     "wof:name":"Lahoux",
     "wof:parent_id":1091687379,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ht",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260159211
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    -72.20964000000002,
+    -72.20964,
     18.61295,
-    -72.20964000000002,
+    -72.20964,
     18.61295
 ],
-  "geometry": {"coordinates":[-72.20964000000002,18.61295],"type":"Point"}
+  "geometry": {"coordinates":[-72.20963999999999,18.61295],"type":"Point"}
 }
